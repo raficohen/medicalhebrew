@@ -1,0 +1,23 @@
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+מעט	:ADVERB:	מעט	I-NP	O
+גבוהים	:ADJECTIVE-M,P,ABS:	גבוה	I-NP	O
+מהצפוי	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	צפוי	B-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מהם	:PREPOSITION:PRONOMIAL-M,P,3	מן	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	I-NP	count-C0750480
+הלבנה	DEF:ADJECTIVE-F,S,ABS:	לבן	I-NP	O
+והטרומבוציטים	:VERB-M,S,2,IMPERATIVE:	והטרומבוציטים	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+כדאי	:MODAL:	כדאי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+ילדים	:NOUN-M,P,ABS:	ילד	I-NP	children-C0008059
+.	:PUNCUATION:	.	O	O
+

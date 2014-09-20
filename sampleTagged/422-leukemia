@@ -1,0 +1,22 @@
+לצערי	:ADVERB:	לצערי	O	O
+לא	:NEGATION:	לא	O	O
+אוכל	:VERB-M,S,A,BEINONI:	אכל	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+הרצאה	:NOUN-F,S,ABS:	הרצאה	B-NP	O
+על	:PREPOSITION:	על	O	O
+מיאלומה	:NOUN-F,S,ABS:	מיאלומה	B-NP	myeloma-C0026764
+אך	:CONJUNCTION:	אך	O	O
+תוכל	:MODAL-F,S,3,FUTURE:	יכול	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+עזרה	:NOUN-F,S,ABS:	עזרה	B-NP	Helping Behavior-C0018896
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+באתר	PREPOSITION:NOUN-M,S,CONST:	אתר	B-NP	 Ether-C0014994-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+עמותת	:NOUN-F,S,CONST:	עמותה	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+אמן	:NOUN-M,S,ABS:	אמן	I-NP	O
+"	:PUNCUATION:	"	O	O
+למחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	O	disease-C0012634
+מיאלומה	:NOUN-F,S,ABS:	מיאלומה	B-NP	myeloma-C0026764
+

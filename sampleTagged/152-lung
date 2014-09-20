@@ -1,0 +1,38 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+איתי	:PROPERNAME:	איתי	O	O
+
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להמתין	:VERB-TOINFINITIVE:	המתין	O	O
+לתשובה	PREPOSITION:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+פתולוגית	:ADJECTIVE-F,S,ABS:	פתולוגית	I-NP	O
+סופית	:ADJECTIVE-F,S,ABS:	סופי	I-NP	O
+,	:PUNCUATION:	,	O	O
+שכן	:CONJUNCTION:	שכן	O	O
+בניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+נלקחות	:VERB-F,P,A,BEINONI:	נלקח	O	O
+בלוטות	:NOUN-F,P,CONST:	בלוטה	B-NP	gland-C1285092
+לימפה	:PROPERNAME:	לימפה	I-NP	lympha-C0024202
+לבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	O	examination-C0031809
+מיקרסוקופית	:ADJECTIVE-F,S,ABS:	מיקרסוקופית	O	O
+.	:PUNCUATION:	.	O	O
+
+מעורבות	:NOUN-F,S,CONST:	מעורבות	B-NP	O
+בלוטות	:NOUN-F,P,CONST:	בלוטה	I-NP	gland-C1285092
+אלה	:NOUN-F,S,ABS:	אל	I-NP	deity-C0681169-ambigous
+משפיעה	:VERB-F,S,A,BEINONI:	השפיע	O	O
+מאוד	:ADVERB:	מאוד	O	O
+על	:PREPOSITION:	על	O	O
+ההחלטה	DEF:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+הטיפולית	DEF:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+בהמשך	PREPOSITION+DEF:NOUN-M,S,ABS:	המשך	B-NP	continued-C0549178
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

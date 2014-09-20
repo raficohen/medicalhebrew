@@ -1,0 +1,40 @@
+כחבר	PREPOSITION:NOUN-M,S,ABS:	חבר	O	O
+(	:PUNCUATION:	(	O	O
+וכמזכיר	PREPOSITION+CONJ+DEF:NOUN-M,S,ABS:	כ	O	O
+)	:PUNCUATION:	)	O	O
+האיגוד	DEF:NOUN-M,S,ABS:	איגוד	B-NP	O
+הישראלי	DEF:ADJECTIVE-M,S,ABS:	ישראלי	I-NP	O
+להמטולוגיה	PREPOSITION:NOUN-F,S,ABS:	המטולוגיה	B-NP	hematology-C0018943
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+רשימה	:NOUN-F,S,ABS:	רשימה	B-NP	list-C0745732
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+רשימות	:NOUN-F,P,ABS:	רשימה	B-NP	list-C0745732
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+באתרי	PREPOSITION:NOUN-M,P,CONST:	אתר	B-NP	 Ether-C0014994-ambigous
+אינטרנט	:NOUN-M,S,ABS:	אינטרנט	I-NP	internet-C0282111
+מגוונים	:ADJECTIVE-M,P,ABS:	מגוון	I-NP	Diversity-C1880371
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לזכור	:VERB-TOINFINITIVE:	זכר	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	O	O
+רבה	:ADJECTIVE-F,S,ABS:	רב	O	O
+בין	:PREPOSITION:	בין	O	O
+המצבים	DEF:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+וכי	CONJ:CONJUNCTION:	כי	O	O
+לרוב	:ADVERB:	לרוב	O	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+את	:AT_PREP:	את	B-NP	O
+הצורה	DEF:NOUN-F,S,ABS:	צורה	I-NP	O
+הקלה	DEF:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

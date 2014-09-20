@@ -1,0 +1,42 @@
+קשה	:ADVERB:	קשה	O	O
+להתייחס	:VERB-TOINFINITIVE:	התייחס	O	O
+לתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+של	:SHEL_PREP:	של	I-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+חד	:PREFIX:	חד	I-NP	O
+פעמי	:ADJECTIVE-M,S,ABS:	פעמי	I-NP	O
+בלי	:CONJUNCTION:	בלי	O	O
+לשמוע	:VERB-TOINFINITIVE:	שמע	O	O
+יותר	:ADVERB:	יותר	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+–	:PUNCUATION:	–	O	O
+תולדוות	:PARTICIPLE-F,P,A,CONST:	תולדוות	O	O
+עבר	:VERB-M,S,3,PAST:	עבר	O	past-C1444637
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+נוכחית	:ADJECTIVE-F,S,ABS:	נוכחי	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+לעלייה	PREPOSITION:NOUN-F,S,ABS:	עלייה	B-NP	O
+ברמת	PREPOSITION:NOUN-F,S,CONST:	רמה	B-NP	O
+מיקרוגלובלין	PREPOSITION:ADJECTIVE-F,S,ABS:	יקרוגלובלין	I-NP	O
+כממצא	PREPOSITION:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+בלעדי	:ADJECTIVE-M,S,ABS:	בלעדי	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+בראש	PREPOSITION:NOUN-M,S,ABS:	ראש	B-NP	head-C0018670
+ובראשונה	CONJ:ADVERB:	בראשונה	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+.	:PUNCUATION:	.	O	O
+

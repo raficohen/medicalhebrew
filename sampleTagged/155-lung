@@ -1,0 +1,176 @@
+דניאלה	:PROPERNAME:	דניאלה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+
+המקרה	DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+נקרא	:VERB-M,S,3,PAST:	נקרא	O	O
+בשפה	PREPOSITION+DEF:NOUN-F,S,ABS:	שפה	B-NP	language-C0023008
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+פנאומוטורקס	:NOUN-MF,P,ABS:POSSESIVE-MF,S,1	פנאומוטורק	I-NP	O
+ספונטני	:ADJECTIVE-M,S,ABS:	ספונטני	I-NP	spontaneous-C0205359
+"	:PUNCUATION:	"	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+אויר	:NOUN-M,S,ABS:	אוויר	I-NP	Air-C0001861
+עצמוני	:ADJECTIVE-M,S,ABS:	עצמוני	I-NP	spontaneous-C0205359
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+כללי	:ADJECTIVE-M,S,ABS:	כללי	I-NP	O
+,	:PUNCUATION:	,	O	O
+התופעה	DEF:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+שכיחה	:ADJECTIVE-F,S,ABS:	שכיח	O	O
+יותר	:ADVERB:	יותר	O	O
+אצל	:PREPOSITION:	אצל	O	O
+גברים	:NOUN-M,P,ABS:	גבר	B-NP	Male gender-C0024554
+אך	:CONJUNCTION:	אך	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+סובלות	:VERB-F,P,A,BEINONI:	סבל	O	suffering-C0683278
+לעיתים	:ADVERB:	לעתים	O	O
+מבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+נקז	:NOUN-M,S,ABS:	נקז	O	O
+,	:PUNCUATION:	,	O	O
+כפי	:CONJUNCTION:	כפי	O	O
+שעברת	REL-SUBCONJ:VERB-M,S,3,PAST:	עברת	O	O
+,	:PUNCUATION:	,	O	O
+בבית	PREPOSITION:NOUN-M,S,CONST:	בית	B-NP	house-C2003847
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+יודעת	:VERB-F,S,A,BEINONI:	ידע	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+את	:AT_PREP:	את	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+החור	DEF:NOUN-M,S,ABS:	חור	I-NP	hole-C1823381
+"	:PUNCUATION:	"	O	O
+שהוא	REL-SUBCONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+בעצם	:ADVERB:	בעצם	O	O
+קרע	:NOUN-M,S,ABS:	קרע	B-NP	O
+קטן	:ADJECTIVE-M,S,ABS:	קטן	I-NP	O
+באחת	PREPOSITION:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+מהבועיות	PREPOSITION+DEF:NOUN-F,P,ABS:	בועית	I-NP	vesicle-C0333262
+האמפיזמטיות	DEF:ADJECTIVE-F,P,ABS:	האמפיזמטיות	I-NP	O
+,	:PUNCUATION:	,	I-NP	O
+הקיימות	DEF:ADJECTIVE-F,P,ABS:	קיים	I-NP	O
+בריאתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	ריאה	B-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+אנסה	:VERB-MF,S,1,FUTURE:	ניסה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלותייך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+:	:PUNCUATION:	:	O	O
+האם	:INTERROGATIVE:	האם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	O	O
+?	:PUNCUATION:	?	O	O
+
+-	:PUNCUATION:	-	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	O	O
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+כפי	:CONJUNCTION:	כפי	O	O
+שהתנסית	REL-SUBCONJ:VERB-F,S,2,PAST:	התנסה	O	O
+כבר	:ADVERB:	כבר	O	O
+,	:PUNCUATION:	,	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+יעיל	:ADJECTIVE-M,S,ABS:	יעיל	I-NP	O
+שפותר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	פתר	O	O
+את	:AT_PREP:	את	B-NP	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+
+חייב	:MODAL-M,S,A:	חייב	O	O
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+?	:PUNCUATION:	?	O	O
+
+-	:PUNCUATION:	-	O	O
+אנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+ממליצים	:VERB-M,P,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+לאחר	:PREPOSITION:	לאחר	O	O
+שני	:NUMERAL-M,D,CONST:	CARD2	B-NP	O
+אירועים	:NOUN-M,P,ABS:	אירוע	I-NP	event-C0441471
+של	:SHEL_PREP:	של	I-NP	O
+פנאמוטורקס	:NOUN-MF,P,ABS:POSSESIVE-MF,S,1	פנאמוטורק	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+פעם	:NOUN-F,S,ABS:	פעם	I-NP	once-C1948045
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+צד	:NOUN-M,S,ABS:	צד	I-NP	side-C0441987
+.	:PUNCUATION:	.	O	O
+
+מטרת	:NOUN-F,S,CONST:	מטרה	B-NP	goal-C0018017
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+-	:PUNCUATION:	-	I-NP	O
+מניעת	:NOUN-F,S,CONST:	מניעה	I-NP	prevention-C0199176
+מקרים	:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+דומים	:ADJECTIVE-M,P,ABS:	דומה	I-NP	O
+בעתיד	PREPOSITION+DEF:NOUN-M,S,ABS:	עתיד	B-NP	future-C0016884
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+אפשר	:MODAL:	אפשר	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+אורח חיים	:TERM:	אורח חיים	O	Life Style-C0023676-ambigous
+רגיל	:ADJECTIVE-M,S,ABS:	רגיל	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+-	:PUNCUATION:	-	O	O
+כן	:ADVERB:	כן	O	O
+.	:PUNCUATION:	.	O	O
+
+התייעצי	:VERB-F,S,2,IMPERATIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופאייך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	רופא	B-NP	doctor-C0031831
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואת	CONJ:AT_PREP:	את	O	O
+חושבת	:VERB-F,S,A,BEINONI:	חשב	O	O
+לצלול	:VERB-TOINFINITIVE:	צלל	O	O
+או	:CONJUNCTION:	או	O	O
+לטוס	:VERB-TOINFINITIVE:	טס	O	O
+.	:PUNCUATION:	.	O	O
+
+מאוד	:ADVERB:	מאוד	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+להמנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מעישון	PREPOSITION:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+.	:PUNCUATION:	.	O	O
+
+לסיכום	PREPOSITION+DEF:NOUN-M,S,ABS:	סיכום	B-NP	O
+:	:PUNCUATION:	:	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לה	:PREPOSITION:PRONOMIAL-F,S,3	ל	B-NP	O
+פתרון	:NOUN-M,S,ABS:	פתרון	B-NP	solution-C0037633
+יעיל	:ADJECTIVE-M,S,ABS:	יעיל	I-NP	O
+ולפיכך	CONJ:CONJUNCTION:	לפיכך	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+להתעודד	:VERB-TOINFINITIVE:	התעודד	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

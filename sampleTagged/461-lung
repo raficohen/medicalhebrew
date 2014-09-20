@@ -1,0 +1,33 @@
+רחלי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	רחל	B-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתיבדקי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	נבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+אאג	:NOUN-M,S,ABS:	אאג	B-NP	O
+בהתחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	התחלה	B-NP	Beginning-C0439659
+ובהמשך	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	O	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+טין	:NOUN-M,S,ABS:	טין	I-NP	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+לבהל	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	בה	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+שמחייב	REL-SUBCONJ:VERB-M,S,A,BEINONI:	חייב	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+והערכה	CONJ:NOUN-F,S,ABS:	הערכה	B-NP	O
+באיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	O	O
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+את	:AT_PREP:	את	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+כי	:CONJUNCTION:	כי	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+מתקדם	:ADJECTIVE-M,S,ABS:	מתקדם	I-NP	O
+אפשר	:MODAL:	אפשר	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	O	chest-C0817096
+

@@ -1,0 +1,62 @@
+"	:PUNCUATION:	"	B-NP	O
+מטריה	:NOUN-F,S,ABS:	מטרייה	I-NP	O
+"	:PUNCUATION:	"	O	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+מסננת	:NOUN-F,S,ABS:	מסננת	B-NP	O
+מתכתית	:ADJECTIVE-F,S,ABS:	מתכתי	I-NP	O
+המותקנת	DEF:PARTICIPLE-F,S,A,ABS:	הותקן	O	O
+בוריד	PREPOSITION+DEF:NOUN-M,S,ABS:	וריד	B-NP	vein-C0042449
+הגדול	DEF:ADJECTIVE-M,S,ABS:	גדול	I-NP	O
+ומונעת	CONJ:VERB-F,S,A,BEINONI:	מנע	O	O
+מעבר	:NOUN-M,S,ABS:	מעבר	B-NP	Transition-C2700061-ambigous
+קרישים	:NOUN-M,P,ABS:	קריש	B-NP	clot-C0009074
+גדולים	:ADJECTIVE-M,P,ABS:	גדול	I-NP	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+.	:PUNCUATION:	.	O	O
+
+בשנים	PREPOSITION+DEF:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+האחרונות	DEF:ADJECTIVE-F,P,ABS:	אחרון	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בעולם	PREPOSITION:NOUN-M,S,CONST:	עולם	O	world-C2700280
+מסננות	:NOUN-F,P,ABS:	מסננת	B-NP	O
+שניתן	REL-SUBCONJ:MODAL-M,S,A:	ניתן	O	O
+לשלוף	:VERB-TOINFINITIVE:	שלף	O	O
+אותן	:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+יתרונות	:NOUN-M,P,ABS:	יתרון	B-NP	advantage-C0681074
+וחסרונות	CONJ:NOUN-M,P,ABS:	חסרון	B-NP	O
+הן	:CONJUNCTION:	הן	O	O
+להתקן	PREPOSITION+DEF:NOUN-M,S,ABS:	התקן	B-NP	device-C0025080
+הקבוע	DEF:ADJECTIVE-M,S,ABS:	קבוע	I-NP	O
+והן	CONJ:CONJUNCTION:	הן	O	O
+לזמני	PREPOSITION:ADJECTIVE-M,S,ABS:	זמני	O	O
+.	:PUNCUATION:	.	O	O
+
+כדי	:CONJUNCTION:	כדי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+ההתקן	DEF:NOUN-M,S,ABS:	התקן	B-NP	device-C0025080
+המתאים	DEF:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להכיר	:VERB-TOINFINITIVE:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+המטופל	DEF:NOUN-M,S,ABS:	מטופל	I-NP	patient-C0030705
+ופרטי	CONJ:NOUN-M,P,CONST:	פרט	I-NP	details-C1522508-ambigous
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שבבית	PREPOSITION+REL-SUBCONJ:NOUN-M,S,CONST:	ב	B-NP	O
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+מכירים	:VERB-M,P,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+הנושא	DEF:NOUN-M,S,ABS:	נושא	I-NP	Subject-C1706203
+.	:PUNCUATION:	.	O	O
+

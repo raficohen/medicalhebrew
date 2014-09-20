@@ -1,0 +1,49 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הליקובקטר	:NOUN-F,P,ABS:	הליקובקטרות	B-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+טחול	:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+2	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+דרכים	:NOUN-F,P,ABS:	דרך	B-NP	Through-C0332273-ambigous
+ברורת	:ADJECTIVE-F,S,CONST:	ברור	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+האם	:INTERROGATIVE:	האם	O	O
+הטחול	DEF:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+מוגדל	:ADJECTIVE-M,S,ABS:	מוגדל	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+קודם	:ADVERB:	קודם	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+ידנית	:ADJECTIVE-F,S,ABS:	ידני	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הבטן	DEF:NOUN-F,S,ABS:	בטן	I-NP	abdomen-C0000726
+ואם	CONJ:CONJUNCTION:	אם	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+לא	:NEGATION:	לא	O	O
+מספקות	:VERB-F,P,A,BEINONI:	סיפק	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+אולטסאונד	:NOUN-M,S,ABS:	אולטסאונד	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+3	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+של	:SHEL_PREP:	של	I-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+הבזרל	:VERB-M,S,2,IMPERATIVE:	הבזרל	O	O
+,	:PUNCUATION:	,	O	O
+פריטין	:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+והמוגלובין	:PROPERNAME:	והמוגלובין	I-NP	O
+בגדר	PREPOSITION:NOUN-F,S,ABS:	גדר	O	Restricted-C0443288
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+

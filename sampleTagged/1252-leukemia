@@ -1,0 +1,54 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+העלייה	DEF:NOUN-F,S,ABS:	עלייה	B-NP	O
+בפריטין	PREPOSITION:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מסיבות	:NOUN-F,P,ABS:	מסיבה	B-NP	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+האם	:INTERROGATIVE:	האם	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+איזו	:INTERROGATIVE:PRONOMIAL-F,S,3	איזה	B-NP	O
+דלקת	:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+?	:PUNCUATION:	?	O	O
+
+ו/או	:ADVERB:	ו/או	O	O
+אלרגיה	:NOUN-F,S,ABS:	אלרגיה	B-NP	Allergy Specialty-C0002111
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+העליה	DEF:NOUN-F,S,ABS:	עלייה	B-NP	O
+באאוזינופילים	:PROPERNAME:	באאוזינופילים	I-NP	O
+-	:PUNCUATION:	-	O	O
+אלה	:PRONOUN-MF,P,3:	אלה	B-NP	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+תאים	:NOUN-M,P,ABS:	תא	B-NP	cell-C0007634
+שמספרם	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,P,3	מספר	B-NP	number-C0237753
+עולה	:VERB-M,S,A,BEINONI:	עלה	O	O
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+רגישות יתר	:TERM:	רגישות יתר	O	hypersensitivity-C0020517
+(	:PUNCUATION:	(	I-NP	O
+אלרגיה	:NOUN-F,S,ABS:	אלרגיה	I-NP	Allergy Specialty-C0002111
+)	:PUNCUATION:	)	O	O
+-	:PUNCUATION:	-	O	O
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+ולמה	CONJ:INTERROGATIVE:	למה	O	O
+?	:PUNCUATION:	?	O	O
+
+לאוכל	PREPOSITION+DEF:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+?	:PUNCUATION:	?	O	O
+
+לתרופות	PREPOSITION:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+?	:PUNCUATION:	?	O	O
+
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+.	:PUNCUATION:	.	O	O
+

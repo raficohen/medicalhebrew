@@ -1,0 +1,24 @@
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+גרורה	:NOUN-F,S,ABS:	גרורה	B-NP	metastasis-C0027627
+מוחית	:ADJECTIVE-F,S,ABS:	מוחי	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+ראשוני	:ADJECTIVE-M,S,ABS:	ראשוני	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+שתי	:NUMERAL-F,D,CONST:	CARD2	I-NP	O
+הפתולוגיות	DEF:NOUN-F,P,ABS:	הפתולוגיות	I-NP	O
+ולהשוות	CONJ:VERB-TOINFINITIVE:	השווה	O	O
+.	:PUNCUATION:	.	O	O
+
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+זהה	:ADJECTIVE-M,S,ABS:	זהה	O	O
+בשני	PREPOSITION:NOUN-M,S,CONST:	שני	B-NP	second-C0205436-ambigous
+המצבים	DEF:NOUN-M,P,ABS:	מצב	I-NP	Condition-C0348080
+הללו	:VERB-MF,P,3,PAST:	הילל	O	O
+

@@ -1,0 +1,48 @@
+ורד	:PROPERNAME:	ורד	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מסרת	:VERB-F,S,2,PAST:	מסר	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+מאוד	:ADVERB:	מאוד	I-NP	O
+חלקיים	:ADJECTIVE-M,P,ABS:	חלקי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+שתמשיכי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	המשיך	O	O
+את	:AT_PREP:	את	B-NP	O
+הברור	DEF:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+המלצת	:NOUN-F,S,CONST:	המלצה	I-NP	recommendation-C0034866
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ואם	CONJ:CONJUNCTION:	אם	O	O
+תהיה	:COPULA-F,S,3,FUTURE,POSITIVE:	הוא	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+הקשורה	DEF:PARTICIPLE-F,S,A,ABS:	קשר	O	connection-C0449379
+למערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+תפני	:VERB-F,S,2,FUTURE:	פנה	O	O
+שנית	:ADVERB:	שנית	O	scarlet fever-C0036285
+.	:PUNCUATION:	.	O	O
+
+בינתיים	:ADVERB:	בינתיים	O	O
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,A,BEINONI:	נראה	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הדם	DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+ביציאה	PREPOSITION:NOUN-F,S,ABS:	יציאה	B-NP	exit-C0337094
+למערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

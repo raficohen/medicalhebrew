@@ -1,0 +1,21 @@
+כאבים	:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מתארת	:VERB-F,S,A,BEINONI:	תיאר	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+חלק	:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מתהליך	PREPOSITION:NOUN-M,S,CONST:	תהליך	I-NP	process-C1184743
+ההחלמה	DEF:NOUN-F,S,ABS:	החלמה	I-NP	recovery-C0237820
+,	:PUNCUATION:	,	O	O
+ובכל	PREPOSITION+CONJ:QUANTIFIER-CONST:	ב	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתדברי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+המנתח	DEF:NOUN-M,S,ABS:	מנתח	B-NP	surgeon-C0582175
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+כך	:ADVERB:	כך	O	O
+שנימנע	REL-SUBCONJ:VERB-M,S,3,PAST:	נמנע	O	O
+מרפואה	PREPOSITION:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+אלקטרונית	:ADJECTIVE-F,S,ABS:	אלקטרוני	O	O
+

@@ -1,0 +1,54 @@
+לאה	:PROPERNAME:	לאה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+פירטת	:VERB-F,S,2,PAST:	פירט	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+US	:FOREIGN:	US	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+הבלוטה	DEF:NOUN-F,S,ABS:	בלוטה	B-NP	gland-C1285092
+נראית	:VERB-F,S,A,BEINONI:	נראה	O	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+או	:CONJUNCTION:	או	O	O
+מחשידה	:VERB-F,S,A,BEINONI:	החשיד	O	O
+לממאירות	PREPOSITION:ADJECTIVE-F,P,ABS:	ממאיר	B-NP	malignant-C0205282
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בלוטות	:NOUN-F,P,ABS:	בלוטה	B-NP	gland-C1285092
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+כמה	:VERB-M,S,3,PAST:	כמה	O	O
+זמן	:NOUN-M,S,CONST:	זמן	B-NP	O
+הבלוטה	DEF:NOUN-F,S,ABS:	בלוטה	I-NP	gland-C1285092
+מוגדלת	:ADJECTIVE-F,S,ABS:	מוגדל	O	O
+?	:PUNCUATION:	?	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ןמדובר	:PROPERNAME:	ןמדובר	I-NP	O
+בבלוטה	PREPOSITION+DEF:NOUN-F,S,ABS:	בלוטה	B-NP	gland-C1285092
+של	:SHEL_PREP:	של	I-NP	O
+מעל	:PREPOSITION:	מעל	I-NP	O
+3	:NUMERAL:	###NUMBER###	I-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+ביופסיה	:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

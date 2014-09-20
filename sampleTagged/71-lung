@@ -1,0 +1,90 @@
+אסתר	:PROPERNAME:	אסתר	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+ביופסיה	:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+פתוחה	:ADJECTIVE-F,S,ABS:	פתוח	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+מתבצעת	:VERB-F,S,A,BEINONI:	התבצע	O	O
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+באמצעות	:PREPOSITION:	באמצעות	O	O
+מכשיר	:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+הקרוי	DEF:PARTICIPLE-M,S,A,ABS:	קרא	O	O
+מהדק	PREPOSITION:NOUN-M,S,CONST:	הדק	B-NP	O
+סיכות	:NOUN-F,P,ABS:	סיכה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מכשיר	:NOUN-M,S,CONST:	מכשיר	B-NP	Instrument - device-C0348000
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מבצע	:VERB-M,S,A,BEINONI:	ביצע	O	O
+חיתוך	:NOUN-M,S,ABS:	חיתוך	B-NP	O
+דרך	:PREPOSITION:	דרך	O	O
+רקמת	:NOUN-F,S,CONST:	רקמה	B-NP	tissue-C0040300
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+ובמקביל	CONJ:ADVERB:	במקביל	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+תופר	:VERB-M,S,A,BEINONI:	תפר	I-NP	suture-C0038969
+"	:PUNCUATION:	"	O	O
+את	:AT_PREP:	את	B-NP	O
+החתך	DEF:NOUN-M,S,ABS:	חתך	I-NP	O
+ברקמה	PREPOSITION:NOUN-F,S,ABS:	רקמה	B-NP	tissue-C0040300
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+סיכות	:NOUN-F,P,ABS:	סיכה	I-NP	O
+מתכת	:NOUN-F,S,ABS:	מתכת	I-NP	O
+עדינות	:ADJECTIVE-F,P,ABS:	עדין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכלל	:ADVERB:	בכלל	O	O
+-	:PUNCUATION:	-	O	O
+בכירורגיה	PREPOSITION+DEF:NOUN-F,S,ABS:	הכירורגיה	B-NP	O
+נעשה	:VERB-M,S,3,PAST:	נעשה	O	O
+שימוש	:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+נרחב	:ADJECTIVE-M,S,ABS:	נרחב	I-NP	O
+במכשירים	PREPOSITION:NOUN-M,P,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לחיתוך	PREPOSITION:NOUN-M,S,CONST:	חיתוך	B-NP	O
+רקמות	:NOUN-F,P,ABS:	רקמה	I-NP	tissue-C0040300
+,	:PUNCUATION:	,	O	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+וכו	:ADJECTIVE-M,S,ABS:	וכו	I-NP	O
+'	:PUNCUATION:	'	O	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+לחשוש	:VERB-TOINFINITIVE:	חשש	O	O
+-	:PUNCUATION:	-	O	O
+את	:AT_PREP:	את	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+חשופה	:ADJECTIVE-F,S,ABS:	חשוף	I-NP	O
+לזיהום	PREPOSITION:NOUN-M,S,ABS:	זיהום	B-NP	infection-C0009450
+בשל	:PREPOSITION:	בשל	O	O
+כך	:PRONOUN:	כך	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+סיבוך	:NOUN-M,S,ABS:	סיבוך	B-NP	complication-C0009566
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הסיכות	DEF:NOUN-F,P,ABS:	סיכה	B-NP	O
+עדינות	:ADJECTIVE-F,P,ABS:	עדין	O	O
+וקטנות	CONJ:ADJECTIVE-F,P,ABS:	קטן	O	O
+ורקמה	CONJ:NOUN-F,S,ABS:	רקמה	B-NP	tissue-C0040300
+צלקתית	:ADJECTIVE-F,S,ABS:	צלקתית	I-NP	O
+מתפתחת	:VERB-F,S,A,BEINONI:	התפתח	O	O
+סביבן	:PREPOSITION:PRONOMIAL-F,P,3	סביב	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

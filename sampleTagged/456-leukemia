@@ -1,0 +1,62 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+תיאורטית	:ADVERB:	תיאורטית	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סוגי	:NOUN-M,P,CONST:	סוג	B-NP	kind-C0332307
+לימפומות	:NOUN-F,P,ABS:	לימפומות	I-NP	O
+המתפתחות	DEF:PARTICIPLE-F,P,A,ABS:	התפתח	O	O
+לאט	:ADVERB:	לאט	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+-	:PUNCUATION:	-	O	O
+אינני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לייעץ	:VERB-TOINFINITIVE:	ייעץ	O	O
+בנדון	PREPOSITION+DEF:NOUN-M,S,ABS:	נדון	B-NP	O
+,	:PUNCUATION:	,	O	O
+על	:PREPOSITION:	על	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+פנים	:NOUN-M,S,ABS:	פנים	I-NP	face-C0015450
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+את	:AT_PREP:	את	B-NP	O
+המעקב	DEF:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+א.א.ג	:PROPERNAME:	א.א.ג	I-NP	O
+והמטולוג	CONJ:NOUN-M,S,ABS:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+3	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+אלה	:PRONOUN-MF,P,3:	אלה	B-NP	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+חד	:PREFIX:	חד	I-NP	O
+משמעיים	:ADJECTIVE-M,P,ABS:	משמעי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+4	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+והבלוטות	CONJ+DEF:NOUN-F,P,ABS:	בלוטה	B-NP	gland-C1285092
+עדיין	:ADVERB:	עדיין	O	O
+קיימות	:ADJECTIVE-F,P,ABS:	קיים	O	O
+-	:PUNCUATION:	-	O	O
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+חיובית	:ADJECTIVE-F,S,ABS:	חיובי	O	O
+ואני	CONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+

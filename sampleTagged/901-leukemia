@@ -1,0 +1,28 @@
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לבתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	בת	B-NP	daughter-C0011011
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+והמטולוג	CONJ+DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	O	examination-C0031809
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+.	:PUNCUATION:	.	O	O
+
+mthfr	:FOREIGN:	mthfr	O	O
+הטרוזיגוטי	:ADJECTIVE-M,S,ABS:	הטרוזיגוטי	O	heterozygote-C0019425
+מאוד	:ADVERB:	מאוד	O	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+משמעותי	:ADJECTIVE-M,S,ABS:	משמעותי	O	O
+קליני	:ADJECTIVE-M,S,ABS:	קליני	B-NP	clinical-C0205210
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	O	connection-C0449379
+ל	:PREPOSITION:	ל	O	O
+rvvt	:FOREIGN:	rvvt	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+ולמסור	CONJ:VERB-TOINFINITIVE:	מסר	O	O
+ליועץ	PREPOSITION+DEF:NOUN-M,S,ABS:	יועץ	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,54 @@
+לרוב	:ADVERB:	לרוב	O	O
+,	:PUNCUATION:	,	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+מהאף	PREPOSITION+DEF:NOUN-M,S,ABS:	אף	B-NP	nose-C0028429
+נגרם	:VERB-M,S,3,PAST:	נגרם	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+מכנית	:ADJECTIVE-F,S,ABS:	מכאני	I-NP	O
+באף	PREPOSITION:NOUN-M,S,ABS:	אף	B-NP	nose-C0028429
+,	:PUNCUATION:	,	O	O
+כלומר	:CONJUNCTION:	כלומר	O	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+באף	PREPOSITION:QUANTIFIER-CONST:	אף	B-NP	nose-C0028429
+נפגע	:NOUN-M,S,ABS:	נפגע	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אופיני	:ADJECTIVE-M,S,ABS:	אופייני	O	O
+במיוחד	:ADVERB:	במיוחד	O	O
+בתקופה	PREPOSITION:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+חמה	:ADJECTIVE-F,S,ABS:	חם	I-NP	O
+ובאזורים	PREPOSITION+CONJ:NOUN-M,P,ABS:	ב	O	O
+יבשים	:ADJECTIVE-M,P,ABS:	יבש	O	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+כדאי	:MODAL:	כדאי	O	O
+שרופא	REL-SUBCONJ:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+אאג	:PROPERNAME:	אאג	I-NP	O
+יבדוק	:VERB-M,S,3,FUTURE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+מקומית	:ADJECTIVE-F,S,ABS:	מקומי	I-NP	local-C0205276
+,	:PUNCUATION:	,	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לערוך	:VERB-TOINFINITIVE:	ערך	O	values-C0042295
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+המומחה	DEF:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION+DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

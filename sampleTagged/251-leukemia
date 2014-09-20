@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+בוריד	PREPOSITION:NOUN-M,S,ABS:	וריד	B-NP	vein-C0042449
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+בכדורים	PREPOSITION:NOUN-M,P,ABS:	כדור	B-NP	Pills-C0994475
+-	:PUNCUATION:	-	I-NP	O
+רצוי	:PARTICIPLE-M,S,A,CONST:	רצה	I-NP	O
+פרוגרדומט	:NOUN-MF,S,ABS:	פרוגרדומט	I-NP	O
+1	:NUMERAL:	###NUMBER###	I-NP	O
+ליום	PREPOSITION:NOUN-M,S,ABS:	יום	B-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+אוכל	:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+עם	:PREPOSITION:	עם	O	O
+כוס	:NOUN-F,S,CONST:	כוס	B-NP	cup-C0180231
+מיץ	:NOUN-M,S,ABS:	מיץ	O	juice-C1268568
+

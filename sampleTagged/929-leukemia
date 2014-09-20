@@ -1,0 +1,36 @@
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ומספר	CONJ:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+יורד	:VERB-M,S,A,BEINONI:	ירד	O	O
+מ	:PREPOSITION:	מ	O	O
+-	:PUNCUATION:	-	O	O
+40,000	:NUMERAL:	###NUMBER###	B-NP	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מלא	:ADJECTIVE-M,S,ABS:	מלא	I-NP	O
+בנוגדני	PREPOSITION:NOUN-M,P,CONST:	נוגדן	B-NP	antibody-C0003241
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+במינונים	PREPOSITION:NOUN-M,P,ABS:	מינון	B-NP	dosage-C0178602
+מקובלים	:ADJECTIVE-M,P,ABS:	מקובל	I-NP	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+ואח"כ	CONJ:CONJUNCTION:	אח"כ	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ומספר	CONJ:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+צפוי	:ADJECTIVE-M,S,ABS:	צפוי	O	O
+לרדת	:VERB-TOINFINITIVE:	ירד	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+הכנסת	:NOUN-F,S,CONST:	הכנסה	B-NP	O
+פילטר	:PROPERNAME:	פילטר	I-NP	filter-C0180860
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	O	prevention-C0199176
+זריקת	:NOUN-F,S,CONST:	זריקה	B-NP	injection-C1272883
+אמבוליות	:NOUN-MF,S,ABS:	אמבוליות	I-NP	O
+לריאות	PREPOSITION+DEF:NOUN-F,P,ABS:	ריאה	B-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,24 @@
+כמובן	:ADVERB:	כמובן	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+!	:PUNCUATION:	!	O	O
+
+האנמיה	DEF:NOUN-F,S,ABS:	האנמיה	B-NP	O
+דורשת	:VERB-F,S,A,BEINONI:	דרש	O	O
+השלמת	:NOUN-F,S,CONST:	השלמה	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+וטיפול	CONJ:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+ב	:PREPOSITION:	ב	O	O
+%	:NOUN-MF,S,ABS:	%	B-NP	O
+הלימפוציטים	:ADVERB:	הלימפוציטים	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

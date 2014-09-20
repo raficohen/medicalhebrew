@@ -1,0 +1,26 @@
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ומקבלים	CONJ:VERB-M,P,A,BEINONI:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+(	:PUNCUATION:	(	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בכך	:ADVERB:	בכך	I-NP	O
+)	:PUNCUATION:	)	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מניעה	:NOUN-F,S,ABS:	מניעה	B-NP	prevention-C0199176
+להפך	:VERB-TOINFINITIVE:	היפך	O	O
+-	:PUNCUATION:	-	O	O
+בעיות	:NOUN-F,P,CONST:	בעיה	B-NP	problem-C0033213
+יכולות	:NOUN-F,P,ABS:	יכולת	I-NP	Ability-C0085732
+להתעורר	:VERB-TOINFINITIVE:	התעורר	O	O
+עקב	:PREPOSITION:	עקב	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+תנועה	:NOUN-F,S,ABS:	תנועה	I-NP	movement-C0026649
+כמו	:CONJUNCTION:	כמו	O	O
+למשל	:CONJUNCTION:	למשל	O	O
+טיסה	:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+ממושכת	:ADJECTIVE-F,S,ABS:	ממושך	I-NP	O
+.	:PUNCUATION:	.	O	O
+

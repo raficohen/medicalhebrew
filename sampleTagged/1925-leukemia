@@ -1,0 +1,28 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+עוד	:ADVERB:	עוד	I-NP	More-C0205172
+הערכים	DEF:NOUN-M,P,ABS:	ערך	I-NP	values-C0042295
+בטווח	PREPOSITION+DEF:NOUN-M,S,ABS:	טווח	B-NP	long-term-C0443252
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מציינת	:VERB-F,S,A,BEINONI:	ציין	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+מקובל	:ADJECTIVE-M,S,ABS:	מקובל	O	O
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בערכים	PREPOSITION:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+שבין	REL-SUBCONJ:PREPOSITION:	בין	O	O
+20	:NUMERAL:	###NUMBER###	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+30,000.	:PROPERNAME:	30,000.	I-NP	O
+בברכה	PREPOSITION:PROPERNAME:	ברכה	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

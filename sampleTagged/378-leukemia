@@ -1,0 +1,55 @@
+את	:AT_PREP:	את	B-NP	O
+צודקתזה	:VERB-F,S,A,BEINONI:	צודקתזה	O	O
+יותר	:ADVERB:	יותר	O	O
+מדי	:ADVERB:	מדי	O	O
+!	:PUNCUATION:	!	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+פריטין	:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+ולא	CONJ:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לויטמינים	PREPOSITION:NOUN-M,P,ABS:	ויטמין	B-NP	vitamin-C0042890
+D	:FOREIGN:	D	O	O
+ו	:CONJUNCTION:	ו	O	O
+B12	:FOREIGN:	B12	O	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+נמוכים	:ADJECTIVE-M,P,ABS:	נמוך	O	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+משום	:CONJUNCTION:	משום	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+לדאוג	:VERB-TOINFINITIVE:	דאג	O	O
+אפשר	:ADVERB:	אפשר	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+טיפות	:NOUN-F,P,ABS:	טיפה	B-NP	drops-C0991568
+ויט	:PROPERNAME:	ויט	I-NP	O
+'	:PUNCUATION:	'	O	O
+ד	:NUMERAL:	ד	B-NP	O
+או	:CONJUNCTION:	או	O	O
+לצאת	:VERB-TOINFINITIVE:	יצא	O	O
+לשמש	:VERB-TOINFINITIVE:	שימש	O	O
+וכדור	CONJ:NOUN-M,S,ABS:	כדור	B-NP	Pills-C0994475
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ויט.ב	:PROPERNAME:	ויט.ב	I-NP	O
+12	:NUMERAL:	###NUMBER###	I-NP	O
+תת	:PREFIX:	תת	I-NP	O
+לשוני	:ADJECTIVE-M,S,ABS:	לשוני	I-NP	O
+פעם	:ADVERB:	פעם	I-NP	once-C1948045
+בשבוע	PREPOSITION:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+או	:CONJUNCTION:	או	O	O
+שבועים	:NOUN-M,P,ABS:	שבועים	B-NP	O
+.	:PUNCUATION:	.	O	O
+

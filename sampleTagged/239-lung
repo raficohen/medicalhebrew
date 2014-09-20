@@ -1,0 +1,24 @@
+מוות	:NOUN-M,S,ABS:	מוות	B-NP	death-C0011065
+מסרטן	PREPOSITION:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+ראה	:VERB-M,S,3,PAST:	ראה	O	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+37	:NUMERAL:	###NUMBER###	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	O	O
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקרים	:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+גידולים	:NOUN-M,P,ABS:	גידול	I-NP	tumor-C0027651
+במשפחה	PREPOSITION+DEF:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לבקר	:VERB-TOINFINITIVE:	ביקר	O	O
+במרפאה	PREPOSITION:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+של	:SHEL_PREP:	של	I-NP	O
+גנטיקה	:NOUN-F,S,ABS:	גנטיקה	I-NP	genetics-C0017398
+אונקולוגית	:ADJECTIVE-F,S,ABS:	אונקולוגית	I-NP	O
+לדון	:VERB-TOINFINITIVE:	דן	O	O
+בנושא	PREPOSITION:NOUN-M,S,CONST:	נושא	B-NP	Subject-C1706203
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

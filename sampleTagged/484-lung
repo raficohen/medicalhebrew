@@ -1,0 +1,41 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+שרתה	:NOUN-M,S,ABS:POSSESIVE-F,S,3	שרת	I-NP	O
+סובל	:VERB-M,S,A,BEINONI:	סבל	O	suffering-C0683278
+,	:PUNCUATION:	,	O	O
+כאבים	:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+בחזה	PREPOSITION+DEF:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+במיוחד	:ADVERB:	במיוחד	O	O
+באנשים	PREPOSITION:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+צעירירם	:PROPERNAME:	צעירירם	I-NP	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+אתגר	:PROPERNAME:	אתגר	B-NP	O
+אבחנתי	:VERB-MF,S,1,PAST:	אבחן	O	O
+ובחלק	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	O	O
+ניכר	:ADJECTIVE-M,S,ABS:	ניכר	O	O
+לא	:NEGATION:	לא	O	O
+מגיעים	:VERB-M,P,A,BEINONI:	הגיע	O	O
+לסיבה	PREPOSITION+DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+המדויקת	DEF:ADJECTIVE-F,S,ABS:	מדויק	I-NP	O
+האם	:INTERROGATIVE:	האם	O	O
+עשית	:NOUN-F,S,CONST:	עשייה	B-NP	O
+צילום	:NOUN-M,S,ABS:	צילום	I-NP	O
+חזה	:PROPERNAME:	חזה	I-NP	chest-C0817096
+,	:PUNCUATION:	,	O	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+בדק	:VERB-M,S,3,PAST:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+איזה	:QUANTIFIER-CONST:	איזה	B-NP	O
+בירור	:NOUN-M,S,ABS:	בירור	I-NP	O
+לבבי	:ADJECTIVE-M,S,ABS:	לבבי	I-NP	O
+עשית	:VERB-F,S,2,PAST:	עשה	O	O
+?	:PUNCUATION:	?	O	O
+

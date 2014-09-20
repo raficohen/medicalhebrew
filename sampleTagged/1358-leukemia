@@ -1,0 +1,41 @@
+כידוע	PREPOSITION+DEF:NOUN-M,S,ABS:	ידוע	B-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+אנחנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+בפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+!	:PUNCUATION:	!	O	O
+
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+העליה	DEF:NOUN-F,S,ABS:	עלייה	B-NP	O
+הקלה	DEF:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+ב	:PREPOSITION:	ב	O	O
+IgM	:FOREIGN:	IgM	O	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	O	O
+.	:PUNCUATION:	.	O	O
+
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ירכז	:VERB-M,S,3,FUTURE:	ריכז	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הנתונים	DEF:NOUN-M,P,ABS:	נתון	I-NP	O
+ויוכל	CONJ:MODAL-M,S,2,FUTURE:	יכול	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:NOUN-M,S,ABS:	עם	B-NP	O
+רופה	:VERB-M,S,A,BEINONI:	רפה	I-NP	O
+פנימי	:ADJECTIVE-M,S,ABS:	פנימי	I-NP	O
+/	:PUNCUATION:	/	I-NP	O
+אימונולוג	:PROPERNAME:	אימונולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,35 @@
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+פקטור	:NOUN-M,S,ABS:	פקטור	I-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+מספר	:NOUN-M,S,ABS:	מספר	I-NP	number-C0237753
+7	:NUMERAL:	###NUMBER###	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לדימומים	PREPOSITION:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+.	:PUNCUATION:	.	O	O
+
+בניתוח	PREPOSITION:NOUN-M,S,CONST:	ניתוח	B-NP	surgery-C0038894
+הסרת	:NOUN-F,S,CONST:	הסרה	I-NP	removal-C0015252
+שקדים	:NOUN-M,P,ABS:	שקד	I-NP	tonsil-C0040421
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+דימומים	:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+גם	:CONJUNCTION:	גם	O	O
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+בעייה	:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+במנגנון	PREPOSITION:NOUN-M,S,CONST:	מנגנון	B-NP	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+בצדק	PREPOSITION+DEF:NOUN-M,S,ABS:	צדק	B-NP	O
+נדחה	:VERB-M,S,3,PAST:	נדחה	O	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+עד	:NOUN-M,S,ABS:	עד	O	until-C1720302
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+.	:PUNCUATION:	.	O	O
+

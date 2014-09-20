@@ -1,0 +1,58 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+אינני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+על	:PREPOSITION:	על	O	O
+נזק	:NOUN-M,S,ABS:	נזק	B-NP	damage-C1883709
+העלול	DEF:ADJECTIVE-M,S,ABS:	עלול	I-NP	O
+להיגרם	:VERB-TOINFINITIVE:	נגרם	O	O
+כתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+משתיית	PREPOSITION:NOUN-F,S,CONST:	שתייה	O	Drinking function-C0684271
+מיץ	:NOUN-M,S,CONST:	מיץ	B-NP	juice-C1268568
+לימון	:NOUN-M,S,ABS:	לימון	I-NP	O
+טבעי	:ADJECTIVE-M,S,ABS:	טבעי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מצד	:PREPOSITION:	מצד	O	O
+שני	:NOUN-M,S,CONST:	שני	B-NP	second-C0205436-ambigous
+-	:PUNCUATION:	-	I-NP	O
+אינני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	I-NP	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+שהוכח	REL-SUBCONJ:VERB-M,S,3,PAST:	הוכח	O	O
+כי	:CONJUNCTION:	כי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מסייע	:VERB-M,S,A,BEINONI:	סייע	O	O
+במצב	PREPOSITION:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לסיכום	PREPOSITION:NOUN-M,S,CONST:	סיכום	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	I-NP	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+לשתות	:VERB-TOINFINITIVE:	שתה	O	O
+מיץ	:NOUN-M,S,CONST:	מיץ	B-NP	juice-C1268568
+לימון	:NOUN-M,S,ABS:	לימון	I-NP	O
+טבעי	:ADJECTIVE-M,S,ABS:	טבעי	I-NP	O
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+הרגשתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	הרגשה	I-NP	Emotions-C0013987
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואינה	CONJ:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+חשה	:VERB-F,S,A,BEINONI:	חש	O	O
+בטוב	PREPOSITION:ADJECTIVE-M,S,ABS:	טוב	O	good-C0205170
+לאחר	:PREPOSITION:	לאחר	O	O
+שתיית	:NOUN-F,S,CONST:	שתייה	B-NP	Drinking function-C0684271
+המיץ	DEF:NOUN-M,S,ABS:	מיץ	I-NP	juice-C1268568
+,	:PUNCUATION:	,	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+כמובן	:ADVERB:	כמובן	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

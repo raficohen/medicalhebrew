@@ -1,0 +1,85 @@
+האינדיקציה	DEF:NOUN-F,S,ABS:	אינדיקציה	B-NP	indication-C0392360
+למתן	PREPOSITION:NOUN-M,S,CONST:	מתן	O	negotiations-C0680727
+אספירין	:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+ובעיקר	CONJ:ADVERB:	בעיקר	O	O
+קומודין	:PROPERNAME:	קומודין	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+פרפור	:NOUN-M,S,CONST:	פרפור	B-NP	fibrillation-C0232197
+פרוזדורים	:NOUN-M,P,ABS:	פרוזדור	I-NP	atrium-C0018792
+.	:PUNCUATION:	.	O	O
+
+ההחלטה	DEF:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+על	:PREPOSITION:	על	O	O
+מתן	:VERB-F,P,2,PAST:	מת	O	O
+הידריאה	DEF:ADJECTIVE-F,S,ABS:	הידריאה	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+בנתונים	PREPOSITION:NOUN-M,P,ABS:	נתון	B-NP	O
+שצורפו	REL-SUBCONJ:VERB-MF,P,3,PAST:	צורף	O	O
+אין	:NEGATION:	אין	O	O
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+על	:PREPOSITION:	על	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הומוגלובין	:PROPERNAME:	הומוגלובין	I-NP	O
+,	:PUNCUATION:	,	O	O
+על	:PREPOSITION:	על	O	O
+מ	:PREPOSITION:	מ	O	O
+ס'	:NOUN-M,S,CONST:	ס'	B-NP	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	I-NP	O
+לבנות	:VERB-TOINFINITIVE:	בנה	O	O
+,	:PUNCUATION:	,	O	O
+ועל	CONJ:PREPOSITION:	על	O	O
+מ	:PREPOSITION:	מ	O	O
+ס'	:NOUN-M,S,ABS:	ס'	B-NP	O
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וכל	CONJ:QUANTIFIER-CONST:	כול	I-NP	O
+הספירות	DEF:NOUN-F,P,ABS:	ספירה	I-NP	count-C0750480
+הללו	:VERB-MF,P,3,PAST:	הילל	I-NP	O
+תקינות	:NOUN-F,P,ABS:	תקינה	I-NP	O
+אין	:NEGATION:	אין	O	O
+צורך	:VERB-M,S,A,BEINONI:	צרך	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בהידראה	PREPOSITION:NOUN-F,S,ABS:	הידראה	B-NP	hydroxyurea-C0020402
+.	:PUNCUATION:	.	O	O
+
+לפי	PREPOSITION:NOUN-M,S,CONST:	פה	O	Oral cavity-C0226896
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+המצ"ב	DEF:ADJECTIVE-M,S,ABS:	המצ"ב	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בעקבות	:PREPOSITION:	בעקבות	O	O
+הקזות	:NOUN-F,P,CONST:	הקזה	B-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בתוספת	PREPOSITION:NOUN-F,S,CONST:	תוספת	B-NP	additional-C1524062
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+תלוי	:ADJECTIVE-M,S,ABS:	תלוי	I-NP	O
+ברמת	PREPOSITION:NOUN-F,S,CONST:	רמה	B-NP	O
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	I-NP	O
+.	:PUNCUATION:	.	O	O
+

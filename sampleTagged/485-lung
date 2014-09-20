@@ -1,0 +1,38 @@
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+שיחלוב	REL-SUBCONJ:VERB-M,S,3,FUTURE:	חלב	O	Milk (body substance)-C0026131
+של	:SHEL_PREP:	של	O	O
+שני	:NUMERAL-M,D,CONST:	CARD2	B-NP	O
+הדברים	DEF:NOUN-M,P,ABS:	דבר	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+הגורם	DEF:NOUN-M,S,ABS:	גורם	B-NP	O
+הדומיננטי	DEF:ADJECTIVE-M,S,ABS:	דומיננטי	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+אורח חיים	:TERM:	אורח חיים	O	Life Style-C0023676-ambigous
+במיוחד	PREPOSITION:ADJECTIVE-M,S,ABS:	מיוחד	O	O
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+שאחראי	REL-SUBCONJ:ADJECTIVE-M,S,ABS:	אחראי	O	O
+ל	:PREPOSITION:	ל	O	O
+95	:NUMERAL:	###NUMBER###	B-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+מהמקרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+סרטן	:NOUN-M,S,CONST:	סרטן	I-NP	malignancy-C0006826
+הריאות	DEF:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+ומעלה	CONJ:VERB-M,S,A,BEINONI:	העלה	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+פי	:NOUN-M,S,CONST:	פה	O	Oral cavity-C0226896
+20	:NUMERAL:	###NUMBER###	B-NP	O
+,	:PUNCUATION:	,	O	O
+גם	:CONJUNCTION:	גם	O	O
+לגבי	:PREPOSITION:PRONOMIAL-MF,S,1	לגבי	B-NP	O
+מעשנים	PREPOSITION:NOUN-M,P,ABS:	עשן	B-NP	O
+פסיביים	:ADJECTIVE-M,P,ABS:	פסיבי	I-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+5	:NUMERAL:	###NUMBER###	I-NP	O
+מהאוכלסיה	PREPOSITION+DEF:NOUN-F,S,ABS:	האוכלסיה	B-NP	O
+המעשנת	DEF:PARTICIPLE-F,S,A,ABS:	עישן	O	O
+

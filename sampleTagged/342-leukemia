@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+החרדה	DEF:NOUN-F,S,ABS:	חרדה	I-NP	anxiety-C0003467
+אבל	:CONJUNCTION:	אבל	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+הרבה	:ADVERB:	הרבה	O	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+א.א.ג	:ADJECTIVE-M,S,ABS:	א.א.ג	I-NP	O
+שיחליט	REL-SUBCONJ:VERB-M,S,3,FUTURE:	החליט	O	O
+על	:PREPOSITION:	על	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בביאופסיה	:PROPERNAME:	בביאופסיה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

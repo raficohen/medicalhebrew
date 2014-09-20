@@ -1,0 +1,54 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מסכים	:VERB-M,S,A,BEINONI:	הסכים	O	O
+לדעתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	דעה	O	O
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+באנמיה	PREPOSITION:PROPERNAME:	אנמיה	B-NP	anemia-C0002871
+כתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	O	result-C1274040
+מחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+מדוע	:ADVERB:	מדוע	O	O
+את	:AT_PREP:	את	B-NP	O
+מאבדת	:VERB-F,S,A,BEINONI:	איבד	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+איוד	:NOUN-M,S,CONST:	איוד	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+נובע	:VERB-M,S,A,BEINONI:	נבע	O	O
+מדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+כרוני	PREPOSITION:PROPERNAME-MF,S:	רוני	B-NP	O
+סמוי	:ADJECTIVE-M,S,ABS:	סמוי	O	O
+מדרכי	PREPOSITION:NOUN-F,P,CONST:	דרך	B-NP	Through-C0332273-ambigous
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לביצוע	PREPOSITION:NOUN-M,S,CONST:	ביצוע	B-NP	O
+הערכה	:NOUN-F,S,ABS:	הערכה	I-NP	O
+מחודשת	:ADJECTIVE-F,S,ABS:	מחודש	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

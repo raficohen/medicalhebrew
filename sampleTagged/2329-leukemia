@@ -1,0 +1,41 @@
+קיום	:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+אנטיקרדיוליפין	:PROPERNAME:	אנטיקרדיוליפין	I-NP	O
+לא	:NEGATION:	לא	O	O
+מאשר	:VERB-M,S,A,BEINONI:	אישר	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+שולל	:VERB-M,S,A,BEINONI:	שלל	O	O
+קיום	:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+פיברומיאלגיה	:NOUN-F,S,ABS:	פיברומיאלגיה	I-NP	fibromyalgia-C0016053
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+מדוע	:ADVERB:	מדוע	O	O
+נשלחה	:VERB-F,S,3,PAST:	נשלח	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+אנטיקרדיוליפין	:PROPERNAME:	אנטיקרדיוליפין	I-NP	O
+,	:PUNCUATION:	,	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+סוג	:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+הנוגדן	DEF:NOUN-M,S,ABS:	נוגדן	I-NP	antibody-C0003241
+שנבדק	REL-SUBCONJ:VERB-M,S,3,PAST:	נבדק	O	O
+והאם	CONJ+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+נבדקו	:VERB-MF,P,3,PAST:	נבדק	O	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+דומים	:ADJECTIVE-M,P,ABS:	דומה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+.	:PUNCUATION:	.	O	O
+

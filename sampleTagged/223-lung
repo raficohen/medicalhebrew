@@ -1,0 +1,50 @@
+בתאל	:PROPERNAME:	בתאל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+אכן	:ADVERB:	אכן	O	O
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+-	:PUNCUATION:	-	I-NP	O
+פולמונולוג	:PROPERNAME:	פולמונולוג	I-NP	O
+בשאלת	PREPOSITION:NOUN-F,S,CONST:	שאלה	B-NP	Question-C1522634
+האבחון	DEF:NOUN-M,S,ABS:	אבחון	I-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+אבא	:PROPERNAME:	אבא	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ובכדי	CONJ:CONJUNCTION:	בכדי	O	O
+להתקדם	:VERB-TOINFINITIVE:	התקדם	O	O
+באבחון	PREPOSITION+DEF:NOUN-M,S,ABS:	אבחון	B-NP	diagnosis-C0011900
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בדגימות	PREPOSITION:NOUN-F,P,CONST:	דגימה	B-NP	Random Sampling-C0150105
+כיח	:NOUN-M,S,ABS:	כיח	I-NP	O
+לשחפת	PREPOSITION:NOUN-F,S,ABS:	שחפת	B-NP	tuberculosis-C0041296
+ותרבית	CONJ:NOUN-F,S,CONST:	תרבית	B-NP	culture-C0010453
+חיידקים	:NOUN-M,P,ABS:	חיידק	I-NP	bacterium-C0004611
+.	:PUNCUATION:	.	O	O
+
+במצבים	PREPOSITION:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+מסוימים	:ADJECTIVE-M,P,ABS:	מסוים	I-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתקדם	:VERB-TOINFINITIVE:	התקדם	O	O
+לברונכוסקופיה	PREPOSITION:NOUN-F,S,ABS:	ברונכוסקופיה	B-NP	bronchoscopy-C0006290
+-	:PUNCUATION:	-	I-NP	O
+כמובן	:ADVERB:	כמובן	I-NP	O
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+חוות	:NOUN-F,S,CONST:	חווה	I-NP	farm-C0557759
+דעת	:NOUN-F,S,CONST:	דעה	I-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION+DEF:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

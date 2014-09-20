@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחקות	:VERB-TOINFINITIVE:	חיקה	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+אותן	:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+של	:SHEL_PREP:	של	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+יקבע	:VERB-M,S,3,FUTURE:	קבע	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+לתוצאות	PREPOSITION+DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

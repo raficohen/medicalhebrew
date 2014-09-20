@@ -1,0 +1,38 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לצערי	:ADVERB:	לצערי	O	O
+איני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+המונחים	DEF:NOUN-M,P,ABS:	מונח	B-NP	term-C1515273
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+משתמשת	:VERB-F,S,A,BEINONI:	השתמש	O	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+נכונים	:ADJECTIVE-M,P,ABS:	נכון	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+נכונים	:ADJECTIVE-M,P,ABS:	נכון	I-NP	O
+ומדויקים	CONJ:ADJECTIVE-M,P,ABS:	מדויק	I-NP	O
+מהרופאים	PREPOSITION+DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+המטפלים	DEF:PARTICIPLE-M,P,A,ABS:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

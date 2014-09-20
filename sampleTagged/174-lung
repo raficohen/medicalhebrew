@@ -1,0 +1,32 @@
+מור	:PROPERNAME:	מור	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+עצתי	:VERB-MF,S,1,PAST:	עץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+-	:PUNCUATION:	-	O	O
+לכי	:VERB-F,S,2,IMPERATIVE:	הלך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במרבית	PREPOSITION:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בבלוטות	PREPOSITION:NOUN-F,P,CONST:	בלוטה	B-NP	gland-C1285092
+לימפה	:NOUN-F,S,ABS:	לימפה	I-NP	lympha-C0024202
+תגובתיות	:ADJECTIVE-F,P,ABS:	תגובתיות	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

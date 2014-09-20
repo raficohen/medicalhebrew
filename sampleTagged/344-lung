@@ -1,0 +1,37 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+לא	:NEGATION:	לא	I-NP	O
+פולשנית	:ADJECTIVE-F,S,ABS:	פולשנית	I-NP	O
+בה	:PREPOSITION:PRONOMIAL-F,S,3	ב	B-NP	O
+מתבקש	:VERB-M,S,A,BEINONI:	התבקש	O	O
+הנבדק	DEF:NOUN-M,S,ABS:	נבדק	B-NP	O
+לשאוף	:VERB-TOINFINITIVE:	שאף	O	O
+ולנשוף	CONJ:VERB-TOINFINITIVE:	נשף	O	O
+בהנחיית	PREPOSITION:NOUN-F,S,CONST:	הנחיה	B-NP	O
+הטכנאי	DEF:NOUN-M,S,ABS:	טכנאי	I-NP	O
+לתוך	PREPOSITION:NOUN-M,S,CONST:	תוך	O	O
+מכשיר	:NOUN-M,S,CONST:	מכשיר	B-NP	Instrument - device-C0348000
+המודד	DEF:NOUN-M,S,ABS:	מודד	I-NP	O
+שיעורי	:NOUN-M,P,CONST:	שיעור	B-NP	O
+זרימה	:NOUN-F,S,ABS:	זרימה	I-NP	Flow-C0806140
+ובהמשך	PREPOSITION+CONJ+DEF:NOUN-M,S,ABS:	ב	O	O
+מתבצעת	:VERB-F,S,A,BEINONI:	התבצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+נפחי	:NOUN-M,P,CONST:	נפח	I-NP	Volume-C0449468
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+וכושר	CONJ:NOUN-M,S,CONST:	כושר	I-NP	fitness-C1456706
+הפעפוע	DEF:NOUN-M,S,ABS:	פעפוע	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+בתוך	:PREPOSITION:	בתוך	O	O
+מעין	:PREPOSITION:	מעין	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+קופסה	:NOUN-F,S,ABS:	קופסה	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+גדולה	:ADJECTIVE-F,S,ABS:	גדול	I-NP	O
+שקופה	:ADJECTIVE-F,S,ABS:	שקוף	I-NP	O
+בה	:PREPOSITION:PRONOMIAL-F,S,3	ב	B-NP	O
+יושב	:NOUN-M,S,CONST:	יושב	B-NP	O
+הנבדק	DEF:NOUN-M,S,ABS:	נבדק	I-NP	O
+

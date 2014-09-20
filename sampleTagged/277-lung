@@ -1,0 +1,35 @@
+ייתכן	:ADVERB:	ייתכן	O	O
+ובלעת	CONJ:VERB-F,S,2,PAST:	בלע	O	O
+גוף זר	:TERM:	גוף זר	O	foreign body-C0016542
+\	:PUNCUATION:	\	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	I-NP	O
+שכל	REL-SUBCONJ:QUANTIFIER-CONST:	כול	B-NP	O
+השאר	DEF:NOUN-M,S,ABS:	שאר	I-NP	rest-C0035253
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לאירוע	PREPOSITION+DEF:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+הנל	DEF:ADJECTIVE-M,S,ABS:	הנל	I-NP	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+למרבה	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	מרב	B-NP	O
+הממזל	DEF:PARTICIPLE-M,S,A,ABS:	הממזל	O	O
+לא	:NEGATION:	לא	O	O
+נראהלי	:VERB-M,P,A,BEINONI:	נראהלי	O	O
+שקשור	REL-SUBCONJ:ADJECTIVE-M,S,ABS:	קשור	O	O
+לנושא	PREPOSITION:NOUN-M,S,CONST:	נושא	B-NP	Subject-C1706203
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+הנוכחי	DEF:ADJECTIVE-M,S,ABS:	נוכחי	I-NP	O
+\	:PUNCUATION:	\	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+ראות	:NOUN-F,S,ABS:	ראות	B-NP	O
+להערכה	PREPOSITION:NOUN-F,S,ABS:	הערכה	B-NP	O
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מצבך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	מצב	I-NP	Condition-C0348080
+ונסיון	CONJ:NOUN-M,S,ABS:	ניסיון	I-NP	Experience-C0596545-ambigous
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

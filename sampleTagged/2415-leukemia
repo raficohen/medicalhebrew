@@ -1,0 +1,70 @@
+אחד	:VERB-M,S,3,PAST:	איחד	B-NP	O
+מגורמי	PREPOSITION:NOUN-M,P,CONST:	גורם	I-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+DVT	:FOREIGN:	DVT	O	O
+חוזר	:ADJECTIVE-M,S,ABS:	חוזר	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+קיום	:NOUN-M,S,CONST:	קיום	O	Exist-C2987476
+DVT	:FOREIGN:	DVT	O	O
+בעבר	PREPOSITION+DEF:NOUN-M,S,ABS:	עבר	B-NP	past-C1444637
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+שבו	:VERB-MF,P,2,IMPERATIVE:	ישב	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+גורמי	:NOUN-M,P,CONST:	גורם	B-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+DVT	:FOREIGN:	DVT	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לנהוג	:VERB-TOINFINITIVE:	נהג	O	O
+בשיקול	PREPOSITION:NOUN-M,S,CONST:	שיקול	B-NP	CONSIDERATION-C0518609
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+-	:PUNCUATION:	-	I-NP	O
+כדאי	:MODAL:	כדאי	I-NP	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+להשתמש	:VERB-TOINFINITIVE:	השתמש	O	O
+כי	:CONJUNCTION:	כי	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+תחליפים	:NOUN-M,P,ABS:	תחליף	B-NP	substitute-c0814761-ambigous
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+-	:PUNCUATION:	-	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	I-NP	O
+תחליפים	:NOUN-M,P,ABS:	תחליף	I-NP	substitute-c0814761-ambigous
+ממש	:ADVERB:	ממש	I-NP	O
+מוצלחים	:ADJECTIVE-M,P,ABS:	מוצלח	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מונע	:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+במהלך	PREPOSITION:NOUN-M,S,CONST:	מהלך	O	move-C2699029
+ההריון	DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להתיעצות	PREPOSITION:NOUN-ABS:	התייעצות	B-NP	consultations-C0009818
+מקיפה	:ADJECTIVE-F,S,ABS:	מקיף	I-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

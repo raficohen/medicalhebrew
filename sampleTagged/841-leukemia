@@ -1,0 +1,22 @@
+LAC	:FOREIGN:	LAC	O	O
+חיובי	:ADJECTIVE-M,S,ABS:	חיובי	O	O
+מתייחס	:VERB-M,S,A,BEINONI:	התייחס	O	O
+ל	:PREPOSITION:	ל	O	O
+נוגדן	:NOUN-M,S,ABS:	נוגדן	B-NP	antibody-C0003241
+שפועל	REL-SUBCONJ:VERB-M,S,A,BEINONI:	פעל	O	O
+נגד	:PREPOSITION:	נגד	O	O
+פקטורי	:NOUN-M,P,CONST:	פקטור	B-NP	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+להתאמה	PREPOSITION:NOUN-F,S,ABS:	התאמה	O	compatibility-C0237519
+עם	:PREPOSITION:	עם	O	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+הקליני	DEF:ADJECTIVE-M,S,ABS:	קליני	I-NP	clinical-C0205210
+

@@ -1,0 +1,131 @@
+גלי	:NOUN-M,P,CONST:	גל	B-NP	wave-C0678544
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השילוב	DEF:NOUN-M,S,ABS:	שילוב	B-NP	integration-C1158478
+של	:SHEL_PREP:	של	I-NP	O
+טרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	טרומבוציטים	I-NP	O
+גבוהים	:ADJECTIVE-M,P,ABS:	גבוה	I-NP	O
+ומוטציה	CONJ:NOUN-F,S,ABS:	מוטציה	I-NP	mutation-C0026882
+חיובית	:ADJECTIVE-F,S,ABS:	חיובי	I-NP	O
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+JAK-2	:FOREIGN:	JAK-2	O	O
+מעידם	:PARTICIPLE-M,S,A:POSSESIVE-M,P,3	העיד	O	O
+על	:PREPOSITION:	על	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+מילופרוליפרטיבית	PREPOSITION:NOUN-F,P,ABS:	ילופרוליפרטיבית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+נתת	:VERB-F,S,2,PAST:	נתן	O	O
+את	:AT_PREP:	את	B-NP	O
+מדדי	:NOUN-M,P,CONST:	מדד	I-NP	index-C0918012
+ס.ד	:NOUN-M,S,ABS:POSSESIVE-M,S,3	ס.	I-NP	O
+המלאים	DEF:ADJECTIVE-M,P,ABS:	מלא	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+ככל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	B-NP	O
+לפי	PREPOSITION:NOUN-M,S,CONST:	פה	O	Oral cavity-C0226896
+התאור	DEF:NOUN-M,S,ABS:	תיאור	B-NP	Description-C0678257
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+מדובר	PREPOSITION:NOUN-M,S,CONST:	דובר	B-NP	O
+בטרומבוציטוזיס	:NOUN-MF,S,ABS:	בטרומבוציטוזיס	I-NP	O
+ראשונית	:ADJECTIVE-F,S,ABS:	ראשוני	I-NP	O
+(	:PUNCUATION:	(	O	O
+Essential	:FOREIGN:	Essential	O	O
+thrombocytosis	:FOREIGN:	thrombocytosis	O	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+הכאבים	DEF:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+בצד	PREPOSITION:NOUN-M,S,CONST:	צד	B-NP	side-C0441987
+שמאל	:NOUN-M,S,ABS:	שמאל	I-NP	left-C0205091
+מחשידים	:VERB-M,P,A,BEINONI:	החשיד	O	O
+שיתכן	REL-SUBCONJ:MODAL:	ייתכן	O	O
+והטחול	CONJ+DEF:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+מוגדל	:ADJECTIVE-M,S,ABS:	מוגדל	O	O
+.	:PUNCUATION:	.	O	O
+
+גם	:CONJUNCTION:	גם	B-NP	O
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+במשקל	PREPOSITION:NOUN-M,S,ABS:	משקל	B-NP	weight-C0043100
+ו	:CONJUNCTION:	ו	O	O
+-	:PUNCUATION:	-	O	O
+LDH	:FOREIGN:	LDH	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשורים	:ADJECTIVE-M,P,ABS:	קשור	O	O
+לעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לליפוסרקומה	PREPOSITION:NOUN-F,P,ABS:	ליפוסרקומות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ככל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+התחושות	DEF:NOUN-F,P,ABS:	תחושה	B-NP	feeling-C1527305
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+בשנה	PREPOSITION+DEF:NOUN-F,S,ABS:	שנה	B-NP	year-C0439234
+האחרונה	DEF:ADJECTIVE-F,S,ABS:	אחרון	I-NP	O
+והמחלה	CONJ+DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+המילופרוליפרטיבית	DEF:NOUN-F,P,ABS:	המילופרוליפרטיבית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויוחלט	CONJ:VERB-M,S,3,FUTURE:	הוחלט	O	O
+על	:PREPOSITION:	על	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+ישפר	:VERB-M,S,3,FUTURE:	שפר	O	O
+חלק	:ADVERB:	חלק	B-NP	part-C0449719
+מהסימפטומים	PREPOSITION+DEF:NOUN-M,P,ABS:	סימפטום	I-NP	symptom-C1457887
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+גם	:CONJUNCTION:	גם	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+כחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהברור	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+שתלכי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	הלך	O	O
+אליו	:PREPOSITION:PRONOMIAL-M,S,3	אל	B-NP	O
+מיומן	:ADJECTIVE-M,S,ABS:	מיומן	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+בבעייה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+המדור	DEF:NOUN-M,S,ABS:	מדור	I-NP	O
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+מומחים	:NOUN-M,P,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+מסוימים	:ADJECTIVE-M,P,ABS:	מסוים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

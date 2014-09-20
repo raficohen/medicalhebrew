@@ -1,0 +1,25 @@
+לקטיה	PREPOSITION:PROPERNAME:	קטיה	B-NP	O
+אולי	:ADVERB:	אולי	O	O
+פספסתי	:VERB-MF,S,1,PAST:	פספס	O	O
+אי	:NOUN-M,S,CONST:	אי	B-NP	Islands-C0022130
+מייל	:NOUN-M,S,ABS:	מייל	I-NP	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+בפיגור	PREPOSITION:NOUN-M,S,ABS:	פיגור	B-NP	Mental Retardation-C0025362
+באי	PREPOSITION:NOUN-M,S,CONST:	אי	B-NP	Islands-C0022130
+מיילים	:NOUN-M,P,ABS:	מייל	I-NP	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+עסקי	:NOUN-M,P,CONST:	עסק	B-NP	O
+הורים	:NOUN-M,P,ABS:	הורה	I-NP	parents-C0030551
+בביהח	:PROPERNAME:	בביהח	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+לא	:NEGATION:	לא	O	O
+נאלמתי	:VERB-MF,S,1,PAST:	נאלם	O	O
+ואשמח	CONJ:VERB-MF,S,1,FUTURE:	שמח	O	O
+להשאר	:VERB-TOINFINITIVE:	נשאר	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

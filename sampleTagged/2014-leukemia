@@ -1,0 +1,28 @@
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+חד	:PREFIX:	חד	I-NP	O
+משמעי	:ADJECTIVE-M,S,ABS:	משמעי	I-NP	O
+כי	:CONJUNCTION:	כי	O	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+הטחול	DEF:NOUN-M,S,ABS:	טחול	I-NP	spleen-C0037993
+מוגדל	:ADJECTIVE-M,S,ABS:	מוגדל	O	O
+,	:PUNCUATION:	,	O	O
+למה	:INTERROGATIVE:	למה	O	O
+הטחול	DEF:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+מוגדל	:ADJECTIVE-M,S,ABS:	מוגדל	O	O
+ולמה	PREPOSITION+CONJ:INTERROGATIVE:	ל	O	O
+ההגדלה	DEF:NOUN-F,S,ABS:	הגדלה	B-NP	increase-C0442805
+גורמת	:VERB-F,S,A,BEINONI:	גרם	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מלא	:ADJECTIVE-M,S,ABS:	מלא	O	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

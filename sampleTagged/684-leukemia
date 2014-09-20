@@ -1,0 +1,44 @@
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נעשו	:VERB-MF,P,3,PAST:	נעשה	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+אוטואמונית	:VERB-MF,P,3,PAST:	אוטואמונית	O	O
+ונראית	CONJ:VERB-F,S,A,BEINONI:	נראה	O	O
+בגדר	PREPOSITION+DEF:NOUN-F,S,ABS:	גדר	B-NP	Restricted-C0443288
+התקין	DEF:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גלי	:NOUN-M,P,CONST:	גל	B-NP	wave-C0678544
+החום	DEF:NOUN-M,S,ABS:	חום	I-NP	heat-C0018837
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשורים	:ADJECTIVE-M,P,ABS:	קשור	O	O
+לגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+המעבר	DEF:NOUN-M,S,ABS:	מעבר	I-NP	Transition-C2700061-ambigous
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+ובמידת	PREPOSITION+CONJ:NOUN-F,S,CONST:	ב	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+גם	:CONJUNCTION:	גם	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+ראומטולוג	:PROPERNAME:	ראומטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+כרגע	:ADVERB:	כרגע	O	O
+הסימנים	DEF:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+והבדיקות	CONJ+DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+לא	:NEGATION:	לא	O	O
+מצביעות	:VERB-F,P,A,BEINONI:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+אוטואמונית	:VERB-MF,P,3,PAST:	אוטואמונית	O	O
+פעילה	:ADJECTIVE-F,S,ABS:	פעיל	O	O
+.	:PUNCUATION:	.	O	O
+

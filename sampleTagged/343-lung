@@ -1,0 +1,33 @@
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+CT	:FOREIGN:	CT	I-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	I-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+שוללת	:VERB-F,S,A,BEINONI:	שלל	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+מוחלט	:ADJECTIVE-M,S,ABS:	מוחלט	I-NP	O
+נגע	:VERB-M,S,3,PAST:	נגע	O	Lesion-C0221198-ambigous
+תוך	:PREPOSITION:	תוך	O	O
+סימפוני	:NOUN-M,S,ABS:POSSESIVE-MF,S,1	סימפון	B-NP	bronchus-C0006255
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+כי	:CONJUNCTION:	כי	O	O
+הסבירות	DEF:NOUN-F,S,ABS:	סבירות	B-NP	Probability-C0033204
+קטנה	:ADJECTIVE-F,S,ABS:	קטן	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והשיעול	CONJ+DEF:NOUN-M,S,ABS:	שיעול	B-NP	cough-C0010200
+הדמי	DEF:NOUN-M,S,ABS:	דמי	I-NP	O
+חוזר	:ADJECTIVE-M,S,ABS:	חוזר	I-NP	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לאור	:PREPOSITION:	לאור	O	O
+עברך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	עבר	B-NP	past-C1444637
+על	:PREPOSITION:	על	O	O
+השלמה	:NOUN-F,S,ABS:	השלמה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+ברונכוסקופיה	:NOUN-F,S,ABS:	ברונכוסקופיה	I-NP	bronchoscopy-C0006290
+

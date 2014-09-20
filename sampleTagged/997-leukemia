@@ -1,0 +1,33 @@
+ככלל	PREPOSITION+DEF:NOUN-M,S,ABS:	כלל	B-NP	Rule-C0870077-ambigous
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+לוסק	:NOUN-M,S,ABS:	לוסק	B-NP	omeprazole-C0028978
+ובין	CONJ:PREPOSITION:	בין	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+יתרה	:NOUN-F,S,ABS:	יתרה	B-NP	O
+מכך	PREPOSITION:PRONOUN:	כך	O	O
+במקרין	PREPOSITION+DEF:PARTICIPLE-M,S,A,ABS:	הקרין	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+חשד	:NOUN-M,S,ABS:	חשד	B-NP	Suspicion-C0242114
+לדמם	:VERB-TOINFINITIVE:	דימם	O	O
+מהקיבה	PREPOSITION+DEF:NOUN-F,S,ABS:	קיבה	B-NP	stomach-C0038351
+נותנים	:VERB-M,P,A,BEINONI:	נתן	O	O
+לוסק	:NOUN-M,S,ABS:	לוסק	B-NP	omeprazole-C0028978
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לנטרל	:VERB-TOINFINITIVE:	נטרל	O	O
+חומציות	:NOUN-F,S,ABS:	חומציות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+לא	:NEGATION:	לא	O	O
+הגיעו	:VERB-MF,P,3,PAST:	הגיע	O	O
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+הניתנת	DEF:PARTICIPLE-F,S,A,ABS:	ניתן	O	O
+לקריאה	PREPOSITION:NOUN-F,S,ABS:	קריאה	B-NP	call-C0679006
+.	:PUNCUATION:	.	O	O
+

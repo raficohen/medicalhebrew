@@ -1,0 +1,26 @@
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+יותר	:ADVERB:	יותר	O	O
+מהתוצאות	PREPOSITION+DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מדוע	:ADVERB:	מדוע	O	O
+נלקחו	:VERB-MF,P,3,PAST:	נלקח	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

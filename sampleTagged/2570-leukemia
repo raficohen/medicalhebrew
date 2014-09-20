@@ -1,0 +1,72 @@
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	B-NP	hemoglobin-C0019046
+של	:SHEL_PREP:	של	I-NP	O
+17.9	:NUMERAL:	###NUMBER###	I-NP	O
+בבחורה	PREPOSITION:NOUN-F,S,ABS:	בחור	B-NP	 Young Adult-C0238598
+בת	:NOUN-F,S,CONST:	בת	I-NP	daughter-C0011011
+17	:NUMERAL:	###NUMBER###	I-NP	O
+מצביע	:VERB-M,S,A,BEINONI:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חובה	:NOUN-F,S,ABS:	חובה	B-NP	O
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+ולהבין	CONJ:VERB-TOINFINITIVE:	הבין	O	O
+מדוע	:ADVERB:	מדוע	O	O
+ההמוגלובין	:ADVERB:	ההמוגלובין	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+כך	:PRONOUN:	כך	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+כלליות	:ADJECTIVE-F,P,ABS:	כללי	I-NP	O
+לא	:NEGATION:	לא	O	O
+מספיקות	:VERB-F,P,A,BEINONI:	הספיק	O	O
+.	:PUNCUATION:	.	O	O
+
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+דרכים	:NOUN-F,P,ABS:	דרך	B-NP	Through-C0332273-ambigous
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+להורדת	PREPOSITION:NOUN-F,S,CONST:	הורדה	B-NP	Lower (action)-C2003888
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הדרך	DEF:NOUN-F,S,ABS:	דרך	B-NP	Through-C0332273-ambigous
+הנכונה	DEF:ADJECTIVE-F,S,ABS:	נכון	I-NP	O
+תיבחר	:VERB-F,S,3,FUTURE:	נבחר	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+ההמטולוג	DEF:NOUN-M,S,ABS:	ההמטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בהורדה	PREPOSITION:NOUN-F,S,ABS:	הורדה	B-NP	Lower (action)-C2003888
+מהירה	:ADJECTIVE-F,S,ABS:	מהיר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במקרה	:ADVERB:	במקרה	O	O
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+הקזה	:NOUN-F,S,ABS:	הקזה	B-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+הדרך	DEF:NOUN-F,S,ABS:	דרך	B-NP	Through-C0332273-ambigous
+המועדפת	DEF:PARTICIPLE-F,S,A,ABS:	הועדף	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

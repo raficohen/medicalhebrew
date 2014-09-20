@@ -1,0 +1,87 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+התקפי	:NOUN-M,P,CONST:	התקף	B-NP	seizure-C0036572
+השיעול	DEF:NOUN-M,S,ABS:	שיעול	I-NP	cough-C0010200
+לכאב	PREPOSITION+DEF:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+חשה	:VERB-F,S,A,BEINONI:	חש	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לחכות	:VERB-TOINFINITIVE:	חיכה	O	O
+בסבלנות	PREPOSITION:NOUN-F,S,ABS:	סבלנות	B-NP	patience-C0516943
+למיפוי	PREPOSITION:NOUN-M,S,CONST:	מיפוי	O	scan-C0034606
+עצמות	:NOUN-F,P,ABS:	עוצמה	B-NP	Power-C0031205
+.	:PUNCUATION:	.	O	O
+
+ממצאי	:NOUN-M,P,CONST:	ממצא	B-NP	Finding-C0243095
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+עשויים	:MODAL-M,P,A:	עשוי	O	O
+לתרום	:VERB-TOINFINITIVE:	תרם	O	O
+להבנה	PREPOSITION:NOUN-F,S,ABS:	הבנה	B-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באשר	:CONJUNCTION:	באשר	O	O
+לבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+דימות	:NOUN-F,P,ABS:	דימות	B-NP	O
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+:	:PUNCUATION:	:	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויהיה	CONJ:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+דימות	:NOUN-F,P,ABS:	דימות	I-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+המיפוי	DEF:NOUN-M,S,ABS:	מיפוי	B-NP	scan-C0034606
+,	:PUNCUATION:	,	O	O
+הרי	:CONJUNCTION:	הרי	O	O
+שנכון	REL-SUBCONJ:ADVERB:	נכון	O	O
+יותר	:ADVERB:	יותר	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+CT	:FOREIGN:	CT	O	O
+חזה	:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+(	:PUNCUATION:	(	O	O
+רק	:CONJUNCTION:	רק	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואכן	CONJ:ADVERB:	אכן	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בכך	:ADVERB:	בכך	I-NP	O
+)	:PUNCUATION:	)	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+MRI	:FOREIGN:	MRI	O	O
+.	:PUNCUATION:	.	O	O
+
+לסיום	PREPOSITION:NOUN-M,S,CONST:	סיום	B-NP	End-C0444930
+-	:PUNCUATION:	-	I-NP	O
+כדאי	:MODAL:	כדאי	I-NP	O
+לחשוב	:VERB-TOINFINITIVE:	חשב	O	O
+על	:PREPOSITION:	על	O	O
+דרכים	:NOUN-F,P,ABS:	דרך	B-NP	Through-C0332273-ambigous
+להקלה	PREPOSITION:NOUN-F,S,ABS:	הקלה	O	relieved-C1301771
+על	:PREPOSITION:	על	O	O
+המבנה	DEF:NOUN-M,S,ABS:	מבנה	B-NP	O
+השלדי	:PROPERNAME:	השלדי	I-NP	O
+בשעות	PREPOSITION+DEF:NOUN-F,P,ABS:	שעה	B-NP	hour-C0439227
+הארוכות	DEF:ADJECTIVE-F,P,ABS:	ארוך	I-NP	O
+בהן	PREPOSITION:PRONOUN-F,P,3:	הוא	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+רוכנת	:VERB-F,S,A,BEINONI:	רוכנת	I-NP	O
+לפנים	PREPOSITION+DEF:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+,	:PUNCUATION:	,	O	O
+במסגרת	PREPOSITION:NOUN-F,S,CONST:	מסגרת	O	O
+עבודתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	עבודה	B-NP	Work-C0043227
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION+DEF:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

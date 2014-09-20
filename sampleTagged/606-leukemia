@@ -1,0 +1,46 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+לא	:NEGATION:	לא	O	O
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	B-NP	O
+עשוי	:MODAL-M,S,A:	עשוי	O	O
+לרדת	:VERB-TOINFINITIVE:	ירד	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+מסויימת	:VERB-F,S,A,BEINONI:	סוים	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+דמום	:NOUN-F,P,CONST:	דמום	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+במחזור	PREPOSITION+DEF:NOUN-M,S,ABS:	מחזור	B-NP	reunion-C0035373
+(	:PUNCUATION:	(	I-NP	O
+ים	:PROPERNAME:	ים	I-NP	sea-C0036493
+)	:PUNCUATION:	)	O	O
+מכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מיני	:NOUN-M,P,CONST:	מין	I-NP	species-C1548151-ambigous
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+שרופא	REL-SUBCONJ:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+הנשים	DEF:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+מודע	:ADJECTIVE-M,S,ABS:	מודע	O	O
+עליהם	:PREPOSITION:PRONOMIAL-M,P,3	על	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בקרישה	PREPOSITION+DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+אחת	:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+מהם	:INTERROGATIVE:PRONOMIAL-M,P,3	מה	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+לא	:NEGATION:	לא	O	O
+השכיחה	:VERB-F,S,3,PAST:	השכיח	O	O
+.	:PUNCUATION:	.	O	O
+

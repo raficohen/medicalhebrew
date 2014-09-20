@@ -1,0 +1,66 @@
+כעקרון	PREPOSITION+DEF:NOUN-M,S,ABS:	עיקרון	B-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+במצחונות	PREPOSITION:ADJECTIVE-F,P,CONST:	מצחונות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מרכיב	:NOUN-M,S,ABS:	מרכיב	B-NP	component-C0449432
+חיוני	:ADJECTIVE-M,S,ABS:	חיוני	I-NP	O
+שאינו	REL-SUBCONJ:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מסופק	:VERB-M,S,A,BEINONI:	סופק	O	O
+בכללכלה	:VERB-M,S,2,IMPERATIVE:	בכללכלה	O	O
+צמחונית	:ADJECTIVE-F,S,ABS:	צמחוני	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ויטמין	:NOUN-M,S,ABS:	ויטמין	I-NP	vitamin-C0042890
+.	:PUNCUATION:	.	I-NP	O
+12	:NUMERAL:	###NUMBER###	I-NP	O
+לכן	PREPOSITION:NOUN-M,S,ABS:	כן	I-NP	O
+,	:PUNCUATION:	,	O	O
+אנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+ממליצים	:VERB-M,P,A,BEINONI:	המליץ	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המצחונים	DEF:PARTICIPLE-M,P,A,ABS:	המצחונים	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תוספת	:NOUN-F,S,ABS:	תוספת	B-NP	additional-C1524062
+של	:SHEL_PREP:	של	I-NP	O
+ויטמין	:NOUN-M,S,ABS:	ויטמין	I-NP	vitamin-C0042890
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+בויטמין	PREPOSITION:NOUN-M,S,ABS:	ויטמין	O	vitamin-C0042890
+לאורך	PREPOSITION:NOUN-M,S,CONST:	אורך	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לנזקים	PREPOSITION:NOUN-M,P,ABS:	נזק	O	damage-C1883709
+חמורים	:ADJECTIVE-M,P,ABS:	חמור	O	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+מצחונות	:ADJECTIVE-F,P,CONST:	מצחונות	B-NP	O
+בתקופת	PREPOSITION:NOUN-F,S,CONST:	תקופה	B-NP	Time periods-C0439582
+ההתבגרות	DEF:NOUN-F,S,ABS:	התבגרות	I-NP	teens-C1521910
+-	:PUNCUATION:	-	I-NP	O
+הידע	DEF:NOUN-M,S,ABS:	ידע	I-NP	O
+שלי	:SHEL_PREP:PRONOMIAL-MF,S,1	של	I-NP	O
+לא	:NEGATION:	לא	O	O
+מספיק	:ADVERB:	מספיק	O	O
+(	:PUNCUATION:	(	O	O
+אני	:NOUN-M,S,ABS:	אני	B-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+של	:SHEL_PREP:	של	I-NP	O
+מבוגרים	:NOUN-M,P,ABS:	מבוגר	I-NP	adults-C0001675
+)	:PUNCUATION:	)	O	O
+וכדאי	CONJ:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ילדים	:NOUN-M,P,ABS:	ילד	I-NP	children-C0008059
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בתחום	PREPOSITION+DEF:NOUN-M,S,ABS:	תחום	B-NP	O
+.	:PUNCUATION:	.	O	O
+

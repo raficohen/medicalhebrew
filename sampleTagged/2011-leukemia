@@ -1,0 +1,34 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+חריגות	:NOUN-F,P,ABS:	חריגה	B-NP	O
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+כדי	:CONJUNCTION:	כדי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+המשמעות	DEF:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+של	:SHEL_PREP:	של	I-NP	O
+החריגות	DEF:NOUN-F,P,ABS:	חריגה	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	O	O
+אצלי	:PREPOSITION:PRONOMIAL-MF,S,1	אצל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+אצל	:PREPOSITION:	אצל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לפני	:PREPOSITION:	לפני	O	O
+יעות	:VERB-M,S,3,FUTURE:	עיוות	O	O
+לא	:NEGATION:	לא	O	O
+כדאי	:MODAL:	כדאי	O	O
+להכנס	:VERB-TOINFINITIVE:	נכנס	O	O
+להריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+!	:PUNCUATION:	!	O	O
+

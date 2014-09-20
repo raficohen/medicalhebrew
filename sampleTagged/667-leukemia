@@ -1,0 +1,22 @@
+קודם	:ADVERB:	קודם	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+האונקולוג	DEF:NOUN-M,S,ABS:	האונקולוג	B-NP	O
+שנית	:ADVERB:	שנית	O	scarlet fever-C0036285
+,	:PUNCUATION:	,	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+עדין	:ADJECTIVE-M,S,ABS:	עדין	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+לבקש	:VERB-TOINFINITIVE:	ביקש	O	O
+ביקור	:NOUN-M,S,ABS:	ביקור	B-NP	visit-C0545082
+במכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+.	:PUNCUATION:	.	O	O
+

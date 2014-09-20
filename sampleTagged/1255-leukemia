@@ -1,0 +1,30 @@
+הפגם	DEF:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+הטרוזיגוטי	:ADJECTIVE-M,S,ABS:	הטרוזיגוטי	O	heterozygote-C0019425
+ל	:PREPOSITION:	ל	O	O
+MTHFR	:FOREIGN:	MTHFR	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לתקן	:VERB-TOINFINITIVE:	תיקן	O	O
+בלקיחת	PREPOSITION:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+חי	:NOUN-M,S,ABS:	חי	I-NP	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+הדברים	DEF:NOUN-M,P,ABS:	דבר	I-NP	O
+לא	:NEGATION:	לא	O	O
+משמעותיים	:ADJECTIVE-M,P,ABS:	משמעותי	O	O
+.	:PUNCUATION:	.	O	O
+
+כמובן	:ADVERB:	כמובן	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+גם	:CONJUNCTION:	גם	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

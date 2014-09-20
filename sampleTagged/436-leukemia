@@ -1,0 +1,24 @@
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מה	:INTERROGATIVE:	מה	I-NP	O
+שניתן	REL-SUBCONJ:MODAL-M,S,A:	ניתן	O	O
+לומר	:VERB-TOINFINITIVE:	אמר	O	O
+כי	:CONJUNCTION:	כי	O	O
+בסה"כ	:ADVERB:	בסה"כ	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הן	:CONJUNCTION:	הן	O	O
+בגדר	PREPOSITION+DEF:NOUN-F,S,ABS:	גדר	B-NP	Restricted-C0443288
+התקין	DEF:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+אפשרות	:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+וסיכונים	CONJ:NOUN-M,P,ABS:	סיכון	I-NP	risk-C0035647
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+.	:PUNCUATION:	.	O	O
+

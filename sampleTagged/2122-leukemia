@@ -1,0 +1,30 @@
+אומנם	:ADVERB:	אומנם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+תופעה	:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+של	:SHEL_PREP:	של	I-NP	O
+הרס	:NOUN-M,S,ABS:	הרס	I-NP	O
+נויטרופילים	:ADJECTIVE-M,S,ABS:	נויטרופילים	I-NP	O
+בגלל	:PREPOSITION:	בגלל	O	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+עצמיים	:ADJECTIVE-M,P,ABS:	עצמי	I-NP	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+הנמצאת	DEF:PARTICIPLE-F,S,A,ABS:	נמצא	O	O
+בשימוש	PREPOSITION:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	O	need-C0027552
+אבחון	:NOUN-M,S,ABS:	אבחון	B-NP	diagnosis-C0011900
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+ילדים	:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+.	:PUNCUATION:	.	O	O
+

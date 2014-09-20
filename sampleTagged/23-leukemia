@@ -1,0 +1,43 @@
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+כן	:ADVERB:	כן	O	O
+.	:PUNCUATION:	.	O	O
+
+CLL	:FOREIGN:	CLL	O	O
+ראשי	:NOUN-M,P,CONST:	ראש	B-NP	head-C0018670
+תבות	:NOUN-F,S,ABS:	תבות	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+CHRONIC	:FOREIGN:	CHRONIC	I-NP	O
+LYMPHOCYTIC	:FOREIGN:	LYMPHOCYTIC	I-NP	O
+LEUKEMIA	:FOREIGN:	LEUKEMIA	I-NP	O
+סרטן	:NOUN-M,S,CONST:	סרטן	I-NP	malignancy-C0006826
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+כרוני	PREPOSITION:PROPERNAME-MF,S:	רוני	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+דרגות	:NOUN-F,P,ABS:	דרגה	B-NP	rank-C0699794
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+חומרה	:NOUN-F,S,ABS:	חומרה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לביטוח	PREPOSITION+DEF:NOUN-M,S,ABS:	ביטוח	B-NP	O
+אפשר	:MODAL:	אפשר	O	O
+לציין	:VERB-TOINFINITIVE:	ציין	O	O
+שהחולה	REL-SUBCONJ+DEF:ADJECTIVE-M,S,ABS:	חולה	B-NP	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+ולא	CONJ:NEGATION:	לא	O	O
+מקבל	:VERB-M,S,A,BEINONI:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כמוטרפי	PREPOSITION:ADJECTIVE-M,P,CONST:	מוטרף	O	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אתר	:NOUN-M,S,ABS:	אתר	B-NP	 Ether-C0014994-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+העמותה	DEF:NOUN-F,S,ABS:	עמותה	I-NP	O
+:	:PUNCUATION:	:	O	O
+www	:FOREIGN:	www	O	O
+.	:PUNCUATION:	.	O	O
+
+cll.co.il	:FOREIGN:	cll.co.il	O	O
+

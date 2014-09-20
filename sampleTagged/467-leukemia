@@ -1,0 +1,25 @@
+בטח	:ADVERB:	בטח	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+וסברים	CONJ:NOUN-M,P,ABS:	סבר	I-NP	O
+מההמטולוג	PREPOSITION:NOUN-M,S,CONST:	ההמטולוג	B-NP	O
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+רק	:CONJUNCTION:	רק	O	O
+מוסיף	:VERB-M,S,A,BEINONI:	הוסיף	O	O
+שבגיל	PREPOSITION+REL-SUBCONJ:NOUN-M,S,CONST:	ב	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ועם	CONJ:PREPOSITION:	עם	O	O
+סוג	:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+,	:PUNCUATION:	,	O	O
+לצערי	:ADVERB:	לצערי	O	O
+,	:PUNCUATION:	,	O	O
+הפרוגנוזה	DEF:NOUN-F,S,ABS:	הפרוגנוזה	B-NP	O
+לא	:NEGATION:	לא	O	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	O	good-C0205170
+

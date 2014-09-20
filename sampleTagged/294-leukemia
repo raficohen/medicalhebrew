@@ -1,0 +1,35 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+בלוטות	:NOUN-F,P,ABS:	בלוטה	I-NP	gland-C1285092
+באזורים	PREPOSITION:NOUN-M,P,ABS:	אזור	B-NP	area-C0017446
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+קליניים	:ADJECTIVE-M,P,ABS:	קליני	I-NP	clinical-C0205210
+?	:PUNCUATION:	?	O	O
+
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+במשקל	PREPOSITION:NOUN-M,S,ABS:	משקל	B-NP	weight-C0043100
+?	:PUNCUATION:	?	O	O
+
+חום	:NOUN-M,S,ABS:	חום	B-NP	heat-C0018837
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בבלוטה	PREPOSITION:NOUN-F,S,ABS:	בלוטה	B-NP	gland-C1285092
+בודדת	:ADJECTIVE-F,S,ABS:	בודד	I-NP	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+אפשרות	:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+להקדים	:VERB-TOINFINITIVE:	הקדים	O	O
+את	:AT_PREP:	את	B-NP	O
+התור	DEF:NOUN-M,S,ABS:	תור	I-NP	turn-C1709743
+-	:PUNCUATION:	-	I-NP	O
+אפשר	:MODAL:	אפשר	I-NP	O
+לחכות	:VERB-TOINFINITIVE:	חיכה	O	O
+

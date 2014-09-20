@@ -1,0 +1,40 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שלממצא	PREPOSITION+REL-SUBCONJ:NOUN-M,S,ABS:	ל	B-NP	O
+בבלוטות	PREPOSITION+DEF:NOUN-F,P,ABS:	בלוטה	B-NP	gland-C1285092
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+ללופוס	PREPOSITION:NOUN-M,S,ABS:	לופוס	B-NP	lupus-C0024131
+.	:PUNCUATION:	.	O	O
+
+2	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+כדי	:CONJUNCTION:	כדי	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+וכן	CONJ:CONJUNCTION:	כן	O	O
+להסתכל	:VERB-TOINFINITIVE:	הסתכל	O	O
+ביחד	:ADVERB:	ביחד	O	O
+עם	:PREPOSITION:	עם	O	O
+פטולוג	:ADJECTIVE-F,P,CONST:	פטולוג	O	O
+מוסמך	:NOUN-M,S,ABS:	מוסמך	B-NP	O
+על	:PREPOSITION:	על	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+הביופסיה	DEF:NOUN-F,S,ABS:	ביופסיה	I-NP	biopsy-C0005558
+.	:PUNCUATION:	.	O	O
+
+3	:NUMERAL:	###NUMBER###	B-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לחכות	:VERB-TOINFINITIVE:	חיכה	O	O
+שבועיים	:ADJECTIVE-M,P,ABS:	שבועי	B-NP	O
+

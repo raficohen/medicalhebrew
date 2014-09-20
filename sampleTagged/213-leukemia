@@ -1,0 +1,20 @@
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+לתוצאות	PREPOSITION+DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+הללו	:PRONOUN-M,P,3:	הללו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+להסברים	PREPOSITION:NOUN-M,P,ABS:	הסבר	B-NP	explanation-C0681841
+וקבלת	CONJ:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+הנחיות	:NOUN-F,P,ABS:	הנחיה	B-NP	O
+

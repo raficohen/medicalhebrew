@@ -1,0 +1,25 @@
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+בעולם	PREPOSITION+DEF:NOUN-M,S,ABS:	עולם	B-NP	world-C2700280
+אז	:CONJUNCTION:	אז	O	O
+כ	:PREPOSITION:	כ	O	O
+90	:NUMERAL:	###NUMBER###	B-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+מהמקרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+סרטן	:NOUN-M,S,CONST:	סרטן	I-NP	malignancy-C0006826
+הריאות	DEF:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+נמנעים	:VERB-M,P,A,BEINONI:	נמנע	O	O
+.	:PUNCUATION:	.	O	O
+
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+מגדיל	:VERB-M,S,A,BEINONI:	הגדיל	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+20	:NUMERAL:	###NUMBER###	I-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+לחולות	PREPOSITION+DEF:NOUN-M,P,ABS:	חול	B-NP	O
+בסרטן	PREPOSITION:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+

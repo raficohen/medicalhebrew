@@ -1,0 +1,26 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+יוצאת	:VERB-F,S,A,BEINONI:	יצא	O	O
+מתוך	:PREPOSITION:	מתוך	O	O
+הנחה	:NOUN-F,S,ABS:	הנחה	B-NP	Hypothesis-C1512571
+שבזמן	PREPOSITION+REL-SUBCONJ:NOUN-M,S,ABS:	ב	B-NP	O
+שאינך	REL-SUBCONJ:COPULA-M,S,2,BEINONI,NEGATIVE:	הוא	O	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+את	:AT_PREP:	את	B-NP	O
+לא	:NEGATION:	לא	O	O
+מקבלת	:VERB-F,S,A,BEINONI:	קיבל	O	O
+קלקסאן	:NOUN-M,S,ABS:	קלקסאן	B-NP	heparin-C0019134
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+קלקסאן	:NOUN-M,S,ABS:	קלקסאן	B-NP	heparin-C0019134
+אלא	:CONJUNCTION:	אלא	O	O
+רק	:CONJUNCTION:	רק	O	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	O	O
+שאת	:NOUN-F,S,ABS:	שאת	B-NP	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,39 @@
+נכון	:ADVERB:	נכון	O	O
+ששאלתך	REL-SUBCONJ:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+ארוכה	:ADJECTIVE-F,S,ABS:	ארוך	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+החשד	DEF:NOUN-M,S,ABS:	חשד	B-NP	Suspicion-C0242114
+לגרימת	PREPOSITION:NOUN-F,S,CONST:	גרימה	B-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+.	:PUNCUATION:	.	O	O
+
+מחלת	:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+ITP	:FOREIGN:	ITP	I-NP	O
+נוצרת	:VERB-F,S,A,BEINONI:	נצר	O	O
+מנוגדנים	PREPOSITION:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+עצמיים	:ADJECTIVE-M,P,ABS:	עצמי	I-NP	O
+נגד	:PREPOSITION:	נגד	O	O
+תסיות	:VERB-M,S,2,FUTURE:	תסיות	B-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+כעת	:ADVERB:	כעת	O	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+ברמיסיה	PREPOSITION:NOUN-F,S,ABS:	רמיסיה	B-NP	ramisia-C1904417
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+מעקב	:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

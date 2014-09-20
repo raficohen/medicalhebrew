@@ -1,0 +1,37 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+שהייתה	REL-SUBCONJ:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+סבלנות	:NOUN-F,S,ABS:	סבלנות	B-NP	patience-C0516943
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+יותר	:ADVERB:	יותר	I-NP	O
+במתן	PREPOSITION:NOUN-M,S,CONST:	מתן	I-NP	negotiations-C0680727
+12	:NUMERAL:	###NUMBER###	I-NP	O
+B	:FOREIGN:	B	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בהמשך	PREPOSITION:NOUN-M,S,CONST:	המשך	O	continued-C0549178
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+דרך	:PREPOSITION:	דרך	O	O
+הוריד	DEF:NOUN-M,S,ABS:	וריד	B-NP	vein-C0042449
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להוסיף	:VERB-TOINFINITIVE:	הוסיף	O	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+כדור	:NOUN-M,S,ABS:	כדור	B-NP	Pills-C0994475
+ביום	PREPOSITION:NOUN-M,S,CONST:	יום	B-NP	O
+מ"ג	:NOUN-M,S,ABS:	מ"ג	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+5	:NUMERAL:	###NUMBER###	B-NP	O
+

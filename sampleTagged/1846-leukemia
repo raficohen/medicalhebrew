@@ -1,0 +1,53 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כמו	:CONJUNCTION:	כמו	O	O
+שאמרתי	REL-SUBCONJ:VERB-MF,S,1,PAST:	אמר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+בעבר	PREPOSITION+DEF:NOUN-M,S,ABS:	עבר	B-NP	past-C1444637
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שהיה	REL-SUBCONJ:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+שבוצע	REL-SUBCONJ:VERB-M,S,3,PAST:	בוצע	O	O
+.	:PUNCUATION:	.	O	O
+
+מכיוון	:CONJUNCTION:	מכיוון	O	O
+שביצעת	REL-SUBCONJ:VERB-F,S,2,PAST:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הברור	DEF:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+וקיבלת	CONJ:VERB-F,S,2,PAST:	קיבל	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+מתוך	:PREPOSITION:	מתוך	I-NP	O
+3	:NUMERAL:	###NUMBER###	I-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שאינן	REL-SUBCONJ:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+מן	:PREPOSITION:	מן	O	O
+הראוי	DEF:ADJECTIVE-M,S,ABS:	ראוי	B-NP	O
+שתתיחסי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	התייחס	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנסיבות	PREPOSITION:NOUN-F,P,CONST:	נסיבה	B-NP	O
+אלה	:NOUN-F,S,ABS:	אל	I-NP	deity-C0681169-ambigous
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+שתמשיכי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	המשיך	O	O
+את	:AT_PREP:	את	B-NP	O
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	I-NP	O
+עד	:PREPOSITION:	עד	O	O
+סוף	:NOUN-M,S,CONST:	סוף	B-NP	O
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

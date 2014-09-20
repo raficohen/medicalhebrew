@@ -1,0 +1,57 @@
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+עדיין	:ADVERB:	עדיין	O	O
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מתחיל	:VERB-M,S,A,BEINONI:	התחיל	O	O
+.	:PUNCUATION:	.	O	O
+
+אנסה	:VERB-MF,S,1,FUTURE:	ניסה	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+קישור	:NOUN-M,S,ABS:	קישור	B-NP	connection-C0449379
+נכון	:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+ולהעבירו	CONJ:VERB-TOINFINITIVE:ACC-NOM-M,S,3	העביר	O	O
+.	:PUNCUATION:	.	O	O
+
+פעילות	:NOUN-F,S,ABS:	פעילות	B-NP	activity-C0441655
+ספורטיבית	:ADJECTIVE-F,S,ABS:	ספורטיבי	I-NP	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+,	:PUNCUATION:	,	O	O
+כולל	:NOUN-M,S,CONST:	כולל	O	including-C0332257
+שחיה	:NOUN-F,S,ABS:	שחייה	B-NP	swimming-C0039003
+לילדים	PREPOSITION:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+עם	:PREPOSITION:	עם	O	O
+פגיעה	:NOUN-F,S,ABS:	פגיעה	B-NP	O
+במבנה	PREPOSITION+DEF:NOUN-M,S,ABS:	מבנה	B-NP	O
+הגרמי	DEF:ADJECTIVE-M,S,ABS:	גרמי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+ילד	:VERB-M,S,3,PAST:	ילד	O	children-C0008059
+בן	:PREPOSITION:PRONOMIAL-F,P,3	ב	B-NP	O
+11	:NUMERAL:	###NUMBER###	B-NP	O
+עדיין	:ADVERB:	עדיין	I-NP	O
+בשלבי	PREPOSITION:NOUN-M,P,CONST:	שלב	B-NP	stage-C0205390
+גדילה	:NOUN-F,S,ABS:	גדילה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שווה	:CONJUNCTION:	שווה	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+אחת	:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+לכמה	PREPOSITION:QUANTIFIER-CONST:	כמה	B-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+ולהחליט	CONJ:VERB-TOINFINITIVE:	החליט	O	O
+בתום	PREPOSITION:NOUN-M,S,CONST:	תום	B-NP	O
+הגדילה	DEF:NOUN-F,S,ABS:	גדילה	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+בכלל	:ADVERB:	בכלל	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+תיקון	:NOUN-M,S,ABS:	תיקון	B-NP	O
+וכיצד	CONJ:ADVERB:	כיצד	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+עוזי	:PROPERNAME:	עוזי	B-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

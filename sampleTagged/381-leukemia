@@ -1,0 +1,25 @@
+איו	:NOUN-M,S,ABS:POSSESIVE-F,S,3	אי	B-NP	Islands-C0022130
+חוקים	:NOUN-M,P,ABS:	חוק	B-NP	O
+בנוגע	:ADVERB:	בנוגע	I-NP	O
+למיקום	PREPOSITION:NOUN-M,S,CONST:	מיקום	B-NP	location-C0450429
+הרלפס	:VERB-F,S,2,PAST:	הרלפס	O	O
+!	:PUNCUATION:	!	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאת/את	REL-SUBCONJ:PROPERNAME:	את/את	B-NP	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+במחלקה	PREPOSITION:NOUN-F,S,ABS:	מחלקה	B-NP	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+וההמטולוגים	CONJ+DEF:NOUN-M,P,ABS:	ההמטולוגים	B-NP	O
+יוכלו	:MODAL-MF,P,3,FUTURE:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+

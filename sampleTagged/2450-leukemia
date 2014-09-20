@@ -1,0 +1,61 @@
+ANA	:FOREIGN:	ANA	O	O
+חיובי	:ADJECTIVE-M,S,ABS:	חיובי	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+לא	:NEGATION:	לא	I-NP	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	I-NP	O
+(	:PUNCUATION:	(	O	O
+אם	:CONJUNCTION:	אם	O	O
+כי	:CONJUNCTION:	כי	O	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+יותר	:ADVERB:	יותר	O	O
+בנשים	PREPOSITION:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+איזה	:QUANTIFIER-CONST:	איזה	B-NP	O
+סוג	:NOUN-M,S,ABS:	סוג	I-NP	kind-C0332307
+ANA	:FOREIGN:	ANA	O	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+(	:PUNCUATION:	(	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+סוגים	:NOUN-M,P,ABS:	סוג	I-NP	kind-C0332307
+)	:PUNCUATION:	)	O	O
+ובאיזה	PREPOSITION+CONJ:QUANTIFIER-CONST:	ב	O	O
+כייל	:VERB-M,S,2,IMPERATIVE:	כייל	O	titer-C0475208
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מיקרה	:PARTICIPLE-M,S,A:POSSESIVE-F,S,3	ייקר	I-NP	O
+,	:PUNCUATION:	,	O	O
+ANA	:FOREIGN:	ANA	O	O
+לכלעצמו	PREPOSITION:NOUN-M,S,ABS:	כלעצמו	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+הוכחה	:NOUN-F,S,ABS:	הוכחה	B-NP	O
+לקיום	PREPOSITION:NOUN-M,S,CONST:	קיום	O	Exist-C2987476
+שום	:QUANTIFIER-CONST:	שום	B-NP	O
+דבר	:NOUN-M,S,ABS:	דבר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בממצאים	PREPOSITION:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+כרוניים	:ADJECTIVE-M,P,ABS:	כרוניים	I-NP	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	I-NP	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+להם	:PREPOSITION:PRONOMIAL-M,P,3	ל	B-NP	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	B-NP	importance-C1705104
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+מרובה	:ADJECTIVE-F,S,ABS:	מרובה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

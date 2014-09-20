@@ -1,0 +1,20 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+את	:AT_PREP:	את	B-NP	O
+ההצעה	DEF:NOUN-F,S,ABS:	הצעה	I-NP	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+מספר	PREPOSITION:NOUN-M,S,CONST:	ספר	B-NP	Books-C0006002
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+ולחזור	CONJ:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+ההומוציסטאין	DEF:NOUN-F,S,ABS:	ההומוציסטאין	I-NP	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אין	:NEGATION:	אין	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	O	O
+

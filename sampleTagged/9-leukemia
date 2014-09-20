@@ -1,0 +1,24 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+השפעה	:NOUN-F,S,ABS:	השפעה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לנוגדנים	PREPOSITION:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+נגד	:PREPOSITION:	נגד	O	O
+מנגנון	:NOUN-M,S,CONST:	מנגנון	B-NP	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+להשלמת	PREPOSITION:NOUN-F,S,CONST:	השלמה	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+והנחיות	CONJ:NOUN-F,P,ABS:	הנחיה	I-NP	O
+

@@ -1,0 +1,45 @@
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+מכובדות	:ADJECTIVE-F,P,ABS:	מכובד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ככל	:CONJUNCTION:	ככל	O	O
+שתשאלי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	שאל	O	O
+יותר	:ADVERB:	יותר	O	O
+רופאים	:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+תקבלי	:VERB-F,S,2,FUTURE:	קבל	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+תשובות	:NOUN-F,P,ABS:	תשובה	I-NP	answer-C1706817
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION:NOUN-F,S,CONST:	אם	B-NP	Mother-C0026591-ambigous
+ההחלטה	DEF:NOUN-F,S,ABS:	החלטה	I-NP	decision-C0679006
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+להסתמך	:VERB-TOINFINITIVE:	הסתמך	O	O
+על	:PREPOSITION:	על	O	O
+עצתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	עצה	B-NP	sacrum-C0036037
+של	:SHEL_PREP:	של	I-NP	O
+פרופ	:PROPERNAME:	פרוף	I-NP	O
+קופרמינץ	:PROPERNAME:	קופרמינץ	I-NP	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להפנות	:VERB-TOINFINITIVE:	נפנה	O	O
+השאלות	:NOUN-F,P,ABS:	השאלה	B-NP	grinding-C0185051
+אליו	:PREPOSITION:PRONOMIAL-M,S,3	אל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+תרצי	:VERB-F,S,2,FUTURE:	רצה	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+סביב	:PREPOSITION:	סביב	O	O
+שולחן	:NOUN-M,S,ABS:	שולחן	B-NP	O
+.	:PUNCUATION:	.	O	O
+

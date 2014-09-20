@@ -1,0 +1,58 @@
+טיסה	:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+ממושכת	:ADJECTIVE-F,S,ABS:	ממושך	I-NP	O
+מוכרת	:ADJECTIVE-F,S,ABS:	מוכר	I-NP	O
+כגורם	PREPOSITION:NOUN-M,S,ABS:	גורם	B-NP	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+להתפתחות	PREPOSITION:NOUN-F,S,CONST:	התפתחות	B-NP	O
+פקקת	:VERB-F,S,2,PAST:	פקק	O	O
+ברגליים	PREPOSITION+DEF:NOUN-F,P,ABS:	רגל	B-NP	foot-C0016504
+,	:PUNCUATION:	,	O	O
+DVT	:FOREIGN:	DVT	O	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+לאור	:PREPOSITION:	לאור	O	O
+גילך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	גיל	B-NP	O
+הצעיר	DEF:ADJECTIVE-M,S,ABS:	צעיר	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+באם	:CONJUNCTION:	באם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+גורם סיכון	:TERM:	גורם סיכון	O	risk factor-C0035648
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בעקבות	:PREPOSITION:	בעקבות	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+קובע	:VERB-M,S,A,BEINONI:	קבע	O	O
+מדיניות	:NOUN-F,S,CONST:	מדיניות	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+-	:PUNCUATION:	-	O	O
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+חוזרת	:ADJECTIVE-F,S,ABS:	חוזר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+US	:FOREIGN:	US	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מוצא	:VERB-M,S,A,BEINONI:	מצא	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לתרומבוציטופניה	PREPOSITION:NOUN-F,S,ABS:	תרומבוציטופניה	B-NP	thrombocytopenia-C0040034
+שנמצאה	REL-SUBCONJ:VERB-F,S,3,PAST:	נמצא	O	O
+בילדות	PREPOSITION+DEF:NOUN-F,S,ABS:	ילדות	B-NP	childhood-C0231335
+.	:PUNCUATION:	.	O	O
+

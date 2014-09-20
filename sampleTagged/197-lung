@@ -1,0 +1,19 @@
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+רקע	:NOUN-M,S,ABS:	רקע	I-NP	background-C1706907
+יתכן	:MODAL:	ייתכן	O	O
+שאין	REL-SUBCONJ:NEGATION:	אין	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בגידול	PREPOSITION+DEF:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+ראשנוי	:VERB-M,P,A,BEINONI:	ראשנוי	O	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+מורכב	:ADJECTIVE-M,S,ABS:	מורכב	O	O
+ודורש	CONJ:VERB-M,S,A,BEINONI:	דרש	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+שעת	:NOUN-F,S,CONST:	שעה	I-NP	hour-C0439227
+של	:SHEL_PREP:	של	I-NP	O
+אונקולוג	:PROPERNAME:	אונקולוג	I-NP	O
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

@@ -1,0 +1,29 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בערך	PREPOSITION:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+לפי	:PREPOSITION:	לפי	O	O
+דעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	דעה	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+מספיק	:ADVERB:	מספיק	I-NP	O
+רלבנטי	:ADJECTIVE-M,S,ABS:	רלבנטי	I-NP	O
+לקביעת	PREPOSITION:NOUN-F,S,CONST:	קביעה	B-NP	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	I-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+אפשר	:MODAL:	אפשר	O	O
+גם	:CONJUNCTION:	גם	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+במרפאת	PREPOSITION:NOUN-F,S,CONST:	מרפאה	B-NP	Clinic-C0442592
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+פר	:NOUN-M,S,ABS:	פר	I-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

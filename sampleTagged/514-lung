@@ -1,0 +1,34 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+בעיות	:NOUN-F,P,ABS:	בעיה	I-NP	problem-C0033213
+שכול	REL-SUBCONJ:QUANTIFIER-CONST:	כול	B-NP	O
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+מהן	:INTERROGATIVE:PRONOMIAL-F,P,3	מה	B-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+אחראית	:ADJECTIVE-F,S,ABS:	אחראי	O	O
+על	:PREPOSITION:	על	O	O
+תלונותיך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	תלונה	B-NP	complaint-C0277786
+.	:PUNCUATION:	.	O	O
+
+אנא	:INTERJECTION:	אנא	B-NP	O
+הבדקי	:VERB-F,S,2,FUTURE:	הבדקי	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+כירורג	:PROPERNAME:	כירורג	I-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+ובהסתמך	CONJ:VERB-TOINFINITIVE:ACC-NOM-M,S,2	נסתם	O	O
+על	:PREPOSITION:	על	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+יוחלט	:VERB-M,S,3,FUTURE:	הוחלט	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+העיקרית	DEF:ADJECTIVE-F,S,ABS:	עיקרי	I-NP	O
+ומה	CONJ:INTERROGATIVE:	מה	I-NP	O
+הפתרון	DEF:NOUN-M,S,ABS:	פתרון	B-NP	solution-C0037633
+המוצע	DEF:ADJECTIVE-M,S,ABS:	מוצע	I-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+

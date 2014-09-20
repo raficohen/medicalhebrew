@@ -1,0 +1,47 @@
+קודם	:ADVERB:	קודם	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+ביופסיה	:NOUN-F,S,ABS:	ביופסיה	I-NP	biopsy-C0005558
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+על	:PREPOSITION:	על	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+כבר	:ADVERB:	כבר	O	O
+בשלב	PREPOSITION:NOUN-M,S,CONST:	שלב	B-NP	stage-C0205390
+ביופסיה	:NOUN-F,S,ABS:	ביופסיה	I-NP	biopsy-C0005558
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+משלוח	:NOUN-M,S,CONST:	משלוח	B-NP	O
+חומר	:NOUN-M,S,ABS:	חומר	I-NP	material-C0520510
+לבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שיעזרו	REL-SUBCONJ:VERB-MF,P,3,FUTURE:	עזר	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	I-NP	O
+להחליט	:VERB-TOINFINITIVE:	החליט	O	O
+איזה	:QUANTIFIER-CONST:	איזה	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+כמוטרפי	PREPOSITION:ADJECTIVE-M,P,CONST:	מוטרף	B-NP	O
+עדיף	:ADJECTIVE-M,S,ABS:	עדיף	I-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לשוחח	:VERB-TOINFINITIVE:	שוחח	O	O
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+מטפל	:NOUN-M,S,ABS:	מטפל	I-NP	O
+כן	:CONJUNCTION:	כן	O	O
+לשלוח	:VERB-TOINFINITIVE:	שלח	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+למוטציה	PREPOSITION:NOUN-F,S,ABS:	מוטציה	O	mutation-C0026882
+ב	:PREPOSITION:	ב	O	O
+EGFR	:FOREIGN:	EGFR	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+באירסה	:PROPERNAME:	באירסה	I-NP	O
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

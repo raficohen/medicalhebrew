@@ -1,0 +1,27 @@
+מצבך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	מצב	B-NP	Condition-C0348080
+לא	:NEGATION:	לא	I-NP	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאתה	REL-SUBCONJ:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+במעב	PREPOSITION:NOUN-M,S,CONST:	מעב	B-NP	O
+המטולוגי	DEF:NOUN-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+/	:PUNCUATION:	/	O	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לסידור	PREPOSITION:NOUN-M,S,CONST:	סידור	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מונע	:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+הנסיעה	DEF:NOUN-F,S,ABS:	נסיעה	B-NP	trip-C0077275
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

@@ -1,0 +1,39 @@
+העליה	DEF:NOUN-F,S,ABS:	עלייה	B-NP	O
+בכדוריות	PREPOSITION:NOUN-F,S,CONST:	כדוריות	B-NP	O
+הלבנות	:NOUN-F,P,ABS:	הלבנה	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בפרדניזון	PREPOSITION:NOUN-M,S,ABS:	פרדניזון	B-NP	prednisone-C0032952
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והמינון	CONJ+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+יופחת	:VERB-M,S,3,FUTURE:	הופחת	O	O
+או	:CONJUNCTION:	או	O	O
+יופסק	:VERB-M,S,3,FUTURE:	הופסק	O	O
+-	:PUNCUATION:	-	O	O
+כדאי	:MODAL:	כדאי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לאמת	:VERB-TOINFINITIVE:	אימת	O	O
+את	:AT_PREP:	את	B-NP	O
+ההנחה	DEF:NOUN-F,S,ABS:	הנחה	I-NP	Hypothesis-C1512571
+הנ"ל	:PROPERNAME:	הנ"ל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+שאלתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+האחרונה	DEF:ADJECTIVE-F,S,ABS:	אחרון	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+איננו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	O	O
+בכלל	:ADVERB:	בכלל	O	O
+.	:PUNCUATION:	.	O	O
+

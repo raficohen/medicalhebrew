@@ -1,0 +1,24 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+דחיפות	:NOUN-F,S,ABS:	דחיפות	B-NP	urgency-C0085606
+!	:PUNCUATION:	!	O	O
+
+התור	DEF:NOUN-M,S,ABS:	תור	B-NP	turn-C1709743
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+קרוב	:ADJECTIVE-M,S,ABS:	קרוב	O	Near-C1706276
+....	:PUNCUATION:	....	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחקות	:VERB-TOINFINITIVE:	חיקה	O	O
+ולשמוע	CONJ:VERB-TOINFINITIVE:	שמע	O	O
+את	:AT_PREP:	את	B-NP	O
+ההנחיות	DEF:NOUN-F,P,ABS:	הנחיה	I-NP	O
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+בהתאם	:ADVERB:	בהתאם	O	O
+להיסטוריה	PREPOSITION+DEF:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

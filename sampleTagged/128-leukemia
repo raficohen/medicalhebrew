@@ -1,0 +1,30 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+סבור	:ADJECTIVE-M,S,ABS:	סבור	O	O
+ששיחרור	REL-SUBCONJ:NOUN-M,S,ABS:	שיחרור	B-NP	O
+מהמחלקה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלקה	B-NP	O
+ללא	:PREPOSITION:	ללא	O	O
+טיפול	:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+התאים	DEF:NOUN-M,P,ABS:	תא	I-NP	cell-C0007634
+לממצאים	PREPOSITION+DEF:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+שהתקבלו	REL-SUBCONJ:VERB-MF,P,3,PAST:	התקבל	O	O
+.	:PUNCUATION:	.	O	O
+
+ד	:NUMERAL:	ד	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+דיימר	:NOUN-M,S,ABS:POSSESIVE-M,S,3	דיים	I-NP	O
+בעצמו	PREPOSITION:PRONOUN:PRONOMIAL-M,S,3	עצמו	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+אבחנתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	אבחנה	B-NP	diagnosis-C0011900
+ל	:PREPOSITION:	ל	O	O
+תסחיף	:NOUN-M,S,ABS:	תסחיף	B-NP	embolism-C0013922
+ריאתית	:ADJECTIVE-F,S,ABS:	ריאתית	I-NP	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+ערך	:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+לא	:NEGATION:	לא	O	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+.	:PUNCUATION:	.	O	O
+

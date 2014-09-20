@@ -1,0 +1,21 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+ישיר	:ADJECTIVE-M,S,ABS:	ישיר	I-NP	O
+בין	:PREPOSITION:	בין	O	O
+פוליצטמיה	:PROPERNAME:	פוליצטמיה	B-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+פרפור	:NOUN-M,S,CONST:	פרפור	B-NP	fibrillation-C0232197
+פרוזדורים	:NOUN-M,P,ABS:	פרוזדור	I-NP	atrium-C0018792
+.	:PUNCUATION:	.	O	O
+
+הקשר	DEF:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+העקיף	DEF:ADJECTIVE-M,S,ABS:	עקיף	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+ששני	REL-SUBCONJ:NUMERAL-M,D,CONST:	CARD2	B-NP	O
+המצבים	DEF:NOUN-M,P,ABS:	מצב	I-NP	Condition-C0348080
+מגבירים	:VERB-M,P,A,BEINONI:	הגביר	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+לשבץ	PREPOSITION:NOUN-M,S,ABS:	שבץ	O	stroke-C0038454
+מוחי	:ADJECTIVE-M,S,ABS:	מוחי	O	O
+.	:PUNCUATION:	.	O	O
+

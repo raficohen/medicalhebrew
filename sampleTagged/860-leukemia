@@ -1,0 +1,46 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+מחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+להכניס	:VERB-TOINFINITIVE:	הכניס	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+עם	:PREPOSITION:	עם	O	O
+האוכל	DEF:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+:	:PUNCUATION:	:	O	O
+בשר	PREPOSITION:NOUN-M,S,CONST:	שר	B-NP	Singing-C0234857
+אדום	:PROPERNAME:	אדום	I-NP	O
+,	:PUNCUATION:	,	I-NP	O
+עדשים	:NOUN-F,P,ABS:	עדשה	I-NP	lens-C0023308
+,	:PUNCUATION:	,	I-NP	O
+פירות	:NOUN-M,P,ABS:	פרי	I-NP	fruit-C0016767
+יבשים	:ADJECTIVE-M,P,ABS:	יבש	I-NP	O
+...	:PUNCUATION:	...	O	O
+
+או	:CONJUNCTION:	או	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION+DEF:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סירופ	:NOUN-M,S,ABS:	סירוף	B-NP	O
+לילדים	PREPOSITION+DEF:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+צריך	:MODAL-M,S,A:	צריך	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לפחות	:ADVERB:	לפחות	O	O
+ל	:PREPOSITION:	ל	O	O
+מג	:NOUN-M,S,ABS:	מג	B-NP	O
+100	:NUMERAL:	###NUMBER###	I-NP	O
+100	:NUMERAL:	###NUMBER###	I-NP	O
+ליום	PREPOSITION:NOUN-M,S,ABS:	יום	B-NP	O
+רצוי	:PARTICIPLE-M,S,A,ABS:	רצה	O	O
+לפני	:PREPOSITION:	לפני	O	O
+האוכל	DEF:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+עם	:PREPOSITION:	עם	O	O
+כוס	:NOUN-F,S,CONST:	כוס	B-NP	cup-C0180231
+מיץ	:NOUN-M,S,ABS:	מיץ	I-NP	juice-C1268568
+.	:PUNCUATION:	.	O	O
+

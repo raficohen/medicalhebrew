@@ -1,0 +1,27 @@
+בעיות	:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+משפחתיות	:ADJECTIVE-F,P,ABS:	משפחתי	O	familial-C0015576
+.	:PUNCUATION:	.	O	O
+
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ויועץ	CONJ:NOUN-M,S,CONST:	יועץ	B-NP	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+יוכלו	:MODAL-MF,P,3,FUTURE:	יכול	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+כמקובל	PREPOSITION:NOUN-M,S,ABS:	מקובל	B-NP	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+או	:CONJUNCTION:	או	O	O
+להוכיח	:VERB-TOINFINITIVE:	הוכיח	O	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

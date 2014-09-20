@@ -1,0 +1,53 @@
+טל	:PROPERNAME:	טל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+קיימות	:NOUN-F,S,CONST:	קיימות	B-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	I-NP	number-C0237753
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+אשר	:CONJUNCTION:	אשר	O	O
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לשיעול	PREPOSITION:NOUN-M,S,ABS:	שיעול	B-NP	cough-C0010200
+.	:PUNCUATION:	.	O	O
+
+הפורום	DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+תחליף	:NOUN-M,S,ABS:	תחליף	B-NP	substitute-c0814761-ambigous
+לביקור	PREPOSITION:NOUN-M,S,ABS:	ביקור	B-NP	visit-C0545082
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+הכוללל	:PROPERNAME:	הכוללל	I-NP	O
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	I-NP	anamnesis-C0021055
+,	:PUNCUATION:	,	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	I-NP	O
+ובדיקות	CONJ:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הדמיה	:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+.	:PUNCUATION:	.	O	O
+
+במילים	PREPOSITION:NOUN-F,P,ABS:	מילה	B-NP	circumcision-C0008819
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+זקוק	:ADJECTIVE-M,S,ABS:	זקוק	O	O
+לפולמונולוג	:ADVERB:	לפולמונולוג	O	O
+(	:PUNCUATION:	(	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+)	:PUNCUATION:	)	O	O
+שיבדוק	REL-SUBCONJ:VERB-M,S,3,FUTURE:	בדק	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+ויבין	CONJ:VERB-M,S,3,FUTURE:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+לשיעול	PREPOSITION:NOUN-M,S,ABS:	שיעול	O	cough-C0010200
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

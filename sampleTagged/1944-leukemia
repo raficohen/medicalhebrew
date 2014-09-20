@@ -1,0 +1,69 @@
+ממכתבך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	מכתב	B-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שהרופאה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	רופא	B-NP	doctor-C0031831
+לא	:NEGATION:	לא	O	O
+חשבה	:VERB-F,S,3,PAST:	חשב	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+אך	:CONJUNCTION:	אך	O	O
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+עמדת	:NOUN-F,S,CONST:	עמדה	B-NP	O
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ההחלטה	DEF:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+על	:PREPOSITION:	על	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	O	examination-C0031809
+לא	:NEGATION:	לא	O	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להינתן	:VERB-TOINFINITIVE:	ניתן	O	O
+מבלי	:CONJUNCTION:	מבלי	O	O
+שתיבדק	REL-SUBCONJ:VERB-F,S,3,FUTURE:	נבדק	O	O
+שנית	:ADVERB:	שנית	O	scarlet fever-C0036285
+.	:PUNCUATION:	.	O	O
+
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+DVT	:FOREIGN:	DVT	O	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+הוורידים	DEF:NOUN-M,P,ABS:	וריד	I-NP	vein-C0042449
+העמוקים	DEF:ADJECTIVE-M,P,ABS:	עמוק	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+עורים	:PROPERNAME:	עורים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קריש	:NOUN-M,S,CONST:	קריש	B-NP	clot-C0009074
+תהליך	:NOUN-M,S,CONST:	תהליך	I-NP	process-C1184743
+הספיגה	DEF:NOUN-F,S,ABS:	ספיגה	I-NP	absorption-C0000854
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+או	:CONJUNCTION:	או	O	O
+ללא	:PREPOSITION:	ללא	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+ממושך	:ADJECTIVE-M,S,ABS:	ממושך	O	O
+(	:PUNCUATION:	(	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

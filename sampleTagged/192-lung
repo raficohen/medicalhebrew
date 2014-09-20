@@ -1,0 +1,59 @@
+יערה	:PROPERNAME:	יערה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+
+בהודעת	PREPOSITION:NOUN-F,S,CONST:	הודעה	B-NP	O
+הכותרת	DEF:NOUN-F,S,ABS:	כותרת	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+מצוין	:ADJECTIVE-M,S,ABS:	מצוין	O	O
+שאנו	REL-SUBCONJ:PRONOUN-MF,P,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מפענחים	:VERB-M,P,A,BEINONI:	פענח	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+של	:SHEL_PREP:	של	I-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+חייב	:MODAL-M,S,A:	חייב	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+במו	:PREPOSITION:	במו	O	O
+עיניו	:NOUN-F,P,ABS:POSSESIVE-M,S,3	עין	B-NP	eyes-C0015392
+את	:AT_PREP:	את	B-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+ולא	CONJ:NEGATION:	לא	O	O
+רק	:CONJUNCTION:	רק	O	O
+לקרוא	:VERB-TOINFINITIVE:	קרא	O	O
+את	:AT_PREP:	את	B-NP	O
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	I-NP	answer-C1706817
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+בבקשה	PREPOSITION:NOUN-F,S,ABS:	בקשה	B-NP	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+ששלח	REL-SUBCONJ:VERB-M,S,3,PAST:	שלח	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+שיסביר	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+אותה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מן	:PREPOSITION:	מן	O	O
+העולה	DEF:NOUN-M,S,ABS:	עולה	B-NP	O
+מהתשובה	PREPOSITION+DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+-	:PUNCUATION:	-	I-NP	O
+הכל	DEF:QUANTIFIER:	כול	I-NP	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

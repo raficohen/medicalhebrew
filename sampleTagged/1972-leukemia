@@ -1,0 +1,45 @@
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להוריד	:VERB-TOINFINITIVE:	הוריד	O	O
+INR	:FOREIGN:	INR	O	O
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+מהירה	:ADJECTIVE-F,S,ABS:	מהיר	I-NP	O
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+במסגרת	PREPOSITION:NOUN-F,S,ABS:	מסגרת	O	O
+של	:SHEL_PREP:	של	O	O
+בי"ח	:NOUN-M,S,ABS:	בי"ח	B-NP	O
+,	:PUNCUATION:	,	O	O
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+צורך	:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+בכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+נכון	:ADVERB:	נכון	O	O
+עשית	:VERB-F,S,2,PAST:	עשה	O	O
+שביום	PREPOSITION+REL-SUBCONJ:NOUN-M,S,ABS:	ב	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ערך	:NOUN-M,S,ABS:	ערך	I-NP	values-C0042295
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+לא	:NEGATION:	לא	O	O
+נטלת	:VERB-F,S,A,BEINONI:	ניטל	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+אך	:CONJUNCTION:	אך	O	O
+על	:PREPOSITION:	על	O	O
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להיועץ	PREPOSITION+DEF:NOUN-M,S,ABS:	יועץ	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+למינונים	PREPOSITION:NOUN-M,P,ABS:	מינון	B-NP	dosage-C0178602
+שנטלת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	ניטל	O	O
+לפני	:PREPOSITION:	לפני	O	O
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+הגבוה	DEF:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

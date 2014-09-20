@@ -1,0 +1,28 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+הראשונה	DEF:NUMERAL-F,S,ABS:	ORD1	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+האם	:INTERROGATIVE:	האם	I-NP	O
+בכלל	:ADVERB:	בכלל	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+?	:PUNCUATION:	?	O	O
+
+לשם	:PREPOSITION:	לשם	O	O
+כך	:PRONOUN:	כך	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+נתונים	:NOUN-M,P,ABS:	נתון	B-NP	O
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+או	:CONJUNCTION:	או	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	I-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

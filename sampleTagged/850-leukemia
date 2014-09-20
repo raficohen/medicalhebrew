@@ -1,0 +1,30 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	B-NP	anamnesis-C0021055
+והמקרה	CONJ+DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+.	:PUNCUATION:	.	O	O
+
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לא	:NEGATION:	לא	I-NP	O
+משתנות	:ADJECTIVE-F,P,ABS:	משתנה	I-NP	variable-C0439828
+עם	:PREPOSITION:	עם	O	O
+הזמן	DEF:NOUN-M,S,ABS:	זמן	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+של	:SHEL_PREP:	של	I-NP	O
+MTHFR	:FOREIGN:	MTHFR	I-NP	O
+הומוזיגותי	:NOUN-F,P,ABS:POSSESIVE-F,P,3	הומוזיגו	I-NP	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בחי	PREPOSITION:NOUN-M,S,ABS:	חי	B-NP	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+בעיקר	:ADVERB:	בעיקר	O	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+

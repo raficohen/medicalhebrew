@@ -1,0 +1,26 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שהתכוונת	REL-SUBCONJ:VERB-F,S,2,PAST:	התכוון	O	O
+לסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+הגיל	DEF:NOUN-M,S,ABS:	גיל	B-NP	O
+השכיח	DEF:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+העשור	DEF:NOUN-M,S,ABS:	עשור	B-NP	O
+החמישי	DEF:NUMERAL-M,S,ABS:	ORD5	I-NP	O
+ומעלה	CONJ:NOUN-F,S,ABS:	מעלה	I-NP	Upward-C1282911
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+נדירות	:NOUN-F,S,CONST:	נדירות	B-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+מאובחנת	:VERB-F,S,A,BEINONI:	אובחן	O	O
+גם	:CONJUNCTION:	גם	O	O
+בעשור	PREPOSITION+DEF:NOUN-M,S,ABS:	עשור	B-NP	O
+השלישי	DEF:NUMERAL-M,S,ABS:	ORD3	I-NP	O
+והרביעי	CONJ+DEF:NUMERAL-M,S,ABS:	ORD4	I-NP	O
+לחיים	PREPOSITION:PROPERNAME-M,S:	חיים	B-NP	life-C0376558
+.	:PUNCUATION:	.	O	O
+

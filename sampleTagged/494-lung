@@ -1,0 +1,29 @@
+מירי	PREPOSITION:NOUN-M,S,CONST:	ירי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+סליחה	:NOUN-F,S,ABS:	סליחה	I-NP	O
+על	:PREPOSITION:	על	O	O
+העיכוב	DEF:NOUN-M,S,ABS:	עיכוב	B-NP	inhibition-C0021467
+.	:PUNCUATION:	.	O	O
+
+ממצאים	:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+של	:SHEL_PREP:	של	I-NP	O
+20	:NUMERAL:	###NUMBER###	I-NP	O
+ממ	:NOUN-M,S,ABS:	מם	I-NP	O
+מחייבים	:VERB-M,P,A,BEINONI:	חייב	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+מידי	:ADJECTIVE-M,S,ABS:	מיידי	I-NP	O
+שיכלול	REL-SUBCONJ:VERB-M,S,3,FUTURE:	כלל	O	Rule-C0870077-ambigous
+סי	:PROPERNAME:	סי	B-NP	O
+טי	:PROPERNAME:	טי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+וכמובן	CONJ:ADVERB:	כמובן	O	O
+הערכה	:NOUN-F,S,ABS:	הערכה	B-NP	O
+כוללת	:VERB-F,S,A,BEINONI:	כלל	I-NP	Rule-C0870077-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+כירורג	:PROPERNAME:	כירורג	I-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+או	:CONJUNCTION:	או	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+

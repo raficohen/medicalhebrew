@@ -1,0 +1,34 @@
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+להעריך	:VERB-TOINFINITIVE:	העריך	O	O
+את	:AT_PREP:	את	B-NP	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+טרנספרין	:NOUN-M,S,ABS:	טרנספרין	I-NP	transferrin-C0040679
+ופריטין	CONJ:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+ובהריון	PREPOSITION+CONJ:NOUN-M,S,CONST:	ב	O	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+יורד	:VERB-M,S,A,BEINONI:	ירד	O	O
+כי	:CONJUNCTION:	כי	O	O
+העובר	DEF:NOUN-M,S,ABS:	עובר	B-NP	fetus-C0015965
+צורך	:VERB-M,S,A,BEINONI:	צרך	O	O
+את	:AT_PREP:	את	B-NP	O
+המאגרים	DEF:NOUN-M,P,ABS:	מאגר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+האמא	DEF:NOUN-F,S,ABS:	אמא	I-NP	mother-C0026591
+.	:PUNCUATION:	.	O	O
+
+ויעילות	CONJ:NOUN-F,S,CONST:	יעילות	B-NP	efficiency-C0013682
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+להורדת	PREPOSITION:NOUN-F,S,CONST:	הורדה	B-NP	Lower (action)-C2003888
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+ממחזור	PREPOSITION:NOUN-M,S,ABS:	מחזור	I-NP	reunion-C0035373
+חודשי	:ADJECTIVE-M,S,ABS:	חודשי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

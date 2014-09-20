@@ -1,0 +1,34 @@
+לתוספי	PREPOSITION:NOUN-M,P,CONST:	תוסף	B-NP	O
+מזון	:NOUN-M,S,ABS:	מזון	I-NP	food-C0016452
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+השפעה	:NOUN-F,S,ABS:	השפעה	B-NP	O
+על	:PREPOSITION:	על	O	O
+מנגנוני	:NOUN-M,P,CONST:	מנגנון	B-NP	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מבין	:PREPOSITION:	מבין	O	O
+התוספים	DEF:NOUN-M,P,ABS:	תוסף	B-NP	O
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+,	:PUNCUATION:	,	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+שלאומגה	PREPOSITION+REL-SUBCONJ:NOUN-F,S,ABS:	ל	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+3	:NUMERAL:	###NUMBER###	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+השפעה	:NOUN-F,S,ABS:	השפעה	B-NP	O
+לעיכוב	PREPOSITION:NOUN-M,S,CONST:	עיכוב	O	inhibition-C0021467
+פעולת	:NOUN-F,S,CONST:	פעולה	B-NP	action-C0441472
+טסיות	:NOUN-F,P,ABS:	טסיותות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להשפיע	:VERB-TOINFINITIVE:	השפיע	O	O
+לכיוון	PREPOSITION+DEF:NOUN-M,S,ABS:	כיוון	B-NP	direction-C0449738
+של	:SHEL_PREP:	של	I-NP	O
+נטייה	:NOUN-F,S,ABS:	נטייה	I-NP	O
+לדמם	:VERB-TOINFINITIVE:	דימם	O	O
+.	:PUNCUATION:	.	O	O
+

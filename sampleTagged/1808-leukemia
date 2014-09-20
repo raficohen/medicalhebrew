@@ -1,0 +1,77 @@
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ANTICARDIOLIPIN	:FOREIGN:	ANTICARDIOLIPIN	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מספקת	:VERB-F,S,A,BEINONI:	סיפק	O	O
+לאבחנה	PREPOSITION:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+ANTIPHOSPHOLIPID	:FOREIGN:	ANTIPHOSPHOLIPID	I-NP	O
+SYNDROM	:FOREIGN:	SYNDROM	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+הפלות	:NOUN-F,P,ABS:	הפלה	I-NP	abortion-C0156543
+בעבר	PREPOSITION+DEF:NOUN-M,S,ABS:	עבר	B-NP	past-C1444637
+את	:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בפורום	PREPOSITION:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+כך	:PRONOUN:	כך	I-NP	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	I-NP	O
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+תוצאה	:NOUN-F,S,ABS:	תוצאה	I-NP	result-C1274040
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+שתפני	REL-SUBCONJ:VERB-F,S,2,FUTURE:	פנה	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+למרפ	PREPOSITION:PROPERNAME:	מרף	B-NP	O
+'	:PUNCUATION:	'	O	O
+המטולוגית	:NOUN-F,S,ABS:	המטולוגית	B-NP	O
+לבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	B-NP	O
+מלא	:ADJECTIVE-M,S,ABS:	מלא	I-NP	O
+ולהתיעצות	PREPOSITION+CONJ:NOUN-ABS:	ל	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+לגבי	:PREPOSITION:	לגבי	O	O
+סוג	:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הדרוש	DEF:ADJECTIVE-M,S,ABS:	דרוש	I-NP	O
+במצבך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	מצב	B-NP	Condition-C0348080
+ולפי	CONJ:PREPOSITION:	לפי	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+של	:SHEL_PREP:	של	I-NP	O
+בדיקותך	:NOUN-F,P,ABS:POSSESIVE-M,S,3	בדיקות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ואספירין	CONJ:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מספיק	:VERB-M,S,A,BEINONI:	הספיק	O	O
+וההמלצה	CONJ+DEF:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+תיהיה	:PROPERNAME:	תיהיה	I-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+זריקות	:NOUN-F,P,ABS:	זריקה	B-NP	injection-C1272883
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+.	:PUNCUATION:	.	O	O
+

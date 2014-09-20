@@ -1,0 +1,24 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+במחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+רגישות יתר	:TERM:	רגישות יתר	O	hypersensitivity-C0020517
+לעקיצות	PREPOSITION:NOUN-F,P,ABS:	עקיצה	B-NP	Sting Injury-C0038340
+איתושים	:ADJECTIVE-F,S,ABS:	איתושים	I-NP	O
+ועוד	CONJ:ADVERB:	עוד	O	More-C0205172
+.	:PUNCUATION:	.	O	O
+
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	O	O
+נראה	:VERB-M,S,A,BEINONI:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+יותר	:ADVERB:	יותר	B-NP	O
+מין	:NOUN-M,S,ABS:	מין	I-NP	species-C1548151-ambigous
+אלרגיה	:NOUN-F,S,ABS:	אלרגיה	I-NP	Allergy Specialty-C0002111
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+קרם	:NOUN-M,S,ABS:	קרם	B-NP	O
+סטרוידים	:ADJECTIVE-F,S,ABS:	סטרוידים	I-NP	O
+דרך	:PREPOSITION:	דרך	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	O	families-C0015576
+

@@ -1,0 +1,69 @@
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+כי	:CONJUNCTION:	כי	O	O
+אכן	:ADVERB:	אכן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+התקדמות	:NOUN-F,S,ABS:	התקדמות	B-NP	progress-C1280477
+שהמחלה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+,	:PUNCUATION:	,	O	O
+לאור	:PREPOSITION:	לאור	B-NP	O
+עליה	:NOUN-F,S,ABS:	עלייה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+סםירת	:PROPERNAME:	סםירת	I-NP	O
+הלויקוציטים	:NOUN-F,S,ABS:	הלויקוציטים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוכחות	PREPOSITION:NOUN-F,S,CONST:	נוכחות	B-NP	presence-C0392148
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+תסמינית	:ADJECTIVE-F,S,ABS:	תסמינית	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+מחדש	:ADVERB:	מחדש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+CLL	:FOREIGN:	CLL	O	O
+,	:PUNCUATION:	,	O	O
+אולם	:CONJUNCTION:	אולם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+קודם	:ADVERB:	קודם	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+לאנמיה	PREPOSITION:PROPERNAME:	אנמיה	B-NP	anemia-C0002871
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואכן	:CONJUNCTION:	ואכן	O	O
+האנמיה	DEF:NOUN-F,S,ABS:	האנמיה	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+כתומאה	:PARTICIPLE-F,P,A,CONST:	כתומאה	O	O
+מ	:PREPOSITION:	מ	O	O
+-	:PUNCUATION:	-	O	O
+CLL	:FOREIGN:	CLL	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+במחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+טיפול	:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+יוחלט	:VERB-M,S,3,FUTURE:	הוחלט	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+ההמטולוג	:PROPERNAME:	ההמטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+דחיפות	:NOUN-F,S,ABS:	דחיפות	B-NP	urgency-C0085606
+וניתן	CONJ:MODAL-M,S,A:	ניתן	O	O
+להמתין	:VERB-TOINFINITIVE:	המתין	O	O
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+במרפאה	PREPOSITION+DEF:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+

@@ -1,0 +1,42 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שאסור	REL-SUBCONJ:MODAL:	אסור	O	O
+לבצען	:VERB-TOINFINITIVE:ACC-NOM-F,P,3	ביצע	O	O
+תוך	:PREPOSITION:	תוך	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+שימוש	:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+?	:PUNCUATION:	?	O	O
+
+תלוי	:ADVERB:	תלוי	O	O
+בהתוויה	PREPOSITION:NOUN-F,S,ABS:	התוויה	B-NP	indication-C0392360
+לשימוש	PREPOSITION+DEF:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+.	:PUNCUATION:	.	O	O
+
+שאל	:VERB-M,S,3,PAST:	שאל	O	O
+את	:AT_PREP:	את	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+ששלך	REL-SUBCONJ:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+פנה	:VERB-M,S,3,PAST:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+.	:PUNCUATION:	.	O	O
+

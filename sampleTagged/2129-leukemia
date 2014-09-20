@@ -1,0 +1,62 @@
+תרומבוזה	:NOUN-F,S,ABS:	תרומבוזה	B-NP	thrombosis-C0040053
+,	:PUNCUATION:	,	O	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+קריש דם	:TERM:	קריש דם	O	blood clot-C0302148
+,	:PUNCUATION:	,	O	O
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+קרישיות	:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+קיום	:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+לא	:NEGATION:	לא	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+לאמא	PREPOSITION:NOUN-F,S,ABS:	אמא	B-NP	mother-C0026591
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+היתה	:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+באמת	:ADVERB:	באמת	O	O
+תרומבוזה	:NOUN-F,S,ABS:	תרומבוזה	O	thrombosis-C0040053
+,	:PUNCUATION:	,	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יתכן	:MODAL:	ייתכן	O	O
+שישנה	REL-SUBCONJ:VERB-F,S,3,PAST:	ישן	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+שעוברת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	עבר	O	past-C1444637
+בתורשה	PREPOSITION:NOUN-F,S,ABS:	תורשה	B-NP	inheritance-C0242538
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+,	:PUNCUATION:	,	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+רוב	:NOUN-M,S,CONST:	רוב	I-NP	majority-C0680220
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+גם	:CONJUNCTION:	גם	O	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+אם	:CONJUNCTION:	אם	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

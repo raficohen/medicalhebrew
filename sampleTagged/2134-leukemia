@@ -1,0 +1,65 @@
+זריקות	:NOUN-F,P,ABS:	זריקה	B-NP	injection-C1272883
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+המקובל	DEF:ADJECTIVE-M,S,ABS:	מקובל	I-NP	O
+בפרפור	PREPOSITION:NOUN-M,S,CONST:	פרפור	B-NP	fibrillation-C0232197
+פרוזדורים	:NOUN-M,P,ABS:	פרוזדור	I-NP	atrium-C0018792
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+נסיון	:NOUN-M,S,ABS:	ניסיון	B-NP	Experience-C0596545-ambigous
+לגבי	:PREPOSITION:	לגבי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+לאורך	PREPOSITION:NOUN-M,S,CONST:	אורך	O	O
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+,	:PUNCUATION:	,	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מתקשה	:VERB-M,S,A,BEINONI:	התקשה	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+בדוקה	:ADJECTIVE-F,S,ABS:	בדוק	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+תאורטי	:ADJECTIVE-ABS:	תיאורטי	O	O
+ואולי	CONJ:ADVERB:	אולי	O	O
+גם	:CONJUNCTION:	גם	O	O
+מעשי	:NOUN-M,P,CONST:	מעשה	B-NP	O
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לנטילת	PREPOSITION:NOUN-F,S,CONST:	נטילה	O	O
+סידן	:NOUN-M,S,ABS:POSSESIVE-F,P,3	סיד	B-NP	sheet-C2349187
+בעצמות	PREPOSITION:NOUN-F,P,ABS:	עוצמה	B-NP	Power-C0031205
+ותופעות	CONJ:NOUN-F,P,ABS:	תופעה	I-NP	phenomenon-C1882365
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+(	:PUNCUATION:	(	O	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+)	:PUNCUATION:	)	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לבחון	:VERB-TOINFINITIVE:	בחן	O	O
+את	:AT_PREP:	את	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+לעומת	:PREPOSITION:	לעומת	O	O
+טיפולים	:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

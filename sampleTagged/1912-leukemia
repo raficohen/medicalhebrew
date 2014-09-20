@@ -1,0 +1,75 @@
+נעמי	:PROPERNAME:	נעמי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+על	:PREPOSITION:	על	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+הראשונה	DEF:NUMERAL-F,S,ABS:	ORD1	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	O	examination-C0031809
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+מסוג	PREPOSITION:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+אנטיקרדיוליפין	:ADJECTIVE-M,S,ABS:	אנטיקרדיוליפין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+התוצאה	DEF:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+גבולית	:ADJECTIVE-F,S,ABS:	גבולי	O	borderline-C0205189
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+יתכן	:MODAL:	ייתכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+נוכחות	:NOUN-F,S,CONST:	נוכחות	I-NP	presence-C0392148
+הנוגדנים	DEF:NOUN-M,P,ABS:	נוגדן	I-NP	antibody-C0003241
+בשיטות	PREPOSITION:NOUN-F,P,ABS:	שיטה	B-NP	system-C0449913
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+השניה	DEF:NOUN-F,S,ABS:	שנייה	I-NP	seconds-C0457385
+-	:PUNCUATION:	-	I-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	I-NP	O
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+גנטית	:ADJECTIVE-F,S,ABS:	גנטי	I-NP	genetic-C0314603
+שבודקת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+הגן	DEF:NOUN-M,S,ABS:	גן	I-NP	gene-C0017337
+לאינזים	PREPOSITION:PROPERNAME:	אינזים	B-NP	O
+מתיל	PREPOSITION:NOUN-M,S,CONST:	תיל	O	O
+טטרההידרופולאט	:PROPERNAME:	טטרההידרופולאט	B-NP	O
+רדוקטאז	:PROPERNAME:	רדוקטאז	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הטרוזיגוט	:NOUN-M,S,ABS:	הטרוזיגוט	B-NP	heterozygote-C0019425
+פרושו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	פרוש	I-NP	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+נשאית	:NOUN-F,S,ABS:	נשאית	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המוטציה	DEF:NOUN-F,S,ABS:	מוטציה	I-NP	mutation-C0026882
+בגן	PREPOSITION:NOUN-M,S,ABS:	גן	B-NP	gene-C0017337
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+משמעות	:NOUN-F,S,ABS:	משמעות	I-NP	significance-C0237881
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

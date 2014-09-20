@@ -1,0 +1,40 @@
+מירי	PREPOSITION:NOUN-M,S,CONST:	ירי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+וממנו	CONJ:PREPOSITION:PRONOMIAL-M,S,3	מן	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+הפניה	:NOUN-F,S,ABS:	הפניה	B-NP	Cross-Reference-C1707532
+למכון	PREPOSITION:NOUN-M,S,CONST:	מיכון	B-NP	Industrial machine-C0337076
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+במקום	:PREPOSITION:	במקום	O	O
+מגורייך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	מגורים	B-NP	O
+או	:CONJUNCTION:	או	O	O
+בקופת	PREPOSITION:NOUN-F,S,CONST:	קוף	B-NP	Monkeys-C0026447
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+בו	:PREPOSITION:PRONOMIAL-M,S,3	ב	B-NP	O
+מבוטחת	:VERB-F,S,A,BEINONI:	בוטח	O	O
+אימך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	B-NP	Mother-C0026591-ambigous
+.	:PUNCUATION:	.	O	O
+
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+(	:PUNCUATION:	(	I-NP	O
+פולמונולוג	:PROPERNAME:	פולמונולוג	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

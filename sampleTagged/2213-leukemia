@@ -1,0 +1,31 @@
+סטייה	:NOUN-F,S,ABS:	סטייה	B-NP	O
+שמאלה	:ADVERB:	שמאלה	O	O
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לבנים	:ADJECTIVE-M,P,ABS:	לבן	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+פיזיולוגי	:ADJECTIVE-M,S,ABS:	פיזיולוגי	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+)	:PUNCUATION:	)	O	O
+למצבים	PREPOSITION:NOUN-M,P,ABS:	מצב	O	Condition-C0348080
+שונים	:ADJECTIVE-M,P,ABS:	שונה	O	O
+.	:PUNCUATION:	.	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+דלקת	:NOUN-F,S,ABS:	דלקת	I-NP	inflammation-C0021368
+,	:PUNCUATION:	,	O	O
+אפילו	:CONJUNCTION:	אפילו	O	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	O	O
+,	:PUNCUATION:	,	O	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לסטטיה	:PROPERNAME:	לסטטיה	B-NP	O
+שמאלה	PREPOSITION+REL-SUBCONJ:NOUN-F,S,ABS:	מ	B-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+כמו	:CONJUNCTION:	כמו	O	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+.	:PUNCUATION:	.	O	O
+

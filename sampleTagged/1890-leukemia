@@ -1,0 +1,74 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתחזרי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	O	O
+שכל	REL-SUBCONJ:QUANTIFIER-CONST:	כול	B-NP	O
+הפקטורים	DEF:NOUN-M,P,ABS:	פקטור	I-NP	O
+נמוכים	:ADJECTIVE-M,P,ABS:	נמוך	O	O
+מחשיד	:VERB-M,S,A,BEINONI:	החשיד	O	O
+שאולי	REL-SUBCONJ:ADVERB:	אולי	O	O
+משהו	:NOUN-M,S,ABS:	משהו	B-NP	O
+טכני	:ADJECTIVE-M,S,ABS:	טכני	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+בסדר	:ADVERB:	בסדר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+ACL	:FOREIGN:	ACL	O	O
+-	:PUNCUATION:	-	O	O
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+בטווח	PREPOSITION:NOUN-M,S,CONST:	טווח	B-NP	long-term-C0443252
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+וזה	CONJ:PRONOUN-M,S,3:	זה	O	O
+בסדר	:ADVERB:	בסדר	O	O
+גמור	:ADJECTIVE-M,S,ABS:	גמור	O	O
+.	:PUNCUATION:	.	O	O
+
+לבילירובין	PREPOSITION:NOUN-F,P,ABS:	בילירובינות	B-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+פרט	:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+לגילברט	PREPOSITION:NOUN-M,S,ABS:	גילברט	B-NP	gilbert-C1551090
+.	:PUNCUATION:	.	O	O
+
+בגילברט	PREPOSITION:NOUN-M,S,ABS:	גילברט	B-NP	gilbert-C1551090
+בד"כ	:PREPOSITION:	בד"כ	O	O
+העלייה	DEF:NOUN-F,S,ABS:	עלייה	B-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+מתונה	:ADJECTIVE-F,S,ABS:	מתון	O	O
+.	:PUNCUATION:	.	O	O
+
+עיקר	:NOUN-M,S,CONST:	עיקר	B-NP	O
+הבילירובין	DEF:NOUN-M,S,ABS:	הבילירובין	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+ישיר	:ADJECTIVE-M,S,ABS:	ישיר	O	O
+והוא	CONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+מושפע	:VERB-M,S,A,BEINONI:	הושפע	O	O
+ממצבי	PREPOSITION:NOUN-M,P,CONST:	מצב	B-NP	Condition-C0348080
+סטרס	:NOUN-M,S,ABS:	סטרס	I-NP	stress-C0038435
+(	:PUNCUATION:	(	I-NP	O
+צום	:NOUN-M,S,ABS:	צום	I-NP	Fasting-C0015663
+,	:PUNCUATION:	,	I-NP	O
+מחלה	:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+וכו	:ADJECTIVE-M,S,ABS:	וכו	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

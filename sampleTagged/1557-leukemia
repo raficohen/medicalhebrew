@@ -1,0 +1,25 @@
+הכמות	DEF:NOUN-F,S,ABS:	כמות	B-NP	amount-C1265611
+של	:SHEL_PREP:	של	I-NP	O
+ויטמין	:NOUN-M,S,ABS:	ויטמין	I-NP	vitamin-C0042890
+K	:FOREIGN:	K	O	O
+לפי	:PREPOSITION:	לפי	O	O
+דעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	דעה	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+בכדי	:CONJUNCTION:	בכדי	O	O
+להשפיע	:VERB-TOINFINITIVE:	השפיע	O	O
+על	:PREPOSITION:	על	O	O
+הקרישת	DEF:PARTICIPLE-F,S,A,ABS:	הקרישת	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+כמו	:CONJUNCTION:	כמו	O	O
+כן	:CONJUNCTION:	כן	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+שתייה	:NOUN-F,S,ABS:	שתייה	I-NP	Drinking function-C0684271
+מרובה	:ADJECTIVE-F,S,ABS:	מרובה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

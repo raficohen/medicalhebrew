@@ -1,0 +1,22 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+פרוטוקולים	:NOUN-M,P,ABS:	פרוטוקול	B-NP	O
+ברורים	:ADJECTIVE-M,P,ABS:	ברור	I-NP	O
+על	:PREPOSITION:	על	O	O
+טיב	:NOUN-M,S,CONST:	טיב	B-NP	Quality-C0332306
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הראשוני	DEF:ADJECTIVE-M,S,ABS:	ראשוני	I-NP	O
+בלוקמיה	PREPOSITION:PROPERNAME:	לוקמיה	B-NP	O
+חריפה	:ADJECTIVE-F,S,ABS:	חריף	O	acute-C0205178
+ו/או	:PROPERNAME:	ו/או	B-NP	O
+כרונית	PREPOSITION:PROPERNAME-F,S:	רונית	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+המטרה	DEF:NOUN-F,S,ABS:	מטרה	B-NP	goal-C0018017
+להכניס	:VERB-TOINFINITIVE:	הכניס	O	O
+להפוגה	PREPOSITION:NOUN-F,S,ABS:	הפוגה	B-NP	remission-C0544452
+ובמידת	PREPOSITION+CONJ:NOUN-F,S,CONST:	ב	O	O
+האפשר	:NOUN-M,S,ABS:	האפשר	B-NP	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לריפוי	PREPOSITION+DEF:NOUN-M,S,ABS:	ריפוי	B-NP	healing-C0043240
+.	:PUNCUATION:	.	O	O
+

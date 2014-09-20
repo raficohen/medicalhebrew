@@ -1,0 +1,25 @@
+מספרי	:NOUN-M,P,CONST:	מספר	B-NP	number-C0237753
+ה	DEF::	ה	I-NP	O
+platelets	:FOREIGN:	platelets	I-NP	O
+i	:FOREIGN:	i	I-NP	O
+wbc	:FOREIGN:	wbc	O	O
+בגול	PREPOSITION+DEF:NOUN-M,S,ABS:	גול	B-NP	O
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+שינויים	:NOUN-M,P,ABS:	שינוי	B-NP	difference-C1705241
+לא	:NEGATION:	לא	I-NP	O
+משמעותיים	:ADJECTIVE-M,P,ABS:	משמעותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

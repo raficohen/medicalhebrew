@@ -1,0 +1,29 @@
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+מטופלת	:VERB-F,S,A,BEINONI:	טופל	I-NP	O
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+ספיגה	:NOUN-F,S,ABS:	ספיגה	B-NP	absorption-C0000854
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+,	:PUNCUATION:	,	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מיקרה	:PARTICIPLE-M,S,A:POSSESIVE-F,S,3	ייקר	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לדאגה	PREPOSITION:NOUN-F,S,ABS:	דאגה	O	concern-C2699424
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

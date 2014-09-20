@@ -1,0 +1,25 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+טסיות	:NOUN-F,P,ABS:	טסיותות	I-NP	O
+ובדיקת	CONJ:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+בסיסית	:ADJECTIVE-F,S,ABS:	בסיסי	I-NP	O
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+הכי	:ADVERB:	הכי	O	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+כי	:CONJUNCTION:	כי	O	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מחלת	:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+חניכיים	:NOUN-F,DP,ABS:	חניכיים	I-NP	Gingiva-C0017562
+המחמירה	DEF:ADJECTIVE-F,S,ABS:	מחמיר	I-NP	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+שיניים	:NOUN-F,P,ABS:	שן	I-NP	tooth-C0040426
+ושיננית	CONJ:NOUN-M,S,ABS:	שיננית	I-NP	O
+

@@ -1,0 +1,43 @@
+ערך	:NOUN-M,S,CONST:	ערך	B-NP	values-C0042295
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מבטא	:VERB-M,S,A,BEINONI:	ביטא	O	O
+את	:AT_PREP:	את	B-NP	O
+גודל	:NOUN-M,S,CONST:	גודל	I-NP	size-C0456389
+טסיות	:NOUN-F,P,ABS:	טסיותות	I-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+אומנם	:ADVERB:	אומנם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מחקרים	:NOUN-M,P,ABS:	מחקר	B-NP	research-C0035168
+הקושרים	DEF:PARTICIPLE-M,P,A,ABS:	קשר	O	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הגודל	DEF:NOUN-M,S,ABS:	גודל	B-NP	size-C0456389
+לבין	:PREPOSITION:	לבין	O	O
+מיגוון	:NOUN-M,S,CONST:	מגוון	B-NP	Diversity-C1880371
+בעיות	:NOUN-F,P,ABS:	בעיה	I-NP	problem-C0033213
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+בין	:PREPOSITION:	בין	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+האמת	DEF:NOUN-F,S,ABS:	אמת	B-NP	O
+כנראה	:ADVERB:	כנראה	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+פער	:NOUN-M,S,ABS:	פער	B-NP	O
+גדול	:ADJECTIVE-M,S,ABS:	גדול	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+דרך	:NOUN-F,S,ABS:	דרך	B-NP	Through-C0332273-ambigous
+מקובלת	:ADJECTIVE-F,S,ABS:	מקובל	I-NP	O
+להורדת	PREPOSITION:NOUN-F,S,CONST:	הורדה	B-NP	Lower (action)-C2003888
+הגודל	DEF:NOUN-M,S,ABS:	גודל	I-NP	size-C0456389
+ולא	CONJ:NEGATION:	לא	O	O
+מוכרות	:VERB-F,P,A,BEINONI:	מכר	O	O
+השלכות	:NOUN-F,P,ABS:	השלכה	B-NP	projection-C0016538
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+

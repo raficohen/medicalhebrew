@@ -1,0 +1,55 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+,	:PUNCUATION:	,	O	O
+נתנו	:VERB-MF,P,3,PAST:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+נכון	:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מה	:INTERROGATIVE:	מה	B-NP	O
+עושים	:VERB-M,P,A,BEINONI:	עשה	O	O
+איתו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+תרצי	:VERB-F,S,2,FUTURE:	רצה	O	O
+להרות	:VERB-TOINFINITIVE:	הרה	O	O
+וללדת	CONJ:VERB-TOINFINITIVE:	ילד	O	children-C0008059
+האם	:INTERROGATIVE:	האם	O	O
+באמת	:ADVERB:	באמת	O	O
+תבחרי	:VERB-F,S,2,FUTURE:	בחר	O	O
+בן	:NOUN-M,S,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+זוג	:NOUN-M,S,ABS:	זוג	I-NP	pair-C1709450
+לפי	:PREPOSITION:	לפי	O	O
+סוג	:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+בהחלט	:ADVERB:	בהחלט	O	O
+כדאי	:MODAL:	כדאי	O	O
+להמנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+עירויי	:PROPERNAME:	עירויי	I-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+(	:PUNCUATION:	(	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+נכון	:ADVERB:	נכון	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+כולנו	:QUANTIFIER:PRONOMIAL-MF,P,1	כול	B-NP	O
+)	:PUNCUATION:	)	O	O
+ובעת	CONJ:NOUN-M,S,CONST:	בעת	B-NP	phobia-C0349231
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+או	:CONJUNCTION:	או	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מפגש	:NOUN-M,S,ABS:	מפגש	I-NP	O
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+להודיע	:VERB-TOINFINITIVE:	הודיע	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+על	:PREPOSITION:	על	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+האנטיגן	DEF:PROPERNAME:	האנטיגן	I-NP	O
+.	:PUNCUATION:	.	O	O
+

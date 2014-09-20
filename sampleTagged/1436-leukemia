@@ -1,0 +1,31 @@
+נכון	:ADVERB:	נכון	O	O
+שקומדין	REL-SUBCONJ:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+ואספירין	CONJ:NOUN-M,S,ABS:	אספירין	O	aspirin-C0004057
+ביחד	:ADVERB:	ביחד	O	O
+מגבירים	:VERB-M,P,A,BEINONI:	הגביר	O	O
+הריסק	:PROPERNAME:	הריסק	B-NP	O
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	O	hemorrhage-C0019080
+אך	:CONJUNCTION:	אך	O	O
+המטרה	DEF:NOUN-F,S,ABS:	מטרה	B-NP	goal-C0018017
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+של	:SHEL_PREP:	של	O	O
+אימך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	B-NP	Mother-C0026591-ambigous
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+למנוע	:VERB-TOINFINITIVE:	מנע	O	O
+טרומבוזות	:NOUN-M,P,ABS:	טרומבוזות	B-NP	O
+!	:PUNCUATION:	!	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להקפיד	:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+ההוראות	DEF:NOUN-F,P,ABS:	הוראה	B-NP	Educational process of instructing-C0039401-ambigous
+כפי	:CONJUNCTION:	כפי	O	O
+שניתנו	REL-SUBCONJ:VERB-MF,P,3,PAST:	ניתן	O	O
+ולבצע	CONJ:VERB-TOINFINITIVE:	ביצע	O	O
+הביקורות	DEF:NOUN-F,P,ABS:	ביקורת	B-NP	Criticism-C0870379
+בהתאם	:ADVERB:	בהתאם	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

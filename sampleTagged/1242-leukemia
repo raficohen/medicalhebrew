@@ -1,0 +1,46 @@
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+הגבולי	DEF:ADJECTIVE-M,S,ABS:	גבולי	I-NP	borderline-C0205189
+של	:SHEL_PREP:	של	I-NP	O
+Protein	:FOREIGN:	Protein	I-NP	O
+c	:FOREIGN:	c	O	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+הפלות	:NOUN-F,P,ABS:	הפלה	I-NP	abortion-C0156543
+חוזרות	:ADJECTIVE-F,P,ABS:	חוזר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+עובדה	:NOUN-F,S,ABS:	עובדה	B-NP	Evidence-C0332120
+שחלית	REL-SUBCONJ:VERB-F,S,2,PAST:	חלה	O	O
+בזיהום	PREPOSITION:NOUN-M,S,ABS:	זיהום	B-NP	infection-C0009450
+קשה	:ADJECTIVE-M,S,ABS:	קשה	I-NP	O
+בינקות	PREPOSITION+DEF:NOUN-F,S,ABS:	ינקות	B-NP	O
+לא	:NEGATION:	לא	O	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לממצא	PREPOSITION+DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+הגבולי	DEF:ADJECTIVE-M,S,ABS:	גבולי	I-NP	borderline-C0205189
+של	:SHEL_PREP:	של	I-NP	O
+Protein	:FOREIGN:	Protein	I-NP	O
+c	:FOREIGN:	c	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתתייעצי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+הנשים	DEF:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+לגבי	:PREPOSITION:	לגבי	O	O
+ההריון	DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הנוסף	DEF:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+,	:PUNCUATION:	,	O	O
+ללא	:PREPOSITION:	ללא	O	O
+התייחסות	:NOUN-F,S,ABS:	התייחסות	B-NP	treatment-C0039798
+לממצא	PREPOSITION+DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+הגבולי	DEF:ADJECTIVE-M,S,ABS:	גבולי	I-NP	borderline-C0205189
+של	:SHEL_PREP:	של	I-NP	O
+Protein	:FOREIGN:	Protein	I-NP	O
+c	:FOREIGN:	c	I-NP	O
+.	:PUNCUATION:	.	O	O
+

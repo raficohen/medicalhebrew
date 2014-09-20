@@ -1,0 +1,29 @@
+כדאי	:MODAL:	כדאי	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+ה	DEF::	ה	I-NP	O
+סיטי	:NOUN-F,S,ABS:	סיטי	I-NP	O
+יראה	:NOUN-F,S,ABS:	יראה	B-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+לסיטי	PREPOSITION:NOUN-F,S,CONST:	סיטי	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+או	:CONJUNCTION:	או	I-NP	O
+לפחות	:ADVERB:	לפחות	I-NP	O
+מומחה	:NOUN-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+ראות	:NOUN-F,S,ABS:	ראות	I-NP	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+ימליצו	:VERB-MF,P,3,FUTURE:	המליץ	O	O
+אם	:CONJUNCTION:	אם	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+ומתי	CONJ:ADVERB:	מתי	O	O
+גודל	:NOUN-M,S,ABS:	גודל	B-NP	size-C0456389
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+בדכ	:NOUN-M,S,ABS:	בדך	B-NP	O
+לא	:NEGATION:	לא	O	O
+מוציאים	:VERB-M,P,A,BEINONI:	הוציא	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+שוב	:ADVERB:	שוב	O	O
+חשובה	:ADJECTIVE-F,S,ABS:	חשוב	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+מוסמכת	:VERB-F,S,A,BEINONI:	הוסמך	O	O
+

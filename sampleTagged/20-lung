@@ -1,0 +1,72 @@
+גיל	:NOUN-M,S,CONST:	גיל	B-NP	O
+90	:NUMERAL:	###NUMBER###	I-NP	O
+סיפור	:NOUN-M,S,ABS:	סיפור	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+פשוט	:ADJECTIVE-M,S,ABS:	פשוט	I-NP	O
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+.....	:PUNCUATION:	.....	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+בבן	PREPOSITION:PROPERNAME-M,S:	בן	B-NP	Son (person)-C0037683-ambigous
+89	:NUMERAL:	###NUMBER###	I-NP	O
+כבר	:ADVERB:	כבר	O	O
+שלוש	:NUMERAL-F,S,ABS:	CARD3	B-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+בשילוב	PREPOSITION:NOUN-M,S,ABS:	שילוב	B-NP	integration-C1158478
+של	:SHEL_PREP:	של	I-NP	O
+אווסטין	:NOUN-M,S,ABS:	אווסטין	I-NP	bevacizumab-C0796392
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זריקה	:NOUN-F,S,ABS:	זריקה	B-NP	injection-C1272883
+של	:SHEL_PREP:	של	I-NP	O
+5	:NUMERAL:	###NUMBER###	I-NP	O
+FU	:FOREIGN:	FU	O	O
+פעם	:NOUN-F,S,ABS:	פעם	B-NP	once-C1948045
+בשבועיים	PREPOSITION:ADJECTIVE-M,P,ABS:	שבועי	B-NP	O
+/	:PUNCUATION:	/	I-NP	O
+שלושה	:NUMERAL-M,P,ABS:	CARD3	I-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לדון	:VERB-TOINFINITIVE:	דן	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+אם	:CONJUNCTION:	אם	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+רלוונטי	:ADJECTIVE-M,S,ABS:	רלוונטי	O	O
+כאן	:ADVERB:	כאן	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שאני	REL-SUBCONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+נותן	:VERB-M,S,A,BEINONI:	נתן	O	O
+עובר	:NOUN-M,S,ABS:	עובר	B-NP	fetus-C0015965
+בסבילות	PREPOSITION:NOUN-F,S,ABS:	סבילות	B-NP	tolerance-C0013220
+מצויינת	:VERB-F,S,A,BEINONI:	צוין	O	O
+המעקב	DEF:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+גם	:CONJUNCTION:	גם	O	O
+עם	:PREPOSITION:	עם	O	O
+סמן גידול	:TERM:	סמן גידול	O	tumor marker-C0041365
+צריך	:ADJECTIVE-M,S,ABS:	צריך	I-NP	O
+כמובן	:ADVERB:	כמובן	I-NP	O
+גם	:CONJUNCTION:	גם	O	O
+להזהר	:VERB-TOINFINITIVE:	נזהר	O	O
+מהממצא	PREPOSITION+DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+במעי	PREPOSITION+DEF:NOUN-M,S,ABS:	מעי	B-NP	intestine-C0021853
+שוב	:ADVERB:	שוב	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+כאמור	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	אמור	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שאני	REL-SUBCONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+נותן	:VERB-M,S,A,BEINONI:	נתן	O	O
+לרוולה	:VERB-F,S,A,BEINONI:	לרוולה	O	O
+בגיל	PREPOSITION:NOUN-M,S,ABS:	גיל	B-NP	O
+דומה	:ADJECTIVE-M,S,ABS:	דומה	I-NP	O
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

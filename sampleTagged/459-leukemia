@@ -1,0 +1,26 @@
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+חיובית	:ADJECTIVE-F,S,ABS:	חיובי	O	O
+ובמידת	PREPOSITION+CONJ:NOUN-F,S,CONST:	ב	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+הכנה	:NOUN-F,S,ABS:	הכנה	B-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+עירוי	:NOUN-M,S,ABS:	עירוי	B-NP	infusion-C0574032
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+בעתיד	PREPOSITION+DEF:NOUN-M,S,ABS:	עתיד	B-NP	future-C0016884
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+תגובות	:NOUN-F,P,ABS:	תגובה	B-NP	reaction-C0443286
+מידיות	PREPOSITION:NOUN-F,P,ABS:	ידית	O	O
+לאחר	:PREPOSITION:	לאחר	O	O
+עירויי	:NOUN-M,P,CONST:	עירויי	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+אך	:CONJUNCTION:	אך	O	O
+לא	:NEGATION:	לא	O	O
+לטווח	PREPOSITION:NOUN-M,S,ABS:	טווח	O	long-term-C0443252
+ארוך	:ADJECTIVE-M,S,ABS:	ארוך	O	O
+.	:PUNCUATION:	.	O	O
+

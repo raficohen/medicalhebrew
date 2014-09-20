@@ -1,0 +1,31 @@
+נוכחותו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	נוכחות	B-NP	presence-C0392148
+של	:SHEL_PREP:	של	I-NP	O
+טחולון	:PROPERNAME:	טחולון	I-NP	O
+לכשעצמו	TEMP-SUBCONJ:PRONOUN:PRONOMIAL-M,S,3	עצמו	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+משמעותי	:ADJECTIVE-M,S,ABS:	משמעותי	O	O
+בוודאי	:ADVERB:	בוודאי	O	O
+לא	:NEGATION:	לא	O	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מה	:INTERROGATIVE:	מה	I-NP	O
+שתואר	REL-SUBCONJ:VERB-M,S,3,PAST:	תואר	O	O
+לעיל	:ADVERB:	לעיל	O	O
+.	:PUNCUATION:	.	O	O
+
+לעומת	:PREPOSITION:	לעומת	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ליידע	:VERB-TOINFINITIVE:	יידע	O	O
+את	:AT_PREP:	את	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+על	:PREPOSITION:	על	O	O
+השינויים	DEF:NOUN-M,P,ABS:	שינוי	B-NP	difference-C1705241
+בפקטורי	PREPOSITION:NOUN-M,P,CONST:	פקטור	B-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ומתוכנן	CONJ:VERB-M,S,A,BEINONI:	תוכנן	O	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+

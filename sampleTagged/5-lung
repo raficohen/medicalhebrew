@@ -1,0 +1,49 @@
+שי	:PROPERNAME:	שי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+למיטב	PREPOSITION:NOUN-M,S,CONST:	מיטב	B-NP	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	I-NP	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+נמצאת	:VERB-F,S,A,BEINONI:	נמצא	O	O
+בשלב	PREPOSITION:NOUN-M,S,CONST:	שלב	B-NP	stage-C0205390
+נסיוני	:NOUN-M,S,ABS:POSSESIVE-MF,S,1	ניסיון	I-NP	Experience-C0596545-ambigous
+ועדיין	CONJ:ADVERB:	עדיין	I-NP	O
+רחוק	:ADJECTIVE-M,S,ABS:	רחוק	I-NP	O
+מלהיות	:ADVERB:	מלהיות	I-NP	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+תהיה	:COPULA-F,S,3,FUTURE,POSITIVE:	הוא	O	O
+תרומתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	תרומה	B-NP	contribution-C1880177
+האמיתית	DEF:ADJECTIVE-F,S,ABS:	אמיתי	I-NP	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+בחולי	PREPOSITION:NOUN-M,S,CONST:	חולי	B-NP	O
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+בעתיד	PREPOSITION+DEF:NOUN-M,S,ABS:	עתיד	B-NP	future-C0016884
+.	:PUNCUATION:	.	O	O
+
+עמיתי	:NOUN-F,P,CONST:	עמית	B-NP	O
+לניהול	PREPOSITION:NOUN-M,S,CONST:	ניהול	B-NP	O
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+דר	:PROPERNAME:	דר	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	I-NP	O
+הנמנה	DEF:PARTICIPLE-M,S,A,ABS:	נמנה	O	O
+על	:PREPOSITION:	על	O	O
+הקבוצה	DEF:NOUN-F,S,ABS:	קבוצה	B-NP	groups-C0441833
+העוסקת	DEF:PARTICIPLE-F,S,A,ABS:	עסק	O	O
+בפיתוח	PREPOSITION:NOUN-M,S,CONST:	פיתוח	B-NP	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+יוכל	:MODAL-M,S,2,FUTURE:	יכול	O	O
+להוסיף	:VERB-TOINFINITIVE:	הוסיף	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+וכיצד	CONJ:ADVERB:	כיצד	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להשתלב	:VERB-TOINFINITIVE:	השתלב	O	O
+במחקרים	PREPOSITION:NOUN-M,P,ABS:	מחקר	B-NP	research-C0035168
+העושים	DEF:PARTICIPLE-M,P,A,ABS:	עשה	O	O
+שימוש	:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+בתרופה	PREPOSITION:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+

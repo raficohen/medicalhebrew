@@ -1,0 +1,28 @@
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+לא	:NEGATION:	לא	O	O
+גורם	:VERB-M,S,A,BEINONI:	גרם	O	O
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+(	:PUNCUATION:	(	O	O
+אלא	:CONJUNCTION:	אלא	O	O
+עם	:PREPOSITION:	עם	O	O
+רמות	:PROPERNAME:	רמה	B-NP	O
+PT/INR	:FOREIGN:	PT/INR	O	O
+מאוד	:ADVERB:	מאוד	O	O
+גבוהות	:ADJECTIVE-F,P,ABS:	גבוה	O	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להגביר	:VERB-TOINFINITIVE:	הגביר	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+חובה	:NOUN-F,S,ABS:	חובה	B-NP	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+אורולוג	:NOUN-M,S,ABS:	אורולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

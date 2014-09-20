@@ -1,0 +1,36 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שעברת	REL-SUBCONJ:VERB-M,S,3,PAST:	עברת	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	I-NP	O
+ואפשר	CONJ:MODAL:	אפשר	O	O
+לשאול	:VERB-TOINFINITIVE:	שאל	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המצוין	DEF:ADJECTIVE-M,S,ABS:	מצוין	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+נעשו	:VERB-MF,P,3,PAST:	נעשה	O	O
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+תרומבופיליה	:NOUN-F,S,ABS:	תרומבופיליה	I-NP	thrombophilia-C0398623
+.	:PUNCUATION:	.	O	O
+
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אחיאנית	:VERB-M,P,A,BEINONI:	אחיאנית	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+טרגי	:ADJECTIVE-M,S,ABS:	טרגי	I-NP	O
+ורצוי	CONJ:MODAL-M,S,A:	רצוי	O	O
+למסור	:VERB-TOINFINITIVE:	מסר	O	O
+הפרט	DEF:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+המשפחתי	DEF:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,31 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+פקטור	:NOUN-M,S,ABS:	פקטור	B-NP	O
+VIII	:FOREIGN:	VIII	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+מוכר	:VERB-M,S,A,BEINONI:	מכר	I-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הרמה	DEF:NOUN-F,S,ABS:	רמה	B-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+התעברות	:NOUN-F,S,ABS:	התעברות	B-NP	conception-C0009637
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+המרכזית	DEF:ADJECTIVE-F,S,ABS:	מרכזי	I-NP	O
+והחשובה	CONJ+DEF:ADJECTIVE-F,S,ABS:	חשוב	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מדוע	:ADVERB:	מדוע	O	O
+בוצעו	:VERB-MF,P,3,PAST:	בוצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	B-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

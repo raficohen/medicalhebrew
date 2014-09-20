@@ -1,0 +1,23 @@
+ישנן	:EXISTENTIAL-POSITIVE:PRONOMIAL-F,P,3	יש	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+קלות	:ADJECTIVE-F,P,ABS:	קל	I-NP	O
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+ללא	:PREPOSITION:	ללא	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+להתיעצות	PREPOSITION:NOUN-ABS:	התייעצות	O	consultations-C0009818
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	O	O
+עצם	:NOUN-F,S,CONST:	עצם	B-NP	bone-C0262950
+מומחה	:NOUN-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

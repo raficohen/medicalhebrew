@@ -1,0 +1,34 @@
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+לבין	:PREPOSITION:	לבין	O	O
+התחושה	DEF:NOUN-F,S,ABS:	תחושה	B-NP	feeling-C1527305
+של	:SHEL_PREP:	של	I-NP	O
+רדימות	:NOUN-F,S,ABS:	רדימות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בעניין	PREPOSITION:NOUN-M,S,CONST:	עניין	B-NP	O
+טיסה	:NOUN-F,S,ABS:	טיסה	I-NP	flight-C2610507
+ארוכה	:ADJECTIVE-F,S,ABS:	ארוך	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	I-NP	O
+להקפיד	:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+התנהגות	:NOUN-F,S,ABS:	התנהגות	B-NP	Behavior-C0004927
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+ונכונה	CONJ:ADJECTIVE-F,S,ABS:	נכון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+שתייה	:NOUN-F,S,ABS:	שתייה	I-NP	Drinking function-C0684271
+מרובה	:ADJECTIVE-F,S,ABS:	מרובה	I-NP	O
+,	:PUNCUATION:	,	O	O
+אי	:NOUN-M,S,CONST:	אי	B-NP	Islands-C0022130
+שתיית	:NOUN-F,S,CONST:	שתייה	I-NP	Drinking function-C0684271
+אלכוהול	:NOUN-M,S,ABS:	אלכוהול	I-NP	alcohol-C0001962
+ולהסתובב	CONJ:VERB-TOINFINITIVE:	הסתובב	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+כשעתיים	PREPOSITION:NOUN-F,D,ABS:	שעה	I-NP	hour-C0439227
+.	:PUNCUATION:	.	O	O
+

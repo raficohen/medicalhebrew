@@ -1,0 +1,61 @@
+הכל	DEF:QUANTIFIER:	כול	B-NP	O
+תלוי	:ADJECTIVE-M,S,ABS:	תלוי	O	O
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+של	:SHEL_PREP:	של	I-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+מבחינת	PREPOSITION:NOUN-F,S,CONST:	בחינה	B-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בניתול	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-MF,S,1	ניתו	B-NP	O
+ארוך	:ADJECTIVE-M,S,ABS:	ארוך	I-NP	O
+בהרדמה	PREPOSITION:NOUN-F,S,ABS:	הרדמה	B-NP	narcosis-C0234447
+כללית	:ADJECTIVE-F,S,ABS:	כללי	I-NP	O
+ושאחריו	REL-SUBCONJ+CONJ:PREPOSITION:PRONOMIAL-M,S,3	ש	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+ימי	:NOUN-M,P,CONST:	יום	I-NP	O
+אישפוז	:NOUN-M,S,CONST:	אשפוז	I-NP	hospitalization-c0019993
+-	:PUNCUATION:	-	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	I-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+קצר	:ADJECTIVE-M,S,ABS:	קצר	I-NP	O
+שאחרי	REL-SUBCONJ:PREPOSITION:	אחרי	O	O
+1	:NUMERAL:	###NUMBER###	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+2	:NUMERAL:	###NUMBER###	I-NP	O
+ימים	:NOUN-M,P,ABS:	יום	I-NP	O
+יוצאים	:VERB-M,P,A,BEINONI:	יצא	O	O
+הביתה	:ADVERB:	הביתה	O	O
+-	:PUNCUATION:	-	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+הערכת	:NOUN-F,S,CONST:	הערכה	B-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+מול	:PREPOSITION:	מול	O	O
+ההפרעות	DEF:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+ושל	CONJ:SHEL_PREP:	של	O	O
+בני	:NOUN-M,P,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+משפחתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

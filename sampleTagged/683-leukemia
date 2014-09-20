@@ -1,0 +1,59 @@
+נושא	:NOUN-M,S,CONST:	נושא	B-NP	Subject-C1706203
+של	:SHEL_PREP:	של	I-NP	O
+TTP	:FOREIGN:	TTP	I-NP	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+צמוד	:ADJECTIVE-M,S,ABS:	צמוד	I-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+ורופא	CONJ:NOUN-M,S,ABS:	רופא	O	doctor-C0031831
+נשיםפ	:PROPERNAME:	נשיםף	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ספירה	:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+של	:SHEL_PREP:	של	I-NP	O
+65000	:NUMERAL:	###NUMBER###	I-NP	O
+כרגע	:ADVERB:	כרגע	I-NP	O
+לא	:NEGATION:	לא	O	O
+מחייבת	:VERB-F,S,A,BEINONI:	חייב	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+-	:PUNCUATION:	-	I-NP	O
+אולם	:CONJUNCTION:	אולם	I-NP	O
+זהו	:PRONOUN-M,S,3:	זהו	I-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להשתנות	:VERB-TOINFINITIVE:	השתנה	O	urination-C0042034
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+רגע	:NOUN-M,S,ABS:	רגע	I-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	B-NP	O
+המלצות	:NOUN-F,P,ABS:	המלצה	B-NP	recommendation-C0034866
+ברורות	:ADJECTIVE-F,P,ABS:	ברור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+הצדקה	:NOUN-F,S,ABS:	הצדקה	B-NP	O
+למתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+סטרואידים	:NOUN-M,P,ABS:	סטרואיד	I-NP	Steroids-C0038317
+לתקופה	PREPOSITION:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+מוגבלת	:ADJECTIVE-F,S,ABS:	מוגבל	I-NP	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+צפוי	:ADJECTIVE-M,S,ABS:	צפוי	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+נזק	:NOUN-M,S,ABS:	נזק	I-NP	damage-C1883709
+לעומת	:PREPOSITION:	לעומת	O	O
+חלילה	:NOUN-M,S,ABS:POSSESIVE-F,S,3	חליל	B-NP	O
+נזק	:NOUN-M,S,ABS:	נזק	I-NP	damage-C1883709
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להופיע	:VERB-TOINFINITIVE:	הופיע	O	O
+מדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	O	hemorrhage-C0019080
+הן	:CONJUNCTION:	הן	O	O
+לאם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+והן	CONJ:CONJUNCTION:	הן	O	O
+לעובר	PREPOSITION+DEF:NOUN-M,S,ABS:	עובר	B-NP	fetus-C0015965
+.	:PUNCUATION:	.	O	O
+

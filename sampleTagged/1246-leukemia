@@ -1,0 +1,24 @@
+לפני	:PREPOSITION:	לפני	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+תשובה	:NOUN-F,S,ABS:	תשובה	I-NP	answer-C1706817
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+בחשבון	PREPOSITION+DEF:NOUN-M,S,ABS:	חשבון	B-NP	expense-C0680864
+כי	:CONJUNCTION:	כי	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מעבדה	:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+נורמלים	:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+הנורמלים	DEF:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מציינת	:VERB-F,S,A,BEINONI:	ציין	O	O
+?	:PUNCUATION:	?	O	O
+

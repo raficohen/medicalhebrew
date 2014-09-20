@@ -1,0 +1,25 @@
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+גבולית	:ADJECTIVE-F,S,ABS:	גבולי	I-NP	borderline-C0205189
+של	:SHEL_PREP:	של	I-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+בכותרת	PREPOSITION+DEF:NOUN-F,S,ABS:	כותרת	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+ולבצע	CONJ:VERB-TOINFINITIVE:	ביצע	O	O
+הערכת	:NOUN-F,S,CONST:	הערכה	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+.	:PUNCUATION:	.	O	O
+

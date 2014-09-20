@@ -1,0 +1,29 @@
+סליחה	:NOUN-F,S,ABS:	סליחה	B-NP	O
+על	:PREPOSITION:	על	O	O
+התגובה	DEF:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+המאוחרת	DEF:ADJECTIVE-F,S,ABS:	מאוחר	I-NP	O
+במצב	PREPOSITION:NOUN-M,S,CONST:	מצב	B-NP	Condition-C0348080
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+גרורת	:NOUN-F,S,CONST:	גרורה	B-NP	metastasis-C0027627
+במיצר	PREPOSITION+DEF:NOUN-M,S,ABS:	מיצר	B-NP	Mediastinum-C0025066
+צריך	:MODAL-M,S,A:	צריך	O	O
+להזהר	:VERB-TOINFINITIVE:	נזהר	O	O
+מחנק	:NOUN-M,S,ABS:	מחנק	B-NP	O
+עקב	:PREPOSITION:	עקב	O	O
+דיתוק	:NOUN-F,P,ABS:	דיתוק	B-NP	O
+מיתרי קול	:TERM:	מיתרי קול	O	vocal cords-C0042930
+חסובה	:ADJECTIVE-M,S,CONST:	חסובה	I-NP	O
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+רפא	:VERB-M,S,3,PAST:	ריפא	O	O
+אאג	:PROPERNAME:	אאג	B-NP	O
+להת	PREPOSITION:NOUN-F,S,ABS:	הת	B-NP	O
+בינתים	:ADJECTIVE-F,S,ABS:	בינתים	I-NP	O
+(	:PUNCUATION:	(	O	O
+מחשבי	:NOUN-M,P,CONST:	מחשב	B-NP	O
+מקולקל	:VERB-M,S,A,BEINONI:	קולקל	I-NP	O
+(	:PUNCUATION:	(	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

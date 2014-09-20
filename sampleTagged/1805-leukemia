@@ -1,0 +1,68 @@
+F	:FOREIGN:	F	O	O
+VIII	:FOREIGN:	VIII	O	O
+,	:PUNCUATION:	,	O	O
+עולה	:VERB-M,S,A,BEINONI:	עלה	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+לפי	:PREPOSITION:	לפי	O	O
+הכתוב	DEF:NOUN-M,S,ABS:	כתוב	B-NP	O
+בדקו	:VERB-MF,P,3,PAST:	בדק	O	O
+פעם	:NOUN-F,S,ABS:	פעם	B-NP	once-C1948045
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+F	:FOREIGN:	F	O	O
+VIII	:FOREIGN:	VIII	O	O
+שהיה	REL-SUBCONJ:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+?	:PUNCUATION:	?	O	O
+
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+?	:PUNCUATION:	?	O	O
+
+לפי	:PREPOSITION:	לפי	O	O
+הספרות	DEF:NOUN-F,S,ABS:	ספרות	B-NP	literature-C0023866
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קונסנסוס	:NOUN-M,S,ABS:	קונצנזוס	B-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+אם	:CONJUNCTION:	אם	O	O
+F	:FOREIGN:	F	O	O
+VIII	:FOREIGN:	VIII	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+ללא	:PREPOSITION:	ללא	O	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+שונה	:ADJECTIVE-M,S,ABS:	שונה	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליצה	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	מליץ	B-NP	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+F	:FOREIGN:	F	I-NP	O
+VIII	:FOREIGN:	VIII	O	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+מאוד	PREPOSITION:NOUN-M,S,CONST:	אוד	B-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+250	:NUMERAL:	###NUMBER###	B-NP	O
+אז	:ADVERB:	אז	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+

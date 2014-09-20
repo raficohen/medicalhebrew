@@ -1,0 +1,31 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+קיימת	:VERB-F,S,2,PAST:	קיים	O	O
+הגדלת	:NOUN-F,S,CONST:	הגדלה	B-NP	increase-C0442805
+בלוטות	:NOUN-F,P,ABS:	בלוטה	I-NP	gland-C1285092
+במקומות	PREPOSITION:NOUN-M,P,ABS:	מקום	B-NP	place-C0442504
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+בגוף	PREPOSITION+DEF:NOUN-M,S,ABS:	גוף	B-NP	body-C0460148
+?	:PUNCUATION:	?	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וזהו	CONJ:PRONOUN-M,S,3:	זהו	B-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+בודד	:ADJECTIVE-M,S,ABS:	בודד	I-NP	O
+ללא	PREPOSITION:NEGATION:	לא	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+תלונות	:NOUN-F,P,ABS:	תלונה	I-NP	complaint-C0277786
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להסתפק	:VERB-TOINFINITIVE:	הסתפק	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+בלבד	:ADVERB:	בלבד	O	O
+אחת	:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+לספר	PREPOSITION:NOUN-M,S,CONST:	ספר	O	Books-C0006002
+חודשים	:NOUN-M,P,ABS:	חודש	B-NP	months-C0439231
+.	:PUNCUATION:	.	O	O
+

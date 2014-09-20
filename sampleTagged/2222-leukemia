@@ -1,0 +1,44 @@
+כדאי	:ADVERB:	כדאי	O	O
+,	:PUNCUATION:	,	O	O
+ראשית	:ADVERB:	ראשית	O	O
+,	:PUNCUATION:	,	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לתרומבוציטופניה	PREPOSITION:NOUN-F,S,ABS:	תרומבוציטופניה	B-NP	thrombocytopenia-C0040034
+(	:PUNCUATION:	(	I-NP	O
+ירידה	:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הטסיות	DEF:NOUN-F,S,ABS:	הטסיות	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+משוכנע	:VERB-M,S,A,BEINONI:	שוכנע	O	O
+שאת	:NOUN-F,S,ABS:	שאת	B-NP	O
+זקוקה	:ADJECTIVE-F,S,ABS:	זקוק	I-NP	O
+לאספירין	PREPOSITION:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+,	:PUNCUATION:	,	O	O
+וכלל	CONJ:ADVERB:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+משוכנע	:VERB-M,S,A,BEINONI:	שוכנע	O	O
+שבדיקת	REL-SUBCONJ:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+LAC	:FOREIGN:	LAC	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לפני	:PREPOSITION:	לפני	O	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+העוסק	DEF:NOUN-M,S,ABS:	עוסק	B-NP	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	O	O
+לברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+העניין	DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+.	:PUNCUATION:	.	O	O
+

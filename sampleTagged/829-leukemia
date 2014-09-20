@@ -1,0 +1,51 @@
+ההמלצה	DEF:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+על	:PREPOSITION:	על	O	O
+ההשתלה	DEF:NOUN-F,S,ABS:	השתלה	B-NP	organ transplant-C0029216
+תלויה	:ADJECTIVE-F,S,ABS:	תלוי	O	O
+בגיל	PREPOSITION:NOUN-M,S,ABS:	גיל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+נכון	:ADVERB:	נכון	O	O
+להיום	:ADVERB:	להיום	O	O
+בהנחה	PREPOSITION:NOUN-F,S,ABS:	הנחה	B-NP	Hypothesis-C1512571
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+באישה	PREPOSITION:NOUN-F,S,ABS:	איש	B-NP	people-C0027361
+פחות	:ADVERB:	פחות	O	O
+מגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+60	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+65	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ההמלצה	DEF:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+החד	DEF:PREFIX:	חד	I-NP	O
+משמעית	:ADJECTIVE-F,S,ABS:	משמעי	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+השתלה	:NOUN-F,S,ABS:	השתלה	B-NP	organ transplant-C0029216
+עצמית	:ADJECTIVE-F,S,ABS:	עצמי	I-NP	O
+ובמידת	PREPOSITION+CONJ:NOUN-F,S,CONST:	ב	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:NOUN-M,S,CONST:	בדר"כ	B-NP	O
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+עוברים	:VERB-M,P,A,BEINONI:	עבר	O	past-C1444637
+השתלה	:NOUN-F,S,ABS:	השתלה	B-NP	organ transplant-C0029216
+עצמית	:ADJECTIVE-F,S,ABS:	עצמי	I-NP	O
+ללא	:PREPOSITION:	ללא	O	O
+סיבוכים	:NOUN-M,P,ABS:	סיבוך	B-NP	complication-C0009566
+וגם	CONJ:CONJUNCTION:	גם	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והמחלה	CONJ+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+תחזור	:VERB-F,S,3,FUTURE:	חזר	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+טיפולים	:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+חדשים	:ADJECTIVE-M,P,ABS:	חדש	I-NP	O
+הזמינים	DEF:ADJECTIVE-M,P,ABS:	זמין	I-NP	O
+גם	:CONJUNCTION:	גם	O	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+.	:PUNCUATION:	.	O	O
+

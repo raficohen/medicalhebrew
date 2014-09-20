@@ -1,0 +1,46 @@
+רמה	:NOUN-F,S,ABS:	רמה	B-NP	O
+מוגברת	:ADJECTIVE-F,S,ABS:	מוגבר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פקטור	:NOUN-M,S,ABS:	פקטור	I-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+11	:NUMERAL:	###NUMBER###	I-NP	O
+הואשמה	:VERB-F,S,3,PAST:	הואשם	O	O
+כגורמת	PREPOSITION+DEF:PARTICIPLE-F,S,A,ABS:	גרם	B-NP	O
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+באם	:CONJUNCTION:	באם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לפקטור	PREPOSITION:NOUN-M,S,CONST:	פקטור	B-NP	O
+תפקיד	:NOUN-M,S,ABS:	תפקיד	I-NP	role-C0035820
+מרכזי	:ADJECTIVE-M,S,ABS:	מרכזי	I-NP	O
+שכזה	PREPOSITION+REL-SUBCONJ:PRONOUN-M,S,3:	כ	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בוודאי	:ADVERB:	בוודאי	O	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+תפקידו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	תפקיד	B-NP	role-C0035820
+כגורם	PREPOSITION:NOUN-M,S,ABS:	גורם	B-NP	O
+לסיבוכים	PREPOSITION:NOUN-M,P,ABS:	סיבוך	O	complication-C0009566
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+מיכלול	:NOUN-M,S,CONST:	מכלול	B-NP	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+המילדותית	:NOUN-MF,S,ABS:	המילדותית	B-NP	O
+והקשר	CONJ+DEF:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	O	O
+.	:PUNCUATION:	.	O	O
+

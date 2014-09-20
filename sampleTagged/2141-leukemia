@@ -1,0 +1,35 @@
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+מתיחסות	:VERB-F,P,A,BEINONI:	התייחס	O	O
+לגילוי	PREPOSITION:NOUN-M,S,CONST:	גילוי	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+שנקרא	REL-SUBCONJ:VERB-M,S,3,PAST:	נקרא	O	O
+APS	:FOREIGN:	APS	O	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+פרוש	:NOUN-M,S,ABS:	פרוש	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+כי	:CONJUNCTION:	כי	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+פרטי	:NOUN-M,P,CONST:	פרט	I-NP	details-C1522508-ambigous
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

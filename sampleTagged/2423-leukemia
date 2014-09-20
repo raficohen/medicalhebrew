@@ -1,0 +1,51 @@
+מאוד	:ADVERB:	מאוד	O	O
+תלוי	:ADVERB:	תלוי	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+להמוגלובין	:NOUN-M,S,ABS:	להמוגלובין	B-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהנחה	PREPOSITION:NOUN-F,S,ABS:	הנחה	B-NP	Hypothesis-C1512571
+שאת	REL-SUBCONJ:AT_PREP:	את	O	O
+בחורה	:NOUN-F,S,ABS:	בחור	B-NP	 Young Adult-C0238598
+צעירה	:ADJECTIVE-F,S,ABS:	צעיר	I-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סבירות	:NOUN-F,S,ABS:	סבירות	B-NP	Probability-C0033204
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מדממת	:VERB-F,S,A,BEINONI:	דימם	O	O
+בווסת	PREPOSITION:NOUN-F,S,ABS:	וסת	B-NP	menstruation-C0025344
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+לחודש	PREPOSITION+DEF:NOUN-M,S,ABS:	חודש	B-NP	months-C0439231
+.	:PUNCUATION:	.	O	O
+
+כך	:PRONOUN:	כך	O	O
+נוצר	:VERB-M,S,3,PAST:	נוצר	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ונוצרת	CONJ:VERB-F,S,A,BEINONI:	נצר	O	O
+אנמיה	:PROPERNAME:	אנמיה	B-NP	anemia-C0002871
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+רוצים	:VERB-M,P,A,BEINONI:	רצה	O	O
+להעלות	:VERB-TOINFINITIVE:	העלה	O	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	B-NP	hemoglobin-C0019046
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לאכול	:VERB-TOINFINITIVE:	אכל	O	O
+מזון	:NOUN-M,S,ABS:	מזון	B-NP	food-C0016452
+עשיר	:ADJECTIVE-M,S,ABS:	עשיר	I-NP	O
+בברזל	PREPOSITION+DEF:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+לדוגמא	PREPOSITION:NOUN-F,S,ABS:	דוגמה	O	example-C1707959
+-	:PUNCUATION:	-	O	O
+כבד	:ADJECTIVE-M,S,ABS:	כבד	O	liver-C0023884
+!	:PUNCUATION:	!	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

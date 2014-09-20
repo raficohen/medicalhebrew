@@ -1,0 +1,37 @@
+לצערי	:ADVERB:	לצערי	O	O
+קשה	:ADVERB:	קשה	O	O
+להעריך	:VERB-TOINFINITIVE:	העריך	O	O
+משמעות	:NOUN-F,S,CONST:	משמעות	B-NP	significance-C0237881
+ממצא	:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+רנטגני	:ADJECTIVE-M,S,ABS:	רנטגני	I-NP	O
+ללא	:PREPOSITION:	ללא	O	O
+ראיית	:NOUN-F,S,CONST:	ראייה	B-NP	O
+ה	DEF::	ה	I-NP	O
+C	:FOREIGN:	C	I-NP	O
+T	:FOREIGN:	T	O	O
+עצמו	:VERB-MF,P,3,PAST:	עצם	O	bone-C0262950
+בהסתמך	:VERB-TOINFINITIVE:ACC-NOM-M,S,2	נסתם	O	O
+רק	:ADVERB:	רק	O	O
+על	:PREPOSITION:	על	O	O
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+הכתובה	DEF:ADJECTIVE-F,S,ABS:	כתוב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וממצא	CONJ:NOUN-M,S,ABS:	ממצא	O	Finding-C0243095
+לא	:NEGATION:	לא	O	O
+משתנה	:ADJECTIVE-M,S,ABS:	משתנה	O	variable-C0439828
+לאורך	PREPOSITION:NOUN-M,S,CONST:	אורך	O	O
+תקופת	:NOUN-F,S,CONST:	תקופה	B-NP	Time periods-C0439582
+מעקב	:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+של	:SHEL_PREP:	של	I-NP	O
+כשנתיים	PREPOSITION:NOUN-F,D,ABS:	שנה	I-NP	year-C0439234
+מקובל	:NOUN-M,S,ABS:	מקובל	I-NP	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+ברוב	PREPOSITION:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+שאכן	REL-SUBCONJ:ADVERB:	אכן	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בממצא	PREPOSITION:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+שפיר	:PROPERNAME:	שפיר	O	benign-C0205183
+

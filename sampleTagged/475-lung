@@ -1,0 +1,32 @@
+מה	:INTERROGATIVE:	מה	B-NP	O
+הגיל	DEF:NOUN-M,S,ABS:	גיל	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+את	:AT_PREP:	את	B-NP	O
+מעשנת	:VERB-F,S,A,BEINONI:	עישן	I-NP	O
+והאם	CONJ:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+תלונות	:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+התלונות	DEF:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+הם	:PRONOUN-M,P,3:	הוא	O	O
+במגמת	PREPOSITION:NOUN-F,S,CONST:	מגמה	B-NP	O
+שיפור	:NOUN-M,S,ABS:	שיפור	I-NP	improvement-C2986411
+והכאבים	CONJ+DEF:NOUN-M,P,ABS:	כאב	I-NP	pain-C0030193
+פוחתים	:VERB-M,P,A,BEINONI:	פחת	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+סימן	:NOUN-M,S,ABS:	סימן	B-NP	sign-C0311392
+מעודד	:VERB-M,S,A,BEINONI:	עודד	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+על	:PREPOSITION:	על	O	O
+הצד	DEF:NOUN-M,S,ABS:	צד	B-NP	side-C0441987
+הבטוח	DEF:ADJECTIVE-M,S,ABS:	בטוח	I-NP	O
+תבצעי	:VERB-F,S,2,FUTURE:	בצע	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חחזה	:VERB-MF,S,1,FUTURE:	חחזה	O	O
+

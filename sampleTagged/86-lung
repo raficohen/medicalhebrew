@@ -1,0 +1,54 @@
+גל	:NOUN-M,S,CONST:	גל	B-NP	wave-C0678544
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+תסנין	:NOUN-M,S,ABS:	תסנין	B-NP	O
+ראתי	:PROPERNAME:	ראתי	I-NP	O
+בא	:VERB-M,S,3,PAST:	בא	O	O
+לתאר	:VERB-TOINFINITIVE:	תיאר	O	O
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+זיהום	:NOUN-M,S,ABS:	זיהום	B-NP	infection-C0009450
+ברקמת	PREPOSITION:NOUN-F,S,CONST:	רקמה	B-NP	tissue-C0040300
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+(	:PUNCUATION:	(	I-NP	O
+דלקת ריאות	:TERM:	דלקת ריאות	O	pneumonia-C0032285
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+תפליט	:VERB-F,S,3,FUTURE:	הפליט	O	O
+(	:PUNCUATION:	(	O	O
+או	:CONJUNCTION:	או	O	O
+נוזל	:NOUN-M,S,ABS:	נוזל	B-NP	liquid-C0302908
+)	:PUNCUATION:	)	O	O
+פלאורלי	:PROPERNAME:	פלאורלי	B-NP	O
+מתאר	:VERB-M,S,A,BEINONI:	תיאר	O	O
+הצטברות	:NOUN-F,S,ABS:	הצטברות	B-NP	Hoarding-C0424337
+של	:SHEL_PREP:	של	I-NP	O
+נוזל	:NOUN-M,S,ABS:	נוזל	I-NP	liquid-C0302908
+בחלל	PREPOSITION+DEF:NOUN-M,S,ABS:	חלל	B-NP	space-C1883067
+הפלאורלי	DEF:ADJECTIVE-M,S,ABS:	הפלאורלי	I-NP	O
+-	:PUNCUATION:	-	O	O
+בין	:PREPOSITION:	בין	O	O
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+לבין	:PREPOSITION:	לבין	O	O
+כלוב	:NOUN-M,S,CONST:	כלוב	B-NP	O
+הצלעות	DEF:NOUN-F,P,ABS:	צלע	I-NP	ribs-C0035561
+.	:PUNCUATION:	.	O	O
+
+תפליט	:VERB-F,S,3,FUTURE:	הפליט	O	O
+פלאורלי	:PROPERNAME:	פלאורלי	B-NP	O
+באנגלית	PREPOSITION:PROPERNAME-F,S:	אנגלית	B-NP	O
+=	:PUNCUATION:	=	O	O
+pleural	:FOREIGN:	pleural	O	O
+effusion	:FOREIGN:	effusion	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

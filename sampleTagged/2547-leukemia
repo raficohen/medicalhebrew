@@ -1,0 +1,23 @@
+לתכשירי	PREPOSITION:NOUN-M,P,CONST:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+תופעות	:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+,	:PUNCUATION:	,	O	O
+רובן	:NOUN-M,S,ABS:POSSESIVE-F,P,3	רוב	B-NP	majority-C0680220
+ללא	:PREPOSITION:	ללא	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+רצינית	:ADJECTIVE-F,S,ABS:	רציני	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+דכדוך	:NOUN-M,S,ABS:	דכדוך	B-NP	O
+וכבדות	CONJ:ADJECTIVE-F,P,ABS:	כבד	I-NP	liver-C0023884
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+תופעות	:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+שנגרנות	:PARTICIPLE-F,P,A,CONST:	שנגרנות	I-NP	O
+ע"י	:PREPOSITION:	ע"י	O	O
+תכשיר	:NOUN-M,S,ABS:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+

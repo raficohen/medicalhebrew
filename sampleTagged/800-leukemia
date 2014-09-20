@@ -1,0 +1,22 @@
+עם	:PREPOSITION:	עם	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ET	:FOREIGN:	ET	I-NP	O
+במשך	PREPOSITION:NOUN-M,S,CONST:	משך	O	Duration-C0449238
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+,	:PUNCUATION:	,	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+להמטולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+לחיפוס	PREPOSITION:NOUN-M,S,CONST:	חיפוס	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+התסחיף	DEF:NOUN-M,S,ABS:	תסחיף	B-NP	embolism-C0013922
+,	:PUNCUATION:	,	O	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	O	connection-C0449379
+לאיזון	PREPOSITION:NOUN-M,S,CONST:	איזון	B-NP	balance-C0014653
+הקומדין	DEF:NOUN-M,S,ABS:	הקומדין	I-NP	O
+

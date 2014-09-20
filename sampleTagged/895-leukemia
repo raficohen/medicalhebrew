@@ -1,0 +1,40 @@
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+גבובלית	:NOUN-MF,S,ABS:	גבובלית	I-NP	O
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+קובעת	:VERB-F,S,A,BEINONI:	קבע	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+apla	:FOREIGN:	apla	I-NP	O
+בעיקר	:ADVERB:	בעיקר	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+היסטוריה	:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+של	:SHEL_PREP:	של	I-NP	O
+אירועים	:NOUN-M,P,ABS:	אירוע	I-NP	event-C0441471
+טרומבוטיים	:ADVERB:	טרומבוטיים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+להנחיות	PREPOSITION:NOUN-F,P,ABS:	הנחיה	O	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	B-NP	O
+מסודר	:ADJECTIVE-M,S,ABS:	מסודר	I-NP	O
+באחת	PREPOSITION:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+מיחידות	PREPOSITION:NOUN-F,P,CONST:	יחידה	I-NP	unit-C0439148
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בתי	:NOUN-M,P,CONST:	בית	I-NP	house-C2003847
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+מרכזיים	:ADJECTIVE-M,P,ABS:	מרכזי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

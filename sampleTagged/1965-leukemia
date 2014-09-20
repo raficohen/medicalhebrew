@@ -1,0 +1,25 @@
+אירועים	:NOUN-M,P,ABS:	אירוע	B-NP	event-C0441471
+מוחיים	:ADJECTIVE-M,P,ABS:	מוחי	I-NP	O
+לא	:NEGATION:	לא	O	O
+הוכחו	:VERB-MF,P,3,PAST:	הוכח	O	O
+כקשורים	PREPOSITION+DEF:PARTICIPLE-M,P,A,ABS:	קשר	B-NP	connection-C0449379
+להפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+הנבדקות	DEF:PARTICIPLE-F,P,A,ABS:	נבדק	O	O
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הנ"ל	:PROPERNAME:	הנ"ל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+בבתי	PREPOSITION:NOUN-M,P,CONST:	בית	B-NP	house-C2003847
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+פרטי	:ADJECTIVE-M,S,ABS:	פרטי	I-NP	O
+דרך	:PREPOSITION:	דרך	O	O
+יחידות	:NOUN-F,P,CONST:	יחידה	B-NP	unit-C0439148
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

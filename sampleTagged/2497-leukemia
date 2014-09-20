@@ -1,0 +1,30 @@
+כעקרון	PREPOSITION:NOUN-M,S,CONST:	עיקרון	O	O
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+של	:SHEL_PREP:	של	I-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+צריל	:PROPERNAME:	צריל	B-NP	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מדוע	:ADVERB:	מדוע	O	O
+בקשו	:VERB-MF,P,3,PAST:	ביקש	O	O
+שתבצעי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	בצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+כדי	:CONJUNCTION:	כדי	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+המומחה	DEF:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

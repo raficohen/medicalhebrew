@@ -1,0 +1,43 @@
+ענבר	:PROPERNAME:	ענבר	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+מבלי	:CONJUNCTION:	מבלי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ולראות	CONJ:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+השונות	DEF:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+לאחר	:PREPOSITION:	לאחר	O	O
+ביצוע	:NOUN-M,S,CONST:	ביצוע	B-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+ה	DEF::	ה	I-NP	O
+CT	:FOREIGN:	CT	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+השונות	DEF:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+קיימות	:ADJECTIVE-F,P,ABS:	קיים	O	O
+מטרות	:NOUN-F,P,ABS:	מטרה	B-NP	goal-C0018017
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שהרופא	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שיראה	REL-SUBCONJ:VERB-M,S,3,FUTURE:	ראה	O	O
+אותן	:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+יוכל	:MODAL-M,S,2,FUTURE:	יכול	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+

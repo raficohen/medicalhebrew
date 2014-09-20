@@ -1,0 +1,37 @@
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+רחבה	:ADJECTIVE-F,S,ABS:	רחב	I-NP	O
+ומקיפה	CONJ:ADJECTIVE-F,S,ABS:	מקיף	I-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להציג	:VERB-TOINFINITIVE:	הציג	O	O
+הודעה	:NOUN-F,S,ABS:	הודעה	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+בפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+:	:PUNCUATION:	:	O	O
+<	:PUNCUATION:	<	O	O
+a	:FOREIGN:	a	O	O
+href="SelectedForum.aspx?ForumID	:PROPERNAME:	href="SelectedForum.aspx?ForumID	B-NP	O
+=	:PUNCUATION:	=	O	O
+"	:PUNCUATION:	"	O	O
+191	:NUMERAL:	###NUMBER###	B-NP	O
+class	:FOREIGN:	class	O	O
+=	:PUNCUATION:	=	O	O
+"	:PUNCUATION:	"	O	O
+Blue	:FOREIGN:	Blue	O	O
+"	:PUNCUATION:	"	O	O
+>	:PUNCUATION:	>	O	O
+ניתוחי	:NOUN-M,P,CONST:	ניתוח	B-NP	surgery-C0038894
+לב	:NOUN-M,S,ABS:	לב	I-NP	heart-C0018787
+,	:PUNCUATION:	,	O	O
+השתלות	:NOUN-F,P,ABS:	השתלה	B-NP	organ transplant-C0029216
+לב	:NOUN-M,S,ABS:	לב	I-NP	heart-C0018787
+,	:PUNCUATION:	,	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+מעקפים	:NOUN-M,P,ABS:	מעקף	I-NP	bypass-C0741847
+,	:PUNCUATION:	,	I-NP	O
+התקף	DEF:ADJECTIVE-M,S,ABS:	תקף	I-NP	O
+לב</a	:PROPERNAME:	לב</a	I-NP	O
+>	:PUNCUATION:	>	O	O
+.	:PUNCUATION:	.	O	O
+

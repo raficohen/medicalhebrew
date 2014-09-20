@@ -1,0 +1,26 @@
+אם	:CONJUNCTION:	אם	O	O
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+אכן	:ADVERB:	אכן	O	O
+גרורה	:NOUN-F,S,ABS:	גרורה	B-NP	metastasis-C0027627
+בעצם	:ADVERB:	בעצם	I-NP	O
+ביד	PREPOSITION:NOUN-F,S,CONST:	יד	O	hand-C0018563
+המשמעות	DEF:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+כי	:CONJUNCTION:	כי	O	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+על	:PREPOSITION:	על	O	O
+סרטן	:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+ראה	:VERB-M,S,3,PAST:	ראה	O	O
+גרורתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	גרורה	B-NP	metastasis-C0027627
+גרורת	:NOUN-F,S,CONST:	גרורה	I-NP	metastasis-C0027627
+ראתיות	:ADJECTIVE-F,P,CONST:	ראתיות	I-NP	O
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+לא	:NEGATION:	לא	O	O
+ישנו	:VERB-MF,P,3,PAST:	ישן	O	O
+את	:AT_PREP:	את	B-NP	O
+שלב	:NOUN-M,S,CONST:	שלב	I-NP	stage-C0205390
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+
+חובב	:PROPERNAME:	חובב	B-NP	O
+נחושתן	:NOUN-F,S,ABS:POSSESIVE-F,P,3	נחושת	I-NP	copper-C0009968
+

@@ -1,0 +1,29 @@
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+הביטוי	DEF:NOUN-M,S,ABS:	ביטוי	B-NP	expression-C0017262
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+"	:PUNCUATION:	"	O	O
+פלזמהציטוזיס	:PROPERNAME:	פלזמהציטוזיס	B-NP	O
+"	:PUNCUATION:	"	O	O
+שמשמעו	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	משמע	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+ריבוי	:NOUN-M,S,CONST:	ריבוי	B-NP	growth-C0018270
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+פלזמה	:NOUN-F,S,ABS:	פלזמה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+במוח	PREPOSITION:NOUN-M,S,CONST:	מוח	B-NP	brain-C0006104
+עצם	:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+כתגובה	PREPOSITION:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+לתהליך	PREPOSITION:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+,	:PUNCUATION:	,	O	O
+כגון	:PREPOSITION:	כגון	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+דלקתידלקתי	:ADJECTIVE-F,S,CONST:	דלקתידלקתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,23 @@
+בהחלט	:ADVERB:	בהחלט	O	O
+,	:PUNCUATION:	,	O	O
+מספר	:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	I-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לרמז	:VERB-TOINFINITIVE:	רימז	O	O
+על	:PREPOSITION:	על	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+יותר	:ADVERB:	יותר	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שרופא	REL-SUBCONJ:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+צודק	:VERB-M,S,A,BEINONI:	צדק	O	O
+

@@ -1,0 +1,44 @@
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+כמו	:CONJUNCTION:	כמו	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+בקרב	:PREPOSITION:	בקרב	O	O
+האוכלוסיה	DEF:NOUN-F,S,ABS:	אוכלוסייה	B-NP	population-C0032659
+הכללית	DEF:ADJECTIVE-F,S,ABS:	כללי	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+כ	:PREPOSITION:	כ	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+10	:NUMERAL:	###NUMBER###	I-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ההתיחסות	DEF:NOUN-F,S,ABS:	ההתיחסות	B-NP	O
+למצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+למצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שבגללו	REL-SUBCONJ:PREPOSITION:PRONOMIAL-M,S,3	בגלל	B-NP	O
+בדקו	:VERB-MF,P,3,PAST:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+הגנים	DEF:NOUN-M,P,ABS:	גן	I-NP	gene-C0017337
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+בכדי	:CONJUNCTION:	בכדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+עדכני	:VERB-F,S,2,IMPERATIVE:	עדכן	O	O
+של	:SHEL_PREP:	של	O	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+.	:PUNCUATION:	.	O	O
+

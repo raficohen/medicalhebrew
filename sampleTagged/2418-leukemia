@@ -1,0 +1,23 @@
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+בדר"כ	:ADVERB:	בדר"כ	O	O
+זה	:PRONOUN-M,S,3:	זה	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+באף	PREPOSITION:NOUN-M,S,ABS:	אף	B-NP	nose-C0028429
+ולא	CONJ:NEGATION:	לא	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+התרומבוציטים	DEF:NOUN-F,S,ABS:	התרומבוציטים	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+אא"ג	:PROPERNAME:	אא"ג	B-NP	O
+ולבצע	CONJ:VERB-TOINFINITIVE:	ביצע	O	O
+ס"ד	:PROPERNAME:	ס"ד	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,34 @@
+בהחלט	:ADVERB:	בהחלט	O	O
+תיתכן	:VERB-F,S,3,FUTURE:	תיתכן	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	B-NP	O
+קבלת	:NOUN-F,S,CONST:	קבלה	I-NP	Acceptance-C0000899-ambigous
+הסבר	:NOUN-M,S,ABS:	הסבר	I-NP	explanation-C0681841
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+מההמטולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+,	:PUNCUATION:	,	O	O
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+אלי	:PROPERNAME:	אל	I-NP	deity-C0681169-ambigous
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לאור	:PREPOSITION:	לאור	B-NP	O
+גילך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	גיל	I-NP	O
+הצעיר	DEF:ADJECTIVE-M,S,ABS:	צעיר	I-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להחלטה	PREPOSITION+DEF:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+השלכות	:NOUN-F,P,ABS:	השלכה	B-NP	projection-C0016538
+לטווח	PREPOSITION:NOUN-M,S,ABS:	טווח	B-NP	long-term-C0443252
+ארוך	:ADJECTIVE-M,S,ABS:	ארוך	I-NP	O
+!	:PUNCUATION:	!	O	O
+

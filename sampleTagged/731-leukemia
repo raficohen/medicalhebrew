@@ -1,0 +1,18 @@
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהבעיה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+העיקרית	DEF:ADJECTIVE-F,S,ABS:	עיקרי	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+עודף	:NOUN-M,S,CONST:	עודף	B-NP	excess-C1979886
+תרומבוציטים	:NOUN-F,S,ABS:	תרומבוציטים	I-NP	O
+ואסירין	:PROPERNAME:	ואסירין	I-NP	O
+בהחלט	:ADVERB:	בהחלט	I-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+במצבים	PREPOSITION:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+אלא	:CONJUNCTION:	אלא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	B-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+

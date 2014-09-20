@@ -1,0 +1,91 @@
+מיכל	:PROPERNAME:	מיכל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מבחינתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	בחינה	B-NP	O
+והתינוק	CONJ+DEF:NOUN-M,S,ABS:	תינוק	I-NP	baby-C0021270
+לא	:NEGATION:	לא	O	O
+אמור	:MODAL-M,S,A:	אמור	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+מיוחד	:ADJECTIVE-M,S,ABS:	מיוחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אולי	:ADVERB:	אולי	O	O
+נטייה	:NOUN-F,S,ABS:	נטייה	B-NP	O
+מסוימת	:ADJECTIVE-F,S,ABS:	מסוים	I-NP	O
+לדמם	:VERB-TOINFINITIVE:	דימם	O	O
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+העיקרית	DEF:ADJECTIVE-F,S,ABS:	עיקרי	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+האפידורל	:PROPERNAME:	האפידורל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+לפחות	:ADVERB:	לפחות	B-NP	O
+7	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+10	:NUMERAL:	###NUMBER###	I-NP	O
+ימים	:NOUN-M,P,ABS:	יום	I-NP	O
+קודם	:ADVERB:	קודם	I-NP	O
+לכן	:CONJUNCTION:	לכן	I-NP	O
+,	:PUNCUATION:	,	O	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+משך	:NOUN-M,S,CONST:	משך	B-NP	Duration-C0449238
+הזמן	DEF:NOUN-M,S,ABS:	זמן	I-NP	O
+שלוקח	REL-SUBCONJ:VERB-M,S,A,BEINONI:	לקח	O	O
+לטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	לטרומבוציטים	O	O
+להתחדש	:VERB-TOINFINITIVE:	התחדש	O	O
+.	:PUNCUATION:	.	O	O
+
+למה	:INTERROGATIVE:	למה	O	O
+את	:AT_PREP:	את	O	O
+מתכוונת	:VERB-F,S,A,BEINONI:	התכוון	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+סובלת	:VERB-F,S,A,BEINONI:	סבל	O	suffering-C0683278
+מתסמונת	PREPOSITION:NOUN-F,S,ABS:	תסמונת	B-NP	syndrome-C0039082
+אנטיקרדיוליפין	:ADJECTIVE-F,S,ABS:	אנטיקרדיוליפין	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+אירוע	:NOUN-M,S,CONST:	אירוע	I-NP	event-C0441471
+טרומבוטי	:PROPERNAME:	טרומבוטי	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+כן	:CONJUNCTION:	כן	O	O
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בכיסוי	PREPOSITION:NOUN-M,S,ABS:	כיסוי	B-NP	O
+תרופתי	:ADJECTIVE-M,S,ABS:	תרופתי	I-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+בעת	PREPOSITION:NOUN-F,S,ABS:	עת	B-NP	time-C0040223
+שאת	REL-SUBCONJ:AT_PREP:	את	O	O
+מפסיקה	:VERB-F,S,A,BEINONI:	הפסיק	O	O
+אספירין	:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אין	:NEGATION:	אין	O	O
+סבוכים	:ADJECTIVE-M,P,ABS:	סבוך	O	O
+מיוחדים	:ADJECTIVE-M,P,ABS:	מיוחד	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בזרוז	PREPOSITION:NOUN-M,S,CONST:	זירוז	B-NP	O
+הלידה	DEF:NOUN-F,S,ABS:	לידה	I-NP	birth-C0005615
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

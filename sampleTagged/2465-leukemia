@@ -1,0 +1,29 @@
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+שריכוז	REL-SUBCONJ:NOUN-M,S,CONST:	ריכוז	B-NP	Mental concentration-C0086045-ambigous
+ההמוגלובין	DEF:ADJECTIVE-M,P,ABS:	ההמוגלובין	I-NP	O
+בדם	PREPOSITION+DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+11.9	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+ששלח	REL-SUBCONJ:VERB-M,S,3,PAST:	שלח	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+פרוש	:VERB-M,S,2,IMPERATIVE:	פרש	O	O
+האם	:INTERROGATIVE:	האם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+,	:PUNCUATION:	,	O	O
+האם	:INTERROGATIVE:	האם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+,	:PUNCUATION:	,	O	O
+ואולי	CONJ:ADVERB:	אולי	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+

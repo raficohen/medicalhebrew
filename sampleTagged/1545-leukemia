@@ -1,0 +1,21 @@
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בתרומבוציטים	PREPOSITION+DEF:NOUN-F,S,ABS:	התרומבוציטים	B-NP	O
+(	:PUNCUATION:	(	I-NP	O
+PLT	:FOREIGN:	PLT	I-NP	O
+)	:PUNCUATION:	)	O	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מציג	:VERB-M,S,A,BEINONI:	הציג	O	O
+דורשת	:VERB-F,S,A,BEINONI:	דרש	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+בהקדם	:ADVERB:	בהקדם	I-NP	O
+במכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+הקרוב	DEF:ADJECTIVE-M,S,ABS:	קרוב	I-NP	Near-C1706276
+למגורך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	מגור	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+הפנייה	DEF:NOUN-F,S,ABS:	פנייה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

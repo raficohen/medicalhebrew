@@ -1,0 +1,44 @@
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+מאוד	:ADVERB:	מאוד	I-NP	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+בנשים	PREPOSITION:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	O	O
+הפוריות	DEF:NOUN-F,S,ABS:	פוריות	B-NP	O
+ואפשר	CONJ:MODAL:	אפשר	O	O
+לתקן	:VERB-TOINFINITIVE:	תיקן	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+עיי	:NOUN-M,P,CONST:	עי	B-NP	O
+כלכלה	:NOUN-F,S,ABS:	כלכלה	I-NP	O
+עשירה	:ADJECTIVE-F,S,ABS:	עשיר	I-NP	O
+במרכיבי	PREPOSITION:NOUN-M,P,CONST:	מרכיב	B-NP	component-C0449432
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ו/או	:PROPERNAME:	ו/או	I-NP	O
+כדורים	:NOUN-M,P,ABS:	כדור	I-NP	Pills-C0994475
+.	:PUNCUATION:	.	O	O
+
+הפגם	DEF:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+הגנתי	:ADJECTIVE-M,S,ABS:	הגנתי	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+מתוקן	:ADJECTIVE-M,S,ABS:	מתוקן	O	O
+עם	:PREPOSITION:	עם	O	O
+לקיחת	:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+חי	:NOUN-M,S,ABS:	חי	I-NP	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+בנוגע	:ADVERB:	בנוגע	O	O
+לגלולות	PREPOSITION:NOUN-F,P,ABS:	גלולה	O	pills-C0994475
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+שיציג	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הציג	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+גורמי	:NOUN-M,P,CONST:	גורם	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

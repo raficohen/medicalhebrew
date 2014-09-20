@@ -1,0 +1,51 @@
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+שוב	:ADVERB:	שוב	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ובדיקת	CONJ:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מנגנון	:NOUN-M,S,CONST:	מנגנון	I-NP	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+האם	:INTERROGATIVE:	האם	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+למחזור	PREPOSITION+DEF:NOUN-M,S,ABS:	מחזור	O	reunion-C0035373
+?	:PUNCUATION:	?	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+במשקל	PREPOSITION:NOUN-M,S,ABS:	משקל	B-NP	weight-C0043100
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+יותר	:ADVERB:	יותר	I-NP	O
+יסודי	:ADJECTIVE-M,S,ABS:	יסודי	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+בכמה	PREPOSITION:QUANTIFIER-CONST:	כמה	I-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+בכמה	PREPOSITION:QUANTIFIER-CONST:	כמה	B-NP	O
+זמן	:NOUN-M,S,ABS:	זמן	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+כמו	:PREPOSITION:	כמו	O	O
+הדמיה	:NOUN-F,S,ABS:	הדמיה	B-NP	imaging-C0011923
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להסדיר	:VERB-TOINFINITIVE:	הסדיר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+ביקור	:NOUN-M,S,ABS:	ביקור	B-NP	visit-C0545082
+במועד	PREPOSITION:NOUN-M,S,ABS:	מועד	B-NP	date-C0011008
+מוקדם	:ADJECTIVE-M,S,ABS:	מוקדם	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+035028778	:NUMERAL:	###NUMBER###	O	O
+

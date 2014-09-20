@@ -1,0 +1,41 @@
+אילנה	:PROPERNAME:	אילנה	B-NP	O
+שלום	:PROPERNAME:	שלום	I-NP	O
+מתי	:PROPERNAME:	מתי	I-NP	O
+עברת	:VERB-M,S,3,PAST:	עברת	O	O
+את	:AT_PREP:	את	B-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+,	:PUNCUATION:	,	O	O
+בעקרון	PREPOSITION:NOUN-M,S,ABS:	עיקרון	B-NP	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לכירורג	PREPOSITION:NOUN-M,S,ABS:	כירורג	B-NP	O
+שביצע	REL-SUBCONJ:VERB-M,S,3,PAST:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+,	:PUNCUATION:	,	O	O
+רת	:PROPERNAME:	רת	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+שלפעמים	REL-SUBCONJ:ADVERB:	לפעמים	B-NP	O
+תקופת	:NOUN-F,S,CONST:	תקופה	I-NP	Time periods-C0439582
+ההחלמה	DEF:NOUN-F,S,ABS:	החלמה	I-NP	recovery-C0237820
+מניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	O	surgery-C0038894
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+לוקחת	:VERB-F,S,A,BEINONI:	לקח	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אין	:NEGATION:	אין	O	O
+שיפור	:NOUN-M,S,CONST:	שיפור	B-NP	improvement-C2986411
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+עובר	:VERB-M,S,A,BEINONI:	עבר	O	past-C1444637
+עיבוד	:NOUN-M,S,ABS:	עיבוד	B-NP	O
+לבירור	PREPOSITION:NOUN-M,S,CONST:	בירור	B-NP	O
+הכאבים	DEF:NOUN-M,P,ABS:	כאב	I-NP	pain-C0030193
+?	:PUNCUATION:	?	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+

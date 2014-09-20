@@ -1,0 +1,74 @@
+דור	:NOUN-M,S,CONST:	דור	B-NP	generations-C0079411
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+איני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+אמך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	I-NP	Mother-C0026591-ambigous
+ובוודאי	CONJ:ADVERB:	בוודאי	O	O
+גם	:CONJUNCTION:	גם	O	O
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+שביצעה	REL-SUBCONJ:VERB-F,S,3,PAST:	ביצע	O	O
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הדמיה	:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+צריכות	:ADJECTIVE-F,P,ABS:	צריך	I-NP	O
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+והפיענוח	CONJ+DEF:NOUN-M,S,ABS:	הפיענוח	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+מול	:PREPOSITION:	מול	O	O
+הרקע	DEF:NOUN-M,S,ABS:	רקע	B-NP	background-C1706907
+הרפואי	DEF:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+החולה	:PROPERNAME:	החולה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גוגל	:PROPERNAME:	גוגל	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+פורום	:NOUN-M,S,ABS:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+יוכלו	:MODAL-MF,P,3,FUTURE:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+מספקת	:VERB-F,S,A,BEINONI:	סיפק	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+-	:PUNCUATION:	-	O	O
+הממצאים	DEF:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+הכתובים	DEF:ADJECTIVE-M,P,ABS:	כתוב	I-NP	O
+כפי	:CONJUNCTION:	כפי	O	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מצטט	:VERB-M,S,A,BEINONI:	ציטט	O	O
+מחייבים	:VERB-M,P,A,BEINONI:	חייב	O	O
+אתכם	:AT_PREP:PRONOMIAL-M,P,2	את	B-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בהקדם	PREPOSITION+DEF:NOUN-M,S,ABS:	הקדם	B-NP	O
+האפשרי	DEF:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+אכן	:ADVERB:	אכן	O	O
+מדאיגים	:ADJECTIVE-M,P,ABS:	מדאיג	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

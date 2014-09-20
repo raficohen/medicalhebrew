@@ -1,0 +1,112 @@
+לגבי	:PREPOSITION:	לגבי	O	O
+העליה	DEF:NOUN-F,S,ABS:	עלייה	B-NP	O
+הקלה	DEF:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+באחוז	PREPOSITION:NOUN-M,S,CONST:	אחוז	B-NP	percent-C0439165
+הלימפוציטים	DEF:NOUN-F,S,ABS:	הלימפוציטים	I-NP	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+סה"כ	:ADVERB:	סה"כ	O	O
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+הלבנה	DEF:ADJECTIVE-F,S,ABS:	לבן	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+,	:PUNCUATION:	,	O	O
+האם	:INTERROGATIVE:	האם	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+הכדוריות	DEF:NOUN-F,S,ABS:	כדוריות	I-NP	O
+האדומות	DEF:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+וההמוגלובין	CONJ:PROPERNAME:	ההמוגלובין	B-NP	O
+והטרומבוציטים	:VERB-M,S,2,IMPERATIVE:	והטרומבוציטים	O	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+תקינים	:ADJECTIVE-M,P,ABS:	תקין	O	O
+?	:PUNCUATION:	?	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וכן	CONJ:CONJUNCTION:	כן	O	O
+-	:PUNCUATION:	-	O	O
+בשלב	PREPOSITION+DEF:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+על	:PREPOSITION:	על	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+בלבד	:ADVERB:	בלבד	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+6	:NUMERAL:	###NUMBER###	I-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+,	:PUNCUATION:	,	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הסרטן	DEF:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+בצוואר	PREPOSITION:NOUN-M,S,CONST:	צוואר	B-NP	neck-C0027530
+הרחם	DEF:NOUN-M,S,ABS:	רחם	I-NP	uterus-C0042131
+אצל	:PREPOSITION:	אצל	O	O
+אחותך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אח	B-NP	Brothers-C0337527-ambigous
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+-	:PUNCUATION:	-	O	O
+כדאי	:MODAL:	כדאי	O	O
+להיבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+אונקו	:PROPERNAME:	אונקו	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+גניקולוג	:NOUN-M,S,ABS:	גינקולוג	I-NP	gynecologist-C0237419
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+היום	:ADVERB:	היום	O	O
+גנים	:NOUN-M,P,ABS:	גן	B-NP	gene-C0017337
+ייחודים	:NOUN-M,P,ABS:	ייחוד	I-NP	O
+למחלות	PREPOSITION:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+אלו	:PRONOUN-MF,P,3:	אלו	B-NP	O
+וכדאי	CONJ:MODAL:	כדאי	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לכם	:PREPOSITION:PRONOMIAL-M,P,2	ל	B-NP	O
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+לגבי	:PREPOSITION:	לגבי	O	O
+בלוטת התריס	:TERM:	בלוטת התריס	O	thyroid gland-C0040132
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+את	:AT_PREP:	את	B-NP	O
+מקבלת	:VERB-F,S,A,BEINONI:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+?	:PUNCUATION:	?	O	O
+
+אולי	:ADVERB:	אולי	O	O
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לעליה	PREPOSITION:NOUN-F,S,ABS:	עלייה	O	O
+בלימפוציטים	:ADJECTIVE-F,S,ABS:	בלימפוציטים	O	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+על	:PREPOSITION:	על	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הסרטים	DEF:NOUN-M,P,ABS:	סרט	B-NP	O
+ברחם	PREPOSITION+DEF:NOUN-M,S,ABS:	רחם	B-NP	uterus-C0042131
+ובבלוטת	PREPOSITION+CONJ:NOUN-F,S,CONST:	ב	O	O
+התריס	DEF:NOUN-M,S,ABS:	תריס	B-NP	shutter-C1710078
+.	:PUNCUATION:	.	O	O
+

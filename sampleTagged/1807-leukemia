@@ -1,0 +1,64 @@
+לפי	:PREPOSITION:	לפי	O	O
+הספרות	DEF:NOUN-F,S,ABS:	ספרות	B-NP	literature-C0023866
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+DIOVAN	:FOREIGN:	DIOVAN	O	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לנאוטרופניה	PREPOSITION:ADJECTIVE-M,S,CONST:	נאוטרופניה	O	O
+.	:PUNCUATION:	.	O	O
+
+לפי	:PREPOSITION:	לפי	O	O
+פניתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	פנייה	B-NP	O
+הנאוטרופניה	DEF:ADJECTIVE-M,P,ABS:	הנאוטרופניה	I-NP	O
+הולכת	:NOUN-F,S,CONST:	הולכה	I-NP	O
+ומחמירה	CONJ:VERB-F,S,A,BEINONI:	החמיר	O	O
+לכן	:CONJUNCTION:	לכן	O	O
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שהמליץ	REL-SUBCONJ:VERB-M,S,3,PAST:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+דיובן	:VERB-M,S,3,PAST:	דיובן	B-NP	O
+ולבקש	CONJ:VERB-TOINFINITIVE:	ביקש	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+איתו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+האנמיה	DEF:NOUN-F,S,ABS:	האנמיה	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+להגדיר	:VERB-TOINFINITIVE:	הגדיר	O	O
+איזה	:QUANTIFIER-CONST:	איזה	B-NP	O
+סוג	:NOUN-M,S,ABS:	סוג	I-NP	kind-C0332307
+של	:SHEL_PREP:	של	I-NP	O
+אנמיה	:PROPERNAME:	אנמיה	I-NP	anemia-C0002871
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+מחמירה	:ADJECTIVE-F,S,ABS:	מחמיר	O	O
+או	:CONJUNCTION:	או	O	O
+יציבה	:ADJECTIVE-F,S,ABS:	יציב	O	O
+?	:PUNCUATION:	?	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+סוג	:NOUN-M,S,CONST:	סוג	I-NP	kind-C0332307
+האנמיה	DEF:NOUN-F,S,ABS:	האנמיה	I-NP	O
+ולטפל	CONJ:VERB-TOINFINITIVE:	טיפל	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

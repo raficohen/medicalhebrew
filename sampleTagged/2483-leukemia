@@ -1,0 +1,65 @@
+דר"כ	:PROPERNAME:	דר"כ	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+שפצע	REL-SUBCONJ:NOUN-M,S,ABS:	פצע	B-NP	wound-C0043250
+יבריא	:VERB-M,S,3,FUTURE:	הבריא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+שבתחתית	PREPOSITION+REL-SUBCONJ:NOUN-F,S,CONST:	ב	B-NP	O
+הפצע	DEF:NOUN-M,S,ABS:	פצע	I-NP	wound-C0043250
+תצמח	:VERB-F,S,3,FUTURE:	צמח	O	O
+רקמה	:NOUN-F,S,ABS:	רקמה	B-NP	tissue-C0040300
+המכונה	DEF:PARTICIPLE-M,S,A,ABS:	כונה	O	O
+רקמת	:NOUN-F,S,CONST:	רקמה	B-NP	tissue-C0040300
+גרנולציה	:NOUN-F,S,ABS:	גרנולציה	I-NP	granulation-C0518864
+.	:PUNCUATION:	.	O	O
+
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+רקמה	:NOUN-F,S,ABS:	רקמה	B-NP	tissue-C0040300
+עשירה	:ADJECTIVE-F,S,ABS:	עשיר	I-NP	O
+בכלי	PREPOSITION:NOUN-M,S,CONST:	כלי	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+מדממת	:VERB-F,S,A,BEINONI:	דימם	O	O
+בקלות	PREPOSITION:NOUN-F,S,ABS:	קלות	B-NP	Easy-C0332219
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לנקות	:VERB-TOINFINITIVE:	ניקה	O	O
+את	:AT_PREP:	את	B-NP	O
+הפצע	DEF:NOUN-M,S,ABS:	פצע	I-NP	wound-C0043250
+ולהוציא	CONJ:VERB-TOINFINITIVE:	הוציא	O	O
+רקמה	:NOUN-F,S,ABS:	רקמה	B-NP	tissue-C0040300
+מתה	:ADJECTIVE-F,S,ABS:	מת	I-NP	O
+ומוגלה	CONJ:NOUN-F,S,ABS:	מוגלה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לאפשר	:VERB-TOINFINITIVE:	אפשר	O	O
+לרקמת	PREPOSITION:NOUN-F,S,CONST:	רקמה	B-NP	tissue-C0040300
+הגרנולציה	DEF:NOUN-F,S,ABS:	הגרנולציה	I-NP	O
+לשגשג	:VERB-TOINFINITIVE:	שגשג	O	O
+,	:PUNCUATION:	,	O	O
+כלומר	:CONJUNCTION:	כלומר	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+להבראה	PREPOSITION:NOUN-F,S,ABS:	הבראה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הפצע	DEF:NOUN-M,S,ABS:	פצע	I-NP	wound-C0043250
+.	:PUNCUATION:	.	O	O
+
+בעניין	PREPOSITION:NOUN-M,S,CONST:	עניין	B-NP	O
+האספירין	DEF:NOUN-M,S,ABS:	אספירין	I-NP	aspirin-C0004057
+-	:PUNCUATION:	-	I-NP	O
+כדאי	:MODAL:	כדאי	I-NP	O
+להקנות	:VERB-TOINFINITIVE:	נקנה	O	O
+מיגון	:NOUN-M,S,ABS:	מיגון	B-NP	O
+לכלי	PREPOSITION:NOUN-M,S,CONST:	כלי	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+על	:PREPOSITION:	על	O	O
+חשבון	:NOUN-M,S,CONST:	חשבון	B-NP	expense-C0680864
+החלפה	:NOUN-F,S,ABS:	החלפה	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+תכופה	:ADJECTIVE-F,S,ABS:	תכוף	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+התחבושות	DEF:NOUN-F,P,ABS:	תחבושת	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,30 @@
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+!	:PUNCUATION:	!	O	O
+
+מ	:PREPOSITION:	מ	O	O
+ס'	:NOUN-M,S,ABS:	ס'	B-NP	O
+הנמוך	DEF:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+לא	:NEGATION:	לא	O	O
+מונע	:VERB-M,S,A,BEINONI:	מנע	O	O
+דימומים	:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+ובסוג	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+נסיעה	:NOUN-F,S,ABS:	נסיעה	I-NP	trip-C0077275
+הכל	DEF:QUANTIFIER:	כול	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לקראו	:VERB-TOINFINITIVE:	לקראו	O	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+ולתכנן	CONJ:VERB-TOINFINITIVE:	תכנן	O	O
+איתו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+המשך	:NOUN-M,S,ABS:	המשך	B-NP	continued-C0549178
+או	:CONJUNCTION:	או	O	O
+שינוי	:NOUN-M,S,ABS:	שינוי	B-NP	difference-C1705241
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+

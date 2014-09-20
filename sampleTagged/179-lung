@@ -1,0 +1,23 @@
+לשאלתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+ולהעריך	CONJ:VERB-TOINFINITIVE:	העריך	O	O
+את	:AT_PREP:	את	B-NP	O
+מצבו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מצב	I-NP	Condition-C0348080
+לפני	:PREPOSITION:	לפני	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+קרינה	:NOUN-F,S,ABS:	קרינה	B-NP	radiation-C0034519
+חידוש	:NOUN-M,S,CONST:	חידוש	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ביולוגי	:ADJECTIVE-M,S,ABS:	ביולוגי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+,	:PUNCUATION:	,	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+האונקולוג	DEF:NOUN-M,S,ABS:	האונקולוג	I-NP	O
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+

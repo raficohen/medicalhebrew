@@ -1,0 +1,34 @@
+ממש	:ADVERB:	ממש	O	O
+לא	:NEGATION:	לא	O	O
+הבנתי	:VERB-MF,S,1,PAST:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+כיתבי	:PROPERNAME:	כיתבי	B-NP	O
+מחדש	:ADVERB:	מחדש	I-NP	O
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+יותר	:ADVERB:	יותר	O	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	O	good-C0205170
+,	:PUNCUATION:	,	O	O
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+אלי	:PROPERNAME:	אל	I-NP	deity-C0681169-ambigous
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לשמוע	:VERB-TOINFINITIVE:	שמע	O	O
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+4	:NUMERAL:	###NUMBER###	B-NP	O
+עיניים	:NOUN-F,P,ABS:	עין	I-NP	eyes-C0015392
+ולתת	CONJ:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+ממשי	:ADJECTIVE-M,S,ABS:	ממשי	O	O
+.	:PUNCUATION:	.	O	O
+

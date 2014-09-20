@@ -1,0 +1,56 @@
+פקקת	:VERB-F,S,2,PAST:	פקק	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+קריש דם	:TERM:	קריש דם	O	blood clot-C0302148
+באחת	PREPOSITION:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+ממע'	PREPOSITION:NOUN-F,S,CONST:	מע'	O	O
+ורידיות	:NOUN-F,S,ABS:	ורידיות	B-NP	O
+ברגל	PREPOSITION+DEF:NOUN-F,S,ABS:	רגל	B-NP	foot-C0016504
+.	:PUNCUATION:	.	O	O
+
+לפי	:PREPOSITION:	לפי	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מוסרת	:VERB-F,S,A,BEINONI:	מסר	O	O
+כנראה	:ADVERB:	כנראה	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+מוטציה	:NOUN-F,S,ABS:	מוטציה	B-NP	mutation-C0026882
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	I-NP	O
+F	:FOREIGN:	F	I-NP	O
+V	:FOREIGN:	V	I-NP	O
+LEIDEN	:FOREIGN:	LEIDEN	I-NP	O
+עקב	:PREPOSITION:	עקב	O	O
+APCR	:FOREIGN:	APCR	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+עידות	:NOUN-F,P,ABS:	עידות	B-NP	O
+מעבדתית	:ADJECTIVE-F,S,ABS:	מעבדתית	I-NP	O
+ל	:PREPOSITION:	ל	O	O
+LAC	:FOREIGN:	LAC	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+גנטית	:ADJECTIVE-F,S,ABS:	גנטי	I-NP	genetic-C0314603
+ל	:PREPOSITION:	ל	O	O
+F	:FOREIGN:	F	O	O
+V	:FOREIGN:	V	O	O
+LEIDEN	:FOREIGN:	LEIDEN	O	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שזו	REL-SUBCONJ:PRONOUN-F,S,3:	זו	B-NP	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לפקקת	:VERB-F,S,A,BEINONI:	לפקקת	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

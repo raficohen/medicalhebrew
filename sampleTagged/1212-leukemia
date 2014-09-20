@@ -1,0 +1,22 @@
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+יחסית	:ADVERB:	יחסית	I-NP	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+והמדיניות	CONJ+DEF:NOUN-F,S,ABS:	מדיניות	I-NP	O
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	O	O
+שונה	:ADJECTIVE-F,S,ABS:	שונה	O	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להקפיד	:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+ההוראות	DEF:NOUN-F,P,ABS:	הוראה	B-NP	Educational process of instructing-C0039401-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	I-NP	doctor-C0031831
+שעוקבים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עקב	O	O
+אחריך	:PREPOSITION:PRONOMIAL-M,S,2	אחרי	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

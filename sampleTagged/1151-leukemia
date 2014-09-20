@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+מצויינת	:VERB-F,S,A,BEINONI:	צוין	O	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+ולא	CONJ:NEGATION:	לא	O	O
+מבין	:PREPOSITION:	מבין	O	O
+סיבת	:NOUN-F,S,CONST:	סיבה	B-NP	Causations-C0085978
+הקולונוסקופיה	DEF:NOUN-F,S,ABS:	הקולונוסקופיה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+ילדים	:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+ומציע	CONJ:VERB-M,S,A,BEINONI:	הציע	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+לפני	:PREPOSITION:	לפני	O	O
+הפעולה	DEF:NOUN-F,S,ABS:	פעולה	B-NP	action-C0441472
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

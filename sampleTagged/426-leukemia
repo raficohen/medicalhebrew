@@ -1,0 +1,24 @@
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+ב	:PREPOSITION:	ב	O	O
+wbc	:FOREIGN:	wbc	O	O
+ו	:CONJUNCTION:	ו	O	O
+plt	:FOREIGN:	plt	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	PREPOSITION:NOUN-M,S,CONST:	היות	O	Exist-C2987476
+תגובתיים	:VERB-M,S,2,FUTURE:	תגובתיים	O	O
+לעישון	PREPOSITION+DEF:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+,	:PUNCUATION:	,	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+חריפה	:ADJECTIVE-F,S,ABS:	חריף	I-NP	acute-C0205178
+או	:CONJUNCTION:	או	O	O
+כרונית	PREPOSITION:PROPERNAME-F,S:	רונית	B-NP	O
+ועוד	CONJ:ADVERB:	עוד	O	More-C0205172
+...	:PUNCUATION:	...	O	O
+

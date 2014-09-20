@@ -1,0 +1,23 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+מדויקים	:ADJECTIVE-M,P,ABS:	מדויק	I-NP	O
+על	:PREPOSITION:	על	O	O
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+המעבדתי	DEF:ADJECTIVE-M,S,ABS:	המעבדתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+למרות	:CONJUNCTION:	למרות	O	O
+ה	DEF::	ה	B-NP	O
+LAC	:FOREIGN:	LAC	I-NP	O
+התקין	DEF:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+ההחלטה	DEF:NOUN-F,S,ABS:	החלטה	I-NP	decision-C0679006
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+פרופילקתי	:NOUN-MF,S,ABS:	פרופילקתי	B-NP	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הבא	DEF:ADJECTIVE-M,S,ABS:	בא	I-NP	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	O	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

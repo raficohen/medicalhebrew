@@ -1,0 +1,36 @@
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+מאוד	:ADVERB:	מאוד	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+כי	:CONJUNCTION:	כי	O	O
+הגדלת	:NOUN-F,S,CONST:	הגדלה	B-NP	increase-C0442805
+בלוטות	:NOUN-F,P,ABS:	בלוטה	I-NP	gland-C1285092
+בבית	PREPOSITION:NOUN-M,S,CONST:	בית	B-NP	house-C2003847
+השחי	DEF:NOUN-M,S,ABS:	השחי	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+לתהליך	PREPOSITION+DEF:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+הדלקתי	DEF:ADJECTIVE-M,S,ABS:	דלקתי	I-NP	O
+בעור	PREPOSITION+DEF:NOUN-M,S,ABS:	עור	B-NP	skin-C0444099
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+האם	:INTERROGATIVE:	האם	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ביופסיה	:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+צריך	:MODAL-M,S,A:	צריך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+ולראות	CONJ:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הצילומים	DEF:NOUN-M,P,ABS:	צילום	I-NP	O
+

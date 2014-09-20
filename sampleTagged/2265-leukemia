@@ -1,0 +1,34 @@
+ההמלצה	DEF:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+שקבלת	REL-SUBCONJ:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+בהחלט	:ADVERB:	בהחלט	O	O
+הגיונית	:ADJECTIVE-F,S,ABS:	הגיוני	O	O
+.	:PUNCUATION:	.	O	O
+
+כדי	:CONJUNCTION:	כדי	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+מעמיקה	:VERB-F,S,A,BEINONI:	העמיק	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+תרצי	:VERB-F,S,2,FUTURE:	רצה	O	O
+,	:PUNCUATION:	,	O	O
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+אלי	:PROPERNAME:	אל	I-NP	deity-C0681169-ambigous
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+החומר	DEF:NOUN-M,S,ABS:	חומר	I-NP	material-C0520510
+הרפואי	DEF:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

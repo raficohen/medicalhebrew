@@ -1,0 +1,58 @@
+מחסור	:NOUN-M,S,ABS:	מחסור	B-NP	Deficiency-C0011155
+בויטמין	PREPOSITION:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+B12	:FOREIGN:	B12	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	O	O
+ויכול	CONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להגרם	:VERB-TOINFINITIVE:	נגרם	O	O
+מסיבות	:NOUN-F,P,ABS:	מסיבה	B-NP	O
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+או	:CONJUNCTION:	או	O	O
+ויטמין	:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+באוכל	PREPOSITION+DEF:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+-	:PUNCUATION:	-	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+נכון	:ADVERB:	נכון	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+צימחונים	:PREPOSITION:	צימחונים	O	O
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+בספיגה	PREPOSITION:NOUN-F,S,ABS:	ספיגה	B-NP	absorption-C0000854
+בגלל	:PREPOSITION:	בגלל	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+של	:SHEL_PREP:	של	I-NP	O
+הקיבה	DEF:NOUN-F,S,ABS:	קיבה	I-NP	stomach-C0038351
+או	:CONJUNCTION:	או	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המעי	DEF:NOUN-M,S,ABS:	מעי	I-NP	intestine-C0021853
+.	:PUNCUATION:	.	O	O
+
+ראשית	:ADVERB:	ראשית	O	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חוסר	:NOUN-M,S,ABS:	חוסר	B-NP	O
+אמיתי	:ADJECTIVE-M,S,ABS:	אמיתי	I-NP	O
+בויטמין	PREPOSITION:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מחסור	:NOUN-M,S,ABS:	מחסור	B-NP	Deficiency-C0011155
+-	:PUNCUATION:	-	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	I-NP	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+סיבתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	סיבה	B-NP	Causations-C0085978
+ואח"כ	CONJ:CONJUNCTION:	אח"כ	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

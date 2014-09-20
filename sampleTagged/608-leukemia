@@ -1,0 +1,51 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+MTFHR	:FOREIGN:	MTFHR	O	O
+-	:PUNCUATION:	-	O	O
+יותר	:ADVERB:	יותר	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+ה	DEF::	ה	I-NP	O
+ח'	:PROPERNAME:	ח'	I-NP	O
+הומוציסטאין	:NOUN-M,S,ABS:	הומוציסטאין	O	homocysteine-C0019878
+שהיא	REL-SUBCONJ:PRONOUN-F,S,3:	הוא	B-NP	O
+בגדר	PREPOSITION:NOUN-F,S,CONST:	גדר	O	Restricted-C0443288
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+2	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+המידע	DEF:NOUN-M,S,ABS:	מידע	I-NP	Information-C1533716
+הזה	DEF:PRONOUN-M,S,3:	זה	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להעביר	:VERB-TOINFINITIVE:	העביר	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+מטפל	:NOUN-M,S,ABS:	מטפל	I-NP	O
+וכן	CONJ:CONJUNCTION:	כן	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+של	:SHEL_PREP:	של	O	O
+ביצוע	:NOUN-M,S,CONST:	ביצוע	B-NP	O
+פעולה	:NOUN-F,S,ABS:	פעולה	I-NP	action-C0441472
+ניתוחית	:ADJECTIVE-F,S,ABS:	ניתוחי	I-NP	O
+כלשהיא	:PRONOUN-F,S:	כלשהו	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+אינה	:VERB-M,S,3,PAST:	אינה	O	O
+מצריכה	PREPOSITION:NOUN-F,S,ABS:	צריכה	O	consumption-C0009830
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מיוחד	:ADJECTIVE-M,S,ABS:	מיוחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+על	:PREPOSITION:	על	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+חלקי	:ADJECTIVE-M,S,ABS:	חלקי	I-NP	O
+בשני	PREPOSITION:NOUN-M,S,CONST:	שני	B-NP	second-C0205436-ambigous
+פקטורי	:NOUN-M,P,CONST:	פקטור	I-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

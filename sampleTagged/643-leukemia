@@ -1,0 +1,54 @@
+עלייך	:PREPOSITION:PRONOMIAL-F,S,2	על	O	O
+להיבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+העוסק	DEF:NOUN-M,S,ABS:	עוסק	I-NP	O
+בבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+בהקדם	PREPOSITION+DEF:NOUN-M,S,ABS:	הקדם	B-NP	O
+האפשרי	DEF:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מרפאות	:NOUN-F,P,ABS:	מרפאה	B-NP	Clinic-C0442592
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+קיימות	:ADJECTIVE-F,P,ABS:	קיים	I-NP	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+בי"ח	:NOUN-M,S,ABS:	בי"ח	O	O
+מרכזי	:ADJECTIVE-M,S,ABS:	מרכזי	O	O
+גדול	:ADJECTIVE-M,S,ABS:	גדול	O	O
+וכל	CONJ:QUANTIFIER-CONST:	כול	B-NP	O
+מה	:INTERROGATIVE:	מה	I-NP	O
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+ט	:NUMERAL:	ט	O	O
+.	:PUNCUATION:	.	O	O
+
+17	:NUMERAL:	###NUMBER###	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+הפנייה	DEF:NOUN-F,S,ABS:	פנייה	B-NP	O
+לבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	O	examination-C0031809
+במרפאת	PREPOSITION:NOUN-F,S,CONST:	מרפאה	B-NP	Clinic-C0442592
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	O	O
+כאשר	:CONJUNCTION:	כאשר	O	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+המומלצות	DEF:ADJECTIVE-F,P,ABS:	מומלץ	I-NP	O
+יבוצעו	:VERB-MF,P,3,FUTURE:	בוצע	O	O
+בקופה	PREPOSITION+DEF:NOUN-F,S,ABS:	קוף	B-NP	Monkeys-C0026447
+בהתאם	:ADVERB:	בהתאם	O	O
+להנחיות	PREPOSITION:NOUN-F,P,CONST:	הנחיה	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+ואח"כ	CONJ:CONJUNCTION:	אח"כ	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כך	:ADVERB:	כך	O	O
+אנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+נוהגים	:VERB-M,P,A,BEINONI:	נהג	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+קבוע	:ADJECTIVE-M,S,ABS:	קבוע	I-NP	O
+.	:PUNCUATION:	.	O	O
+

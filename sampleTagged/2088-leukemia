@@ -1,0 +1,39 @@
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+נעשית	:VERB-F,S,A,BEINONI:	נעשה	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+מכשיר	:NOUN-M,S,ABS:	מכשיר	I-NP	Instrument - device-C0348000
+אוטומטי	:ADJECTIVE-M,S,ABS:	אוטומטי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+הדם	DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+עובר	:VERB-M,S,A,BEINONI:	עבר	O	past-C1444637
+הליך	:NOUN-M,S,ABS:	הליך	B-NP	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+מיקרוסקופית	:ADJECTIVE-F,S,ABS:	מיקרוסקופי	I-NP	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+לבורנט	:NOUN-M,S,ABS:	לבורנט	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	O	O
+שמצויין	REL-SUBCONJ:VERB-M,S,A,BEINONI:	צוין	O	O
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+שספירת	REL-SUBCONJ:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הלבנים	DEF:ADJECTIVE-M,P,ABS:	לבן	I-NP	O
+אומתה	:VERB-F,S,3,PAST:	אומת	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+מיקרוסקופית	:ADJECTIVE-F,S,ABS:	מיקרוסקופי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

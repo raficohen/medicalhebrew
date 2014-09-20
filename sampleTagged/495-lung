@@ -1,0 +1,21 @@
+בנוסף	:ADVERB:	בנוסף	O	O
+לכותרת	PREPOSITION+DEF:NOUN-F,S,ABS:	כותרת	B-NP	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+אינפורמציה	:NOUN-F,S,ABS:	אינפורמציה	B-NP	O
+נןספת	:VERB-F,S,2,PAST:	נןספת	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+סוג	:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+ואיכות	CONJ:NOUN-F,S,CONST:	איכות	B-NP	quality-C0332306
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+,	:PUNCUATION:	,	O	O
+כמו	:CONJUNCTION:	כמו	O	O
+כן	:CONJUNCTION:	כן	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	I-NP	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+והיסטוריה	CONJ:NOUN-F,S,ABS:	היסטוריה	I-NP	history-C0019664
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	O	O
+

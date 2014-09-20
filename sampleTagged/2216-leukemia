@@ -1,0 +1,40 @@
+לטרסילול	PREPOSITION+DEF:NOUN-F,P,ABS:	הטרסילול	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+פעולה	:NOUN-F,S,ABS:	פעולה	B-NP	action-C0441472
+הפוכה	:ADJECTIVE-F,S,ABS:	הפוך	I-NP	O
+מזה	PREPOSITION:PRONOUN-M,S,3:	זה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הפרין	:PROPERNAME:	הפרין	I-NP	heparin-C0019134
+קומדין	:NOUN-M,S,ABS:	קומדין	I-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+ההפרין	DEF:NOUN-F,S,ABS:	ההפרין	B-NP	O
+והקומדין	CONJ+DEF:NOUN-M,S,ABS:	הקומדין	B-NP	O
+מנטרלים	:VERB-M,P,A,BEINONI:	נטרל	O	O
+חלקית	:ADVERB:	חלקית	O	O
+את	:AT_PREP:	את	B-NP	O
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+ובכך	CONJ:ADVERB:	בכך	O	O
+מונעים	:VERB-M,P,A,BEINONI:	מנע	O	O
+/	:PUNCUATION:	/	O	O
+מעיטים	PREPOSITION:NOUN-M,P,ABS:	עיט	O	O
+יצירת	:NOUN-F,S,CONST:	יצירה	B-NP	creation-C0441513
+קריש	:NOUN-M,S,ABS:	קריש	I-NP	clot-C0009074
+.	:PUNCUATION:	.	O	O
+
+הטרסילול	DEF:NOUN-F,P,ABS:	הטרסילול	B-NP	O
+מנטרל	:VERB-M,S,A,BEINONI:	נטרל	O	O
+חלקית	:ADVERB:	חלקית	O	O
+את	:AT_PREP:	את	B-NP	O
+המערכת	DEF:NOUN-F,S,ABS:	מערכת	I-NP	system-C0449913
+שמפרקת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	פירק	O	O
+את	:AT_PREP:	את	B-NP	O
+הקריש	DEF:NOUN-M,S,ABS:	קריש	I-NP	clot-C0009074
+ובכך	CONJ:ADVERB:	בכך	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+תורם	:VERB-M,S,A,BEINONI:	תרם	O	O
+להשארות	PREPOSITION:NOUN-F,P,CONST:	השארה	B-NP	O
+הקריש	DEF:NOUN-M,S,ABS:	קריש	I-NP	clot-C0009074
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,54 @@
+סליחה	:NOUN-F,S,ABS:	סליחה	B-NP	O
+על	:PREPOSITION:	על	O	O
+האיחור	DEF:NOUN-M,S,ABS:	איחור	B-NP	late-C0205087
+בתשובה	PREPOSITION+DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+כמו	:CONJUNCTION:	כמו	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מבינה	:VERB-F,S,A,BEINONI:	הבין	O	O
+הסיכויים	DEF:NOUN-M,P,ABS:	סיכוי	B-NP	chance-C0237506
+להישרדות	PREPOSITION:NOUN-F,S,ABS:	הישרדות	O	O
+ורוכת	:ADJECTIVE-F,S,CONST:	ורוכת	B-NP	O
+טווח	:NOUN-M,S,ABS:	טווח	I-NP	long-term-C0443252
+הינם	:COPULA-MF,P,3,BEINONI,POSITIVE:	הוא	O	O
+מעטים	:ADJECTIVE-M,P,ABS:	מעט	O	O
+ביותר	:ADVERB:	ביותר	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+תומך	:VERB-M,S,A,BEINONI:	תמך	I-NP	O
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+כאבים	:NOUN-M,P,ABS:	כאב	I-NP	pain-C0030193
+וסבל	CONJ:NOUN-M,S,ABS:	סבל	I-NP	suffering-C0683278
+,	:PUNCUATION:	,	O	O
+ישנם	:EXISTENTIAL-POSITIVE:PRONOMIAL-M,P,3	יש	B-NP	O
+מקרים	:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+עם	:PREPOSITION:	עם	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+מצויינת	:VERB-F,S,A,BEINONI:	צוין	O	O
+לכימותרפיה	PREPOSITION:NOUN-F,S,ABS:	כימותרפיה	B-NP	O
+שבהם	REL-SUBCONJ:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להשיג	:VERB-TOINFINITIVE:	השיג	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+יותר	:ADVERB:	יותר	I-NP	O
+טובות	:ADJECTIVE-F,P,ABS:	טוב	I-NP	good-C0205170
+אבל	:CONJUNCTION:	אבל	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחכות	:VERB-TOINFINITIVE:	חיכה	O	O
+לתוצאות	PREPOSITION:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+ש	:CONJUNCTION:	ש	O	O
+PET	:FOREIGN:	PET	O	O
+יתרום	:VERB-M,S,3,FUTURE:	תרם	O	O
+,	:PUNCUATION:	,	O	O
+ייקדם	:VERB-MF,P,3,FUTURE:	ייקדם	O	O
+או	:CONJUNCTION:	או	O	O
+יישנה	:VERB-M,S,3,FUTURE:	נשנה	O	O
+את	:AT_PREP:	את	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+

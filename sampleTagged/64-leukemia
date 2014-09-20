@@ -1,0 +1,32 @@
+קודם	:ADVERB:	קודם	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+ותפקודי	CONJ:NOUN-M,P,CONST:	תפקוד	B-NP	Function-C0542341
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+במשה	PREPOSITION:PROPERNAME:	משה	B-NP	O
+והבדיקות	CONJ+DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הקודמות	DEF:ADJECTIVE-F,P,ABS:	קודם	I-NP	O
+בוצעו	:VERB-MF,P,3,PAST:	בוצע	O	O
+לפני	:PREPOSITION:	לפני	O	O
+יותר	:ADVERB:	יותר	B-NP	O
+מחצי	PREPOSITION:NOUN-M,P,CONST:	חץ	I-NP	Arrow-C0336721
+שנה	:NOUN-F,S,ABS:	שנה	I-NP	year-C0439234
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והכל	CONJ+DEF:QUANTIFIER:	כול	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לתופעות	PREPOSITION:NOUN-F,P,ABS:	תופעה	O	phenomenon-C1882365
+לא	:NEGATION:	לא	O	O
+קשורה	:ADJECTIVE-F,S,ABS:	קשור	O	O
+לבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+או	:CONJUNCTION:	או	O	O
+במנגנון	PREPOSITION:NOUN-M,S,CONST:	מנגנון	B-NP	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+

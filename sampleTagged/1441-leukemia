@@ -1,0 +1,35 @@
+כ.ל	:NOUN-M,S,ABS:POSSESIVE-M,S,3	כ.	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+קבוע	:ADJECTIVE-M,S,ABS:	קבוע	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+כרוני	PREPOSITION:PROPERNAME-MF,S:	רוני	B-NP	O
+בניגני	PREPOSITION:PROPERNAME:	ניגני	B-NP	O
+,	:PUNCUATION:	,	O	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+מאוד	:ADVERB:	מאוד	O	O
+בעדה	PREPOSITION+DEF:NOUN-F,S,ABS:	עד	B-NP	until-C1720302
+התימנית	DEF:ADJECTIVE-F,S,ABS:	תימני	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+ובדיקת	CONJ:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+משטח	:NOUN-M,S,ABS:	משטח	I-NP	smear-C0444086
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

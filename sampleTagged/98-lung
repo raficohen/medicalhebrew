@@ -1,0 +1,26 @@
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+דיווחים	:NOUN-M,P,ABS:	דיווח	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+יעילות	:NOUN-F,S,ABS:	יעילות	I-NP	efficiency-C0013682
+טרסיבה	:PROPERNAME:	טרסיבה	I-NP	O
+אחרי	:PREPOSITION:	אחרי	O	O
+אירסה	:VERB-F,S,3,PAST:	אירס	O	O
+.	:PUNCUATION:	.	O	O
+
+אולם	:CONJUNCTION:	אולם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+מתי	:ADVERB:	מתי	O	O
+הופסקה	:VERB-F,S,3,PAST:	הופסק	O	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+ומדוע	CONJ:ADVERB:	מדוע	O	O
+.	:PUNCUATION:	.	O	O
+
+בסל	PREPOSITION:NOUN-M,S,CONST:	סל	B-NP	O
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+אירסה	:VERB-F,S,3,PAST:	אירס	O	O
+או	:CONJUNCTION:	או	O	O
+טרסיבה	:VERB-F,S,A,BEINONI:	טרסיבה	O	O
+

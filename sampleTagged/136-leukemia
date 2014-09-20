@@ -1,0 +1,33 @@
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+למחלקה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלקה	B-NP	O
+שטיפלה	REL-SUBCONJ:VERB-F,S,3,PAST:	טיפל	O	O
+בך	:PREPOSITION:PRONOMIAL-M,S,2	ב	B-NP	O
+בלידה	PREPOSITION+DEF:NOUN-F,S,ABS:	לידה	B-NP	birth-C0005615
+ובזמן	PREPOSITION+CONJ:NOUN-M,S,CONST:	ב	O	O
+האירוע	DEF:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+אין	:NEGATION:	אין	O	O
+צורך	:VERB-M,S,A,BEINONI:	צרך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+.	:PUNCUATION:	.	O	O
+
+הנחיות	:NOUN-F,P,ABS:	הנחיה	B-NP	O
+בנוגע	:ADVERB:	בנוגע	O	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הינם	:COPULA-MF,P,3,BEINONI,POSITIVE:	הוא	O	O
+בידים	:NOUN-M,S,ABS:	בידים	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	O	people-C0027361
+

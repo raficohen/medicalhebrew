@@ -1,0 +1,32 @@
+protein	:FOREIGN:	protein	O	O
+c	:FOREIGN:	c	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+חלבון	:NOUN-M,S,ABS:	חלבון	B-NP	protein-C0033684
+שמשתתף	REL-SUBCONJ:VERB-M,S,A,BEINONI:	השתתף	O	O
+בתהליך	PREPOSITION:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+של	:SHEL_PREP:	של	I-NP	O
+עיכוב	:NOUN-M,S,CONST:	עיכוב	I-NP	inhibition-C0021467
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בפעילות	PREPOSITION:NOUN-F,S,CONST:	פעילות	B-NP	activity-C0441655
+חלבון	:NOUN-M,S,ABS:	חלבון	I-NP	protein-C0033684
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+גורם	:VERB-M,S,A,BEINONI:	גרם	O	O
+לירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בעיכוב	PREPOSITION:NOUN-M,S,CONST:	עיכוב	B-NP	inhibition-C0021467
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+לסיכוי	PREPOSITION:NOUN-M,S,ABS:	סיכוי	O	chance-C0237506
+יותר	:ADVERB:	יותר	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+להתפתחות	PREPOSITION:NOUN-F,S,CONST:	התפתחות	B-NP	O
+קרישים	:NOUN-M,P,ABS:	קריש	I-NP	clot-C0009074
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+

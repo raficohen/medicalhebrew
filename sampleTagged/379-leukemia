@@ -1,0 +1,28 @@
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+כללית	:ADJECTIVE-F,S,ABS:	כללי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+והפרוגנוזה	:PROPERNAME:	והפרוגנוזה	I-NP	O
+ב	:PREPOSITION:	ב	O	O
+AML	:FOREIGN:	AML	O	O
+של	:SHEL_PREP:	של	O	O
+מבוגרים	:NOUN-M,P,ABS:	מבוגר	B-NP	adults-C0001675
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+לפי	:PREPOSITION:	לפי	O	O
+סוג	:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+וציטוגנטיקה	CONJ:NOUN-F,S,ABS:	ציטוגנטיקה	O	cytogenetics-C0010802
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	B-NP	O
+לשאלה	PREPOSITION:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+ספציפית	:ADJECTIVE-F,S,ABS:	ספציפי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,30 @@
+אים	:VERB-M,S,3,PAST:	איים	O	O
+מצבו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מצב	B-NP	Condition-C0348080
+הבריאותי	DEF:ADJECTIVE-M,S,ABS:	בריאותי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+סבך	:NOUN-M,S,CONST:	סבך	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+כך	:PRONOUN:	כך	I-NP	O
+ירוד	:ADJECTIVE-M,S,ABS:	ירוד	I-NP	cataract-C0086543
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+למנוע	:VERB-TOINFINITIVE:	מנע	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כמוטרפי	PREPOSITION:ADJECTIVE-M,P,CONST:	מוטרף	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שהומלץ	REL-SUBCONJ:VERB-M,S,3,PAST:	הומלץ	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ביאולוגי	:NOUN-F,P,ABS:	ביאולוגי	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+להקטנת	PREPOSITION:NOUN-F,S,CONST:	הקטנה	B-NP	O
+הבלוטות	DEF:NOUN-F,P,ABS:	בלוטה	I-NP	gland-C1285092
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

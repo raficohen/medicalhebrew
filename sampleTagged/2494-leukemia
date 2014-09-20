@@ -1,0 +1,35 @@
+כחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהברור	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+לסיבת	PREPOSITION:NOUN-F,S,CONST:	סיבה	B-NP	Causations-C0085978
+הנויטרופניה	DEF:NOUN-M,S,ABS:	הנויטרופניה	I-NP	O
+מבצעים	:VERB-M,P,A,BEINONI:	ביצע	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+של	:SHEL_PREP:	של	O	O
+המערכת	DEF:NOUN-F,S,ABS:	מערכת	B-NP	system-C0449913
+החיסונית	DEF:ADJECTIVE-F,S,ABS:	חיסוני	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שתי	:NUMERAL-F,D,CONST:	CARD2	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+בודקות	:VERB-F,P,A,BEINONI:	בדק	O	O
+צדדים	:NOUN-M,P,ABS:	צד	B-NP	side-C0441987
+מסוימים	:ADJECTIVE-M,P,ABS:	מסוים	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המערכת	DEF:NOUN-F,S,ABS:	מערכת	I-NP	system-C0449913
+.	:PUNCUATION:	.	O	O
+
+בהחלט	:ADVERB:	בהחלט	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+כוללת	:VERB-F,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+,	:PUNCUATION:	,	O	O
+ולהחליט	CONJ:VERB-TOINFINITIVE:	החליט	O	O
+על	:PREPOSITION:	על	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בהמשך	PREPOSITION:NOUN-M,S,ABS:	המשך	O	continued-C0549178
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+ובטיפול	PREPOSITION+CONJ+DEF:NOUN-M,S,ABS:	ב	O	O
+.	:PUNCUATION:	.	O	O
+

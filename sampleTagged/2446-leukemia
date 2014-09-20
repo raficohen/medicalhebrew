@@ -1,0 +1,75 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+שרון	:PROPERNAME:	שרון	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+בשר	:NOUN-M,S,ABS:	בשר	I-NP	O
+ודם	CONJ:NOUN-M,S,ABS:	דם	O	blood-C0005767
+לאור	:PREPOSITION:	לאור	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+שהדימום	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+נמשך	:VERB-M,S,3,PAST:	נמשך	O	O
+ואת	CONJ:AT_PREP:	את	B-NP	O
+מרגישה	:VERB-F,S,A,BEINONI:	הרגיש	O	O
+דפיקות לב	:TERM:	דפיקות לב	O	Heart beat-C0425583
+וחלושה	CONJ:ADJECTIVE-F,S,ABS:	חלוש	I-NP	O
+ניכרת	:ADJECTIVE-F,S,ABS:	ניכר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שנוצר	REL-SUBCONJ:VERB-M,S,3,PAST:	נוצר	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+באם	:CONJUNCTION:	באם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+תכשירי	:NOUN-M,P,CONST:	תכשיר	I-NP	Pharmaceutical Preparations-C0013227
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בהחלט	:ADVERB:	בהחלט	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בעיתיים	:ADJECTIVE-M,P,ABS:	בעיתיים	O	O
+.	:PUNCUATION:	.	O	O
+
+נסי	:NOUN-M,S,ABS:POSSESIVE-MF,S,1	נס	B-NP	O
+להחליף	:VERB-TOINFINITIVE:	החליף	O	O
+לתכשיר	PREPOSITION:NOUN-M,S,ABS:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+עוזר	:VERB-M,S,A,BEINONI:	עזר	O	O
+-	:PUNCUATION:	-	O	O
+רדי	:VERB-F,S,2,IMPERATIVE:	ירד	O	O
+למינון	PREPOSITION+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+של	:SHEL_PREP:	של	I-NP	O
+טבלייה	:PROPERNAME:	טבלייה	I-NP	O
+בודדת	:ADJECTIVE-F,S,ABS:	בודד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+עוזר	:VERB-M,S,A,BEINONI:	עזר	O	O
+-	:PUNCUATION:	-	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+תוך	:PREPOSITION:	תוך	O	O
+וורידי	:NOUN-M,P,CONST:	וריד	B-NP	vein-C0042449
+.	:PUNCUATION:	.	O	O
+

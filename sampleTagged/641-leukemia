@@ -1,0 +1,21 @@
+קשה	:ADVERB:	קשה	O	O
+לחוות	PREPOSITION:NOUN-F,S,CONST:	חווה	O	farm-C0557759
+דעה	:NOUN-F,S,ABS:	דעה	B-NP	O
+על	:PREPOSITION:	על	O	O
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+ללא	:PREPOSITION:	ללא	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שיבדוק	REL-SUBCONJ:VERB-M,S,3,FUTURE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+משמעות	:NOUN-F,S,CONST:	משמעות	I-NP	significance-C0237881
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+כולל	:VERB-M,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+לגבי	:PREPOSITION:	לגבי	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+אפשריות	:ADJECTIVE-F,P,ABS:	אפשרי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

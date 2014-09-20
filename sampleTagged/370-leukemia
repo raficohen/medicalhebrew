@@ -1,0 +1,30 @@
+הפורום	DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+שלנו	:SHEL_PREP:PRONOMIAL-MF,P,1	של	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+המטולוגיה	:NOUN-F,S,ABS:	המטולוגיה	B-NP	hematology-C0018943
+מבוגרים	:ADJECTIVE-M,P,ABS:	מבוגר	I-NP	adults-C0001675
+.	:PUNCUATION:	.	O	O
+
+קראתי	:VERB-MF,S,1,PAST:	קרא	O	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הבן	DEF:NOUN-M,S,ABS:	בן	I-NP	Son (person)-C0037683-ambigous
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שהבירור	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	בירור	B-NP	O
+שנעשה	REL-SUBCONJ:VERB-M,S,3,PAST:	נעשה	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+מעמיק	:VERB-M,S,A,BEINONI:	העמיק	O	O
+ויעיל	CONJ:ADJECTIVE-M,S,ABS:	יעיל	O	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+מהמומחים	PREPOSITION+DEF:NOUN-M,P,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+במחלקה	PREPOSITION:NOUN-F,S,ABS:	מחלקה	B-NP	O
+

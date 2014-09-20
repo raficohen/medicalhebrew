@@ -1,0 +1,29 @@
+דבורה	:PROPERNAME:	דבורה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+בלתי	:PREFIX:	בלתי	I-NP	O
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+של	:SHEL_PREP:	של	I-NP	O
+בעלך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	בעל	I-NP	husband-C0242664
+ולהבין	CONJ:VERB-TOINFINITIVE:	הבין	O	O
+במה	PREPOSITION:INTERROGATIVE:	מה	B-NP	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

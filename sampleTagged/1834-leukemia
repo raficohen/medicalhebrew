@@ -1,0 +1,122 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+נכון	:ADVERB:	נכון	O	O
+שבתלסמיה	PREPOSITION+REL-SUBCONJ:NOUN-F,S,ABS:	ב	B-NP	O
+בד"כ	:PROPERNAME:	בד"כ	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+במתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ולפעמים	CONJ:ADVERB:	לפעמים	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אף	:CONJUNCTION:	אף	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להזיק	:VERB-TOINFINITIVE:	הזיק	O	O
+עקב	:PREPOSITION:	עקב	O	O
+עלייה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+במאגרי	PREPOSITION:NOUN-M,P,CONST:	מאגר	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לפעמים	:ADVERB:	לפעמים	O	O
+גם	:CONJUNCTION:	גם	O	O
+בתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+האנמיה	:PROPERNAME:	האנמיה	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להחמיר	:VERB-TOINFINITIVE:	החמיר	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+חסר	:NOUN-M,S,CONST:	חסר	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+,	:PUNCUATION:	,	O	O
+במיוחד	:ADVERB:	במיוחד	O	O
+בנשים	PREPOSITION:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+צעירות	:ADJECTIVE-F,P,ABS:	צעיר	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+מחזור	:NOUN-M,S,ABS:	מחזור	B-NP	reunion-C0035373
+.	:PUNCUATION:	.	O	O
+
+בנסיבות	PREPOSITION:NOUN-F,P,ABS:	נסיבה	B-NP	O
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לשפר	:VERB-TOINFINITIVE:	שיפר	O	O
+את	:AT_PREP:	את	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+,	:PUNCUATION:	,	O	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+חד	:PREFIX:	חד	O	O
+משמעיים	:ADJECTIVE-M,P,ABS:	משמעי	O	O
+.	:PUNCUATION:	.	O	O
+
+פריטין	:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+בערך	PREPOSITION+DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+מחשיד	:VERB-M,S,A,BEINONI:	החשיד	O	O
+שיתכן	REL-SUBCONJ:MODAL:	ייתכן	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+חסר	:NOUN-M,S,ABS:	חסר	B-NP	O
+קל	:ADJECTIVE-M,S,ABS:	קל	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+במאגרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מאגר	B-NP	O
+למרות	:CONJUNCTION:	למרות	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+בתנאי	PREPOSITION:NOUN-M,S,CONST:	תנאי	B-NP	O
+צום	:NOUN-M,S,ABS:	צום	I-NP	Fasting-C0015663
+מוחלט	:ADJECTIVE-M,S,ABS:	מוחלט	I-NP	O
+וכולל	CONJ:VERB-M,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+גם	:CONJUNCTION:	גם	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+טרנספירין	:PROPERNAME:	טרנספירין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הפריטין	DEF:NOUN-M,S,ABS:	הפריטין	I-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	O	O
+ורמת	CONJ:NOUN-F,S,CONST:	רמה	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+לא	:NEGATION:	לא	O	O
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	O	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+תקופה	:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+מסוימת	:ADJECTIVE-F,S,ABS:	מסוים	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION+DEF:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

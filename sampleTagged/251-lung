@@ -1,0 +1,28 @@
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	I-NP	O
+נויורופיברומטוסיס	:PROPERNAME:	נויורופיברומטוסיס	I-NP	O
+(	:PUNCUATION:	(	O	O
+יש	:NOUN-M,S,ABS:	יש	B-NP	O
+גם	:CONJUNCTION:	גם	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+בהדסה	PREPOSITION:PROPERNAME-F,S:	הדסה	B-NP	O
+עכ	:PROPERNAME:	עך	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+רופאים	:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+מומנ\חים	PREPOSITION:ADJECTIVE-M,P,CONST:	ומנ\חים	O	O
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+בבתי	PREPOSITION:NOUN-M,P,CONST:	בית	B-NP	house-C2003847
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+)	:PUNCUATION:	)	O	O
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+חובב	:PROPERNAME:	חובב	O	O
+

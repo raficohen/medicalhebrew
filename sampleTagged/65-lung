@@ -1,0 +1,64 @@
+אוסקר	:PROPERNAME:	אוסקר	B-NP	O
+שלום	:PROPERNAME:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+שאלתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מופנית	:VERB-F,S,A,BEINONI:	הופנה	O	O
+לאונקולוג	:PREPOSITION:	לאונקולוג	O	O
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	B-NP	O
+שיודע	REL-SUBCONJ:VERB-M,S,A,BEINONI:	ידע	O	O
+את	:AT_PREP:	את	B-NP	O
+סוג	:NOUN-M,S,CONST:	סוג	I-NP	kind-C0332307
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+הספציפי	DEF:ADJECTIVE-M,S,ABS:	ספציפי	I-NP	O
+ואת	CONJ:AT_PREP:	את	B-NP	O
+שיעורי	:NOUN-M,P,CONST:	שיעור	I-NP	O
+התגובה	DEF:NOUN-F,S,ABS:	תגובה	I-NP	reaction-C0443286
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+מסוגי	PREPOSITION:NOUN-M,P,CONST:	סוג	I-NP	kind-C0332307
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+השונים	DEF:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מבלי	:CONJUNCTION:	מבלי	O	O
+להכיר	:VERB-TOINFINITIVE:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+הספצפיים	DEF:PARTICIPLE-M,P,A,ABS:	הספצפיים	O	O
+של	:SHEL_PREP:	של	O	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+כללי	:ADJECTIVE-M,S,ABS:	כללי	I-NP	O
+,	:PUNCUATION:	,	O	O
+במרבית	PREPOSITION:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+הקו	DEF:NOUN-M,S,ABS:	קו	B-NP	line-C0205132
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הראשון	DEF:NUMERAL-M,S,ABS:	ORD1	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+בכימוטרפיה	PREPOSITION:NOUN-F,S,ABS:	כימוטרפיה	B-NP	chemotherapy-C0013216
+קונבנציולנית	:ADJECTIVE-F,S,ABS:	קונבנציולנית	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+כאמור	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	אמור	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+לגופו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	גוף	B-NP	body-C0460148
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION+DEF:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

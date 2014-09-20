@@ -1,0 +1,30 @@
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+גנטי	:ADJECTIVE-M,S,ABS:	גנטי	I-NP	genetic-C0314603
+של	:SHEL_PREP:	של	I-NP	O
+MTHFR	:FOREIGN:	MTHFR	I-NP	O
+HETER	:FOREIGN:	HETER	I-NP	O
+,	:PUNCUATION:	,	O	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+מאוד	:ADVERB:	מאוד	O	O
+ומתוקן	CONJ:ADJECTIVE-M,S,ABS:	מתוקן	O	O
+היטב	:ADVERB:	היטב	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+לקיחת	:NOUN-F,S,CONST:	לקיחה	I-NP	Take-C1515187
+חי	:NOUN-M,S,ABS:	חי	I-NP	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+ויעוץ	CONJ:VERB-M,S,3,FUTURE:	עץ	O	O
+גינקולוגי	:NOUN-M,P,CONST:	גינקולוג	B-NP	gynecologist-C0237419
+לקראת	:PREPOSITION:	לקראת	O	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הבא	DEF:ADJECTIVE-M,S,ABS:	בא	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

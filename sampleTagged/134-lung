@@ -1,0 +1,125 @@
+רפאל	:PROPERNAME:	רפאל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+"	:PUNCUATION:	"	O	O
+פקטוס	:NOUN-M,S,ABS:	פקטוס	B-NP	pectus-C0230132
+אקסקווטום	:PROPERNAME:	אקסקווטום	I-NP	O
+"	:PUNCUATION:	"	O	O
+או	:CONJUNCTION:	או	O	O
+בשמו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	שם	O	Name-C0027365-ambigous
+העברי	DEF:ADJECTIVE-M,S,ABS:	עברי	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+חזה	:NOUN-M,S,CONST:	חזה	I-NP	chest-C0817096
+סנדלרים	:NOUN-M,P,ABS:	סנדלר	I-NP	O
+"	:PUNCUATION:	"	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+פגם	:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+במבנה	PREPOSITION+DEF:NOUN-M,S,ABS:	מבנה	B-NP	O
+השלדי	:VERB-F,S,2,PAST:	השלדי	O	O
+של	:SHEL_PREP:	של	O	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+הפגם	DEF:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+,	:PUNCUATION:	,	O	O
+כאשר	:CONJUNCTION:	כאשר	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+,	:PUNCUATION:	,	O	O
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+בא	:VERB-M,S,3,PAST:	בא	O	O
+לידי	PREPOSITION:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+ביטוי	:NOUN-M,S,ABS:	ביטוי	I-NP	expression-C0017262
+בגיל	PREPOSITION:NOUN-M,S,ABS:	גיל	B-NP	O
+צעיר	:ADJECTIVE-M,S,ABS:	צעיר	I-NP	O
+,	:PUNCUATION:	,	O	O
+ומהווה	CONJ:VERB-M,S,A,BEINONI:	היווה	O	O
+בעיקר	:ADVERB:	בעיקר	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+אסטטית	:ADJECTIVE-F,S,ABS:	אסטטית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רק	:CONJUNCTION:	רק	O	O
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+מאוד	:ADVERB:	מאוד	I-NP	O
+קיצוניים	:ADJECTIVE-M,P,ABS:	קיצוני	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לסימפטומים	PREPOSITION:NOUN-M,P,ABS:	סימפטום	O	symptom-C1457887
+נשימתיים	:ADJECTIVE-M,P,ABS:	נשימתיים	O	O
+או	:CONJUNCTION:	או	O	O
+לבביים	:ADJECTIVE-M,P,ABS:	לבבי	O	O
+.	:PUNCUATION:	.	O	O
+
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+לא	:NEGATION:	לא	O	O
+תופעה	:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+שמתפתחת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	התפתח	O	O
+מגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+40	:NUMERAL:	###NUMBER###	I-NP	O
+לגיל	PREPOSITION:PROPERNAME-M,S:	גיל	B-NP	O
+41	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+בידנו	:PREPOSITION:PRONOMIAL-MF,P,1	ביד	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+הצילומים	DEF:NOUN-M,P,ABS:	צילום	I-NP	O
+שביצעת	REL-SUBCONJ:VERB-F,S,2,PAST:	ביצע	O	O
+וכמובן	CONJ:ADVERB:	כמובן	O	O
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+מעל	:PREPOSITION:	מעל	O	O
+אתר	:NOUN-M,S,CONST:	אתר	B-NP	 Ether-C0014994-ambigous
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+:	:PUNCUATION:	:	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+מהרופאים	PREPOSITION+DEF:NOUN-M,P,ABS:	רופא	I-NP	doctor-C0031831
+שעוסקים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עסק	O	O
+בכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+,	:PUNCUATION:	,	O	O
+מנתחי	:NOUN-M,P,CONST:	מנתח	B-NP	surgeon-C0582175
+חזה	:PROPERNAME:	חזה	I-NP	chest-C0817096
+,	:PUNCUATION:	,	O	O
+עם	:PREPOSITION:	עם	O	O
+צילומי	:NOUN-M,P,CONST:	צילום	B-NP	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+בודאי	:ADVERB:	בוודאי	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+להלחץ	:VERB-TOINFINITIVE:	נלחץ	O	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+תלונותיך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	תלונה	B-NP	complaint-C0277786
+לבין	:PREPOSITION:	לבין	O	O
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+בצילום	PREPOSITION:NOUN-M,S,CONST:	צילום	B-NP	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

@@ -1,0 +1,48 @@
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	O	surveillance-C0220920
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+והמטולוג	CONJ+DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפרוגנוזה	DEF:NOUN-F,S,ABS:	הפרוגנוזה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+נקבעת	:VERB-F,S,A,BEINONI:	נקבע	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	O	O
+פרמטרים	:NOUN-M,P,ABS:	פרמטר	B-NP	parameter-C0549193
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+נמצאים	:VERB-M,P,A,BEINONI:	נמצא	O	O
+בידיעתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בקרוב	:ADVERB:	בקרוב	O	O
+העמותה	DEF:NOUN-F,S,ABS:	עמותה	B-NP	O
+למחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	O	disease-C0012634
+CLL	:FOREIGN:	CLL	O	O
+תפתח	:VERB-F,S,3,FUTURE:	פתח	O	Opening-C1882151
+אתר	:NOUN-M,S,CONST:	אתר	B-NP	 Ether-C0014994-ambigous
+אינטרנט	:NOUN-M,S,ABS:	אינטרנט	I-NP	internet-C0282111
+ותוכל	CONJ:MODAL-F,S,3,FUTURE:	יכול	O	O
+עם	:PREPOSITION:	עם	O	O
+אבה	:VERB-M,S,2,IMPERATIVE:	אבה	O	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+ולהיות	PREPOSITION+CONJ:NOUN-M,S,CONST:	ל	O	O
+ידיד	:NOUN-M,S,CONST:	ידיד	B-NP	O
+העמותה	DEF:NOUN-F,S,ABS:	עמותה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+נודיע	:VERB-MF,P,1,FUTURE:	הודיע	O	O
+על	:PREPOSITION:	על	O	O
+הפתיחה	DEF:NOUN-F,S,ABS:	פתיחה	B-NP	opening-C0175566
+בעיתונות	PREPOSITION+DEF:NOUN-F,S,ABS:	עיתונות	B-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,35 @@
+סרטן	:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+ראה	:VERB-M,S,3,PAST:	ראה	O	O
+מחלה	PREPOSITION:NOUN-F,S,ABS:	חלה	B-NP	O
+נוראית	:ADJECTIVE-F,S,ABS:	נוראי	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+האב	DEF:NOUN-M,S,ABS:	אב	B-NP	father-C0015671
+חלה	:VERB-F,S,3,PAST:	חל	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+פחות	:ADVERB:	פחות	O	O
+יכולת	:NOUN-F,S,ABS:	יכולת	B-NP	Ability-C0085732
+להפטר	PREPOSITION:NOUN-M,S,ABS:	הפטר	B-NP	O
+מהרעלים	PREPOSITION+DEF:NOUN-M,P,ABS:	רעל	B-NP	poison-C0032346
+בסיגריות	PREPOSITION:NOUN-F,P,ABS:	סיגריה	B-NP	cigarette-C0677453
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+טיפולים	:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שעוזרים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עזר	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+לעשן	PREPOSITION+DEF:NOUN-M,S,ABS:	עשן	B-NP	O
+נמצאים	:VERB-M,P,A,BEINONI:	נמצא	O	O
+עכשיו	:ADVERB:	עכשיו	O	O
+בסל	PREPOSITION:NOUN-M,S,CONST:	סל	B-NP	O
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+הזמן	DEF:NOUN-M,S,ABS:	זמן	B-NP	O
+לנצל	:VERB-TOINFINITIVE:	ניצל	O	O
+את	:AT_PREP:	את	B-NP	O
+סל	:NOUN-M,S,CONST:	סל	I-NP	O
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+ולהפסיק	CONJ:VERB-TOINFINITIVE:	הפסיק	O	O
+

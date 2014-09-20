@@ -1,0 +1,44 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+לכאב	PREPOSITION:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+לסטרואידים	PREPOSITION:NOUN-M,P,ABS:	סטרואיד	B-NP	Steroids-C0038317
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אינטראקציה	:NOUN-F,S,ABS:	אינטראקציה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+אירסה	:VERB-F,S,3,PAST:	אירס	B-NP	O
+חיבים	:VERB-F,S,3,PAST:	חיבים	O	O
+ללכת	:VERB-TOINFINITIVE:	הלך	O	O
+לקופח	PREPOSITION:PARTICIPLE-M,S,A,ABS:	קפח	O	O
+ולברר	CONJ:VERB-TOINFINITIVE:	בירר	O	O
+איך	:ADVERB:	איך	O	O
+לוקח	:VERB-M,S,A,BEINONI:	לקח	O	O
+שבועים	:NOUN-M,P,ABS:	שבועים	B-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תרופה	:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+חיבים	:ADJECTIVE-F,S,ABS:	חיבים	I-NP	O
+שהרופא	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+יברר	:VERB-M,S,3,FUTURE:	בירר	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+קורה	:VERB-M,S,A,BEINONI:	קרה	O	O
+אולי	:ADVERB:	אולי	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לו	:CONJUNCTION:	לו	B-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+שלושה	:NUMERAL-M,P,ABS:	CARD3	I-NP	O
+כדורים	:NOUN-M,P,ABS:	כדור	I-NP	Pills-C0994475
+וטיפול	CONJ:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+טוב	:ADJECTIVE-M,S,ABS:	טוב	I-NP	good-C0205170
+לכאבים	PREPOSITION:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+שבועים	:NOUN-M,P,ABS:	שבועים	B-NP	O
+אחרי	:PREPOSITION:	אחרי	O	O
+שזיהו	REL-SUBCONJ:VERB-MF,P,3,PAST:	זיהה	O	O
+את	:AT_PREP:	את	B-NP	O
+המוטציה	DEF:NOUN-F,S,ABS:	מוטציה	I-NP	mutation-C0026882
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

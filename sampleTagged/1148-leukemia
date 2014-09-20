@@ -1,0 +1,20 @@
+כפי	:CONJUNCTION:	כפי	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+רואה	:NOUN-M,S,ABS:POSSESIVE-F,S,3	רואה	I-NP	O
+ישנם	:EXISTENTIAL-POSITIVE:PRONOMIAL-M,P,3	יש	B-NP	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+מוטציות	:NOUN-F,P,ABS:	מוטציה	I-NP	mutation-C0026882
+הקשורות	DEF:PARTICIPLE-F,P,A,ABS:	קשר	O	connection-C0449379
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+ליועץ	PREPOSITION+DEF:NOUN-M,S,ABS:	יועץ	B-NP	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+/	:PUNCUATION:	/	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+בהקדם	:ADVERB:	בהקדם	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

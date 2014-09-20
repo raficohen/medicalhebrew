@@ -1,0 +1,25 @@
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+ב	:PREPOSITION:	ב	O	O
+גן	:NOUN-M,S,ABS:	גן	B-NP	gene-C0017337
+שמקדד	REL-SUBCONJ:VERB-M,S,A,BEINONI:	קידד	O	O
+את	:AT_PREP:	את	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+הומוסיסטין	DEF:PARTICIPLE-M,S,A,ABS:	הומוסיסטין	I-NP	O
+ומתאזן	CONJ:VERB-M,S,A,BEINONI:	התאזן	O	O
+עם	:PREPOSITION:	עם	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+חומצא	:NOUN-M,S,ABS:POSSESIVE-M,S,3	חומץ	I-NP	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+לשאלתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+אפשר	:MODAL:	אפשר	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליחידת	PREPOSITION:NOUN-F,S,CONST:	יחידה	B-NP	unit-C0439148
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+תל	:PROPERNAME:	תל	I-NP	O
+השומר	DEF:PROPERNAME:	שומר	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+בלינסון	:PROPERNAME:	בלינסון	I-NP	O
+

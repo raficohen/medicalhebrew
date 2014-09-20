@@ -1,0 +1,25 @@
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+מנרגילה	PREPOSITION:NOUN-F,S,ABS:	נרגילה	I-NP	O
+גם	:CONJUNCTION:	גם	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+מסרטן	PREPOSITION:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+אינני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+עם	:PREPOSITION:	עם	O	O
+יותר	:ADVERB:	יותר	O	O
+או	:CONJUNCTION:	או	O	O
+פחות	:ADVERB:	פחות	O	O
+תלוי	:ADVERB:	תלוי	O	O
+בכמויות	PREPOSITION:NOUN-F,P,CONST:	כמות	B-NP	amount-C1265611
+עישון	:NOUN-M,S,ABS:	עישון	I-NP	smoking-C0037369
+סיגריה	:NOUN-F,S,ABS:	סיגריה	B-NP	cigarette-C0677453
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+בשבוע	PREPOSITION+DEF:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+פחות	:ADVERB:	פחות	O	O
+מסרטן	PREPOSITION:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+מסיגריה	PREPOSITION:NOUN-F,S,ABS:	סיגריה	O	cigarette-C0677453
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+15	:NUMERAL:	###NUMBER###	I-NP	O
+דקות	:NOUN-F,P,ABS:	דקה	I-NP	minutes-C0439232
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

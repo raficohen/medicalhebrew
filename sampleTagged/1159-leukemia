@@ -1,0 +1,77 @@
+לצערנו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-MF,P,1	צער	B-NP	O
+הרב	:TITULA-M,S:	הרב	O	O
+השתלת	:NOUN-F,S,CONST:	השתלה	B-NP	organ transplant-C0029216
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+מוצלחת	:ADJECTIVE-F,S,ABS:	מוצלח	I-NP	O
+עדיין	:ADVERB:	עדיין	O	O
+איננה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+ערובה	:NOUN-F,S,ABS:	ערובה	B-NP	O
+לריפוי	PREPOSITION:NOUN-M,S,ABS:	ריפוי	B-NP	healing-C0043240
+מלא	:ADJECTIVE-M,S,ABS:	מלא	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+,	:PUNCUATION:	,	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+מקרים	:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+למרות	:CONJUNCTION:	למרות	O	O
+ההשתלה	DEF:NOUN-F,S,ABS:	השתלה	B-NP	organ transplant-C0029216
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+חוזרת	:ADJECTIVE-F,S,ABS:	חוזר	O	O
+.	:PUNCUATION:	.	O	O
+
+ראשית	:ADVERB:	ראשית	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אכן	:ADVERB:	אכן	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+מהם	:PREPOSITION:PRONOMIAL-M,P,3	מן	B-NP	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+העצם.אם	DEF:NOUN-M,S,ABS:	העצם.אם	I-NP	O
+חלילה	:INTERJECTION:	חלילה	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בחזרת	PREPOSITION:NOUN-F,S,CONST:	חזרה	B-NP	back-C0004600
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+קיימים	:ADJECTIVE-M,P,ABS:	קיים	O	O
+פרוטוקולים	:NOUN-M,P,ABS:	פרוטוקול	B-NP	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+ואפשר	CONJ:MODAL:	אפשר	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+במקרה	PREPOSITION+DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+והצוות	CONJ+DEF:NOUN-F,S,ABS:	צוות	B-NP	O
+בתל	PREPOSITION:PROPERNAME:	תל	B-NP	O
+השומר	DEF:PROPERNAME:	שומר	I-NP	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+שיטות	:NOUN-F,P,CONST:	שיטה	I-NP	system-C0449913
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הבאות	DEF:ADJECTIVE-F,P,ABS:	בא	I-NP	O
+בחשבון	PREPOSITION+DEF:NOUN-M,S,ABS:	חשבון	B-NP	expense-C0680864
+.	:PUNCUATION:	.	O	O
+
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+פעם	:NOUN-F,S,ABS:	פעם	B-NP	once-C1948045
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+תוצאות	:NOUN-F,P,CONST:	תוצאה	I-NP	result-C1274040
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+ומה	CONJ:INTERROGATIVE:	מה	O	O
+מוצע	:VERB-M,S,A,BEINONI:	הוצע	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+בתל	PREPOSITION:PROPERNAME:	תל	B-NP	O
+השומר	:PROPERNAME:	שומר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,51 @@
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+מוכרת	:ADJECTIVE-F,S,ABS:	מוכר	I-NP	O
+אבל	:CONJUNCTION:	אבל	I-NP	O
+קשה	:ADJECTIVE-F,S,ABS:	קשה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+העיקרית	DEF:ADJECTIVE-F,S,ABS:	עיקרי	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+אם	:CONJUNCTION:	אם	O	O
+באמת	:ADVERB:	באמת	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+התוויה	:NOUN-F,S,ABS:	התוויה	B-NP	indication-C0392360
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+בשני	PREPOSITION:NOUN-M,S,CONST:	שני	B-NP	second-C0205436-ambigous
+התכשירים	DEF:NOUN-M,P,ABS:	תכשיר	I-NP	Pharmaceutical Preparations-C0013227
+.	:PUNCUATION:	.	O	O
+
+ואם	CONJ:CONJUNCTION:	אם	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+התוויה	:NOUN-F,S,ABS:	התוויה	B-NP	indication-C0392360
+,	:PUNCUATION:	,	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+"	:PUNCUATION:	"	O	O
+חוזקה	:VERB-F,S,3,PAST:	חוזק	O	O
+"	:PUNCUATION:	"	O	O
+לאור	:PREPOSITION:	לאור	O	O
+תופעות	:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+הלוואי	DEF:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מלא	:ADJECTIVE-M,S,ABS:	מלא	O	O
+,	:PUNCUATION:	,	O	O
+פנים	:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+מול	:PREPOSITION:	מול	O	O
+פנים	:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+,	:PUNCUATION:	,	O	O
+אצלי	:PREPOSITION:PRONOMIAL-MF,S,1	אצל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+אצל	:PREPOSITION:	אצל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,39 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שנתן	REL-SUBCONJ:VERB-M,S,3,PAST:	נתן	O	O
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+במתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	I-NP	O
+החל	:VERB-M,S,3,PAST:	החל	O	O
+מקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+ההורמונים	DEF:NOUN-M,P,ABS:	הורמון	I-NP	hormones-C0019932
+2	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+ביוץ	:NOUN-M,S,ABS:	ביוץ	B-NP	ovulation-C0029965
+ובין	CONJ:PREPOSITION:	בין	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מטרת	:NOUN-F,S,CONST:	מטרה	B-NP	goal-C0018017
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	I-NP	O
+למנוע	:VERB-TOINFINITIVE:	מנע	O	O
+שנויים	:ADJECTIVE-M,P,ABS:	שנוי	B-NP	O
+בכלי	PREPOSITION:NOUN-M,S,CONST:	כלי	B-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ללא	:PREPOSITION:	ללא	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+לתהליך	PREPOSITION:NOUN-M,S,CONST:	תהליך	B-NP	process-C1184743
+הביוץ	DEF:NOUN-M,S,ABS:	ביוץ	I-NP	ovulation-C0029965
+

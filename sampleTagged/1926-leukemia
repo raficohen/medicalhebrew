@@ -1,0 +1,70 @@
+שרונה	:PROPERNAME:	שרונה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+שתבדקי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	בדק	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+הומוציסטאין	:NOUN-M,S,ABS:	הומוציסטאין	I-NP	homocysteine-C0019878
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+את	:AT_PREP:	את	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+חשופה	:ADJECTIVE-F,S,ABS:	חשוף	I-NP	O
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+ויטמינים	:NOUN-M,P,ABS:	ויטמין	B-NP	vitamin-C0042890
+במיוחד	:ADVERB:	במיוחד	I-NP	O
+ח	:NUMERAL:	ח	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+וויטמין	CONJ:NOUN-M,S,ABS:	ויטמין	O	vitamin-C0042890
+B	:PUNCUATION:	B	O	O
+-	:PUNCUATION:	-	O	O
+.	:PUNCUATION:	.	O	O
+12	:NUMERAL:	###NUMBER###	B-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+ברשתית	PREPOSITION+DEF:NOUN-F,S,ABS:	רשתית	B-NP	retina-C0035298
+והומוציסטאין	CONJ:NOUN-M,S,ABS:	הומוציסטאין	I-NP	homocysteine-C0019878
+.	:PUNCUATION:	.	O	O
+
+איני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+בניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+בגלל	:PREPOSITION:	בגלל	O	O
+הקרישיות	DEF:NOUN-F,S,ABS:	הקרישיות	B-NP	O
+אך	:CONJUNCTION:	אך	O	O
+עלייך	:PREPOSITION:PRONOMIAL-F,S,2	על	B-NP	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	O	connection-C0449379
+לסכון	PREPOSITION:NOUN-M,S,CONST:	סיכון	O	risk-C0035647
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+בניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+ביחס	PREPOSITION:NOUN-M,S,ABS:	יחס	O	relations-C0869014
+ללידה	PREPOSITION:NOUN-F,S,ABS:	לידה	B-NP	birth-C0005615
+רגילה	:ADJECTIVE-F,S,ABS:	רגיל	I-NP	O
+בהקשר	PREPOSITION:NOUN-M,S,ABS:	הקשר	B-NP	context-C0449255
+המילדותי	:VERB-F,S,2,IMPERATIVE:	המילדותי	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

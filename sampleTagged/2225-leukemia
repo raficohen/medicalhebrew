@@ -1,0 +1,32 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שהכוונה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	כוונה	B-NP	intentions-C0162425
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+MCV	:FOREIGN:	MCV	O	O
+שנמצא	REL-SUBCONJ:VERB-M,S,3,PAST:	נמצא	O	O
+103	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להצביע	:VERB-TOINFINITIVE:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+מיגוון	:NOUN-M,S,CONST:	מגוון	B-NP	Diversity-C1880371
+בעיות	:NOUN-F,P,ABS:	בעיה	I-NP	problem-C0033213
+כגון	:PREPOSITION:	כגון	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בכבד	PREPOSITION+DEF:NOUN-M,S,ABS:	כבד	B-NP	liver-C0023884
+,	:PUNCUATION:	,	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בבלוטת	PREPOSITION:NOUN-F,S,CONST:	בלוטה	B-NP	gland-C1285092
+התריס	DEF:NOUN-M,S,ABS:	תריס	I-NP	shutter-C1710078
+וכד	CONJ:NOUN-M,S,ABS:	כד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+

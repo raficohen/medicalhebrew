@@ -1,0 +1,31 @@
+כדאי	:MODAL:	כדאי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+כי	:CONJUNCTION:	כי	O	O
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+לא	:NEGATION:	לא	O	O
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	PREPOSITION:NOUN-M,S,CONST:	היות	O	Exist-C2987476
++	:PUNCUATION:	+	O	O
+להורים	PREPOSITION+DEF:NOUN-M,P,ABS:	הורה	B-NP	parents-C0030551
+עם	:PREPOSITION:	עם	O	O
+-	:PUNCUATION:	-	O	O
+.	:PUNCUATION:	.	O	O
+
+ייתכן	:ADVERB:	ייתכן	O	O
+ואצל	CONJ:PREPOSITION:	אצל	O	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	B-NP	O
+מההורים	PREPOSITION+DEF:NOUN-M,P,ABS:	הורה	I-NP	parents-C0030551
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אנטיגן	:NOUN-M,S,CONST:	אנטיגן	B-NP	antigen-C0003320
+דומה	:ADJECTIVE-M,S,ABS:	דומה	I-NP	O
+או	:CONJUNCTION:	או	O	O
+מחליף	:VERB-M,S,A,BEINONI:	החליף	O	O
+שהביא	REL-SUBCONJ:VERB-M,S,3,PAST:	הביא	O	O
+לתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+אצל	:PREPOSITION:	אצל	O	O
+הילד	DEF:NOUN-M,S,ABS:	ילד	B-NP	children-C0008059
+.	:PUNCUATION:	.	O	O
+

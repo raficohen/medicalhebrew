@@ -1,0 +1,35 @@
+ז"א	:PROPERNAME:	ז"א	B-NP	O
+שאביך	REL-SUBCONJ:VERB-MF,S,1,FUTURE:	הביך	O	O
+נותח	:VERB-M,S,3,PAST:	נותח	O	O
+ובזמן	PREPOSITION+CONJ:NOUN-M,S,CONST:	ב	B-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+נתגלו	:VERB-MF,P,3,PAST:	התגלה	O	O
+גרורת	:NOUN-F,S,CONST:	גרורה	B-NP	metastasis-C0027627
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+ידעו	:VERB-MF,P,3,PAST:	ידע	O	O
+עליהן	:PREPOSITION:PRONOMIAL-F,P,3	על	B-NP	O
+ודם	CONJ:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+אזי	:CONJUNCTION:	אזי	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+במחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+מתקדמת	:ADJECTIVE-F,S,ABS:	מתקדם	I-NP	O
+והסיכוי	CONJ+DEF:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+לריפוי	PREPOSITION+DEF:NOUN-M,S,ABS:	ריפוי	B-NP	healing-C0043240
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+שליטה	:NOUN-F,S,ABS:	שליטה	I-NP	Predominate-C0332251
+במחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+ומניעת	CONJ:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+התקדמות	:NOUN-F,S,ABS:	התקדמות	I-NP	progress-C1280477
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+הישג	:NOUN-M,S,ABS:	הישג	I-NP	O
+....	:PUNCUATION:	....	O	O
+

@@ -1,0 +1,28 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+לא	:NEGATION:	לא	O	O
+חמורה	:ADJECTIVE-F,S,ABS:	חמור	O	O
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+המעקב	DEF:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+.	:PUNCUATION:	.	O	O
+
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+ב	:PREPOSITION:	ב	O	O
+gestational	:FOREIGN:	gestational	O	O
+thrombopenia	:FOREIGN:	thrombopenia	O	O
+שחולפת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	חלף	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+לידה	:NOUN-F,S,ABS:	לידה	B-NP	birth-C0005615
+ולא	CONJ:NEGATION:	לא	O	O
+מחייבת	:VERB-F,S,A,BEINONI:	חייב	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

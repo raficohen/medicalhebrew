@@ -1,0 +1,26 @@
+לרופאים	PREPOSITION+DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+במילדות	PREPOSITION:PARTICIPLE-F,P,A,CONST:	יילד	O	O
+המטפלים	DEF:NOUN-M,P,ABS:	מטפל	B-NP	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+בסיכון	PREPOSITION:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בדר"כ	:ADVERB:	בדר"כ	O	O
+נסיון	:NOUN-M,S,ABS:	ניסיון	B-NP	Experience-C0596545-ambigous
+וידע	CONJ:NOUN-M,S,ABS:	ידע	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+חושבת	:VERB-F,S,A,BEINONI:	חשב	O	O
+שהרופא	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+לא	:NEGATION:	לא	O	O
+מיומן	:ADJECTIVE-M,S,ABS:	מיומן	O	O
+מספיק	:ADVERB:	מספיק	O	O
+-	:PUNCUATION:	-	O	O
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

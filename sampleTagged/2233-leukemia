@@ -1,0 +1,39 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+שום	:QUANTIFIER-CONST:	שום	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+פטנט	:NOUN-M,S,ABS:	פטנט	I-NP	O
+"	:PUNCUATION:	"	O	O
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+נסיון	:NOUN-M,S,ABS:	ניסיון	B-NP	Experience-C0596545-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+רופאים	:NOUN-M,P,ABS:	רופא	I-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לבקש	:VERB-TOINFINITIVE:	ביקש	O	O
+הפנייה	:NOUN-F,S,ABS:	הפניה	B-NP	Cross-Reference-C1707532
+למרפאת	PREPOSITION:NOUN-F,S,CONST:	מרפאה	B-NP	Clinic-C0442592
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+יעודית	:ADJECTIVE-F,S,ABS:	יעודית	I-NP	O
+,	:PUNCUATION:	,	O	O
+שם	:ADVERB:	שם	O	Name-C0027365-ambigous
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+מצליחים	:VERB-M,P,A,BEINONI:	הצליח	O	O
+לאזן	:VERB-TOINFINITIVE:	איזן	O	O
+.	:PUNCUATION:	.	O	O
+
+תוכל	:MODAL-F,S,3,FUTURE:	יכול	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+למרפאה	PREPOSITION:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+שלי	:SHEL_PREP:PRONOMIAL-MF,S,1	של	I-NP	O
+במרכז	PREPOSITION+DEF:NOUN-M,S,ABS:	מרכז	B-NP	center-C0205099
+הרפואי	DEF:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+וולפסון	:PROPERNAME:	וולפסון	I-NP	O
+ושמח	CONJ:ADJECTIVE-M,S,ABS:	שמח	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+.	:PUNCUATION:	.	O	O
+

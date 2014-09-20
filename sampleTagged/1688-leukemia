@@ -1,0 +1,30 @@
+טוב	:ADVERB:	טוב	O	good-C0205170
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+המטולוגית	:NOUN-F,S,ABS:	המטולוגית	B-NP	O
+שעוקב	REL-SUBCONJ:VERB-M,S,A,BEINONI:	עקב	O	O
+אחריך	:PREPOSITION:PRONOMIAL-M,S,2	אחרי	B-NP	O
+!	:PUNCUATION:	!	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלאה	:VERB-MF,S,1,FUTURE:	לאה	O	O
+שוב	:ADVERB:	שוב	O	O
+עם	:PREPOSITION:	עם	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שהיא	REL-SUBCONJ:PRONOUN-F,S,3:	הוא	B-NP	O
+תשמח	:VERB-F,S,3,FUTURE:	שמח	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הסברים	:NOUN-M,P,ABS:	הסבר	I-NP	explanation-C0681841
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

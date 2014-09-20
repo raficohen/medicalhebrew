@@ -1,0 +1,22 @@
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מתאים	:VERB-M,S,A,BEINONI:	התאים	O	O
+רק	:CONJUNCTION:	רק	O	O
+לחולה	PREPOSITION:ADJECTIVE-M,S,ABS:	חולה	O	O
+עם	:PREPOSITION:	עם	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+אלק	:PROPERNAME-M,S:	אלק	I-NP	O
+חיובית	:ADJECTIVE-F,S,ABS:	חיובי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	B-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+חולים	:ADJECTIVE-M,P,ABS:	חולה	O	O
+עם	:PREPOSITION:	עם	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+בלוטי	:NOUN-M,P,CONST:	בלוט	I-NP	O
+שלהם	:SHEL_PREP:PRONOMIAL-M,P,3	של	I-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	O	examination-C0031809
+egfr	:FOREIGN:	egfr	O	O
+שלילית	:ADJECTIVE-F,S,ABS:	שלילי	O	O
+

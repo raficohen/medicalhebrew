@@ -1,0 +1,46 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+התלונות	DEF:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+רמות	:NOUN-F,P,CONST:	רמה	B-NP	O
+הנוגדנים	DEF:NOUN-M,P,ABS:	נוגדן	I-NP	antibody-C0003241
+.	:PUNCUATION:	.	O	O
+
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+נוגדני	:NOUN-M,P,CONST:	נוגדן	I-NP	antibody-C0003241
+IGA	:FOREIGN:	IGA	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+נמוכות	:ADJECTIVE-F,P,ABS:	נמוך	O	O
+במקצת	:ADVERB:	במקצת	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לרוב	PREPOSITION:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+חסר	:ADJECTIVE-M,S,ABS:	חסר	I-NP	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	I-NP	importance-C1705104
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+להמשך	PREPOSITION:NOUN-M,S,ABS:	המשך	O	continued-C0549178
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+אצל	:PREPOSITION:	אצל	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+לאימונולוגיה	PREPOSITION:NOUN-F,S,ABS:	אימונולוגיה	B-NP	immunology-C0152036
+/	:PUNCUATION:	/	O	O
+ראומטולוגיה	:NOUN-F,S,ABS:	ראומטולוגיה	B-NP	rheumatology-C0035452
+אשר	:VERB-M,S,3,PAST:	אישר	O	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+בנושאים	PREPOSITION:NOUN-M,P,ABS:	נושא	B-NP	Subject-C1706203
+כאלה	PREPOSITION:PRONOUN-MF,P,3:	אלה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,31 @@
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+דברים	:NOUN-M,P,ABS:	דבר	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאם	REL-SUBCONJ:CONJUNCTION:	אם	O	O
+הגעת	:VERB-F,S,2,PAST:	הגיע	O	O
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	O	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	B-NP	O
+עצם	:NOUN-M,S,CONST:	עצם	I-NP	bone-C0262950
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+שאת	:NOUN-F,S,ABS:	שאת	B-NP	O
+במעקב	PREPOSITION+DEF:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+.	:PUNCUATION:	.	O	O
+
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+שמכירים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	הכיר	O	O
+התיק	DEF:NOUN-M,S,ABS:	תיק	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+יוכלו	:MODAL-MF,P,3,FUTURE:	יכול	O	O
+בקלות	PREPOSITION:NOUN-F,S,ABS:	קלות	O	Easy-C0332219
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+לשאלותך	PREPOSITION:NOUN-F,P,ABS:POSSESIVE-M,S,3	שאלות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

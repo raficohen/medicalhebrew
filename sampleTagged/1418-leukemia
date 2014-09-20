@@ -1,0 +1,40 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+צורך	:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+לפני	:PREPOSITION:	לפני	O	O
+טיסה	:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+.	:PUNCUATION:	.	O	O
+
+הדבר	DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+היחידי	DEF:ADJECTIVE-M,S,ABS:	יחידי	I-NP	O
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+כי	:CONJUNCTION:	כי	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+INR	:FOREIGN:	INR	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בתחום	PREPOSITION+DEF:NOUN-M,S,ABS:	תחום	B-NP	O
+הטיפולי	DEF:ADJECTIVE-M,S,ABS:	טיפולי	I-NP	O
+(	:PUNCUATION:	(	O	O
+בין	:PREPOSITION:	בין	O	O
+-	:PUNCUATION:	-	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+)	:PUNCUATION:	)	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+2	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שקיעת דם	:TERM:	שקיעת דם	O	erythrocyte sedimentation rate-C0086250
+של	:SHEL_PREP:	של	I-NP	O
+35	:NUMERAL:	###NUMBER###	I-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מחייבת	:VERB-F,S,A,BEINONI:	חייב	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+התייחסות	:NOUN-F,S,ABS:	התייחסות	I-NP	treatment-C0039798
+מיוחדת	:ADJECTIVE-F,S,ABS:	מיוחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+

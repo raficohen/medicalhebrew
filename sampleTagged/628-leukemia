@@ -1,0 +1,21 @@
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+ברמת	PREPOSITION:NOUN-F,S,CONST:	רמה	B-NP	O
+AT3	:FOREIGN:	AT3	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+התוצאה	DEF:NOUN-F,S,ABS:	תוצאה	I-NP	result-C1274040
+של	:SHEL_PREP:	של	I-NP	O
+APCR	:FOREIGN:	APCR	I-NP	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+F5	:PROPERNAME:	F5	I-NP	O
+LEIDEN	:FOREIGN:	LEIDEN	O	O
+PCR	:FOREIGN:	PCR	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+

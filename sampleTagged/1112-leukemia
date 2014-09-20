@@ -1,0 +1,93 @@
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+בלי	:CONJUNCTION:	בלי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+בלי	:CONJUNCTION:	בלי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+.	:PUNCUATION:	.	O	O
+
+באשה	PREPOSITION:NOUN-F,S,ABS:	איש	B-NP	people-C0027361
+צעירה	:ADJECTIVE-F,S,ABS:	צעיר	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+אם	:CONJUNCTION:	אם	I-NP	O
+אכן	:ADVERB:	אכן	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בסטרואידים	PREPOSITION:NOUN-M,P,ABS:	סטרואיד	B-NP	Steroids-C0038317
+נכשל	:VERB-M,S,3,PAST:	נכשל	O	O
+לחלוטין	:ADVERB:	לחלוטין	O	O
+-	:PUNCUATION:	-	O	O
+וזאת	CONJ:PRONOUN-F,S,3:	זאת	B-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+.	:PUNCUATION:	.	O	O
+
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+בהחלט	:ADVERB:	בהחלט	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מומלץ	:ADJECTIVE-M,S,ABS:	מומלץ	I-NP	O
+ויכול	CONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+לשחרר	:VERB-TOINFINITIVE:	שחרר	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+מהמחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+לחלוטין	:ADVERB:	לחלוטין	O	O
+וניתן	CONJ:MODAL-M,S,A:	ניתן	O	O
+לחיות	:VERB-TOINFINITIVE:	חי	O	O
+בלי	:PREPOSITION:	בלי	O	O
+טחול	:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+עד	:PREPOSITION:	עד	O	O
+גיל	:NOUN-M,S,ABS:	גיל	B-NP	O
+120	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+המבטרה	DEF:PARTICIPLE-F,S,A,ABS:	המבטרה	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+חדיש	:ADJECTIVE-M,S,ABS:	חדיש	I-NP	O
+יחסית	:ADVERB:	יחסית	I-NP	O
+ובדר"כ	CONJ:PROPERNAME:	בדר"כ	I-NP	O
+נותנים	:VERB-M,P,A,BEINONI:	נתן	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+כישלון	:NOUN-M,S,ABS:	כישלון	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הטיפולים	DEF:NOUN-M,P,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+האחרים	DEF:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+כולל	:NOUN-M,S,CONST:	כולל	B-NP	including-C0332257
+כריתת	:NOUN-F,S,CONST:	כריתה	I-NP	amputation-C0002688
+הטחול	DEF:NOUN-M,S,ABS:	טחול	I-NP	spleen-C0037993
+וההשפעה	CONJ+DEF:NOUN-F,S,ABS:	השפעה	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+זמנית	:ADJECTIVE-F,S,ABS:	זמני	O	O
+.	:PUNCUATION:	.	O	O
+
+אגב	:PREPOSITION:	אגב	O	O
+-	:PUNCUATION:	-	O	O
+האם	:INTERROGATIVE:	האם	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+באומונוגלובוליזם	:PROPERNAME:	באומונוגלובוליזם	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+IVIG	:FOREIGN:	IVIG	I-NP	O
+)	:PUNCUATION:	)	O	O
+-	:PUNCUATION:	-	O	O
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מקובל	:ADJECTIVE-M,S,ABS:	מקובל	I-NP	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+לפני	:PREPOSITION:	לפני	O	O
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+ולפני	CONJ:PREPOSITION:	לפני	O	O
+מבטרה	:NOUN-F,S,ABS:	מבטרה	B-NP	rituximab-C0393022
+במקרה	PREPOSITION+DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+והטיפול	CONJ+DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בסטרואידים	PREPOSITION:NOUN-M,P,ABS:	סטרואיד	B-NP	Steroids-C0038317
+נכשל	:VERB-M,S,3,PAST:	נכשל	O	O
+.	:PUNCUATION:	.	O	O
+

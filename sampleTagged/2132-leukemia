@@ -1,0 +1,66 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שאלות	:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+חשובות	:ADJECTIVE-F,P,ABS:	חשוב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ראשית	:ADVERB:	ראשית	O	O
+,	:PUNCUATION:	,	O	O
+levido	:FOREIGN:	levido	O	O
+reticularis	:FOREIGN:	reticularis	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+לא	:NEGATION:	לא	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+תאור	:NOUN-M,S,CONST:	תיאור	B-NP	Description-C0678257
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+למצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+שנית	:ADVERB:	שנית	O	scarlet fever-C0036285
+,	:PUNCUATION:	,	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+שנבדקה	REL-SUBCONJ:VERB-F,S,3,PAST:	נבדק	O	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדי	:CONJUNCTION:	כדי	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+את	:AT_PREP:	את	B-NP	O
+המידע	DEF:NOUN-M,S,ABS:	מידע	I-NP	Information-C1533716
+החסר	DEF:ADJECTIVE-M,S,ABS:	חסר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באם	:CONJUNCTION:	באם	O	O
+את	:AT_PREP:	את	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+שלמה	:ADJECTIVE-F,S,ABS:	שלם	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+היעוץ	DEF:NOUN-M,S,ABS:	היעוץ	B-NP	O
+ההמטולוגי	DEF:ADJECTIVE-M,S,ABS:	ההמטולוגי	I-NP	O
+שקבלת	REL-SUBCONJ:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+,	:PUNCUATION:	,	O	O
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	O	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

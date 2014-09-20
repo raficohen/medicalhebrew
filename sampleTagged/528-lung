@@ -1,0 +1,39 @@
+שאלותיך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+נכונות	:ADJECTIVE-F,P,ABS:	נכון	I-NP	O
+ונבונות	CONJ:ADJECTIVE-F,P,ABS:	נבון	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+כפי	:CONJUNCTION:	כפי	O	O
+שגם	REL-SUBCONJ:CONJUNCTION:	גם	O	O
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+תצטרך	:VERB-F,S,3,FUTURE:	הצטרך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ולשבת	CONJ:VERB-TOINFINITIVE:	ישב	O	O
+עם	:PREPOSITION:	עם	O	O
+כירורג	:PROPERNAME:	כירורג	B-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+שיסביר	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+בסבלנות	PREPOSITION:NOUN-F,S,ABS:	סבלנות	B-NP	patience-C0516943
+ובאריכות	CONJ:ADVERB:	באריכות	O	O
+.	:PUNCUATION:	.	O	O
+
+באםתימצא	:PROPERNAME:	באםתימצא	B-NP	O
+לנכון	PREPOSITION:ADJECTIVE-M,S,ABS:	נכון	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מוכן	:VERB-M,S,A,BEINONI:	הוכן	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+צור	:PROPERNAME:	צור	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	O	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+מזכירתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	מזכירה	B-NP	O
+,	:PUNCUATION:	,	O	O
+נועמי	:NOUN-M,S,ABS:POSSESIVE-MF,S,1	נועם	B-NP	O
+,	:PUNCUATION:	,	O	O
+בטלפון	PREPOSITION:NOUN-M,S,ABS:	טלפון	O	O
+089779822	:NUMERAL:	###NUMBER###	B-NP	O
+

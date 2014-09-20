@@ -1,0 +1,53 @@
+יעל	:PROPERNAME:	יעל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+.	:PUNCUATION:	.	O	O
+
+פריטין	:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+עולה	:VERB-M,S,A,BEINONI:	עלה	O	O
+במצבי	PREPOSITION:NOUN-M,P,CONST:	מצב	B-NP	Condition-C0348080
+דלקת	:NOUN-F,S,ABS:	דלקת	I-NP	inflammation-C0021368
+וכד'	PREPOSITION+CONJ:NOUN-M,S,ABS:	כ	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+מבטאות	:VERB-F,P,A,BEINONI:	ביטא	O	O
+אנמיה	:PROPERNAME:	אנמיה	B-NP	anemia-C0002871
+ולויקופניה	CONJ:NOUN-F,P,ABS:	לויקופניות	B-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+יחד	:ADVERB:	יחד	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בתפקודי	PREPOSITION:NOUN-M,P,CONST:	תפקוד	B-NP	Function-C0542341
+כבד	:NOUN-M,S,ABS:	כבד	I-NP	liver-C0023884
+היכולים	DEF:MODAL-M,P:	יכול	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+בין	:PREPOSITION:	בין	O	O
+היתר	DEF:QUANTIFIER:	יתר	B-NP	O
+עלליה	:PROPERNAME:	עלליה	I-NP	O
+בפריטין	PREPOSITION:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+בכבד	PREPOSITION+DEF:NOUN-M,S,ABS:	כבד	B-NP	liver-C0023884
+הגורמת	DEF:PARTICIPLE-F,S,A,ABS:	גרם	O	O
+לנ"ל	PREPOSITION+DEF:NOUN-M,S,ABS:	הנ"ל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לצןרך	:PROPERNAME:	לצןרך	I-NP	O
+ברור	:VERB-M,S,2,IMPERATIVE:	ברר	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

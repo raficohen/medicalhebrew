@@ -1,0 +1,23 @@
+בהתאם	:ADVERB:	בהתאם	O	O
+לתוצאות	PREPOSITION+DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+הללו	:PRONOUN-M,P,3:	הללו	I-NP	O
+אינך	:COPULA-M,S,2,BEINONI,NEGATIVE:	הוא	O	O
+סובל	:VERB-M,S,A,BEINONI:	סבל	O	suffering-C0683278
+מירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בתרומבוציטים	PREPOSITION:NOUN-F,S,ABS:	תרומבוציטים	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+המסםר	DEF:PARTICIPLE-M,S,A,ABS:	המסםר	O	O
+161000	:NUMERAL:	###NUMBER###	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+החריגות	DEF:NOUN-F,P,ABS:	חריגה	I-NP	O
+לא	:NEGATION:	לא	O	O
+משמעותיות	:ADJECTIVE-F,P,ABS:	משמעותי	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

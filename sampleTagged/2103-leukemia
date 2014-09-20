@@ -1,0 +1,53 @@
+עיקר	:NOUN-M,S,CONST:	עיקר	B-NP	O
+התחלואה	DEF:NOUN-F,S,ABS:	תחלואה	I-NP	morbidity-C0026538
+של	:SHEL_PREP:	של	I-NP	O
+ET	:FOREIGN:	ET	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+תהליכים	:NOUN-M,P,ABS:	תהליך	B-NP	process-C1184743
+תרומבוטיים	:ADJECTIVE-M,P,ABS:	תרומבוטיים	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+חסימת	:NOUN-F,S,CONST:	חסימה	I-NP	blocking-C0233660
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+ע"י	:PREPOSITION:	ע"י	O	O
+קרישים	:NOUN-M,P,ABS:	קריש	B-NP	clot-C0009074
+)	:PUNCUATION:	)	O	O
+הן	:CONJUNCTION:	הן	O	O
+במערכת	PREPOSITION+DEF:NOUN-F,S,ABS:	מערכת	B-NP	system-C0449913
+העורקית	DEF:ADJECTIVE-F,S,ABS:	העורקית	I-NP	O
+והן	CONJ:CONJUNCTION:	הן	O	O
+במערכת	PREPOSITION+DEF:NOUN-F,S,ABS:	מערכת	B-NP	system-C0449913
+הורידית	DEF:ADJECTIVE-F,S,ABS:	הורידית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+התוויה	:NOUN-F,S,ABS:	התוויה	B-NP	indication-C0392360
+ברורה	:ADJECTIVE-F,S,ABS:	ברור	I-NP	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+באספירין	PREPOSITION:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+בקיום	PREPOSITION:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+עם	:PREPOSITION:	עם	O	O
+גורם סיכון	:TERM:	גורם סיכון	O	risk factor-C0035648
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+כמו	:PREPOSITION:	כמו	O	O
+גיל	:NOUN-M,S,ABS:	גיל	B-NP	O
+(	:PUNCUATION:	(	O	O
+מעל	:PREPOSITION:	מעל	O	O
+65	:NUMERAL:	###NUMBER###	B-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מממליץ	PREPOSITION:PARTICIPLE-M,S,A,ABS:	המליץ	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+מהמטולוג	PREPOSITION:NOUN-M,S,CONST:	המטולוג	B-NP	O
+בעל	:NOUN-M,S,CONST:	בעל	I-NP	husband-C0242664
+כישורים	:NOUN-M,P,ABS:	כישור	I-NP	spindle-C1166795
+מתאימים	:ADJECTIVE-M,P,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

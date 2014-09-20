@@ -1,0 +1,23 @@
+פצעים	:NOUN-M,P,ABS:	פצע	B-NP	wound-C0043250
+על	:PREPOSITION:	על	O	O
+הנים	DEF:NOUN-M,S,ABS:	נים	B-NP	capillaries-C0006901
+אופיניים	:ADJECTIVE-M,P,ABS:	אופייני	O	O
+לטרסיבה	:ADJECTIVE-M,S,CONST:	לטרסיבה	B-NP	O
+חום	:NOUN-M,S,ABS:	חום	I-NP	heat-C0018837
+ושיעול	CONJ:NOUN-M,S,ABS:	שיעול	O	cough-C0010200
+אפשריים	:ADJECTIVE-M,P,ABS:	אפשרי	B-NP	O
+אך	:CONJUNCTION:	אך	O	O
+לא	:NEGATION:	לא	O	O
+קורים	:VERB-M,P,A,BEINONI:	קרה	O	O
+אצל	:PREPOSITION:	אצל	O	O
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+עקב	:PREPOSITION:	עקב	O	O
+כך	:PRONOUN:	כך	B-NP	O
+התיעצות	:NOUN-ABS:	התייעצות	I-NP	consultations-C0009818
+עם	:PREPOSITION:	עם	O	O
+רפא	:VERB-M,S,3,PAST:	ריפא	O	O
+מטפל	:NOUN-M,S,ABS:	מטפל	B-NP	O
+חובב	:NOUN-M,S,ABS:	חובב	I-NP	O
+

@@ -1,0 +1,33 @@
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+מצב	:NOUN-M,S,CONST:	מצב	B-NP	Condition-C0348080
+בעל	:NOUN-M,S,CONST:	בעל	I-NP	husband-C0242664
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+מסויים	:ADJECTIVE-M,S,ABS:	מסוים	I-NP	O
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+בוורידים	PREPOSITION+DEF:NOUN-M,P,ABS:	וריד	B-NP	vein-C0042449
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+להפלות	PREPOSITION:NOUN-F,P,ABS:	הפלה	B-NP	abortion-C0156543
+-	:PUNCUATION:	-	I-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+סוגייה	:NOUN-F,S,ABS:	סוגיה	B-NP	O
+בעייתית	:ADJECTIVE-F,S,ABS:	בעייתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+שלם	:ADJECTIVE-M,S,ABS:	שלם	O	O
+פנים	:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+מול	:PREPOSITION:	מול	O	O
+פנים	:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+ממני	:PREPOSITION:PRONOMIAL-MF,S,1	מן	I-NP	O
+או	:CONJUNCTION:	או	O	O
+מכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,81 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+קודם	:ADVERB:	קודם	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+שאלות	:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+חשובות	:ADJECTIVE-F,P,ABS:	חשוב	I-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+שעונים	:NOUN-M,P,ABS:	שעון	B-NP	O
+על	:PREPOSITION:	על	O	O
+שאלתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+היסטוריה	:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+,	:PUNCUATION:	,	O	O
+של	:SHEL_PREP:	של	O	O
+בני	:NOUN-M,P,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+משפ	:NOUN-F,S,CONST:	משף	I-NP	O
+'	:PUNCUATION:	'	O	O
+,	:PUNCUATION:	,	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+תרופתי	:ADJECTIVE-M,S,ABS:	תרופתי	I-NP	O
+,	:PUNCUATION:	,	O	O
+הרגלי	:NOUN-M,P,CONST:	הרגל	B-NP	Behaviorial Habits-C0018464
+חיים	:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+(	:PUNCUATION:	(	I-NP	O
+עישון	:NOUN-M,S,ABS:	עישון	I-NP	smoking-C0037369
+,	:PUNCUATION:	,	O	O
+עודף	:NOUN-M,S,CONST:	עודף	B-NP	excess-C1979886
+שומנים	:NOUN-M,P,ABS:	שומן	I-NP	grease-C0301024
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+,	:PUNCUATION:	,	O	O
+עודף	:NOUN-M,S,CONST:	עודף	B-NP	excess-C1979886
+משקל	:NOUN-M,S,ABS:	משקל	I-NP	weight-C0043100
+)	:PUNCUATION:	)	O	O
+,	:PUNCUATION:	,	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+בירור	:NOUN-M,S,CONST:	בירור	I-NP	O
+מעבדתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	מעבדה	I-NP	Laboratory-C0022877
+ועוד	CONJ:ADVERB:	עוד	O	More-C0205172
+..	:PUNCUATION:	..	O	O
+
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לפחות	:ADVERB:	לפחות	I-NP	O
+6	:NUMERAL:	###NUMBER###	I-NP	O
+ח'	:ADJECTIVE-M,S,ABS:	ח'	I-NP	O
+ולפי	CONJ:PREPOSITION:	לפי	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+על	:PREPOSITION:	על	O	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	O	O
+שנה	:NOUN-F,S,ABS:	שנה	B-NP	year-C0439234
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+.	:PUNCUATION:	.	O	O
+
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+תנתן	:VERB-F,S,3,PAST:	תנתן	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+ראתית	:ADVERB:	ראתית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

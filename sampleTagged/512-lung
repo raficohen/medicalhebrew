@@ -1,0 +1,41 @@
+עיוות	:NOUN-F,S,ABS:	עיוות	B-NP	O
+מולד	:ADJECTIVE-M,S,ABS:	מולד	I-NP	congenital-C0009678
+של	:SHEL_PREP:	של	I-NP	O
+מבנה	:NOUN-M,S,ABS:	מבנה	I-NP	O
+השלדי	:VERB-F,S,2,PAST:	השלדי	O	O
+של	:SHEL_PREP:	של	O	O
+עצמות	:NOUN-F,P,CONST:	עצם	B-NP	bone-C0262950
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+בדרגת	PREPOSITION:NOUN-F,S,CONST:	דרגה	B-NP	rank-C0699794
+חומרה	:NOUN-F,S,ABS:	חומרה	I-NP	O
+אסטטית	:ADJECTIVE-F,S,ABS:	אסטטית	I-NP	O
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לתקן	:VERB-TOINFINITIVE:	תיקן	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+בניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+אך	:CONJUNCTION:	אך	O	O
+לא	:NEGATION:	לא	O	O
+לפני	:PREPOSITION:	לפני	O	O
+סיום	:NOUN-M,S,CONST:	סיום	B-NP	End-C0444930
+גיל	:NOUN-M,S,CONST:	גיל	I-NP	O
+ההתבגרות	DEF:NOUN-F,S,ABS:	התבגרות	I-NP	teens-C1521910
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+יותר	:ADVERB:	יותר	O	O
+רחוקות	:ADJECTIVE-F,P,ABS:	רחוק	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+סימפטומים	:NOUN-M,P,ABS:	סימפטום	B-NP	symptom-C1457887
+בעקבות	:PREPOSITION:	בעקבות	O	O
+העיוות	DEF:NOUN-F,S,ABS:	עיוות	B-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+מוקדם	:ADVERB:	מוקדם	O	O
+יותר	:ADVERB:	יותר	O	O
+

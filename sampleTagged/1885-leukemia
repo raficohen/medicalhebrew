@@ -1,0 +1,90 @@
+אסתי	:PROPERNAME:	אסתי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+פירטת	:VERB-F,S,2,PAST:	פירט	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+היסטוריה	:NOUN-F,S,ABS:	היסטוריה	I-NP	history-C0019664
+מילדותית	PREPOSITION:ADJECTIVE-F,S,ABS:	ילדותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+ראשון	:NUMERAL-M,S,ABS:	ORD1	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+הפלה	:NOUN-F,S,ABS:	הפלה	I-NP	abortion-C0156543
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+בטרימסטר	PREPOSITION+DEF:NOUN-M,S,ABS:	הטרימסטר	B-NP	O
+ראשון	:PROPERNAME:	ראשון	I-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מהווה	:VERB-F,S,A,BEINONI:	היווה	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+להתחלת	PREPOSITION:NOUN-F,S,CONST:	התחלה	B-NP	Beginning-C0439659
+ברור	:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,A,BEINONI:	נראה	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לאי	PREPOSITION:NOUN-M,S,CONST:	אי	B-NP	Islands-C0022130
+ספיקה	:NOUN-F,S,ABS:	ספיקה	I-NP	congestive-C0742742
+וורידית	CONJ:NOUN-F,S,ABS:	ורידית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+האנמיה	DEF:NOUN-F,S,ABS:	האנמיה	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+שכיחה	:ADJECTIVE-F,S,ABS:	שכיח	O	O
+בנשים	PREPOSITION:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	O	O
+הפריון	DEF:NOUN-M,S,ABS:	פריון	B-NP	prion-C0033164
+,	:PUNCUATION:	,	O	O
+בד"כ	:ADVERB:	בד"כ	O	O
+על	:PREPOSITION:	על	O	O
+רקע	:NOUN-M,S,CONST:	רקע	B-NP	background-C1706907
+חסר	:NOUN-M,S,CONST:	חסר	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+תפני	:VERB-F,S,2,FUTURE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שיבצע	REL-SUBCONJ:VERB-M,S,3,FUTURE:	בצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הברור	DEF:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+וימליץ	CONJ:VERB-M,S,3,FUTURE:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+לאנמיה	PREPOSITION:PROPERNAME:	אנמיה	B-NP	anemia-C0002871
+.	:PUNCUATION:	.	O	O
+
+האתר	DEF:NOUN-M,S,ABS:	אתר	B-NP	 Ether-C0014994-ambigous
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+נועד	:VERB-M,S,3,PAST:	נועד	O	O
+לצורך	PREPOSITION+DEF:NOUN-M,S,ABS:	צורך	O	need-C0027552
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+דרך	:PREPOSITION:	דרך	O	O
+האינטרנט	DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+בלבד	:ADVERB:	בלבד	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+פגישות	:NOUN-F,P,ABS:	פגישה	B-NP	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

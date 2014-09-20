@@ -1,0 +1,24 @@
+גירוד	:NOUN-M,S,ABS:	גירוד	B-NP	O
+אינו	:VERB-MF,P,3,PAST:	אינה	O	O
+סיםן	:ADJECTIVE-M,S,CONST:	סיםן	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פעילות	:NOUN-F,S,CONST:	פעילות	I-NP	activity-C0441655
+NHL	:FOREIGN:	NHL	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+קודם	:ADVERB:	קודם	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+בכדי	:CONJUNCTION:	בכדי	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+אלרגיה	:NOUN-F,S,ABS:	אלרגיה	B-NP	Allergy Specialty-C0002111
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+שהיא	REL-SUBCONJ:PRONOUN-F,S,3:	הוא	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

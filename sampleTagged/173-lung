@@ -1,0 +1,31 @@
+קשה	:ADVERB:	קשה	O	O
+מאוד	:ADVERB:	מאוד	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+בלי	:PREPOSITION:	בלי	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+\	:PUNCUATION:	\	I-NP	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+במבנה	PREPOSITION:NOUN-M,S,CONST:	מבנה	B-NP	O
+הית	:NOUN-M,S,CONST:	הית	I-NP	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+הן	:CONJUNCTION:	הן	B-NP	O
+שכיחות	:NOUN-F,S,ABS:	שכיחות	I-NP	O
+ושונות	CONJ:ADJECTIVE-F,P,ABS:	שונה	O	O
+מאדם	PREPOSITION:NOUN-M,S,ABS:	אדם	O	human-C0086418
+לשני	PREPOSITION+DEF:NOUN-M,S,ABS:	שני	B-NP	second-C0205436-ambigous
+.	:PUNCUATION:	.	O	O
+
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שונה	:VERB-M,S,3,PAST:	שונה	O	O
+בין	:PREPOSITION:	בין	O	O
+האנשים	DEF:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+השונים	DEF:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+עצתי	:VERB-MF,S,1,PAST:	עץ	B-NP	O
+ששתיעץ	:VERB-M,S,2,FUTURE:	ששתיעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+מנתח	:NOUN-M,S,CONST:	מנתח	B-NP	surgeon-C0582175
+חזה	:NOUN-M,S,ABS:	חזה	O	chest-C0817096
+

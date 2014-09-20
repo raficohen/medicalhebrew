@@ -1,0 +1,23 @@
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+מעבדה	:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+בעיתיות	:ADJECTIVE-F,P,ABS:	בעיתיות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להערכנ	PREPOSITION+DEF:NOUN-F,P,ABS:	ההערכן	B-NP	O
+מעמיקה	:VERB-F,S,A,BEINONI:	העמיק	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בינתיים	:ADVERB:	בינתיים	O	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+להרות	:VERB-TOINFINITIVE:	הרה	O	O
+!	:PUNCUATION:	!	O	O
+

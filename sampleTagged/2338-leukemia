@@ -1,0 +1,47 @@
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+הם	:PRONOUN-M,P,3:	הוא	I-NP	O
+חלבונים	:NOUN-M,P,ABS:	חלבון	B-NP	protein-C0033684
+הבנויים	DEF:PARTICIPLE-M,P,A,ABS:	בנה	O	O
+שמרשרת	PREPOSITION+REL-SUBCONJ:NOUN-F,S,ABS:POSSESIVE-M,S,3	מ	B-NP	O
+כבדה	:ADJECTIVE-F,S,ABS:	כבד	O	liver-C0023884
+ושרשרת	CONJ:NOUN-F,S,ABS:	שרשרת	B-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכנו	:VERB-MF,P,3,FUTURE:	תיכן	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+סוגי	:NOUN-M,P,CONST:	סוג	I-NP	kind-C0332307
+שרשראות	:NOUN-F,P,ABS:	שרשרת	I-NP	O
+קלות	:ADJECTIVE-F,P,ABS:	קל	I-NP	O
+:	:PUNCUATION:	:	O	O
+קאפה	:NOUN-M,S,ABS:	קאפה	B-NP	O
+ולמבדה	CONJ:NOUN-F,S,ABS:	למבדה	B-NP	lambda-C0926407
+.	:PUNCUATION:	.	O	O
+
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עלייה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+בשרשרת	PREPOSITION:NOUN-F,S,ABS:	שרשרת	B-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+קאפה	:PROPERNAME:	קאפה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+,	:PUNCUATION:	,	O	O
+ולעיתים	CONJ:ADVERB:	לעתים	O	O
+-	:PUNCUATION:	-	O	O
+לא	:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+.	:PUNCUATION:	.	O	O
+

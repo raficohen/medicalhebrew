@@ -1,0 +1,35 @@
+כדאי	:MODAL:	כדאי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+פנימי	:ADJECTIVE-M,S,ABS:	פנימי	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+כולסטרול	:NOUN-M,S,ABS:	כולסטרול	I-NP	cholesterol-C0008377
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+LDH	:FOREIGN:	LDH	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+!	:PUNCUATION:	!	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיבות	DEF:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+ולתת	CONJ:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+.	:PUNCUATION:	.	O	O
+
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+לא	:NEGATION:	לא	O	O
+מובנות	:NOUN-F,S,ABS:	מובנות	B-NP	O
+טכנית	:ADJECTIVE-F,S,ABS:	טכני	I-NP	O
+מה	:INTERROGATIVE:	מה	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+השומנים	DEF:NOUN-M,P,ABS:	שומן	B-NP	grease-C0301024
+האחרים	DEF:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+?	:PUNCUATION:	?	O	O
+

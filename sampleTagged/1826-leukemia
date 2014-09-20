@@ -1,0 +1,40 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+במחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+של	:SHEL_PREP:	של	I-NP	O
+לשד העצם	:TERM:	לשד העצם	O	bone marrow-C0005953
+,	:PUNCUATION:	,	O	O
+היום	:ADVERB:	היום	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+כי	:CONJUNCTION:	כי	O	O
+אחוז	:NOUN-M,S,ABS:	אחוז	B-NP	percent-C0439165
+קטן	:ADJECTIVE-M,S,ABS:	קטן	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+עוברים	:VERB-M,P,A,BEINONI:	עבר	O	past-C1444637
+בימי	PREPOSITION:NOUN-M,P,CONST:	יום	B-NP	O
+חיהם	:NOUN-M,S,ABS:	חיהם	I-NP	O
+למחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+לויקמיה	:NOUN-F,S,ABS:	לויקמיה	I-NP	leukemia-C0023418
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לזכור	:VERB-TOINFINITIVE:	זכר	O	O
+כי	:CONJUNCTION:	כי	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+מחלות	:NOUN-F,P,ABS:	מחלה	I-NP	disease-C0012634
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+כמו	:PREPOSITION:	כמו	O	O
+יתר לחץ דם	:TERM:	יתר לחץ דם	O	hypertension-C0020538
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+להגמר	:VERB-TOINFINITIVE:	נגמר	O	O
+באירוע	PREPOSITION:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+מוחי	:ADJECTIVE-M,S,ABS:	מוחי	I-NP	O
+ובאחוז	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+יותר	:ADVERB:	יותר	O	O
+ממעבר	PREPOSITION:NOUN-M,S,CONST:	מעבר	O	Transition-C2700061-ambigous
+המלחה	:NOUN-F,S,ABS:	המלחה	B-NP	O
+הנ"ל	:PROPERNAME:	הנ"ל	I-NP	O
+ללויקמיה	PREPOSITION:NOUN-F,S,ABS:	לויקמיה	B-NP	leukemia-C0023418
+.	:PUNCUATION:	.	O	O
+

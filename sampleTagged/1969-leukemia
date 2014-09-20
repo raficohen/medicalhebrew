@@ -1,0 +1,38 @@
+אנמיה המוליטית	:TERM:	אנמיה המוליטית	O	hemolytic anemia-C0002878
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+סיבוך	:NOUN-M,S,ABS:	סיבוך	B-NP	complication-C0009566
+של	:SHEL_PREP:	של	I-NP	O
+מחלות	:NOUN-F,P,ABS:	מחלה	I-NP	disease-C0012634
+ראומטיות	:ADJECTIVE-F,P,ABS:	ראומטיות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+הוכח	:VERB-M,S,3,PAST:	הוכח	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+ישיר	:ADJECTIVE-M,S,ABS:	ישיר	I-NP	O
+בין	:PREPOSITION:	בין	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+לחץ	:NOUN-M,S,ABS:	לחץ	I-NP	pressure-C0033095
+נפשי	:ADJECTIVE-M,S,ABS:	נפשי	I-NP	O
+כפי	:CONJUNCTION:	כפי	O	O
+שחווים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	חווה	O	farm-C0557759
+אחרי	:PREPOSITION:	אחרי	O	O
+תאונה	:NOUN-F,S,ABS:	תאונה	B-NP	accidents-C0000924
+ובין	CONJ:PREPOSITION:	בין	O	O
+החמרה	:NOUN-F,S,ABS:	החמרה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מחלות	:NOUN-F,P,ABS:	מחלה	I-NP	disease-C0012634
+הנ"ל	:PROPERNAME:	הנ"ל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+ראומטולוג	:PROPERNAME:	ראומטולוג	B-NP	O
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+

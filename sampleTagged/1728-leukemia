@@ -1,0 +1,31 @@
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+הכ.ל	:VERB-F,S,2,PAST:	הכ.ל	O	O
+.	:PUNCUATION:	.	O	O
+
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+וחלוקת	CONJ:NOUN-F,S,CONST:	חלוקה	B-NP	O
+התאים	:VERB-M,S,3,PAST:	התאים	O	O
+נראת	:PARTICIPLE-F,S,A,CONST:	נראה	O	O
+תקניה	:NOUN-M,P,ABS:POSSESIVE-F,S,3	תקן	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+תוך	:PREPOSITION:	תוך	O	O
+שי	:NOUN-M,S,ABS:	שי	B-NP	O
+6	:NUMERAL:	###NUMBER###	I-NP	O
+6	:NUMERAL:	###NUMBER###	I-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+התימנים	DEF:ADJECTIVE-M,P,ABS:	תימני	B-NP	O
+מס	:NOUN-M,S,ABS:	מס	B-NP	O
+הכ.ל	:VERB-F,S,2,PAST:	הכ.ל	I-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+בדכך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	דך	B-NP	O
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

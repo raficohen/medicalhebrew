@@ -1,0 +1,47 @@
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מידע	:NOUN-M,S,ABS:	מידע	I-NP	Information-C1533716
+מחשיד	:VERB-M,S,A,BEINONI:	החשיד	O	O
+מתולדות	PREPOSITION:NOUN-F,P,CONST:	תולדה	B-NP	O
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+או	:CONJUNCTION:	או	I-NP	O
+עברך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	עבר	I-NP	past-C1444637
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מניעה	:NOUN-F,S,ABS:	מניעה	I-NP	prevention-C0199176
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מניעה	:NOUN-F,S,ABS:	מניעה	I-NP	prevention-C0199176
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+כעת	:ADVERB:	כעת	O	O
+בתקווה	PREPOSITION:NOUN-F,S,ABS:	תקווה	B-NP	O
+שהכל	REL-SUBCONJ+DEF:QUANTIFIER:	כול	B-NP	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויהיו	CONJ:COPULA-MF,P,3,FUTURE,POSITIVE:	הוא	O	O
+ממצאים	:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+חריגים	:ADJECTIVE-M,P,ABS:	חריג	I-NP	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+השפעה	:NOUN-F,S,ABS:	השפעה	B-NP	O
+אפשרית	:ADJECTIVE-F,S,ABS:	אפשרי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+הסבירות	DEF:NOUN-F,S,ABS:	סבירות	B-NP	Probability-C0033204
+היא	:PRONOUN-F,S,3:	הוא	O	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

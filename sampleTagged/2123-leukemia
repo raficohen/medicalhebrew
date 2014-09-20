@@ -1,0 +1,44 @@
+שלום	:NOUN-M,S,CONST:	שלום	B-NP	O
+לימונית	:NOUN-F,S,ABS:	לימונית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רובן	:NOUN-M,S,ABS:POSSESIVE-F,P,3	רוב	B-NP	majority-C0680220
+נכונות	:ADJECTIVE-F,P,ABS:	נכון	I-NP	O
+וחשובות	CONJ:ADJECTIVE-F,P,ABS:	חשוב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מכיוון	:CONJUNCTION:	מכיוון	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+פקטורים	:NOUN-M,P,ABS:	פקטור	I-NP	O
+בעייתים	:PROPERNAME:	בעייתים	I-NP	O
+,	:PUNCUATION:	,	O	O
+ומיכיוון	CONJ:NOUN-M,S,CONST:	מיכיוון	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+נמצאת	:VERB-F,S,A,BEINONI:	נמצא	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+רופאת	:NOUN-F,S,CONST:	רופא	B-NP	doctor-C0031831
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+נבון	:ADJECTIVE-M,S,ABS:	נבון	O	O
+יותר	:ADVERB:	יותר	O	O
+שתפני	REL-SUBCONJ:VERB-F,S,2,FUTURE:	פנה	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+למקור	PREPOSITION:NOUN-M,S,ABS:	מקור	B-NP	Source-C0449416
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

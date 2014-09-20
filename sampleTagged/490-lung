@@ -1,0 +1,32 @@
+לפעמים	:ADVERB:	לפעמים	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+דלקת	:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+בסחוס	PREPOSITION:NOUN-M,S,ABS:	סחוס	B-NP	cartilage-C0007301
+שמערב	REL-SUBCONJ:VERB-M,S,A,BEINONI:	עירב	O	O
+את	:AT_PREP:	את	B-NP	O
+הסטרנום	DEF:NOUN-M,S,ABS:	הסטרנום	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+הצלעות	DEF:NOUN-F,P,ABS:	צלע	B-NP	ribs-C0035561
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+בצלעות	PREPOSITION:NOUN-F,P,ABS:	צלע	B-NP	ribs-C0035561
+עליונות	:ADJECTIVE-F,P,ABS:	עליון	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	O	examination-C0031809
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	O	O
+,	:PUNCUATION:	,	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+תלוי	:ADJECTIVE-M,S,ABS:	תלוי	O	O
+בדרגת	PREPOSITION:NOUN-F,S,CONST:	דרגה	B-NP	rank-C0699794
+החומרה	DEF:NOUN-F,S,ABS:	חומרה	I-NP	O
+והסבל	CONJ+DEF:NOUN-M,S,ABS:	סבל	I-NP	suffering-C0683278
+,	:PUNCUATION:	,	O	O
+לפעמים	:ADVERB:	לפעמים	O	O
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+שום	:QUANTIFIER-CONST:	שום	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+

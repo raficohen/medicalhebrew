@@ -1,0 +1,33 @@
+אם	:CONJUNCTION:	אם	O	O
+בוצעו	:VERB-MF,P,3,PAST:	בוצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+ואין	CONJ:NEGATION:	אין	O	O
+בסדר	:ADVERB:	בסדר	O	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לשאול	:VERB-TOINFINITIVE:	שאל	O	O
+אם	:CONJUNCTION:	אם	O	O
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+לוקח	:VERB-M,S,A,BEINONI:	לקח	O	O
+אספירין	:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+.	:PUNCUATION:	.	O	O
+
+פרט	:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+לזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+ולחזור	CONJ:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+כעבור	:PREPOSITION:	כעבור	O	O
+3ח'	:PROPERNAME:	3ח'	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+גם	:CONJUNCTION:	גם	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+

@@ -1,0 +1,26 @@
+ישנם	:EXISTENTIAL-POSITIVE:PRONOMIAL-M,P,3	יש	B-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+בגדר	PREPOSITION:NOUN-F,S,CONST:	גדר	B-NP	Restricted-C0443288
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+ואחרות	CONJ:ADJECTIVE-F,P,ABS:	אחר	O	O
+מתחת	:PREPOSITION:	מתחת	O	O
+,	:PUNCUATION:	,	O	O
+לפי	:PREPOSITION:	לפי	O	O
+דעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	דעה	B-NP	O
+ללא	:PREPOSITION:	ללא	O	O
+משמעות	:NOUN-F,S,CONST:	משמעות	B-NP	significance-C0237881
+מכוון	:NOUN-M,S,ABS:	מכוון	I-NP	O
+שהיחס	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	יחס	B-NP	relations-C0869014
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+?	:PUNCUATION:	?	O	O
+
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+

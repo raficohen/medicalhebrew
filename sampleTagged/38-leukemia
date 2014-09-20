@@ -1,0 +1,20 @@
+אם	:CONJUNCTION:	אם	O	O
+אין	:NEGATION:	אין	O	O
+סמני	:NOUN-M,P,CONST:	סמן	B-NP	Markers-C2745888
+דמום	:NOUN-M,S,ABS:	דמום	I-NP	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+סבה	:NOUN-F,S,ABS:	סבה	B-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+לירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+הטסיות	DEF:NOUN-F,S,ABS:	הטסיות	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+מה	:INTERROGATIVE:	מה	I-NP	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+ההמטולוג	DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+

@@ -1,0 +1,38 @@
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+PT	:FOREIGN:	PT	O	specialistAcronym-E0635674-pt
+לא	:NEGATION:	לא	O	O
+משקפת	:VERB-F,S,A,BEINONI:	שיקף	O	O
+מצבים	:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בירורים	:NOUN-M,P,ABS:	בירור	B-NP	O
+למצבים	PREPOSITION:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+אלא	:CONJUNCTION:	אלא	O	O
+נעשה	:VERB-M,S,3,PAST:	נעשה	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+אישי	:ADJECTIVE-M,S,ABS:	אישי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+משפחתי	:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+של	:SHEL_PREP:	של	I-NP	O
+טרומבוזות	:PROPERNAME:	טרומבוזות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לסיכון	PREPOSITION:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+לנטילת	PREPOSITION:NOUN-F,S,CONST:	נטילה	B-NP	O
+לגלולות	PREPOSITION:NOUN-F,P,ABS:	גלולה	O	pills-C0994475
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

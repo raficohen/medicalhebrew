@@ -1,0 +1,25 @@
+כן	:CONJUNCTION:	כן	O	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+!	:PUNCUATION:	!	O	O
+
+נפילות	:NOUN-F,P,ABS:	נפילה	B-NP	falling-C0085639
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+עורי	:NOUN-M,S,ABS:POSSESIVE-MF,S,1	עור	I-NP	skin-C0444099
+או	:CONJUNCTION:	או	I-NP	O
+פנימי	:ADJECTIVE-M,S,ABS:	פנימי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+ממרפאת	PREPOSITION:NOUN-F,S,CONST:	מרפאה	B-NP	Clinic-C0442592
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+בבלינסון	PREPOSITION:PROPERNAME:	בלינסון	B-NP	O
+או	:CONJUNCTION:	או	O	O
+תל	:PROPERNAME:	תל	B-NP	O
+השומר	DEF:PROPERNAME:	שומר	I-NP	O
+

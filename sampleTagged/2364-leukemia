@@ -1,0 +1,37 @@
+אילה	:NOUN-M,S,ABS:POSSESIVE-F,S,3	איל	B-NP	reindeer-C0035005
+,	:PUNCUATION:	,	O	O
+יותר	:ADVERB:	יותר	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+מספירות	PREPOSITION:NOUN-F,P,CONST:	ספירה	B-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+סימני	:NOUN-M,P,CONST:	סימן	B-NP	sign-C0311392
+הדימום	DEF:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+חושבת	:VERB-F,S,A,BEINONI:	חשב	I-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+דמם	:VERB-M,S,2,IMPERATIVE:	דימם	O	O
+רב	:ADJECTIVE-M,S,ABS:	רב	B-NP	O
+משאר	PREPOSITION:NOUN-M,S,CONST:	שאר	B-NP	rest-C0035253
+הילדים	DEF:NOUN-M,P,ABS:	ילד	I-NP	children-C0008059
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+להפנות	:VERB-TOINFINITIVE:	נפנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+ילדים	:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+.	:PUNCUATION:	.	O	O
+
+ישנן	:EXISTENTIAL-POSITIVE:PRONOMIAL-F,P,3	יש	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+שכלל	REL-SUBCONJ:ADVERB:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+מתבטאות	:VERB-F,P,A,BEINONI:	התבטא	O	O
+בבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+שהילד	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	ילד	B-NP	children-C0008059
+ביצע	:VERB-M,S,3,PAST:	ביצע	O	O
+.	:PUNCUATION:	.	O	O
+

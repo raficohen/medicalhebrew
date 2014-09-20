@@ -1,0 +1,55 @@
+ספיר	:PROPERNAME:	ספיר	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+דאגתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	דאגה	I-NP	concern-C2699424
+מאסבסט	:PROPERNAME:	מאסבסט	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אכן	:ADVERB:	אכן	O	O
+חומר	:NOUN-M,S,ABS:	חומר	B-NP	material-C0520510
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	I-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+להתרחק	:VERB-TOINFINITIVE:	התרחק	O	O
+ממנו	:PREPOSITION:PRONOMIAL-M,S,3	מן	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+,	:PUNCUATION:	,	O	O
+מרבית	:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+מחלות	:NOUN-F,P,ABS:	מחלה	I-NP	disease-C0012634
+הקשורות	DEF:PARTICIPLE-F,P,A,ABS:	קשר	O	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+אסבסט	:PROPERNAME:	אסבסט	B-NP	O
+נגרמות	:VERB-F,P,A,BEINONI:	נגרם	O	O
+כתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+מחשיפה	PREPOSITION:NOUN-F,S,ABS:	חשיפה	O	exposure-C0274281
+ממושכת	:ADJECTIVE-F,S,ABS:	ממושך	O	O
+לאסבסט	:PROPERNAME:	לאסבסט	B-NP	O
+ובד"כ	CONJ:ADVERB:	בד"כ	O	O
+לחומר	PREPOSITION:NOUN-M,S,ABS:	חומר	O	material-C0520510
+בתהליכי	PREPOSITION:NOUN-M,P,CONST:	תהליך	B-NP	process-C1184743
+עיבוד	:NOUN-M,S,ABS:	עיבוד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לסיכום	PREPOSITION+DEF:NOUN-M,S,ABS:	סיכום	B-NP	O
+,	:PUNCUATION:	,	O	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להמנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מחשיפה	PREPOSITION:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+בלתי	:PREFIX:	בלתי	I-NP	O
+הכרחית	:ADJECTIVE-F,S,ABS:	הכרחי	I-NP	O
+לאסבסט	:PROPERNAME:	לאסבסט	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

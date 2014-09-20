@@ -1,0 +1,38 @@
+ESR	:FOREIGN:	ESR	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+"	:PUNCUATION:	"	B-NP	O
+שקיעת דם	:TERM:	שקיעת דם	O	erythrocyte sedimentation rate-C0086250
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+מאוד	:ADVERB:	מאוד	I-NP	O
+פשוטה	:ADJECTIVE-F,S,ABS:	פשוט	I-NP	O
+שבה	:VERB-F,S,3,PAST:	שב	O	O
+נבדק	:VERB-M,S,3,PAST:	נבדק	O	O
+באיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+קצב	:NOUN-M,S,CONST:	קצב	I-NP	Rate-C1521828
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+שוקע	:VERB-M,S,3,PAST:	שוקע	O	O
+במבחנה	PREPOSITION:NOUN-F,S,ABS:	מבחנה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+מאוד	:ADVERB:	מאוד	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+מדויקת	:ADJECTIVE-F,S,ABS:	מדויק	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+גם	:CONJUNCTION:	גם	O	O
+אם	:CONJUNCTION:	אם	O	O
+התוצאה	DEF:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+חורגת	:VERB-F,S,A,BEINONI:	חרג	O	O
+מהערכים	PREPOSITION+DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+הנורמליים	DEF:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להתייחס	:VERB-TOINFINITIVE:	התייחס	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+בערבון	PREPOSITION:NOUN-M,S,ABS:	עירבון	B-NP	O
+מוגבל	:ADJECTIVE-M,S,ABS:	מוגבל	I-NP	O
+.	:PUNCUATION:	.	O	O
+

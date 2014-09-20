@@ -1,0 +1,117 @@
+ליאור	:PROPERNAME:	ליאור	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קיימים	:ADJECTIVE-M,P,ABS:	קיים	B-NP	O
+גידולים	:NOUN-M,P,ABS:	גידול	I-NP	tumor-C0027651
+המפרישים	DEF:PARTICIPLE-M,P,A,ABS:	הפריש	O	O
+חומרים	:NOUN-M,P,ABS:	חומר	B-NP	material-C0520510
+למחזור	PREPOSITION:NOUN-M,S,CONST:	מחזור	B-NP	reunion-C0035373
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+(	:PUNCUATION:	(	I-NP	O
+סמני	:NOUN-M,P,CONST:	סמן	I-NP	Markers-C2745888
+גידול	:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+-	:PUNCUATION:	-	I-NP	O
+מרקרים	:NOUN-M,P,ABS:	מרקר	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+למדוד	:VERB-TOINFINITIVE:	מדד	O	index-C0918012
+את	:AT_PREP:	את	B-NP	O
+ריכוז	:NOUN-M,S,CONST:	ריכוז	I-NP	Mental concentration-C0086045-ambigous
+חומרים	:NOUN-M,P,ABS:	חומר	I-NP	material-C0520510
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+בבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+אנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+משתמשים	:VERB-M,P,A,BEINONI:	השתמש	O	O
+בסמנים	PREPOSITION:NOUN-M,P,ABS:	סמן	B-NP	Markers-C2745888
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+אחר	:PREPOSITION:	אחר	O	O
+גידולים	:NOUN-M,P,ABS:	גידול	B-NP	tumor-C0027651
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+,	:PUNCUATION:	,	O	O
+במהלך	PREPOSITION:NOUN-M,S,CONST:	מהלך	O	move-C2699029
+ולאחר	CONJ:PREPOSITION:	לאחר	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+לסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	O	malignancy-C0006826
+ריאה	:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סמנים	:NOUN-M,P,ABS:	סמן	B-NP	Markers-C2745888
+שהם	REL-SUBCONJ:PRONOUN-M,P,3:	הוא	B-NP	O
+ספציפים	:ADJECTIVE-M,P,ABS:	ספציפים	O	O
+.	:PUNCUATION:	.	O	O
+
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+האונקולוגים	DEF:NOUN-M,P,ABS:	האונקולוגים	I-NP	O
+עוקבים	:VERB-M,P,A,BEINONI:	עקב	O	O
+אחר	:PREPOSITION:	אחר	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+סמנים	:NOUN-M,P,ABS:	סמן	I-NP	Markers-C2745888
+שבחלק	PREPOSITION+REL-SUBCONJ:NOUN-M,S,ABS:	ב	B-NP	O
+מהחולים	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+עולים	:NOUN-M,P,ABS:	עולה	B-NP	O
+במהלך	PREPOSITION:NOUN-M,S,CONST:	מהלך	O	move-C2699029
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+ובחלק	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	O	O
+הם	:PRONOUN-M,P,3:	הוא	I-NP	O
+בתחום	PREPOSITION+DEF:NOUN-M,S,ABS:	תחום	B-NP	O
+התקין	DEF:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הדרך	DEF:NOUN-F,S,ABS:	דרך	B-NP	Through-C0332273-ambigous
+הנכונה	DEF:ADJECTIVE-F,S,ABS:	נכון	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+אחר	:PREPOSITION:	אחר	O	O
+השנות	:NOUN-F,S,CONST:	הישנות	B-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בהדמיה	PREPOSITION:NOUN-F,S,ABS:	הדמיה	B-NP	imaging-C0011923
+-	:PUNCUATION:	-	I-NP	O
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	I-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+CT	:FOREIGN:	CT	O	O
+מספיקות	:VERB-F,P,A,BEINONI:	הספיק	O	O
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+מבצעים	:VERB-M,P,A,BEINONI:	ביצע	O	O
+גם	:CONJUNCTION:	גם	O	O
+CT-PET	:FOREIGN:	CT-PET	O	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שהאונקולוג	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	האונקולוג	B-NP	O
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	I-NP	O
+יכיר	:VERB-M,S,3,FUTURE:	הכיר	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ויסביר	CONJ:VERB-M,S,3,FUTURE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שצרפת	REL-SUBCONJ:PROPERNAME:	צרפת	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

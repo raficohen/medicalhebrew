@@ -1,0 +1,42 @@
+סימה	:PROPERNAME:	סימה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+מהאופן	PREPOSITION+DEF:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+שבו	:VERB-MF,P,2,IMPERATIVE:	ישב	O	O
+ניסחת	:VERB-F,S,2,PAST:	ניסח	O	O
+את	:AT_PREP:	את	B-NP	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	I-NP	Question-C1522634
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+כלום	:PRONOUN:	כלום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+קימות	:NOUN-F,P,CONST:	קימה	B-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+ומיפויים	CONJ:NOUN-M,P,ABS:	מיפוי	B-NP	scan-C0034606
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+לצרכים	PREPOSITION:NOUN-M,S,ABS:	צרכים	B-NP	O
+רבים	:ADJECTIVE-M,P,ABS:	רב	I-NP	O
+ברפואה	PREPOSITION+DEF:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לשאול	:VERB-TOINFINITIVE:	שאל	O	O
+את	:AT_PREP:	את	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+ששלח	REL-SUBCONJ:VERB-M,S,3,PAST:	שלח	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לבדיקה	PREPOSITION+DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

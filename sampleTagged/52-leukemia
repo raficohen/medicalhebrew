@@ -1,0 +1,29 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+האם	:INTERROGATIVE:	האם	O	O
+הוכח	:VERB-M,S,3,PAST:	הוכח	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+והאם	CONJ+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+אותרה	:VERB-F,S,3,PAST:	אותר	O	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+?	:PUNCUATION:	?	O	O
+
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+במחזור	PREPOSITION+DEF:NOUN-M,S,ABS:	מחזור	B-NP	reunion-C0035373
+?	:PUNCUATION:	?	O	O
+
+?	:PUNCUATION:	?	O	O
+
+ערוי	:PROPERNAME:	ערוי	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+נמשך	:VERB-M,S,3,PAST:	נמשך	O	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שעות	:NOUN-F,P,ABS:	שעה	I-NP	hour-C0439227
+ואינו	CONJ:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+כרוך	:ADJECTIVE-M,S,ABS:	כרוך	O	O
+בתופעות	PREPOSITION:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+לואי	:PROPERNAME-M,S:	לואי	I-NP	O
+

@@ -1,0 +1,34 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בבלוטות	PREPOSITION:NOUN-F,P,ABS:	בלוטה	B-NP	gland-C1285092
+קטנות	:ADJECTIVE-F,P,ABS:	קטן	I-NP	O
+שקשורות	REL-SUBCONJ:ADJECTIVE-F,P,ABS:	קשור	O	O
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+לדלקת	PREPOSITION:NOUN-F,S,CONST:	דלקה	O	Fire-C0700614
+בטן	:NOUN-F,S,ABS:	בטן	B-NP	abdomen-C0000726
+חריפה	:ADJECTIVE-F,S,ABS:	חריף	I-NP	acute-C0205178
+שהיתה	REL-SUBCONJ:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+מרגישה	:VERB-F,S,A,BEINONI:	הרגיש	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+למנוע	:VERB-TOINFINITIVE:	מנע	O	O
+CT	:FOREIGN:	CT	O	O
+חוזרים	:NOUN-M,P,ABS:	חוזר	B-NP	O
+בגלל	:PREPOSITION:	בגלל	O	O
+הקרינה	DEF:NOUN-F,S,ABS:	קרינה	B-NP	radiation-C0034519
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+הממצים	DEF:PARTICIPLE-M,P,A,ABS:	מיצה	O	O
+בבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+US	:FOREIGN:	US	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

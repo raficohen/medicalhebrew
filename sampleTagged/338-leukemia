@@ -1,0 +1,23 @@
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מאוד	:ADVERB:	מאוד	I-NP	O
+ארוכה	:ADJECTIVE-F,S,ABS:	ארוך	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+פורום	:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+מחליף	:VERB-M,S,A,BEINONI:	החליף	O	O
+את	:AT_PREP:	את	B-NP	O
+הפנייה	DEF:NOUN-F,S,ABS:	פנייה	I-NP	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+!	:PUNCUATION:	!	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+שדורשת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	דרש	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+

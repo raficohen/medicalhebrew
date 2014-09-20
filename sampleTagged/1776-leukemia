@@ -1,0 +1,46 @@
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+תרופה	:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+נוגדת	:VERB-F,S,A,BEINONI:	נגד	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+הפועלת	DEF:PARTICIPLE-F,S,A,ABS:	פעל	O	O
+כנוגדת	PREPOSITION+DEF:PARTICIPLE-F,S,A,ABS:	נגד	B-NP	O
+VIT	:FOREIGN:	VIT	O	O
+K	:FOREIGN:	K	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+כתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+מהטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+לקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	O	warfarin-C0043031
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+השפעה	:NOUN-F,S,ABS:	השפעה	B-NP	O
+על	:PREPOSITION:	על	O	O
+כ	:PREPOSITION:	כ	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	O	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+(	:PUNCUATION:	(	O	O
+גם	:CONJUNCTION:	גם	O	O
+סמוי	:ADJECTIVE-M,S,ABS:	סמוי	O	O
+)	:PUNCUATION:	)	O	O
+אז	:CONJUNCTION:	אז	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+HB	:FOREIGN:	HB	O	O
+יורדת	:VERB-F,S,A,BEINONI:	ירד	O	O
+בהדרגה	:ADVERB:	בהדרגה	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

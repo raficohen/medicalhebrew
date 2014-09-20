@@ -1,0 +1,21 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+היטב	:ADVERB:	היטב	O	O
+את	:AT_PREP:	את	B-NP	O
+הנושא	DEF:NOUN-M,S,ABS:	נושא	I-NP	Subject-C1706203
+ואני	CONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שהרופאים	REL-SUBCONJ+DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+שנקזו	REL-SUBCONJ:VERB-MF,P,3,PAST:	ניקז	O	O
+נוזל	:NOUN-M,S,ABS:	נוזל	B-NP	liquid-C0302908
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+יפעלו	:VERB-MF,P,3,FUTURE:	פעל	O	O
+לבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	B-NP	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+סיבתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	סיבה	I-NP	Causations-C0085978
+

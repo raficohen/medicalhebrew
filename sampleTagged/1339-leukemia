@@ -1,0 +1,30 @@
+מג	:NOUN-M,S,ABS:	מג	B-NP	O
+25	:NUMERAL:	###NUMBER###	I-NP	O
+25	:NUMERAL:	###NUMBER###	I-NP	O
+תוספת	:NOUN-F,S,CONST:	תוספת	I-NP	additional-C1524062
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מעט	:ADVERB:	מעט	O	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+כדורים	:NOUN-M,P,ABS:	כדור	B-NP	Pills-C0994475
+כמו	:PREPOSITION:	כמו	O	O
+פריפול	:PROPERNAME:	פריפול	B-NP	O
+(	:PUNCUATION:	(	O	O
+קנייה	:NOUN-F,S,ABS:	קנייה	B-NP	O
+חופשית	:ADJECTIVE-F,S,ABS:	חופשי	I-NP	O
+)	:PUNCUATION:	)	O	O
+שמכילים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	הכיל	O	O
+מג	:NOUN-M,S,ABS:	מג	B-NP	O
+100	:NUMERAL:	###NUMBER###	B-NP	O
+100	:NUMERAL:	###NUMBER###	I-NP	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+חי	:VERB-M,S,3,PAST:	חי	O	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

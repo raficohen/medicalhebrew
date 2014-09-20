@@ -1,0 +1,28 @@
+קשריות	:NOUN-F,P,ABS:	קשר	B-NP	connection-C0449379
+זעירותבדכ	:PROPERNAME:	זעירותבדך	I-NP	O
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+סרטן	:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	I-NP	O
+ישנו	:VERB-MF,P,3,PAST:	ישן	O	O
+אחריהן	:PREPOSITION:PRONOMIAL-F,P,3	אחרי	B-NP	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+בלבד	:ADVERB:	בלבד	I-NP	O
+אבל	:CONJUNCTION:	אבל	I-NP	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	I-NP	O
+מאד	:ADVERB:	מאוד	I-NP	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+מטפל	:NOUN-M,S,ABS:	מטפל	I-NP	O
+שראה	REL-SUBCONJ:VERB-M,S,3,PAST:	ראה	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+כדי	:CONJUNCTION:	כדי	O	O
+לפרשה	PREPOSITION:NOUN-F,S,ABS:	פרשה	O	O
+באופפן	:PROPERNAME:	באופפן	B-NP	O
+מתאים	PREPOSITION:NOUN-M,P,ABS:	תא	B-NP	cell-C0007634
+ולהתוות	CONJ:VERB-TOINFINITIVE:	התווה	O	O
+את	:AT_PREP:	את	B-NP	O
+המשך	:NOUN-M,S,CONST:	המשך	I-NP	continued-C0549178
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+סבור	:ADJECTIVE-M,S,ABS:	סבור	O	O
+שההמטולוג	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+השלים	:VERB-M,S,3,PAST:	השלים	O	O
+את	:AT_PREP:	את	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לטיפול	PREPOSITION:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+האחריות	DEF:NOUN-F,S,ABS:	אחריות	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+בידיים	PREPOSITION:NOUN-F,P,ABS:	יד	B-NP	hand-C0018563
+של	:SHEL_PREP:	של	I-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+שיעקוב	REL-SUBCONJ:VERB-M,S,3,FUTURE:	עקב	O	O
+אחריך	:PREPOSITION:PRONOMIAL-M,S,2	אחרי	B-NP	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,25 @@
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+חצי	:NOUN-M,P,CONST:	חץ	I-NP	Arrow-C0336721
+פגם	:NOUN-M,S,ABS:	פגם	I-NP	Defect-C1457869
+גנטי	:ADJECTIVE-M,S,ABS:	גנטי	I-NP	genetic-C0314603
+בתפקוד	PREPOSITION:NOUN-M,S,CONST:	תפקוד	B-NP	Function-C0542341
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+ללא	:PREPOSITION:	ללא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+מונע	:ADJECTIVE-M,S,ABS:	מונע	O	O
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+פר	:NOUN-M,S,ABS:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

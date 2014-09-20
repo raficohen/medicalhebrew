@@ -1,0 +1,35 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+פנימאי	:NOUN-M,S,ABS:	פנימאי	I-NP	O
+/	:PUNCUATION:	/	I-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+בקרוב	:ADVERB:	בקרוב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שראיתי	REL-SUBCONJ:VERB-MF,S,1,PAST:	ראה	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+בתפקודי	PREPOSITION:NOUN-M,P,CONST:	תפקוד	B-NP	Function-C0542341
+כבד	:NOUN-M,S,ABS:	כבד	I-NP	liver-C0023884
+ועליה	CONJ:NOUN-F,S,ABS:	עלייה	I-NP	O
+בולטת	:ADJECTIVE-F,S,ABS:	בולט	I-NP	O
+במס	PREPOSITION:NOUN-M,S,ABS:	מס	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+התסיות	DEF:ADJECTIVE-F,P,ABS:	התסיות	I-NP	O
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+(	:PUNCUATION:	(	I-NP	O
+platelets	:FOREIGN:	platelets	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

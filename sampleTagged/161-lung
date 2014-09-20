@@ -1,0 +1,53 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+מתנצלים	:VERB-M,P,A,BEINONI:	התנצל	O	O
+על	:PREPOSITION:	על	O	O
+האיחור	DEF:NOUN-M,S,ABS:	איחור	B-NP	late-C0205087
+בתשובה	PREPOSITION+DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+.	:PUNCUATION:	.	O	O
+
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+-	:PUNCUATION:	-	I-NP	O
+כן	:ADVERB:	כן	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+ישירות	:ADVERB:	ישירות	I-NP	O
+לדר	PREPOSITION:PROPERNAME-M,S:	דר	I-NP	O
+'	:PUNCUATION:	'	I-NP	O
+רן	:PROPERNAME:	רן	I-NP	O
+קרמר	:NOUN-M,S,ABS:	קרמר	I-NP	kremer-C1441631
+מהמחלקה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלקה	B-NP	O
+לניתוחי	PREPOSITION:NOUN-M,P,CONST:	ניתוח	B-NP	surgery-C0038894
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+רק	:CONJUNCTION:	רק	O	O
+לאחר	:PREPOSITION:	לאחר	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+הרפואיים	DEF:ADJECTIVE-M,P,ABS:	רפואי	I-NP	O
+והסתכלות	CONJ:NOUN-F,S,ABS:	הסתכלות	O	O
+על	:PREPOSITION:	על	O	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+האם	:INTERROGATIVE:	האם	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+בטכניקה	PREPOSITION:NOUN-F,S,ABS:	טכניקה	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

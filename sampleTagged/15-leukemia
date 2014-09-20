@@ -1,0 +1,35 @@
+האם	:INTERROGATIVE:	האם	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+מנות	:NOUN-F,P,ABS:	מנה	I-NP	dose-C0178602
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+בעבר	PREPOSITION+DEF:NOUN-M,S,ABS:	עבר	B-NP	past-C1444637
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+על	:PREPOSITION:	על	O	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+לא	:NEGATION:	לא	O	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+ערוי	:NOUN-M,P,CONST:	ערוי	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לגבי	PREPOSITION:NOUN-M,P,CONST:	גב	B-NP	back-C0004600
+ערוי	:NOUN-M,S,ABS:	ערוי	I-NP	O
+עצמי	:ADJECTIVE-M,S,ABS:	עצמי	I-NP	O
+עליך	:PREPOSITION:PRONOMIAL-M,S,2	על	B-NP	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	I-NP	O
+,	:PUNCUATION:	,	O	O
+תלוי	:ADVERB:	תלוי	O	O
+במצבך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	מצב	B-NP	Condition-C0348080
+הכללי	DEF:ADJECTIVE-M,S,ABS:	כללי	I-NP	O
+

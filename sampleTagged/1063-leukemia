@@ -1,0 +1,25 @@
+האינדיקציה	DEF:NOUN-F,S,ABS:	אינדיקציה	B-NP	indication-C0392360
+ל	:PREPOSITION:	ל	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+תוך	:PREPOSITION:	תוך	O	O
+ורידי	:NOUN-M,P,CONST:	וריד	B-NP	vein-C0042449
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+במקום	PREPOSITION:NOUN-M,S,ABS:	מקום	O	place-C0442504
+ראשון	:NUMERAL-M,S,ABS:	ORD1	B-NP	O
+לחולים	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	חולה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ספיגה	:NOUN-F,S,ABS:	ספיגה	I-NP	absorption-C0000854
+בדוקה	:ADJECTIVE-F,S,ABS:	בדוק	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לאחרים	PREPOSITION:ADJECTIVE-M,P,ABS:	אחר	B-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להסתפק	:VERB-TOINFINITIVE:	הסתפק	O	O
+בכדורי	PREPOSITION:NOUN-M,P,CONST:	כדור	B-NP	Pills-C0994475
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ודיאטה	CONJ:NOUN-F,S,ABS:	דיאטה	I-NP	diet-C0012155
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

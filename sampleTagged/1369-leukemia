@@ -1,0 +1,22 @@
+הסימנים	DEF:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מציגה	:VERB-F,S,A,BEINONI:	הציג	O	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+ספציפיים	:ADJECTIVE-M,P,ABS:	ספציפי	O	O
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ללקיחת	PREPOSITION:NOUN-F,S,CONST:	לקיחה	O	Take-C1515187
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	B-NP	anamnesis-C0021055
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+וגורמי	CONJ:NOUN-M,P,CONST:	גורם	B-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

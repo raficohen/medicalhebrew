@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	O	surveillance-C0220920
+.	:PUNCUATION:	.	O	O
+
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+חריגה	:ADJECTIVE-F,S,ABS:	חריג	O	O
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לשאול	:VERB-TOINFINITIVE:	שאל	O	O
+למחלקת	PREPOSITION:NOUN-F,S,CONST:	מחלק	O	O
+השתלות	:NOUN-F,P,ABS:	השתלה	B-NP	organ transplant-C0029216
+מה	:INTERROGATIVE:	מה	B-NP	O
+משמעות	:NOUN-F,S,CONST:	משמעות	B-NP	significance-C0237881
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+והאם	CONJ:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	B-NP	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+

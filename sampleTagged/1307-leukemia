@@ -1,0 +1,27 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+ל	:PREPOSITION:	ל	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+מוטציות	:NOUN-F,P,ABS:	מוטציה	I-NP	mutation-C0026882
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+F5	:PROPERNAME:	F5	I-NP	O
+ו	:CONJUNCTION:	ו	I-NP	O
+MTHFR	:FOREIGN:	MTHFR	I-NP	O
+שדורשות	REL-SUBCONJ:VERB-F,P,A,BEINONI:	דרש	O	O
+התיחסות	:NOUN-F,S,ABS:	התיחסות	B-NP	O
+עקב	:PREPOSITION:	עקב	O	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ההפלה	DEF:NOUN-F,S,ABS:	הפלה	I-NP	abortion-C0156543
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

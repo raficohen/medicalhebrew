@@ -1,0 +1,36 @@
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+פיתרון	:NOUN-M,S,CONST:	פתרון	B-NP	solution-C0037633
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+ב	:PREPOSITION:	ב	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ITP	:FOREIGN:	ITP	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+באמת	:ADVERB:	באמת	I-NP	O
+רוצה	:VERB-M,S,A,BEINONI:	רצה	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+להחלטה	PREPOSITION:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+בעקבות	:PREPOSITION:	בעקבות	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+באינטרנט	PREPOSITION+DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+?	:PUNCUATION:	?	O	O
+
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	B-NP	O
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+4	:NUMERAL:	###NUMBER###	B-NP	O
+עיניים	:NOUN-F,P,ABS:	עין	I-NP	eyes-C0015392
+.	:PUNCUATION:	.	O	O
+

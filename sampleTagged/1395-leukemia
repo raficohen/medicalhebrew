@@ -1,0 +1,28 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+באאוזינופילים	:NOUN-F,S,ABS:	באאוזינופילים	B-NP	O
+קשורה	:ADJECTIVE-F,S,ABS:	קשור	I-NP	O
+לבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+אלרגית	:ADJECTIVE-F,S,ABS:	אלרגי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שבוצעו	REL-SUBCONJ:VERB-MF,P,3,PAST:	בוצע	O	O
+נראות	:VERB-F,P,A,BEINONI:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+בגדר	PREPOSITION:NOUN-F,S,CONST:	גדר	O	Restricted-C0443288
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+לגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+זאת	:PRONOUN-F,S,3:	זאת	I-NP	O
+רצוי	:PARTICIPLE-M,S,A,ABS:	רצה	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+פדיאטרי	:PREPOSITION:	פדיאטרי	O	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,28 @@
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+כחולים	:ADJECTIVE-M,P,ABS:	כחול	I-NP	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+תת	:PREFIX:	תת	I-NP	O
+עורי	:VERB-F,S,2,IMPERATIVE:	עיוור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ישנן	:EXISTENTIAL-POSITIVE:PRONOMIAL-F,P,3	יש	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+לתופעה	PREPOSITION+DEF:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+,	:PUNCUATION:	,	O	O
+החל	:VERB-M,S,3,PAST:	החל	O	O
+מתרופות	PREPOSITION:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+וכלה	CONJ:VERB-M,S,3,PAST:	כלה	O	O
+בהפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+במנגנון	PREPOSITION:NOUN-M,S,CONST:	מנגנון	O	mechanism-C0441712
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

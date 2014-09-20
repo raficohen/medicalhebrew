@@ -1,0 +1,26 @@
+סיבותיו	:NOUN-F,P,ABS:POSSESIVE-M,S,3	סיבה	B-NP	Causations-C0085978
+של	:SHEL_PREP:	של	I-NP	O
+שיעול	:NOUN-M,S,ABS:	שיעול	I-NP	cough-C0010200
+הן	:PRONOUN-F,P,3:	הוא	I-NP	O
+רבות	:ADJECTIVE-F,P,ABS:	רב	O	O
+ובהתאם	CONJ:ADVERB:	בהתאם	O	O
+לתלונתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	תלונה	B-NP	complaint-C0277786
+לא	:NEGATION:	לא	O	O
+ניראה	:VERB-MF,P,1,FUTURE:	נראה	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בדלקת	PREPOSITION:NOUN-F,S,CONST:	דלקה	B-NP	Fire-C0700614
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+אי	:NOUN-M,S,ABS:	אי	I-NP	Islands-C0022130
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+פנות	:VERB-TOINFINITIVE:	פנות	O	O
+בהקדם	PREPOSITION+DEF:NOUN-M,S,ABS:	הקדם	B-NP	O
+לרופאמשפחהלשם	:VERB-MF,P,2,IMPERATIVE:	לרופאמשפחהלשם	O	O
+ביצוע	:NOUN-M,S,ABS:	ביצוע	B-NP	O
+מידי	:ADJECTIVE-M,S,ABS:	מיידי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+צילום	:NOUN-M,S,CONST:	צילום	I-NP	O
+חזה	:PROPERNAME:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+

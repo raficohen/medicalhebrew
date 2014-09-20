@@ -1,0 +1,25 @@
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+כי	:CONJUNCTION:	כי	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+,	:PUNCUATION:	,	O	O
+לפי	:PREPOSITION:	לפי	O	O
+המידע	DEF:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+הנוכחי	DEF:ADJECTIVE-M,S,ABS:	נוכחי	I-NP	O
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+כי	:CONJUNCTION:	כי	O	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+במחת	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	מח	B-NP	O
+סרטן	:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+אך	:CONJUNCTION:	אך	O	O
+להרחיב	:VERB-TOINFINITIVE:	הרחיב	O	O
+את	:AT_PREP:	את	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+ע"י	:PREPOSITION:	ע"י	O	O
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+

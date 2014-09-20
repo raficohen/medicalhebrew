@@ -1,0 +1,49 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+למה	PREPOSITION:INTERROGATIVE:	מה	O	O
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	B-NP	O
+ירד	:VERB-M,S,3,PAST:	ירד	O	O
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+4.2	:NUMERAL:	###NUMBER###	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+נבדקה	:VERB-F,S,3,PAST:	נבדק	O	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+?	:PUNCUATION:	?	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+כ.אדומות	:ADJECTIVE-F,P,CONST:	כ.אדומות	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+WCV	:FOREIGN:	WCV	O	O
+,	:PUNCUATION:	,	O	O
+MCH	:FOREIGN:	MCH	O	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+להרס	PREPOSITION:NOUN-M,S,CONST:	הרס	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+?	:PUNCUATION:	?	O	O
+
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+בעקבות	:PREPOSITION:	בעקבות	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+נוגדני	:NOUN-M,P,CONST:	נוגדן	I-NP	antibody-C0003241
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+.	:PUNCUATION:	.	O	O
+

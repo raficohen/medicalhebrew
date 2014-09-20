@@ -1,0 +1,20 @@
+המספר	DEF:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לדיון	PREPOSITION:NOUN-M,S,ABS:	דיון	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופאה	DEF:NOUN-F,S,ABS:	רופא	B-NP	doctor-C0031831
+לגבי	:PREPOSITION:	לגבי	O	O
+משמעותו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	משמעות	B-NP	significance-C0237881
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+שקיים	REL-SUBCONJ:VERB-M,S,3,PAST:	קיים	O	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+קרצינואיד	:NOUN-M,S,ABS:	קרצינואיד	B-NP	carcinoid-C0007095
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדון	:VERB-TOINFINITIVE:	דן	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופאה	DEF:NOUN-F,S,ABS:	רופא	B-NP	doctor-C0031831
+

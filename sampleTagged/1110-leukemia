@@ -1,0 +1,27 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	B-NP	O
+במיקרה	PREPOSITION:PARTICIPLE-M,S,A:POSSESIVE-F,S,3	ייקר	I-NP	O
+חריג	:ADJECTIVE-M,S,ABS:	חריג	I-NP	O
+שנמצא	REL-SUBCONJ:VERB-M,S,3,PAST:	נמצא	O	O
+בטח	:ADVERB:	בטח	O	O
+בפיקוח	PREPOSITION:NOUN-M,S,ABS:	פיקוח	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+האזורי	DEF:ADJECTIVE-M,S,ABS:	אזורי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+אליו	:PREPOSITION:PRONOMIAL-M,S,3	אל	B-NP	O
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+שהרופא	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+יפנה	:VERB-M,S,3,FUTURE:	פנה	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרי	:PROPERNAME:	פרי	B-NP	fruit-C0016767
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

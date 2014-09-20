@@ -1,0 +1,21 @@
+אמך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	B-NP	Mother-C0026591-ambigous
+במחלקה	PREPOSITION:NOUN-F,S,ABS:	מחלקה	O	O
+פנימית	:ADJECTIVE-F,S,ABS:	פנימי	O	O
+ובטח	CONJ:ADVERB:	בטח	O	O
+מקבלת	:VERB-F,S,A,BEINONI:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בהתאם	:ADVERB:	בהתאם	I-NP	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+של	:SHEL_PREP:	של	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ביכולתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	יכולת	B-NP	Ability-C0085732
+להביע	:VERB-TOINFINITIVE:	הביע	O	O
+דיעה	:NOUN-F,S,ABS:	דעה	B-NP	O
+על	:PREPOSITION:	על	O	O
+המקרה	DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

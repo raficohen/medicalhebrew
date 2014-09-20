@@ -1,0 +1,63 @@
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+לגובה	PREPOSITION:NOUN-M,S,ABS:	גובה	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+מעלה	:VERB-M,S,A,BEINONI:	העלה	O	O
+את	:AT_PREP:	את	B-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	I-NP	number-C0237753
+כדוריות	:NOUN-F,S,ABS:	כדוריות	I-NP	O
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+עקב	:PREPOSITION:	עקב	O	O
+מחסור	:NOUN-M,S,ABS:	מחסור	B-NP	Deficiency-C0011155
+בחמצן	PREPOSITION+DEF:NOUN-M,S,ABS:	חמצן	B-NP	oxygen-C0030054
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+סכנה	:NOUN-F,S,ABS:	סכנה	B-NP	danger-C1428845
+של	:SHEL_PREP:	של	I-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+סמיך	:ADJECTIVE-M,S,ABS:	סמיך	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+מה	:INTERROGATIVE:	מה	O	O
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לכאבי	PREPOSITION:NOUN-M,P,CONST:	כאב	B-NP	pain-C0030193
+ראש	:NOUN-M,S,CONST:	ראש	I-NP	head-C0018670
+קוצר נשימה	:TERM:	קוצר נשימה	O	shortness of breath-C0013404
+...	:PUNCUATION:	...	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+לפני	:PREPOSITION:	לפני	O	O
+הטיסה	DEF:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+והטיול	CONJ+DEF:NOUN-M,S,ABS:	טיול	B-NP	O
+הקזת	:NOUN-F,S,CONST:	הקזה	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+להקפיד	:VERB-TOINFINITIVE:	הקפיד	O	O
+לשתות	:VERB-TOINFINITIVE:	שתה	O	O
+לפחות	:ADVERB:	לפחות	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+ליטר	:NOUN-M,S,ABS:	ליטר	I-NP	O
+מים	:NOUN-M,P,ABS:	מים	B-NP	water-C0043047
+ליום	PREPOSITION+DEF:NOUN-M,S,ABS:	יום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+בטוחה	:ADJECTIVE-F,S,ABS:	בטוח	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+DIAMOX	:FOREIGN:	DIAMOX	I-NP	O
+במצבך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	מצב	B-NP	Condition-C0348080
+.	:PUNCUATION:	.	O	O
+
+אולי	:ADVERB:	אולי	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+נאורולוג	:PROPERNAME:	נאורולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

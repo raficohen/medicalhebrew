@@ -1,0 +1,33 @@
+את	:AT_PREP:	את	B-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+לשלוח	:VERB-TOINFINITIVE:	שלח	O	O
+את	:AT_PREP:	את	B-NP	O
+תשובת	:NOUN-F,S,CONST:	תשובה	I-NP	answer-C1706817
+הרנטגנולוג	DEF:NOUN-M,S,ABS:	הרנטגנולוג	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+לאחר	:PREPOSITION:	לאחר	O	O
+חבלה	:NOUN-F,S,ABS:	חבלה	B-NP	trauma-C0043251
+כהה	:ADJECTIVE-F,S,ABS:	כהה	I-NP	O
+לבית	PREPOSITION:NOUN-M,S,CONST:	בית	B-NP	house-C2003847
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+תופעה	:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+שכיחה	:ADJECTIVE-F,S,ABS:	שכיח	I-NP	O
+,	:PUNCUATION:	,	O	O
+וזה	CONJ:PRONOUN-M,S,3:	זה	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+עד	:PREPOSITION:	עד	O	O
+שבועות	:NOUN-M,P,ABS:	שבוע	B-NP	week-C0439230
+אם	:CONJUNCTION:	אם	O	O
+יימשך	:VERB-M,S,3,FUTURE:	נמשך	O	O
+מעבר	:NOUN-M,S,ABS:	מעבר	O	Transition-C2700061-ambigous
+אז	:CONJUNCTION:	אז	O	O
+כדאי	:MODAL:	כדאי	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+כירורג	:PROPERNAME:	כירורג	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	O	chest-C0817096
+

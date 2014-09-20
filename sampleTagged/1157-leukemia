@@ -1,0 +1,30 @@
+לשאלה	PREPOSITION+DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+הראשונה	DEF:NUMERAL-F,S,ABS:	ORD1	I-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+PCR	:FOREIGN:	PCR	I-NP	O
+שבדרך	PREPOSITION+REL-SUBCONJ:NOUN-F,S,CONST:	ב	B-NP	O
+כלל	:NOUN-M,S,ABS:	כלל	I-NP	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+חוזרים	:VERB-M,P,A,BEINONI:	חזר	O	O
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+יתכן	:MODAL:	ייתכן	O	O
+שרוצים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	רצה	O	O
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+את	:AT_PREP:	את	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לשאלה	PREPOSITION+DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+השנייה	DEF:NUMERAL-F,S,ABS:	ORD2	I-NP	O
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

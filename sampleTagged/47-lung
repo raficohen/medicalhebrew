@@ -1,0 +1,27 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+פורום	:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+בבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+נשימתיות	:ADJECTIVE-F,P,ABS:	נשימתיות	I-NP	O
+כרוניות	:ADJECTIVE-F,P,ABS:	כרוניות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+להבנת	PREPOSITION:NOUN-F,S,CONST:	הבנה	B-NP	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

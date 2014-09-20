@@ -1,0 +1,72 @@
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+דם	:NOUN-M,S,CONST:	דם	I-NP	blood-C0005767
+הבלאסטים	DEF:ADJECTIVE-M,P,ABS:	הבלאסטים	I-NP	O
+מופיעים	:VERB-M,P,A,BEINONI:	הופיע	O	O
+לרוב	:ADVERB:	לרוב	O	O
+כתאים	PREPOSITION:NOUN-M,P,ABS:	תא	B-NP	cell-C0007634
+לבנים	:ADJECTIVE-M,P,ABS:	לבן	I-NP	O
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	O	O
+LUC	:FOREIGN:	LUC	O	O
+.	:PUNCUATION:	.	O	O
+
+הסתכלות	:NOUN-F,S,ABS:	הסתכלות	B-NP	O
+על	:PREPOSITION:	על	O	O
+משטח	:NOUN-M,S,CONST:	משטח	B-NP	smear-C0444086
+ע	:PROPERNAME:	ע	I-NP	O
+"	:PUNCUATION:	"	O	O
+תכנאי	:VERB-F,S,2,FUTURE:	תכנאי	O	O
+מעבדה	:NOUN-F,S,ABS:	מעבדה	B-NP	Laboratory-C0022877
+או	:CONJUNCTION:	או	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+יותר	:ADVERB:	יותר	I-NP	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+פריפרי	:PROPERNAME:	פריפרי	I-NP	peripheral-C0205100
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בלאסטים	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	הלאסטים	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+במח	PREPOSITION:NOUN-M,S,CONST:	מח	B-NP	O
+עצם	:NOUN-M,S,CONST:	עצם	I-NP	bone-C0262950
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+הבלאסטים	DEF:ADJECTIVE-M,P,ABS:	הבלאסטים	I-NP	O
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+עד	:PREPOSITION:	עד	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+אנשים	:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+בריאים	:ADJECTIVE-M,P,ABS:	בריא	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אצל	:PREPOSITION:	אצל	O	O
+חולי	:NOUN-M,S,CONST:	חולי	B-NP	O
+לאוקמיה	:NOUN-F,S,ABS:	לאוקמיה	I-NP	leukemia-C0023418
+עד	:PREPOSITION:	עד	O	O
+5	:NUMERAL:	###NUMBER###	B-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+בלאסטים	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	הלאסטים	B-NP	O
+במח	PREPOSITION:NOUN-M,S,CONST:	מח	B-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+נחשב	:VERB-M,S,3,PAST:	נחשב	O	O
+כתקין	PREPOSITION:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+%	:NOUN-MF,S,ABS:	%	B-NP	O
+הבלאסטים	DEF:ADJECTIVE-M,P,ABS:	הבלאסטים	O	O
+מכלל	PREPOSITION:NOUN-M,S,CONST:	כלל	B-NP	Rule-C0870077-ambigous
+התאים	DEF:NOUN-M,P,ABS:	תא	I-NP	cell-C0007634
+המגורענים	DEF:PARTICIPLE-M,P,A,ABS:	גורען	O	O
+במח	PREPOSITION:NOUN-M,S,CONST:	מח	B-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+!	:PUNCUATION:	!	O	O
+

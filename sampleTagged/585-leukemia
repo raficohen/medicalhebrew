@@ -1,0 +1,34 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בדלקת	PREPOSITION:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+של	:SHEL_PREP:	של	I-NP	O
+בלוטות	:NOUN-F,P,CONST:	בלוטה	I-NP	gland-C1285092
+הלימפה	DEF:NOUN-F,S,ABS:	הלימפה	I-NP	O
+שאותרה	REL-SUBCONJ:VERB-F,S,3,PAST:	אותר	O	O
+לראשונה	:ADVERB:	לראשונה	O	O
+ביפן	PREPOSITION:PROPERNAME:	יפן	B-NP	O
+ויכולה	CONJ:MODAL-F,S,A,BEINONI:	יכול	O	O
+להמשך	:VERB-TOINFINITIVE:	נמשך	O	O
+שבועות	:NOUN-M,P,ABS:	שבוע	B-NP	week-C0439230
+עד	:PREPOSITION:	עד	O	O
+חודשים	:NOUN-M,P,ABS:	חודש	B-NP	months-C0439231
+ולא	CONJ:NEGATION:	לא	O	O
+בתהליך	PREPOSITION+DEF:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+האבחנה	DEF:NOUN-F,S,ABS:	אבחנה	I-NP	diagnosis-C0011900
+עושים	:VERB-M,P,A,BEINONI:	עשה	O	O
+בביופסיה	PREPOSITION:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+של	:SHEL_PREP:	של	I-NP	O
+בלוטת לימפה	:TERM:	בלוטת לימפה	O	lymph node-C0024204
+שצריכה	REL-SUBCONJ:MODAL-F,S,A:	צריך	O	O
+להיבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+פתולוג	:NOUN-M,S,ABS:	פתולוג	B-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+כדי	:CONJUNCTION:	כדי	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+מחלות	:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+

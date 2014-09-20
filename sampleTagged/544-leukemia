@@ -1,0 +1,38 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+נמצאת	:VERB-F,S,A,BEINONI:	נמצא	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+מסודר	:ADJECTIVE-M,S,ABS:	מסודר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מקובל	:ADJECTIVE-M,S,ABS:	מקובל	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+לפחות	:ADVERB:	לפחות	I-NP	O
+3	:NUMERAL:	###NUMBER###	I-NP	O
+ח'	:ADJECTIVE-M,S,ABS:	ח'	I-NP	O
+ולבצע	CONJ:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהתאם	:ADVERB:	בהתאם	O	O
+לתוצות	PREPOSITION:NOUN-MF,P,ABS:POSSESIVE-MF,S,1	תוצו	B-NP	O
+ינתו	:NOUN-M,P,CONST:	ינתו	I-NP	O
+הנחיות	:NOUN-F,P,ABS:	הנחיה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גרב	:NOUN-M,S,ABS:	גרב	B-NP	O
+אלסטי	:ADJECTIVE-M,S,ABS:	אלסטי	I-NP	O
+לפחות	:ADVERB:	לפחות	O	O
+עד	:PREPOSITION:	עד	O	O
+ירידת	:NOUN-F,S,CONST:	ירידה	B-NP	Downward-C0205104
+הנפיחות	DEF:NOUN-F,S,ABS:	נפיחות	I-NP	swelling-C0013604
+,	:PUNCUATION:	,	O	O
+בסוף	PREPOSITION:NOUN-M,S,CONST:	סוף	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+

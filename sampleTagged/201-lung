@@ -1,0 +1,23 @@
+בפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+אנו	:PRONOUN-MF,P,1:	הוא	O	O
+עונים	:VERB-M,P,A,BEINONI:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+סרטן	:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+,	:PUNCUATION:	,	O	O
+הצללות	:NOUN-F,P,ABS:	הצללה	B-NP	O
+בריאות	:ADJECTIVE-F,P,ABS:	בריא	I-NP	O
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+ביטוי	:NOUN-M,S,ABS:	ביטוי	B-NP	expression-C0017262
+של	:SHEL_PREP:	של	I-NP	O
+דלקת	:NOUN-F,S,ABS:	דלקת	I-NP	inflammation-C0021368
+וכו	:ADJECTIVE-M,S,ABS:	וכו	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	I-NP	O
+ואו	CONJ:CONJUNCTION:	או	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+

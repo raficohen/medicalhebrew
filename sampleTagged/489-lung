@@ -1,0 +1,22 @@
+ישנם	:EXISTENTIAL-POSITIVE:PRONOMIAL-M,P,3	יש	B-NP	O
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+להרחבה	PREPOSITION:NOUN-F,S,ABS:	הרחבה	B-NP	dilation-C0012359
+תלוי	:ADVERB:	תלוי	O	O
+באיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+גיל	:NOUN-M,S,ABS:	גיל	I-NP	O
+ומין	CONJ:NOUN-M,S,ABS:	מין	B-NP	species-C1548151-ambigous
+מדובר	:VERB-M,S,A,BEINONI:	דובר	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+אחרי	:PREPOSITION:	אחרי	O	O
+ה	DEF::	ה	B-NP	O
+סיטי	:NOUN-F,S,ABS:	סיטי	I-NP	O
+על	:PREPOSITION:	על	O	O
+כן	:CONJUNCTION:	כן	O	O
+אשמח	:VERB-MF,S,1,FUTURE:	שמח	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+

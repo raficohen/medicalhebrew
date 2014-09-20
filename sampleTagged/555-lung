@@ -1,0 +1,61 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+רוצה	:VERB-M,S,A,BEINONI:	רצה	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+ולהזכיר	CONJ:VERB-TOINFINITIVE:	הזכיר	O	O
+לשואלים	PREPOSITION+DEF:NOUN-M,P,ABS:	שואל	B-NP	O
+הנכבדים	DEF:ADJECTIVE-M,P,ABS:	נכבד	I-NP	O
+שהנני	REL-SUBCONJ:COPULA-MF,S,1,BEINONI,POSITIVE:	הוא	O	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	O	Specialist Physician-C2348234
+בניתוחי	PREPOSITION:NOUN-M,P,CONST:	ניתוח	B-NP	surgery-C0038894
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+ולב	CONJ:NOUN-M,S,ABS:	לב	I-NP	heart-C0018787
+אך	:CONJUNCTION:	אך	O	O
+עיקר	:NOUN-M,S,CONST:	עיקר	B-NP	O
+עיסוקי	:NOUN-M,P,CONST:	עיסוק	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+נכון	:ADVERB:	נכון	I-NP	O
+עיסוקי	:NOUN-M,P,CONST:	עיסוק	I-NP	O
+הבלעדי	DEF:ADJECTIVE-M,S,ABS:	בלעדי	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+ניתוחי	:NOUN-M,P,CONST:	ניתוח	B-NP	surgery-C0038894
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+במשמעות	PREPOSITION:NOUN-F,S,CONST:	משמעות	B-NP	significance-C0237881
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+במחלות	PREPOSITION:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+למעט	:PREPOSITION:	למעט	O	O
+לב	:NOUN-M,S,ABS:	לב	B-NP	heart-C0018787
+.	:PUNCUATION:	.	O	O
+
+כגון	:PREPOSITION:	כגון	O	O
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+,	:PUNCUATION:	,	O	O
+סרטן	:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ושט	:NOUN-M,S,ABS:	ושט	I-NP	esophagus-C0014852
+,	:PUNCUATION:	,	O	O
+ניתוחים	:NOUN-M,P,ABS:	ניתוח	B-NP	surgery-C0038894
+לחולי	PREPOSITION:NOUN-M,S,CONST:	חולי	B-NP	O
+אמפיזמה	:NOUN-F,S,ABS:	אמפיזמה	I-NP	emphysema-C0013990
+ריאתית	:ADJECTIVE-F,S,ABS:	ריאתית	I-NP	O
+,	:PUNCUATION:	,	O	O
+תיקון	:NOUN-M,S,CONST:	תיקון	B-NP	O
+מומי	:NOUN-M,P,CONST:	מום	I-NP	defect-C1457869
+עיוות	:NOUN-F,S,CONST:	עיוות	I-NP	O
+שלד	:NOUN-M,S,CONST:	שלד	I-NP	skeleton-C0037253
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+וכו	:PREPOSITION:	וכו	O	O
+'	:PUNCUATION:	'	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+קובי	:PROPERNAME:	קובי	B-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בשאלות	PREPOSITION:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+לקרדיולוג	PREPOSITION:NOUN-M,S,ABS:	קרדיולוג	B-NP	cardiologist-C0175906
+או	:CONJUNCTION:	או	O	O
+למנתח	PREPOSITION:NOUN-M,S,CONST:	מנתח	B-NP	surgeon-C0582175
+לב	:NOUN-M,S,ABS:	לב	O	heart-C0018787
+

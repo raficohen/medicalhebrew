@@ -1,0 +1,34 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+בהתלט	PREPOSITION:NOUN-M,S,ABS:	התלט	B-NP	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+סיבת	:NOUN-F,S,CONST:	סיבה	B-NP	Causations-C0085978
+הפרעות	:NOUN-F,P,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+בת	:NOUN-F,S,ABS:	בת	I-NP	daughter-C0011011
+.	:PUNCUATION:	.	O	O
+
+כבד	:ADJECTIVE-M,S,ABS:	כבד	B-NP	liver-C0023884
+דרך	:PREPOSITION:	דרך	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לפוליציטמיה	PREPOSITION:NOUN-M,S,CONST:	פוליציטמיה	B-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	I-NP	values-C0042295
+גבוליים	:ADJECTIVE-M,P,ABS:	גבולי	O	borderline-C0205189
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+ס.ד	:NOUN-M,S,ABS:POSSESIVE-M,S,3	ס.	B-NP	O
+אחרי	:PREPOSITION:	אחרי	O	O
+שתיית	:NOUN-F,S,CONST:	שתייה	B-NP	Drinking function-C0684271
+1/2	:NUMEXP:	###NUMEXP###	I-NP	O
+ליטר	:NOUN-M,S,CONST:	ליטר	I-NP	O
+מים	:NOUN-M,P,ABS:	מים	I-NP	water-C0043047
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

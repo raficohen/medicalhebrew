@@ -1,0 +1,33 @@
+כאמור	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	אמור	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שהראת	:PROPERNAME:	שהראת	I-NP	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+מבצעים	:VERB-M,P,A,BEINONI:	ביצע	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+במצבים	PREPOSITION:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+טרומבוזות	:NOUN-M,P,ABS:	טרומבוזות	I-NP	O
+אישי	:ADJECTIVE-M,S,ABS:	אישי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+משפחתי	:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שידריך	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הדריך	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

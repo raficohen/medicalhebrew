@@ -1,0 +1,45 @@
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+בוצעה	:VERB-F,S,3,PAST:	בוצע	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+או	:CONJUNCTION:	או	O	O
+לא	:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+יתר	:NOUN-M,S,CONST:	יתר	I-NP	O
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+-	:PUNCUATION:	-	I-NP	O
+כדוריות	:ADJECTIVE-F,P,ABS:	כדורי	I-NP	O
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	B-NP	hemoglobin-C0019046
+?	:PUNCUATION:	?	O	O
+
+טרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	טרומבוציטים	O	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+בררת	:VERB-F,S,2,PAST:	ברר	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופאה	DEF:NOUN-F,S,ABS:	רופא	B-NP	doctor-C0031831
+באיזו	:PREPOSITION:	באיזו	O	O
+מידה	:NOUN-F,S,ABS:	מידה	B-NP	O
+הכדורים	DEF:NOUN-M,P,ABS:	כדור	I-NP	Pills-C0994475
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+לוקחת	:VERB-F,S,A,BEINONI:	לקח	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להביא	:VERB-TOINFINITIVE:	הביא	O	O
+לירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	O	Downward-C0205104
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הלבנה	DEF:ADJECTIVE-F,S,ABS:	לבן	I-NP	O
+?	:PUNCUATION:	?	O	O
+

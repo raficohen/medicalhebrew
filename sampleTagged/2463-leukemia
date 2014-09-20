@@ -1,0 +1,24 @@
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+המומחה	DEF:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בעל	:NOUN-M,S,CONST:	בעל	B-NP	husband-C0242664
+משמעות	:NOUN-F,S,ABS:	משמעות	I-NP	significance-C0237881
+ויתכן	CONJ:MODAL:	ייתכן	O	O
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

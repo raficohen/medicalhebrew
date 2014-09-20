@@ -1,0 +1,39 @@
+לא	:NEGATION:	לא	O	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+שבמצב	PREPOSITION+REL-SUBCONJ+DEF:NOUN-M,S,ABS:	ב	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+נזק	:NOUN-M,S,ABS:	נזק	B-NP	damage-C1883709
+כי	:CONJUNCTION:	כי	O	O
+מחסני	:NOUN-M,P,CONST:	מחסן	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+(	:PUNCUATION:	(	I-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+)	:PUNCUATION:	)	O	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+גבוהים	:ADJECTIVE-M,P,ABS:	גבוה	O	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בשימוש	PREPOSITION:NOUN-M,S,ABS:	שימוש	O	Usage-C0457083
+בברזל	PREPOSITION+DEF:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+האם	:INTERROGATIVE:	האם	O	O
+כדאי	:MODAL:	כדאי	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+לאור	:PREPOSITION:	לאור	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+סבירה	:ADJECTIVE-F,S,ABS:	סביר	O	O
+.	:PUNCUATION:	.	O	O
+

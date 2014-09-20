@@ -1,0 +1,67 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתפני	REL-SUBCONJ:VERB-F,S,2,FUTURE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+בהקדם	:ADVERB:	בהקדם	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+סדר	:NOUN-M,S,ABS:	סדר	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אגב	:PREPOSITION:	אגב	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הייתה	:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+האבחנה	DEF:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+הנוירולוגית	DEF:NOUN-F,S,ABS:	נוירולוג	I-NP	Neurologist-C0237426
+?	:PUNCUATION:	?	O	O
+
+מי	:INTERROGATIVE:	מי	B-NP	O
+קבע	:VERB-M,S,3,PAST:	קבע	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+דלקת	:NOUN-F,S,CONST:	דלקה	I-NP	Fire-C0700614
+ורידים	:NOUN-M,P,ABS:	וריד	I-NP	vein-C0042449
+ותסחיף	CONJ:NOUN-M,S,CONST:	תסחיף	B-NP	embolism-C0013922
+ריאתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שאבחנות	REL-SUBCONJ:NOUN-F,P,ABS:	אבחנה	B-NP	diagnosis-C0011900
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+נשללו	:VERB-MF,P,3,PAST:	נשלל	O	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואת	CONJ:AT_PREP:	את	O	O
+מעוניינת	:VERB-F,S,A,BEINONI:	עונין	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	O	O
+אשר	:VERB-M,S,3,PAST:	אישר	O	O
+וינדר	:PROPERNAME:	וינדר	B-NP	O
+מבי"ח	PREPOSITION:NOUN-M,S,CONST:	בי"ח	B-NP	O
+וולפסון	:PROPERNAME:	וולפסון	I-NP	O
+מקבל	:VERB-M,S,A,BEINONI:	קיבל	O	O
+פעמיים	:ADVERB:	פעמיים	O	O
+בשבוע	PREPOSITION+DEF:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+בימי	PREPOSITION:NOUN-M,P,CONST:	יום	B-NP	O
+ב'	:NOUN-M,S,ABS:	ב'	I-NP	O
+ו	:CONJUNCTION:	ו	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ד'	:NOUN-M,S,ABS:	ד'	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחכות	:VERB-TOINFINITIVE:	חיכה	O	O
+אלא	:CONJUNCTION:	אלא	O	O
+להביא	:VERB-TOINFINITIVE:	הביא	O	O
+ט	:PROPERNAME:	ט	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+17	:NUMERAL:	###NUMBER###	B-NP	O
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+

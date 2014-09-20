@@ -1,0 +1,24 @@
+סרטן	:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ראות	:NOUN-F,S,ABS:	ראות	I-NP	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+18	:NUMERAL:	###NUMBER###	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צבים	:NOUN-M,P,ABS:	צב	B-NP	O
+דלקתיים	:ADJECTIVE-M,P,ABS:	דלקתי	I-NP	O
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+הבעיתיים	:ADJECTIVE-M,P,ABS:	הבעיתיים	O	O
+מאד	:ADVERB:	מאוד	O	O
+גם	:CONJUNCTION:	גם	O	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+ללכת	:VERB-TOINFINITIVE:	הלך	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+ראות	:NOUN-F,S,ABS:	ראות	B-NP	O
+להערכה	PREPOSITION+DEF:NOUN-F,S,ABS:	הערכה	B-NP	O
+וטיפולים	CONJ:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

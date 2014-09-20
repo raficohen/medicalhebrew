@@ -1,0 +1,25 @@
+לא	:NEGATION:	לא	O	O
+נראת	:PARTICIPLE-F,S,A,CONST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+ANA	:FOREIGN:	ANA	O	O
+ולבקש	CONJ:VERB-TOINFINITIVE:	ביקש	O	O
+ANTI	:FOREIGN:	ANTI	O	O
+DNA	:FOREIGN:	DNA	O	O
+AB	:FOREIGN:	AB	O	O
+אולי	:ADVERB:	אולי	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+אימונולוג	:NOUN-M,S,ABS:	אימונולוג	B-NP	O
+/	:PUNCUATION:	/	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+פנימי	:ADJECTIVE-M,S,ABS:	פנימי	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+

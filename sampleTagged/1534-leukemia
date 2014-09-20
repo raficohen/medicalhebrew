@@ -1,0 +1,23 @@
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+לא	:NEGATION:	לא	O	O
+משמעותיות	:ADJECTIVE-F,P,ABS:	משמעותי	O	O
+לקביעת	PREPOSITION:NOUN-F,S,CONST:	קביעה	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+,	:PUNCUATION:	,	O	O
+ולקבל	CONJ:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

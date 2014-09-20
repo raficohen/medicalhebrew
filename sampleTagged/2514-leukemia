@@ -1,0 +1,23 @@
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+הבילירובין	DEF:NOUN-M,S,ABS:	הבילירובין	I-NP	O
+מתאימים	:VERB-M,P,A,BEINONI:	התאים	O	O
+לתופעת	PREPOSITION:NOUN-F,S,CONST:	תופעה	B-NP	phenomenon-C1882365
+גילברט	:NOUN-M,S,ABS:	גילברט	I-NP	gilbert-C1551090
+.	:PUNCUATION:	.	O	O
+
+בעניין	PREPOSITION:NOUN-M,S,CONST:	עניין	B-NP	O
+הנחושת	DEF:NOUN-F,S,ABS:	נחושת	I-NP	copper-C0009968
+-	:PUNCUATION:	-	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	I-NP	O
+מדוע	:ADVERB:	מדוע	I-NP	O
+נבדקה	:VERB-F,S,3,PAST:	נבדק	O	O
+רמתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	רמה	B-NP	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+ידע	:NOUN-M,S,ABS:	ידע	B-NP	O
+מספיק	:ADVERB:	מספיק	I-NP	O
+ליעץ	:VERB-TOINFINITIVE:	ייעץ	O	O
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+.	:PUNCUATION:	.	O	O
+

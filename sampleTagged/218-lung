@@ -1,0 +1,59 @@
+אבי	:PROPERNAME:	אבי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+חזה יונה	:TERM:	חזה יונה	O	pectus carinatum-C0158731
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+פגם מולד	:TERM:	פגם מולד	O	congenital defect-C0000768
+במבנה	PREPOSITION+DEF:NOUN-M,S,ABS:	מבנה	B-NP	O
+השלדי	:VERB-F,S,2,PAST:	השלדי	O	O
+של	:SHEL_PREP:	של	O	O
+דופן	:NOUN-MF,S,ABS:	דופן	B-NP	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+קיימות	:NOUN-F,S,CONST:	קיימות	B-NP	O
+דרגות	:NOUN-F,P,ABS:	דרגה	I-NP	rank-C0699794
+חומרה	:NOUN-F,S,ABS:	חומרה	I-NP	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+,	:PUNCUATION:	,	O	O
+ובד'	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	O	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+אם	:CONJUNCTION:	אם	O	O
+מתקנים	:NOUN-M,P,ABS:	מתקן	B-NP	O
+עושים	:VERB-M,P,A,BEINONI:	עשה	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+מסיבות	:NOUN-F,P,ABS:	מסיבה	B-NP	O
+קוסמטיות	:ADJECTIVE-F,P,ABS:	קוסמטי	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+תפקודיות	:ADJECTIVE-F,P,ABS:	תפקודי	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+ברצונך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	רצון	B-NP	desire-C0871633
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+להחליט	:VERB-TOINFINITIVE:	החליט	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+,	:PUNCUATION:	,	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+ואיך	CONJ:INTERROGATIVE:	איך	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+-	:PUNCUATION:	-	O	O
+עליך	:PREPOSITION:PRONOMIAL-M,S,2	על	B-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+למנתח	PREPOSITION+DEF:NOUN-M,S,ABS:	מנתח	B-NP	surgeon-C0582175
+חזה	:VERB-M,S,3,PAST:	חזה	O	chest-C0817096
+במקום	:PREPOSITION:	במקום	O	O
+מגוריך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	מגורים	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

@@ -1,0 +1,48 @@
+תכשיר	:NOUN-M,S,ABS:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+הידריאה	DEF:ADJECTIVE-F,S,ABS:	הידריאה	I-NP	O
+בהחלט	:ADVERB:	בהחלט	O	O
+שייך	:VERB-M,S,3,PAST:	שייך	O	O
+לקבוצת	PREPOSITION:NOUN-F,S,CONST:	קבוצה	B-NP	groups-C0441833
+הטיפולים	DEF:NOUN-M,P,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הכימיים	DEF:ADJECTIVE-M,P,ABS:	כימי	I-NP	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+די	:ADVERB:	די	O	O
+יחיודי	:ADJECTIVE-F,S,CONST:	יחיודי	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+השימוש	DEF:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+בו	:PREPOSITION:PRONOMIAL-M,S,3	ב	B-NP	O
+במיגוון	PREPOSITION:NOUN-M,S,CONST:	מגוון	B-NP	Diversity-C1880371
+מצבים	:NOUN-M,P,ABS:	מצב	I-NP	Condition-C0348080
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שהטיפול	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בהידריאה	:PROPERNAME:	בהידריאה	I-NP	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואתה	CONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+משוכנע	:VERB-M,S,A,BEINONI:	שוכנע	O	O
+בצורך	PREPOSITION:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+לא	:NEGATION:	לא	O	O
+אינטרנטי	:ADJECTIVE-M,S,ABS:	אינטרנטי	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	O	O
+אצלי	:PREPOSITION:PRONOMIAL-MF,S,1	אצל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+אצל	:PREPOSITION:	אצל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+

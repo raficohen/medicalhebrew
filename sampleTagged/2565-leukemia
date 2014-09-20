@@ -1,0 +1,32 @@
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+תכשיר	:NOUN-M,S,ABS:	תכשיר	I-NP	Pharmaceutical Preparations-C0013227
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+עוזר	:VERB-M,S,A,BEINONI:	עזר	O	O
+כאשר	:CONJUNCTION:	כאשר	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+לפי	:PREPOSITION:	לפי	O	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+אשר	:VERB-M,S,3,PAST:	אישר	O	O
+גורם	:NOUN-M,S,ABS:	גורם	B-NP	O
+לאנמיה	PREPOSITION:PROPERNAME:	אנמיה	B-NP	anemia-C0002871
+.	:PUNCUATION:	.	O	O
+
+בהחלט	:ADVERB:	בהחלט	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+להיוועץ	:VERB-TOINFINITIVE:	נועץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+.	:PUNCUATION:	.	O	O
+

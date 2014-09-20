@@ -1,0 +1,28 @@
+לא	:NEGATION:	לא	O	O
+לדהוג	PREPOSITION:ADJECTIVE-M,S,CONST:	דהוג	O	O
+!	:PUNCUATION:	!	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ורייציות	:VERB-M,P,A,BEINONI:	ורייציות	O	O
+במס	PREPOSITION+DEF:NOUN-M,S,ABS:	מס	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+התסיות	DEF:ADJECTIVE-F,P,ABS:	התסיות	B-NP	O
+במזגרת	:PROPERNAME:	במזגרת	I-NP	O
+המעקב	DEF:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+.	:PUNCUATION:	.	O	O
+
+במיקרה	PREPOSITION:PARTICIPLE-M,S,A:POSSESIVE-F,S,3	ייקר	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+עליה	:NOUN-F,S,ABS:	עלייה	I-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+ההמטולוג	DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+ישנה	:VERB-M,S,3,FUTURE:	שנה	O	year-C0439234
+המינון	DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+של	:SHEL_PREP:	של	I-NP	O
+הידרה	:VERB-F,S,3,PAST:	הידר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

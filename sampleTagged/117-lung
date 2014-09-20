@@ -1,0 +1,92 @@
+שוב	:ADVERB:	שוב	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+מורכב	:ADJECTIVE-M,S,ABS:	מורכב	I-NP	O
+מדי	:ADVERB:	מדי	I-NP	O
+מבחינתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	בחינה	I-NP	O
+לדיון	PREPOSITION:NOUN-M,S,ABS:	דיון	B-NP	O
+שלם	:ADJECTIVE-M,S,ABS:	שלם	I-NP	O
+ברשת	PREPOSITION+DEF:NOUN-F,S,ABS:	רשת	B-NP	network-C1513822
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+נקודות	:NOUN-F,P,ABS:	נקודה	I-NP	point-C1552961
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+כמותרפי	:ADVERB:	כמותרפי	I-NP	O
+בהחלט	:ADVERB:	בהחלט	I-NP	O
+הוכיח	:VERB-M,S,3,PAST:	הוכיח	O	O
+עצמו	:VERB-MF,P,3,PAST:	עצם	O	bone-C0262950
+בסרטן	PREPOSITION+DEF:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+ראה	:VERB-M,S,3,PAST:	ראה	O	O
+מול	:PREPOSITION:	מול	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+בו	:PREPOSITION:PRONOMIAL-M,S,3	ב	B-NP	O
+לא	:NEGATION:	לא	O	O
+מטפלים	:VERB-M,P,A,BEINONI:	טיפל	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+ההוכחות	DEF:NOUN-F,P,ABS:	הוכחה	B-NP	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+אצל	:PREPOSITION:	אצל	O	O
+חולים	:ADJECTIVE-M,P,ABS:	חולה	B-NP	O
+במצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+מספיק	:ADVERB:	מספיק	O	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	O	good-C0205170
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מספק	PREPOSITION:NOUN-M,S,ABS:	ספק	O	doubt-C0870444
+אם	:CONJUNCTION:	אם	O	O
+מצב	:NOUN-M,S,CONST:	מצב	B-NP	Condition-C0348080
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+מאד	:ADVERB:	מאוד	I-NP	O
+ירוד	:ADJECTIVE-M,S,ABS:	ירוד	I-NP	cataract-C0086543
+לעיתים	:ADVERB:	לעתים	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+לא	:NEGATION:	לא	O	O
+יעזור	:VERB-M,S,3,FUTURE:	עזר	O	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+להפגש	:VERB-TOINFINITIVE:	נפגש	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+כך	:PRONOUN:	כך	O	O
+שיתרשם	REL-SUBCONJ:VERB-M,S,3,FUTURE:	התרשם	O	O
+ממצב	PREPOSITION:NOUN-M,S,CONST:	מצב	B-NP	Condition-C0348080
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+ויחליט	CONJ:VERB-M,S,3,FUTURE:	החליט	O	O
+אם	:CONJUNCTION:	אם	O	O
+ואיזה	CONJ:QUANTIFIER-CONST:	איזה	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+כאשר	:CONJUNCTION:	כאשר	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+גרורת	:NOUN-F,S,CONST:	גרורה	B-NP	metastasis-C0027627
+מוחיות	:ADJECTIVE-F,P,ABS:	מוחי	I-NP	O
+נהוג	:ADJECTIVE-M,S,ABS:	נהוג	I-NP	O
+להתךחיל	:VERB-M,S,2,IMPERATIVE:	להתךחיל	O	O
+בטיפול	PREPOSITION:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+קרינתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	קרינה	I-NP	radiation-C0034519
+למח	PREPOSITION+DEF:NOUN-M,S,ABS:	מח	B-NP	O
+שוב	:ADVERB:	שוב	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מצבים	:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+יותאי	:PARTICIPLE-M,P,A,CONST:	יותאי	I-NP	O
+דופן	:NOUN-MF,S,CONST:	דופן	I-NP	Wall structure-C0442069
+שבהם	REL-SUBCONJ:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+מטפל	:NOUN-M,S,ABS:	מטפל	I-NP	O
+עלול	:MODAL-M,S,A:	עלול	O	O
+לנהוג	:VERB-TOINFINITIVE:	נהג	O	O
+אחרת	:ADVERB:	אחרת	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+יוצא	:VERB-M,S,A,BEINONI:	יצא	O	O
+דופן	:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+הטיפולים	DEF:NOUN-M,P,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

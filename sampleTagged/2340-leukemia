@@ -1,0 +1,30 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+הומאופתיה	:NOUN-F,P,ABS:	הומאופתיות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+לפני	:PREPOSITION:	לפני	O	O
+שחושבים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	חשב	O	O
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כדאי	:MODAL:	כדאי	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+מהי	:INTERROGATIVE:PRONOMIAL-F,S,3	מה	B-NP	O
+באמת	:ADVERB:	באמת	O	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	B-NP	O
+היתר	DEF:NOUN-M,S,ABS:	יתר	I-NP	O
+שהתגלתה	REL-SUBCONJ:VERB-F,S,3,PAST:	התגלה	O	O
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+והאם	CONJ:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+

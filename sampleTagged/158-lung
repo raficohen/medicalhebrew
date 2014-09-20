@@ -1,0 +1,56 @@
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	O	O
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+,	:PUNCUATION:	,	O	O
+
+כפי	:CONJUNCTION:	כפי	O	O
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+-	:PUNCUATION:	-	O	O
+מבלי	:CONJUNCTION:	מבלי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+הילדה	DEF:NOUN-F,S,ABS:	ילד	I-NP	children-C0008059
+ולראות	CONJ:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+נתקשה	:VERB-MF,P,1,FUTURE:	התקשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלותייך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+כיון	PREPOSITION:NOUN-M,S,ABS:	יון	O	O
+שהילדה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	ילד	B-NP	children-C0008059
+מטופלת	:VERB-F,S,A,BEINONI:	טופל	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+נבדקה	:VERB-F,S,3,PAST:	נבדק	I-NP	O
+וכן	CONJ:CONJUNCTION:	כן	O	O
+בוצעו	:VERB-MF,P,3,PAST:	בוצע	O	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לדאגה	PREPOSITION:NOUN-F,S,ABS:	דאגה	B-NP	concern-C2699424
+,	:PUNCUATION:	,	O	O
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+רובם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	רוב	I-NP	majority-C0680220
+של	:SHEL_PREP:	של	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הממצאים	DEF:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+מסוג	PREPOSITION:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+הינם	:COPULA-MF,P,3,BEINONI,POSITIVE:	הוא	O	O
+שפירים	:ADJECTIVE-M,P,ABS:	שפיר	O	benign-C0205183
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

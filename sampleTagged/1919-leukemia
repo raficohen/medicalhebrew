@@ -1,0 +1,40 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+ברמה	PREPOSITION:NOUN-F,S,ABS:	רמה	B-NP	O
+גבולית	:ADJECTIVE-F,S,ABS:	גבולי	I-NP	borderline-C0205189
+.	:PUNCUATION:	.	O	O
+
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+פעם	:NOUN-F,S,ABS:	פעם	B-NP	once-C1948045
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+בני	:NOUN-M,P,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+(	:PUNCUATION:	(	O	O
+הורים	:NOUN-M,P,ABS:	הורה	B-NP	parents-C0030551
+או	:CONJUNCTION:	או	O	O
+אחים	:NOUN-M,P,ABS:	אח	B-NP	Brothers-C0337527-ambigous
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אצל	:PREPOSITION:	אצל	O	O
+חלק	:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהם	:INTERROGATIVE:PRONOMIAL-M,P,3	מה	I-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+כנראה	:ADVERB:	כנראה	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בחסר	PREPOSITION:NOUN-M,S,ABS:	חסר	B-NP	O
+אמיתי	:PROPERNAME:	אמיתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

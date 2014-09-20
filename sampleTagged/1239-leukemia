@@ -1,0 +1,26 @@
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+בסדר	PREPOSITION:NOUN-M,S,ABS:	סדר	B-NP	O
+(	:PUNCUATION:	(	O	O
+PS	:FOREIGN:	PS	O	specialistAcronym-E0578986-ps
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+ופיברינוגן	CONJ:NOUN-M,S,ABS:	פיברינוגן	B-NP	fibrinogen-C0016006
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+מתאימים	:VERB-M,P,A,BEINONI:	התאים	O	O
+למצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+)	:PUNCUATION:	)	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+אותן	:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	B-NP	need-C0027552
+סיכום	:NOUN-M,S,ABS:	סיכום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

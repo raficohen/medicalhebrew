@@ -1,0 +1,26 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+פונים	:VERB-M,P,A,BEINONI:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+!	:PUNCUATION:	!	O	O
+
+פרט	:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+ל	:PREPOSITION:	ל	O	O
+MTHFR	:FOREIGN:	MTHFR	O	O
+HETER	:FOREIGN:	HETER	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+פתולוגיה	:NOUN-F,S,ABS:	פתולוגיה	B-NP	pathology-C0030664
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אבל	:CONJUNCTION:	אבל	O	O
+שוב	:ADVERB:	שוב	O	O
+תפנה	:VERB-F,S,3,FUTURE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+

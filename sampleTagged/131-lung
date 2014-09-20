@@ -1,0 +1,25 @@
+לפי	:PREPOSITION:	לפי	O	O
+התיאור	DEF:NOUN-M,S,ABS:	תיאור	B-NP	Description-C0678257
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+ראשית	:ADVERB:	ראשית	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבקש	:VERB-TOINFINITIVE:	ביקש	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+פתולוגית	:ADJECTIVE-F,S,ABS:	פתולוגית	I-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+האם	DEF:NOUN-F,S,ABS:	אם	I-NP	Mother-C0026591-ambigous
+אכן	:ADVERB:	אכן	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+תאים	:NOUN-M,P,ABS:	תא	I-NP	cell-C0007634
+קטנים	:ADJECTIVE-M,P,ABS:	קטן	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	B-NP	O
+גדל	:VERB-M,S,3,PAST:	גדל	O	O
+בחודשיים	PREPOSITION:ADJECTIVE-M,P,ABS:	חודשי	B-NP	O
+

@@ -1,0 +1,24 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+ב	:PREPOSITION:	ב	O	O
+IGG	:FOREIGN:	IGG	O	O
+ואולי	CONJ:ADVERB:	אולי	O	O
+ב	:PREPOSITION:	ב	O	O
+KAPA	:FOREIGN:	KAPA	O	O
+(	:PUNCUATION:	(	O	O
+אין	:NOUN-M,S,ABS:	אין	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+של	:SHEL_PREP:	של	I-NP	O
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+)	:PUNCUATION:	)	O	O
+כנראה	:ADVERB:	כנראה	O	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+ידועה	:ADJECTIVE-F,S,ABS:	ידוע	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+של	:SHEL_PREP:	של	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+האזורי	DEF:ADJECTIVE-M,S,ABS:	אזורי	I-NP	O
+

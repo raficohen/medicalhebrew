@@ -1,0 +1,39 @@
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+אפשרות	:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+כי	:CONJUNCTION:	כי	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+באספרין	PREPOSITION+DEF:NOUN-M,S,ABS:	האספרין	B-NP	O
+נפגעת	:VERB-F,S,A,BEINONI:	נפגע	O	O
+רירית	:NOUN-F,S,CONST:	רירית	B-NP	mucous membrane-C0026724
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+ו/או	:ADVERB:	ו/או	I-NP	O
+הקיבה	DEF:NOUN-F,S,ABS:	קיבה	I-NP	stomach-C0038351
+והתוצאה	CONJ+DEF:NOUN-F,S,ABS:	תוצאה	I-NP	result-C1274040
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+ממערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+המביא	DEF:PARTICIPLE-M,S,A,ABS:	הביא	O	O
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+,	:PUNCUATION:	,	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+גם	:CONJUNCTION:	גם	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+B12	:FOREIGN:	B12	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+האם	:INTERROGATIVE:	האם	O	O
+מערכת	:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+פועלת	:VERB-F,S,A,BEINONI:	פעל	O	O
+כשורה	:ADVERB:	כשורה	O	O
+.	:PUNCUATION:	.	O	O
+

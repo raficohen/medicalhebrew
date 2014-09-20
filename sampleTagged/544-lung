@@ -1,0 +1,24 @@
+מקור	:NOUN-M,S,ABS:	מקור	B-NP	Source-C0449416
+הדיקרות	:ADJECTIVE-F,P,CONST:	הדיקרות	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+רב	:ADJECTIVE-M,S,ABS:	רב	O	O
+ומגוון	CONJ:ADJECTIVE-M,S,ABS:	מגוון	O	Diversity-C1880371
+מכיון	PREPOSITION+ADVERB:NOUN-M,S,ABS:	כ	B-NP	O
+שעל	REL-SUBCONJ:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+דבריך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	דבר	I-NP	O
+שללת	:VERB-F,S,2,PAST:	שלל	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+לבבית	:ADJECTIVE-F,S,ABS:	לבבי	I-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+גם	:CONJUNCTION:	גם	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+ריאות	:NOUN-F,P,CONST:	ריאה	I-NP	lung-C0024109
+גמר	:NOUN-M,S,CONST:	גמר	I-NP	O
+חתימה	:NOUN-F,S,ABS:	חתימה	I-NP	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	O	good-C0205170
+

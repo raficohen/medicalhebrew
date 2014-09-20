@@ -1,0 +1,50 @@
+רמה	:NOUN-F,S,ABS:	רמה	B-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	I-NP	antibody-C0003241
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	O	O
+IGA	:FOREIGN:	IGA	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+תופעה	:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+מוכרת	:ADJECTIVE-F,S,ABS:	מוכר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+תופעה	:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+צליאק	:NOUN-M,S,ABS:	צליאק	B-NP	Celiac Disease-C0007570
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+באמת	:ADVERB:	באמת	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+IGA	:FOREIGN:	IGA	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מצויין	:VERB-M,S,A,BEINONI:	צוין	O	O
+בתיעוד	PREPOSITION:NOUN-M,S,ABS:	תיעוד	B-NP	O
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+כי	:CONJUNCTION:	כי	O	O
+במידה	:CONJUNCTION:	במידה	O	O
+יצטרך	:VERB-M,S,3,FUTURE:	הצטרך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+מוצרי	:NOUN-M,P,CONST:	מוצר	B-NP	goods-C0038848
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ליידע	:VERB-TOINFINITIVE:	יידע	O	O
+את	:AT_PREP:	את	B-NP	O
+הצוות	DEF:NOUN-F,S,ABS:	צוות	I-NP	O
+הרפואי	DEF:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+על	:PREPOSITION:	על	O	O
+קיום	:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+החוסר	DEF:NOUN-M,S,ABS:	חוסר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

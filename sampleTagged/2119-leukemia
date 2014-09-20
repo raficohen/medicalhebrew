@@ -1,0 +1,38 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שאלות	:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+חשובות	:ADJECTIVE-F,P,ABS:	חשוב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ראשית	:ADVERB:	ראשית	O	O
+,	:PUNCUATION:	,	O	O
+levido	:FOREIGN:	levido	O	O
+reticularis	:FOREIGN:	reticularis	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+לא	:NEGATION:	לא	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+תאור	:NOUN-M,S,CONST:	תיאור	B-NP	Description-C0678257
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+למצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+שנית	:ADVERB:	שנית	O	scarlet fever-C0036285
+,	:PUNCUATION:	,	O	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+שנבדקה	REL-SUBCONJ:VERB-F,S,3,PAST:	נבדק	O	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+לא	:NEGATION:	לא	O	O
+ברורה	:ADJECTIVE-F,S,ABS:	ברור	O	O
+.	:PUNCUATION:	.	O	O
+

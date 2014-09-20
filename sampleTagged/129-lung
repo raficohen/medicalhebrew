@@ -1,0 +1,87 @@
+אתי	:AT_PREP:PRONOMIAL-MF,S,1	את	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+,	:PUNCUATION:	,	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+מצבים	:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+ממקור	PREPOSITION:NOUN-M,S,ABS:	מקור	O	Source-C0449416
+שאינו	REL-SUBCONJ:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לרופאים	PREPOSITION+DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+מוחלט	:ADJECTIVE-M,S,ABS:	מוחלט	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+,	:PUNCUATION:	,	O	O
+לאור	:PREPOSITION:	לאור	B-NP	O
+העובדה	DEF:NOUN-F,S,ABS:	עובדה	I-NP	Evidence-C0332120
+כי	:CONJUNCTION:	כי	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	I-NP	O
+(	:PUNCUATION:	(	O	O
+למעט	:PREPOSITION:	למעט	O	O
+קליטה	:NOUN-F,S,ABS:	קליטה	B-NP	absorption-C0000854
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+בצלע	PREPOSITION:NOUN-F,S,CONST:	צלע	B-NP	ribs-C0035561
+6	:NUMERAL:	###NUMBER###	I-NP	O
+)	:PUNCUATION:	)	O	O
+מקור	:NOUN-M,S,CONST:	מקור	B-NP	Source-C0449416
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+אינו	:VERB-MF,P,3,PAST:	אינה	O	O
+ממחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+מסכנת	PREPOSITION:NOUN-F,S,CONST:	סכנה	B-NP	danger-C1428845
+חיים	:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+.	:PUNCUATION:	.	O	O
+
+במרבית	PREPOSITION:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+המצבים	DEF:NOUN-M,P,ABS:	מצב	I-NP	Condition-C0348080
+האלה	DEF:PRONOUN-MF,P,3:	אלה	I-NP	O
+,	:PUNCUATION:	,	O	O
+מקור	:NOUN-M,S,CONST:	מקור	B-NP	Source-C0449416
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+שלדי	:NOUN-M,P,CONST:	שלד	B-NP	skeleton-C0037253
+-	:PUNCUATION:	-	I-NP	O
+כלומר	:CONJUNCTION:	כלומר	I-NP	O
+ממערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+העצמות	DEF:NOUN-F,P,ABS:	עצם	I-NP	bone-C0262950
+-	:PUNCUATION:	-	I-NP	O
+שרירים	:NOUN-M,P,ABS:	שריר	I-NP	muscle-C0026845
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+וקשור	CONJ:ADJECTIVE-M,S,ABS:	קשור	O	O
+עם	:PREPOSITION:	עם	O	O
+חבלה	:NOUN-F,S,ABS:	חבלה	B-NP	trauma-C0043251
+קהה	:ADJECTIVE-F,S,ABS:	קהה	I-NP	O
+אשר	:CONJUNCTION:	אשר	O	O
+לא	:NEGATION:	לא	O	O
+ייחסת	:VERB-F,S,2,PAST:	ייחס	O	O
+לה	:PREPOSITION:PRONOMIAL-F,S,3	ל	B-NP	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	B-NP	importance-C1705104
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+תרופות	:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+משככות	:VERB-F,P,A,BEINONI:	שיכך	O	O
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+הנחיית	:NOUN-F,S,CONST:	הנחיה	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION+DEF:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

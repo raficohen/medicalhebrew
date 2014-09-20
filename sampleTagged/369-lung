@@ -1,0 +1,30 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+לאור	:PREPOSITION:	לאור	B-NP	O
+הרקע	DEF:NOUN-M,S,ABS:	רקע	I-NP	background-C1706907
+האונקולוגי	DEF:ADJECTIVE-M,S,ABS:	האונקולוגי	I-NP	O
+הקודם	DEF:ADJECTIVE-M,S,ABS:	קודם	I-NP	O
+ומשך	CONJ:NOUN-M,S,CONST:	משך	O	Duration-C0449238
+התלונות	DEF:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+הממושך	DEF:ADJECTIVE-M,S,ABS:	ממושך	I-NP	O
+שהייתי	REL-SUBCONJ:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להיוועץ	:VERB-TOINFINITIVE:	נועץ	O	O
+במקביל	:ADVERB:	במקביל	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+גם	:CONJUNCTION:	גם	O	O
+באונקולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	האונקולוג	B-NP	O
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+לאחר	:PREPOSITION:	לאחר	O	O
+ביצוע	:NOUN-M,S,CONST:	ביצוע	B-NP	O
+צילום	:NOUN-M,S,CONST:	צילום	I-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+ושליחה	CONJ:NOUN-F,S,ABS:	שליחה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כיחים	:NOUN-F,P,ABS:	כיחים	I-NP	O
+לתרבית	PREPOSITION:NOUN-F,S,ABS:	תרבית	B-NP	culture-C0010453
+וציטולוגיה	CONJ:NOUN-F,S,ABS:	ציטולוגיה	B-NP	cytology-C0010818
+

@@ -1,0 +1,26 @@
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	B-NP	O
+נוולבין	:PROPERNAME:	נוולבין	I-NP	O
+לא	:NEGATION:	לא	O	O
+גורמת	:VERB-F,S,A,BEINONI:	גרם	O	O
+להקאות	PREPOSITION:NOUN-F,P,ABS:	הקאה	B-NP	vomiting-C0042963
+כדאי	:MODAL:	כדאי	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+תובפ	:NOUN-M,S,ABS:POSSESIVE-F,S,3	תוב	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בסטריאודים	:PREPOSITION:	בסטריאודים	O	O
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	O	O
+והבחיתילות	:VERB-M,S,2,FUTURE:	והבחיתילות	O	O
+קשורת	:ADJECTIVE-F,S,CONST:	קשור	O	O
+לממצאים	PREPOSITION:NOUN-M,P,ABS:	ממצא	O	Finding-C0243095
+מוחיים	:ADJECTIVE-M,P,ABS:	מוחי	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+כדאי	:ADVERB:	כדאי	O	O
+סטראידים	:NOUN-M,S,CONST:	סטראידים	B-NP	O
+MRI	:FOREIGN:	MRI	I-NP	O
+בהקדם	:ADVERB:	בהקדם	I-NP	O
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

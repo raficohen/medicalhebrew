@@ -1,0 +1,44 @@
+ענינתי	:VERB-MF,S,1,PAST:	ענינתי	B-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+בנוגע	:ADVERB:	בנוגע	O	O
+למדיניות	PREPOSITION:NOUN-F,S,ABS:	מדיניות	B-NP	O
+מקובלת	:ADJECTIVE-F,S,ABS:	מקובל	I-NP	O
+במחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מרכז	:NOUN-M,S,ABS:	מרכז	B-NP	center-C0205099
+מיוחד	:ADJECTIVE-M,S,ABS:	מיוחד	I-NP	O
+למחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+ITP	:FOREIGN:	ITP	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+במרכזים	PREPOSITION+DEF:NOUN-M,P,ABS:	מרכז	B-NP	center-C0205099
+השונים	DEF:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+להנחיות	PREPOSITION+DEF:NOUN-F,P,ABS:	הנחיה	B-NP	O
+הידועות	DEF:ADJECTIVE-F,P,ABS:	ידוע	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כאשר	:CONJUNCTION:	כאשר	O	O
+מס	:NOUN-M,S,ABS:	מס	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+התרומבוציטים	:ADVERB:	התרומבוציטים	O	O
+מתחת	:PREPOSITION:	מתחת	O	O
+ל	:PREPOSITION:	ל	O	O
+30000	:NUMERAL:	###NUMBER###	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+ספונטני	:ADJECTIVE-M,S,ABS:	ספונטני	I-NP	spontaneous-C0205359
+ורצוי	CONJ:MODAL-M,S,A:	רצוי	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+תחת	:PREPOSITION:	תחת	O	O
+השגחה	:NOUN-F,S,ABS:	השגחה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

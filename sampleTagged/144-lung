@@ -1,0 +1,56 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+המקרה	DEF:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+.	:PUNCUATION:	.	O	O
+
+תרומת	:NOUN-F,S,CONST:	תרומה	B-NP	contribution-C1880177
+אונה	:NOUN-F,S,ABS:	אונה	I-NP	lobe-C0796494
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+בינוני	:ADJECTIVE-M,S,ABS:	בינוני	I-NP	O
+בגודלו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	גודל	B-NP	size-C0456389
+אבל	:CONJUNCTION:	אבל	O	O
+לא	:NEGATION:	לא	O	O
+ללא	:PREPOSITION:	ללא	O	O
+סיבוכים	:NOUN-M,P,ABS:	סיבוך	B-NP	complication-C0009566
+.	:PUNCUATION:	.	O	O
+
+לאנשים	PREPOSITION:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+בריאים	:ADJECTIVE-M,P,ABS:	בריא	I-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+.	:PUNCUATION:	.	O	O
+
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לשבת	:VERB-TOINFINITIVE:	ישב	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+המנתחים	DEF:NOUN-M,P,ABS:	מנתח	I-NP	surgeon-C0582175
+המכירים	DEF:PARTICIPLE-M,P,A,ABS:	הכיר	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ומניח	CONJ:VERB-M,S,A,BEINONI:	הניח	O	O
+שיוכלו	REL-SUBCONJ:MODAL-MF,P,3,FUTURE:	יכול	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+עבורך	:PREPOSITION:PRONOMIAL-M,S,2	עבור	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+הניתוחי	DEF:ADJECTIVE-M,S,ABS:	ניתוחי	I-NP	O
+וההשפעות	CONJ+DEF:NOUN-F,P,ABS:	השפעה	I-NP	O
+לטווח	PREPOSITION:NOUN-M,S,ABS:	טווח	B-NP	long-term-C0443252
+רחוק	:ADJECTIVE-M,S,ABS:	רחוק	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

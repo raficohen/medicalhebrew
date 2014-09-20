@@ -1,0 +1,22 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לאבחנה	PREPOSITION:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+סיטי	:NOUN-F,S,ABS:	סיטי	I-NP	O
+מעלה	:ADVERB:	מעלה	I-NP	Upward-C1282911
+ממצאים	:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+ואבחנה	CONJ:NOUN-F,S,ABS:	אבחנה	I-NP	diagnosis-C0011900
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+דגימה	:NOUN-F,S,ABS:	דגימה	B-NP	Random Sampling-C0150105
+של	:SHEL_PREP:	של	I-NP	O
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	B-NP	lung-C0024109
+

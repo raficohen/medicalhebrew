@@ -1,0 +1,20 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+לשינוים	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,P,3	שינוי	B-NP	difference-C1705241
+במספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+ה	DEF::	ה	I-NP	O
+PLT	:FOREIGN:	PLT	I-NP	O
+בנוגע	:ADVERB:	בנוגע	I-NP	O
+לבדיקותלפני	:VERB-F,S,2,FUTURE:	לבדיקותלפני	O	O
+גלולה	:NOUN-F,S,ABS:	גלולה	B-NP	pills-C0994475
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+שיחליט	REL-SUBCONJ:VERB-M,S,3,FUTURE:	החליט	O	O
+על	:PREPOSITION:	על	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

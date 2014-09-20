@@ -1,0 +1,30 @@
+קשה	:ADVERB:	קשה	O	O
+לייעץ	:VERB-TOINFINITIVE:	ייעץ	O	O
+בצורה	PREPOSITION+DEF:NOUN-F,S,ABS:	צורה	B-NP	O
+הזו	DEF:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בנויה	:ADJECTIVE-F,S,ABS:	בנוי	I-NP	O
+ממספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+מרכיבים	:NOUN-M,P,ABS:	מרכיב	I-NP	component-C0449432
+ובעיקר	CONJ:ADVERB:	בעיקר	O	O
+מצבו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מצב	B-NP	Condition-C0348080
+הכללי	DEF:ADJECTIVE-M,S,ABS:	כללי	I-NP	O
+והתפקודי	CONJ+DEF:ADJECTIVE-M,S,ABS:	תפקודי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+החולה	:PROPERNAME:	החולה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בעיקרון	PREPOSITION+DEF:NOUN-M,S,ABS:	עיקרון	B-NP	O
+אם	:CONJUNCTION:	אם	O	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+מתקדמת	:ADJECTIVE-F,S,ABS:	מתקדם	O	O
+תחת	:PREPOSITION:	תחת	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מסוים	:ADJECTIVE-M,S,ABS:	מסוים	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להחליפו	:VERB-TOINFINITIVE:ACC-NOM-M,S,3	החליף	O	O
+

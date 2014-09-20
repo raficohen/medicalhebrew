@@ -1,0 +1,37 @@
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+ביותר	:ADVERB:	ביותר	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+מאיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+מוצא	:NOUN-M,S,CONST:	מוצא	I-NP	origin-C0439659
+בעלך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	בעל	I-NP	husband-C0242664
+והאם	CONJ:INTERROGATIVE:	האם	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+נשא	:NOUN-M,S,ABS:	נשא	B-NP	carrier-C0560175
+של	:SHEL_PREP:	של	I-NP	O
+תלסמיה	:NOUN-F,S,ABS:	תלסמיה	I-NP	thalassemia-C0039730
+אשר	:CONJUNCTION:	אשר	O	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+העובר	DEF:NOUN-M,S,ABS:	עובר	I-NP	fetus-C0015965
+.	:PUNCUATION:	.	O	O
+
+הספירות	DEF:NOUN-F,P,ABS:	ספירה	B-NP	count-C0750480
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+לחלוטין	:ADVERB:	לחלוטין	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+כדור	:NOUN-M,S,ABS:	כדור	I-NP	Pills-C0994475
+ביום	PREPOSITION:NOUN-M,S,ABS:	יום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+לא	:NEGATION:	לא	O	O
+קיבל	:VERB-M,S,3,PAST:	קיבל	O	O
+את	:AT_PREP:	את	B-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+משני	PREPOSITION:NOUN-M,S,CONST:	שני	B-NP	second-C0205436-ambigous
+הוריו	:NOUN-M,P,ABS:POSSESIVE-M,S,3	הורה	I-NP	parents-C0030551
+

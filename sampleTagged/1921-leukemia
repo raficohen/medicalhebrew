@@ -1,0 +1,39 @@
+כוכי	:NOUN-M,P,CONST:	כוך	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בד"כ	:ADVERB:	בד"כ	O	O
+ברמה	PREPOSITION:NOUN-F,S,ABS:	רמה	B-NP	O
+כזאת	PREPOSITION:PRONOUN-F,S,3:	זאת	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פקטור	:NOUN-M,S,ABS:	פקטור	I-NP	O
+7	:NUMERAL:	###NUMBER###	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+הרמה	DEF:NOUN-F,S,ABS:	רמה	B-NP	O
+הנמוכה	DEF:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פקטור	:NOUN-M,S,ABS:	פקטור	I-NP	O
+7	:NUMERAL:	###NUMBER###	I-NP	O
+מחייבת	:VERB-F,S,A,BEINONI:	חייב	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

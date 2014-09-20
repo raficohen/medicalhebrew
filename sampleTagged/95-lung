@@ -1,0 +1,88 @@
+משה	:PROPERNAME:	משה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+כפי	:CONJUNCTION:	כפי	O	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+יותר	:ADVERB:	יותר	B-NP	O
+מאפשרות	PREPOSITION:NOUN-F,S,CONST:	אפשרות	I-NP	Ability-C0085732-ambigous
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+ולכל	PREPOSITION+CONJ:QUANTIFIER-CONST:	ל	O	O
+אפשרות	:NOUN-F,S,ABS:	אפשרות	O	Ability-C0085732-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+יתרונות	:NOUN-M,P,ABS:	יתרון	B-NP	advantage-C0681074
+וחסרונות	CONJ:NOUN-M,P,ABS:	חסרון	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לדעתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	דעה	B-NP	O
+,	:PUNCUATION:	,	O	O
+בטרם	:CONJUNCTION:	בטרם	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+החלטה	:NOUN-F,S,ABS:	החלטה	I-NP	decision-C0679006
+כבדה	:ADJECTIVE-F,S,ABS:	כבד	I-NP	liver-C0023884
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+כך	:PRONOUN:	כך	I-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+המיקום	DEF:NOUN-M,S,ABS:	מיקום	I-NP	location-C0450429
+של	:SHEL_PREP:	של	I-NP	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+ועל	CONJ:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+מיקומו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מיקום	I-NP	location-C0450429
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+נרחבות	:ADJECTIVE-F,P,ABS:	נרחב	I-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הבדל	:NOUN-M,S,ABS:	הבדל	B-NP	difference-C1705241
+מהותי	:ADJECTIVE-M,S,ABS:	מהותי	I-NP	O
+בין	:PREPOSITION:	בין	O	O
+כריתת	:NOUN-F,S,CONST:	כריתה	B-NP	amputation-C0002688
+אונה	:NOUN-F,S,ABS:	אונה	I-NP	lobe-C0796494
+לבין	:PREPOSITION:	לבין	O	O
+כריתת	:NOUN-F,S,CONST:	כריתה	B-NP	amputation-C0002688
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+הימנית	DEF:ADJECTIVE-F,S,ABS:	ימני	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהתחשב	:VERB-TOINFINITIVE:	התחשב	O	O
+בגודל	PREPOSITION:NOUN-M,S,CONST:	גודל	B-NP	size-C0456389
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+הצפוי	DEF:ADJECTIVE-M,S,ABS:	צפוי	I-NP	O
+,	:PUNCUATION:	,	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+יותר	:ADVERB:	יותר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המנתח	DEF:PARTICIPLE-M,S,A,ABS:	ניתח	O	O
+ולברר	CONJ:VERB-TOINFINITIVE:	בירר	O	O
+נושא	:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+,	:PUNCUATION:	,	O	O
+בטרם	:CONJUNCTION:	בטרם	O	O
+שתקבל	REL-SUBCONJ:VERB-F,S,3,FUTURE:	קיבל	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+סופית	:ADJECTIVE-F,S,ABS:	סופי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION+DEF:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

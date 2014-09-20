@@ -1,0 +1,25 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+חשיפה	:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+כה	:ADVERB:	כה	I-NP	O
+קצרה	:ADJECTIVE-F,S,ABS:	קצר	I-NP	O
+מהסוג	PREPOSITION+DEF:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מתאר	:VERB-M,S,A,BEINONI:	תיאר	O	O
+לא	:NEGATION:	לא	O	O
+תגרום	:VERB-F,S,3,FUTURE:	גרם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+נזק	:NOUN-M,S,ABS:	נזק	I-NP	damage-C1883709
+לבריאותך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	בריאות	B-NP	health-C0018684
+.	:PUNCUATION:	.	O	O
+
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+חיים	:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+בריאים	:ADJECTIVE-M,P,ABS:	בריא	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

@@ -1,0 +1,35 @@
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+רבים	:ADJECTIVE-M,P,ABS:	רב	I-NP	O
+מסתבר	:VERB-M,S,A,BEINONI:	הסתבר	O	O
+כי	:CONJUNCTION:	כי	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בגידול	PREPOSITION:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+אבל	:CONJUNCTION:	אבל	O	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+להפגש	:VERB-TOINFINITIVE:	נפגש	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+פנואמונולו	:PROPERNAME:	פנואמונולו	I-NP	O
+לההילחליט	:VERB-M,S,2,FUTURE:	לההילחליט	O	O
+על	:PREPOSITION:	על	O	O
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+חשובה	:ADJECTIVE-F,S,ABS:	חשוב	O	O
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	B-NP	need-C0027552
+החלטה	:NOUN-F,S,ABS:	החלטה	I-NP	decision-C0679006
+למשל	:CONJUNCTION:	למשל	O	O
+על	:PREPOSITION:	על	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+CT	:FOREIGN:	CT	O	O
+להפגש	:VERB-TOINFINITIVE:	נפגש	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+-	:PUNCUATION:	-	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+ראות	:NOUN-F,S,ABS:	ראות	I-NP	O
+בנושא	PREPOSITION:NOUN-M,S,CONST:	נושא	B-NP	Subject-C1706203
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

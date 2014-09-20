@@ -1,0 +1,64 @@
+בעיקרון	PREPOSITION:NOUN-M,S,CONST:	עיקרון	B-NP	O
+הסרת	:NOUN-F,S,CONST:	הסרה	I-NP	removal-C0015252
+שיער	:NOUN-M,S,ABS:	שיער	I-NP	Hair-c0018494
+בלייזר	PREPOSITION:PROPERNAME:	לייזר	B-NP	O
+לא	:NEGATION:	לא	O	O
+פוגעת	:VERB-F,S,A,BEINONI:	פגע	O	O
+בכלי	PREPOSITION:NOUN-M,S,CONST:	כלי	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+את	:AT_PREP:	את	B-NP	O
+מטופלת	:VERB-F,S,A,BEINONI:	טופל	I-NP	O
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+?	:PUNCUATION:	?	O	O
+
+סבלת	:VERB-F,S,2,PAST:	סבל	O	suffering-C0683278
+מטרומבוזות	PREPOSITION:NOUN-M,P,ABS:	טרומבוזות	B-NP	O
+בעבר	PREPOSITION+DEF:NOUN-M,S,ABS:	עבר	B-NP	past-C1444637
+?	:PUNCUATION:	?	O	O
+
+.	:PUNCUATION:	.	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המבצעים	DEF:NOUN-M,P,ABS:	מבצע	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+כדי	:CONJUNCTION:	כדי	O	O
+שהם	REL-SUBCONJ:PRONOUN-M,P,3:	הוא	B-NP	O
+יבררו	:VERB-MF,P,3,FUTURE:	ברר	O	O
+עם	:PREPOSITION:	עם	O	O
+היצרן	DEF:NOUN-M,S,ABS:	יצרן	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המכשיר	DEF:NOUN-M,S,ABS:	מכשיר	I-NP	Instrument - device-C0348000
+מה	:INTERROGATIVE:	מה	B-NP	O
+הן	:PRONOUN-F,P,3:	הוא	B-NP	O
+המגבלות	DEF:NOUN-F,P,ABS:	מגבלה	B-NP	Limitation-C0449295
+של	:SHEL_PREP:	של	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+?	:PUNCUATION:	?	O	O
+
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+התופעות	DEF:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	B-NP	Effect-C1280500
+אפשריות	:ADJECTIVE-F,P,ABS:	אפשרי	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+אולי	:ADVERB:	אולי	O	O
+תתיעצי	:VERB-F,S,2,FUTURE:	התייעץ	O	O
+גם	:CONJUNCTION:	גם	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+?	:PUNCUATION:	?	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

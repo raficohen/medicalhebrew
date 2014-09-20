@@ -1,0 +1,30 @@
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+רק	:CONJUNCTION:	רק	B-NP	O
+חלק	:NOUN-M,S,ABS:	חלק	I-NP	part-C0449719
+של	:SHEL_PREP:	של	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+וקשה	CONJ:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+הפרמטרים	DEF:NOUN-M,P,ABS:	פרמטר	B-NP	parameter-C0549193
+הנמוכים	DEF:ADJECTIVE-M,P,ABS:	נמוך	I-NP	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשורים	:ADJECTIVE-M,P,ABS:	קשור	O	O
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+או	:CONJUNCTION:	או	O	O
+לטלסמיה	PREPOSITION:NOUN-F,P,ABS:	טלסמיות	B-NP	O
+מינור	:NOUN-M,S,ABS:	מינור	B-NP	minor-C0026193
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ולחזור	CONJ:VERB-TOINFINITIVE:	חזר	O	O
+גם	:CONJUNCTION:	גם	O	O
+על	:PREPOSITION:	על	O	O
+PT	:FOREIGN:	PT	B-NP	specialistAcronym-E0635674-pt
+ו	:CONJUNCTION:	ו	O	O
+PTT	:FOREIGN:	PTT	O	O
+

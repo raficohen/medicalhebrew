@@ -1,0 +1,64 @@
+גידי	:PROPERNAME:	גידי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+באפשרותינו	:VERB-MF,P,1,PAST:	באפשרותינו	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+לפני	:PREPOSITION:	לפני	O	O
+ואחרי	CONJ:PREPOSITION:	אחרי	O	O
+הטיפולים	DEF:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+,	:PUNCUATION:	,	O	O
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+מהו	:INTERROGATIVE:PRONOMIAL-M,S,3	מה	B-NP	O
+דרוג	:ADJECTIVE-M,S,ABS:	דרוג	O	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+לפני	:PREPOSITION:	לפני	O	O
+שמייעצים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	ייעץ	B-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+ברצונך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	רצון	B-NP	desire-C0871633
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+למה	PREPOSITION:INTERROGATIVE:	מה	O	O
+שנאמר	REL-SUBCONJ:VERB-M,S,3,PAST:	נאמר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+אנה	:PROPERNAME:	אנה	B-NP	O
+פנה	:VERB-M,S,3,PAST:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+אונקולוג	:PROPERNAME:	אונקולוג	I-NP	O
+,	:PUNCUATION:	,	O	O
+מנתח	:VERB-M,S,A,BEINONI:	ניתח	O	O
+חזה	:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

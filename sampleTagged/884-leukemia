@@ -1,0 +1,36 @@
+כפי	:CONJUNCTION:	כפי	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+רואה	:NOUN-M,S,CONST:	רואה	I-NP	O
+ה	DEF::	ה	I-NP	O
+PTT	:FOREIGN:	PTT	I-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+דורשות	:VERB-F,P,A,BEINONI:	דרש	O	O
+ביקורת	:NOUN-F,S,ABS:	ביקורת	B-NP	Criticism-C0870379
+כדי	:CONJUNCTION:	כדי	O	O
+להחליט	:VERB-TOINFINITIVE:	החליט	O	O
+אם	:CONJUNCTION:	אם	O	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בנוגדן	PREPOSITION:NOUN-M,S,ABS:	נוגדן	B-NP	antibody-C0003241
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לדאגה	PREPOSITION:NOUN-F,S,ABS:	דאגה	B-NP	concern-C2699424
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחקות	:VERB-TOINFINITIVE:	חיקה	O	O
+בסבלנות	PREPOSITION:NOUN-F,S,ABS:	סבלנות	B-NP	patience-C0516943
+לתור	PREPOSITION:NOUN-M,S,ABS:	תור	B-NP	turn-C1709743
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+להמטולוג	:PROPERNAME:	להמטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

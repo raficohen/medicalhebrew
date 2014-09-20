@@ -1,0 +1,21 @@
+אומנם	:ADVERB:	אומנם	O	O
+לא	:NEGATION:	לא	O	O
+רשמת	:NOUN-F,S,CONST:	רשם	B-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	I-NP	values-C0042295
+נורמלים	:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+,	:PUNCUATION:	,	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהבדיקות	REL-SUBCONJ+DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+בסדר	:ADVERB:	בסדר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+אותן	:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+לסיכום	PREPOSITION:NOUN-M,S,ABS:	סיכום	B-NP	O
+

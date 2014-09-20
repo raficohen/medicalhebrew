@@ -1,0 +1,121 @@
+רינת	:PROPERNAME:	רינת	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+מקווה	:VERB-M,S,A,BEINONI:	קיווה	O	O
+שתחלימי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	החלים	O	O
+הייטב	:PROPERNAME:	הייטב	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+קשה	:ADVERB:	קשה	O	O
+להתייחס	:VERB-TOINFINITIVE:	התייחס	O	O
+הרבה	:ADVERB:	הרבה	O	O
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הצילומים	DEF:NOUN-M,P,ABS:	צילום	I-NP	O
+אשר	:VERB-M,S,3,PAST:	אישר	O	O
+בעטיין	:PREPOSITION:PRONOMIAL-F,P,3	בעטי	B-NP	O
+בוצע	:VERB-M,S,3,PAST:	בוצע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+ככלל	PREPOSITION:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+-	:PUNCUATION:	-	O	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+השונות	DEF:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+צריכות	:ADJECTIVE-F,P,ABS:	צריך	O	O
+להבדיל	:VERB-TOINFINITIVE:	הבדיל	O	O
+בין	:PREPOSITION:	בין	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+בצלע	PREPOSITION:NOUN-F,S,ABS:	צלע	B-NP	ribs-C0035561
+לבין	:PREPOSITION:	לבין	O	O
+תהליך	:NOUN-M,S,CONST:	תהליך	B-NP	process-C1184743
+ריפוי	:NOUN-M,S,ABS:	ריפוי	I-NP	healing-C0043240
+של	:SHEL_PREP:	של	I-NP	O
+שבר	:NOUN-M,S,ABS:	שבר	I-NP	fracture-C0016658
+(	:PUNCUATION:	(	O	O
+callus	:FOREIGN:	callus	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+עצם	:NOUN-F,S,ABS:	עצם	B-NP	bone-C0262950
+חדשה	:ADJECTIVE-F,S,ABS:	חדש	I-NP	O
+שנוצרת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	נצר	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+השבר	DEF:NOUN-M,S,ABS:	שבר	B-NP	fracture-C0016658
+ולעיתים	CONJ:ADVERB:	לעתים	O	O
+הדבר	DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+גורם	:VERB-M,S,A,BEINONI:	גרם	O	O
+לבלט	PREPOSITION:PROPERNAME:	בלט	B-NP	O
+במקום	PREPOSITION:NOUN-M,S,CONST:	מקום	O	place-C0442504
+השבר	DEF:NOUN-M,S,ABS:	שבר	B-NP	fracture-C0016658
+שבטעות	PREPOSITION+REL-SUBCONJ:NOUN-F,S,ABS:	ב	B-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לחשוב	:VERB-TOINFINITIVE:	חשב	O	O
+שזהו	REL-SUBCONJ:PRONOUN-M,S,3:	זהו	B-NP	O
+גידול	:NOUN-M,S,ABS:	גידול	O	tumor-C0027651
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+הצלעות	DEF:NOUN-F,P,ABS:	צלע	I-NP	ribs-C0035561
+שנכרתות	REL-SUBCONJ:VERB-F,P,A,BEINONI:	נכרת	O	O
+מעידות	:NOUN-F,P,ABS:	מעידה	B-NP	O
+על	:PREPOSITION:	על	O	O
+גודל	:NOUN-M,S,CONST:	גודל	B-NP	size-C0456389
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+יש	:NOUN-M,S,CONST:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+גודל	:NOUN-M,S,CONST:	גודל	B-NP	size-C0456389
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+ומיקומו	CONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	מיקום	I-NP	location-C0450429
+לבין	:PREPOSITION:	לבין	O	O
+עוצמת	:NOUN-F,S,CONST:	עוצמה	B-NP	Power-C0031205
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+.	:PUNCUATION:	.	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+לומר	:VERB-TOINFINITIVE:	אמר	O	O
+האם	:INTERROGATIVE:	האם	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+הבדל	:NOUN-M,S,ABS:	הבדל	B-NP	difference-C1705241
+בין	:PREPOSITION:	בין	O	O
+צלע	:NOUN-F,S,ABS:	צלע	B-NP	ribs-C0035561
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+לשתיים	PREPOSITION:NUMERAL-F,S,ABS:	CARD2	O	O
+.	:PUNCUATION:	.	O	O
+
+ככלל	PREPOSITION:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+-	:PUNCUATION:	-	O	O
+ניתוחים	:NOUN-M,P,ABS:	ניתוח	B-NP	surgery-C0038894
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+הינם	:COPULA-MF,P,3,BEINONI,POSITIVE:	הוא	O	O
+כואבים	:VERB-M,P,A,BEINONI:	כאב	O	pain-C0030193
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לדרוש	:VERB-TOINFINITIVE:	דרש	O	O
+משככי	:PARTICIPLE-M,P,A,CONST:	שיכך	B-NP	O
+כאבים	:NOUN-M,P,ABS:	כאב	I-NP	pain-C0030193
+בהתאם	:ADVERB:	בהתאם	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+תהליך	:NOUN-M,S,CONST:	תהליך	B-NP	process-C1184743
+ההחלמה	DEF:NOUN-F,S,ABS:	החלמה	I-NP	recovery-C0237820
+יימשך	:VERB-M,S,3,FUTURE:	נמשך	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+עוזי	:PROPERNAME:	עוזי	B-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

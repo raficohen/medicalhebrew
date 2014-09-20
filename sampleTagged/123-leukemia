@@ -1,0 +1,30 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+וקושר	CONJ:VERB-M,S,A,BEINONI:	קשר	O	connection-C0449379
+קשירת	:NOUN-F,S,CONST:	קשירה	B-NP	ligation-C0023690
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+(	:PUNCUATION:	(	I-NP	O
+SIBC	:FOREIGN:	SIBC	I-NP	O
+ׂ	:PUNCUATION:	ׂ	I-NP	O
+)	:PUNCUATION:	)	O	O
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	O	O
+וה	:NOUN-M,S,ABS:	וה	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+FERRITIN	:FOREIGN:	FERRITIN	I-NP	O
+הנמוך	DEF:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+ביטוי	:NOUN-M,S,ABS:	ביטוי	B-NP	expression-C0017262
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+איל	:PROPERNAME:	איל	B-NP	reindeer-C0035005
+לממצא	PREPOSITION+DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+ללוקמיה	:ADJECTIVE-M,S,ABS:	ללוקמיה	O	O
+

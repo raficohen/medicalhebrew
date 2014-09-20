@@ -1,0 +1,24 @@
+עניתי	:VERB-MF,S,1,PAST:	ענה	B-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	O	O
+אותו	:QUANTIFIER-CONST:	אותו	B-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+שיקבע	REL-SUBCONJ:VERB-M,S,3,FUTURE:	קבע	O	O
+הנכונות	DEF:NOUN-F,S,ABS:	נכונות	B-NP	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנתיים	:ADVERB:	בנתיים	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לדאגה	PREPOSITION:NOUN-F,S,ABS:	דאגה	B-NP	concern-C2699424
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

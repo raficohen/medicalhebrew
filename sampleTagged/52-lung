@@ -1,0 +1,122 @@
+שירי	:PROPERNAME:	שיר	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בניתוח	PREPOSITION+DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+הכוונה	DEF:NOUN-F,S,ABS:	כוונה	B-NP	intentions-C0162425
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+להכניס	:VERB-TOINFINITIVE:	הכניס	O	O
+טלק	:NOUN-M,S,ABS:	טלק	B-NP	O
+(	:PUNCUATION:	(	I-NP	O
+מהול	:ADJECTIVE-M,S,ABS:	מהול	I-NP	O
+בנוזל	PREPOSITION:NOUN-M,S,ABS:	נוזל	B-NP	liquid-C0302908
+צלול	:ADJECTIVE-M,S,ABS:	צלול	I-NP	O
+או	:CONJUNCTION:	או	O	O
+כאבקה	PREPOSITION:NOUN-F,S,ABS:	אבקה	B-NP	O
+)	:PUNCUATION:	)	O	O
+לתוך	:PREPOSITION:	לתוך	O	O
+החלל	DEF:NOUN-M,S,ABS:	חלל	B-NP	space-C1883067
+סביב	:PREPOSITION:	סביב	O	O
+לריאה	PREPOSITION:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+בו	:PREPOSITION:PRONOMIAL-M,S,3	ב	B-NP	O
+מצטברים	:VERB-M,P,A,BEINONI:	הצטבר	O	O
+הנוזלים	DEF:NOUN-M,P,ABS:	נוזל	B-NP	liquid-C0302908
+.	:PUNCUATION:	.	O	O
+
+הטלק	DEF:NOUN-M,S,ABS:	טלק	B-NP	O
+גורם	:VERB-M,S,A,BEINONI:	גרם	O	O
+לתגובה	PREPOSITION:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+דלקתית	:ADJECTIVE-F,S,ABS:	דלקתי	I-NP	O
+בתוך	:PREPOSITION:	בתוך	O	O
+החלל	DEF:NOUN-M,S,ABS:	חלל	B-NP	space-C1883067
+ויצירת	CONJ:NOUN-F,S,CONST:	יצירה	B-NP	creation-C0441513
+הדבקויות	DEF:NOUN-F,S,ABS:	הדבקויות	I-NP	O
+בין	:PREPOSITION:	בין	O	O
+קרום	:NOUN-M,S,CONST:	קרום	B-NP	membrane-C0025255
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+לדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	O	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+למנוע	:VERB-TOINFINITIVE:	מנע	O	O
+הצטברות	:NOUN-F,S,CONST:	הצטברות	B-NP	Hoarding-C0424337
+הנוזל	DEF:NOUN-M,S,ABS:	נוזל	I-NP	liquid-C0302908
+בחלל	PREPOSITION:NOUN-M,S,CONST:	חלל	B-NP	space-C1883067
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+והקושי	CONJ+DEF:NOUN-M,S,ABS:	קושי	B-NP	O
+הנשימתי	DEF:ADJECTIVE-M,S,ABS:	הנשימתי	I-NP	O
+המתלווה	DEF:PARTICIPLE-M,S,A,ABS:	התלווה	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפעולה	DEF:NOUN-F,S,ABS:	פעולה	B-NP	action-C0441472
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מתאימה	:VERB-F,S,A,BEINONI:	התאים	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+חולה	:ADJECTIVE-M,S,ABS:	חולה	O	O
+,	:PUNCUATION:	,	O	O
+וחייבים	CONJ:MODAL-M,P,A:	חייב	O	O
+להתקיים	:VERB-TOINFINITIVE:	התקיים	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+תנאים	:NOUN-M,P,ABS:	תנא	I-NP	O
+שיאפרו	REL-SUBCONJ:VERB-MF,P,3,FUTURE:	איפר	O	O
+את	:AT_PREP:	את	B-NP	O
+סיכויי	:NOUN-M,P,CONST:	סיכוי	I-NP	chance-C0237506
+ההצלחה	DEF:NOUN-F,S,ABS:	הצלחה	I-NP	success-C0597535
+של	:SHEL_PREP:	של	I-NP	O
+פעולה	:NOUN-F,S,ABS:	פעולה	I-NP	action-C0441472
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+תופעות	:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+הלוואי	DEF:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+רבות	:ADJECTIVE-F,P,ABS:	רב	O	O
+וכוללות	CONJ:VERB-F,P,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+או	:CONJUNCTION:	או	O	O
+חום	:NOUN-M,S,ABS:	חום	B-NP	heat-C0018837
+שחולף	REL-SUBCONJ:VERB-M,S,A,BEINONI:	חלף	O	O
+.	:PUNCUATION:	.	O	O
+
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בפעולה	PREPOSITION:NOUN-F,S,ABS:	פעולה	B-NP	action-C0441472
+שמטרתה	REL-SUBCONJ:NOUN-F,S,ABS:POSSESIVE-F,S,3	מטרה	B-NP	goal-C0018017
+להקל	:VERB-TOINFINITIVE:	הקל	O	O
+על	:PREPOSITION:	על	O	O
+הקושי	DEF:NOUN-M,S,ABS:	קושי	B-NP	O
+הנשימתי	DEF:ADJECTIVE-M,S,ABS:	הנשימתי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+ואינה	CONJ:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+אמורה	:MODAL-F,S,A:	אמור	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+במחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+הגידולית	DEF:ADJECTIVE-F,S,ABS:	הגידולית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+כמובן	:ADVERB:	כמובן	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+המטפלים	DEF:PARTICIPLE-M,P,A,ABS:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

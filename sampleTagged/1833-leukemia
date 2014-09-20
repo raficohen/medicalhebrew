@@ -1,0 +1,34 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אחיך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	אח	B-NP	Brothers-C0337527-ambigous
+סובל	:VERB-M,S,A,BEINONI:	סבל	O	suffering-C0683278
+מאנמיה	PREPOSITION:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	O	O
+על	:PREPOSITION:	על	O	O
+רקע	:NOUN-M,S,CONST:	רקע	B-NP	background-C1706907
+אשפוזים	:NOUN-M,P,ABS:	אשפוז	I-NP	hospitalization-c0019993
+וטיפולים	CONJ:NOUN-M,P,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+שעבר	REL-SUBCONJ:VERB-M,S,3,PAST:	עבר	O	past-C1444637
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להפנותו	:VERB-TOINFINITIVE:ACC-NOM-M,S,3	הפנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לצורך	PREPOSITION:NOUN-M,S,ABS:	צורך	O	need-C0027552
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+האנמיה	DEF:NOUN-F,S,ABS:	האנמיה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

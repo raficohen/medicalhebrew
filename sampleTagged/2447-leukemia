@@ -1,0 +1,61 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+נעה	:PROPERNAME:	נעה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פריטין	:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+חלבון	:NOUN-M,S,ABS:	חלבון	B-NP	protein-C0033684
+שעולה	REL-SUBCONJ:VERB-M,S,A,BEINONI:	עלה	O	O
+בקלות	PREPOSITION:NOUN-F,S,ABS:	קלות	O	Easy-C0332219
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+דלקתי	:ADJECTIVE-M,S,ABS:	דלקתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+,	:PUNCUATION:	,	O	O
+קרוב	:NOUN-M,S,ABS:	קרוב	O	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לרמתו	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-M,S,3	רמה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מלמד	:VERB-M,S,A,BEINONI:	לימד	O	O
+במצב	PREPOSITION:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+על	:PREPOSITION:	על	O	O
+מאגרי	:NOUN-M,P,CONST:	מאגר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+חלבון בשתן	:TERM:	חלבון בשתן	O	proteinuria-C0033687
+בהחלט	:ADVERB:	בהחלט	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+מרכיב	:NOUN-M,S,ABS:	מרכיב	B-NP	component-C0449432
+של	:SHEL_PREP:	של	I-NP	O
+פגיעה	:NOUN-F,S,ABS:	פגיעה	I-NP	O
+כליתית	:PROPERNAME:	כליתית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+איסוף	:NOUN-M,S,CONST:	איסוף	B-NP	O
+שתן	:NOUN-M,S,ABS:	שתן	I-NP	urine-C0042036
+למשך	PREPOSITION:NOUN-M,S,CONST:	משך	O	Duration-C0449238
+יממה	:NOUN-F,S,ABS:	יממה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+למדוד	:VERB-TOINFINITIVE:	מדד	O	index-C0918012
+את	:AT_PREP:	את	B-NP	O
+הכמות	DEF:NOUN-F,S,ABS:	כמות	I-NP	amount-C1265611
+הכוללת	DEF:PARTICIPLE-F,S,A,ABS:	כלל	I-NP	Rule-C0870077-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+חלבון	:NOUN-M,S,ABS:	חלבון	I-NP	protein-C0033684
+שמופרש	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הופרש	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

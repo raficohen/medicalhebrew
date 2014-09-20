@@ -1,0 +1,22 @@
+ניסינו	:VERB-MF,P,1,PAST:	ניסה	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+חדשני	:ADJECTIVE-M,S,ABS:	חדשני	I-NP	O
+ע"י	:PREPOSITION:	ע"י	O	O
+שימוש	:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+במשאבה	PREPOSITION:NOUN-F,S,ABS:	משאבה	B-NP	O
+על	:PREPOSITION:	על	O	O
+בסיס	:NOUN-M,S,ABS:	בסיס	B-NP	basis-C1527178
+יומי	:ADJECTIVE-M,S,ABS:	יומי	I-NP	O
+ולאחר	CONJ:PREPOSITION:	לאחר	O	O
+תקופה	:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הרמה	DEF:NOUN-F,S,ABS:	רמה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+המשאבה	DEF:NOUN-F,S,ABS:	משאבה	I-NP	O
+מיוצרת	:VERB-F,S,A,BEINONI:	יוצר	O	O
+בחול	PREPOSITION:NOUN-M,S,ABS:	חול	B-NP	O
+ועולה	CONJ:VERB-M,S,A,BEINONI:	עלה	O	O
+כאלף	PREPOSITION:NUMERAL-M,P,ABS:	ORD-CARD1000	B-NP	O
+יורו	:VERB-MF,P,3,FUTURE:	הורה	O	parents-C0030551
+

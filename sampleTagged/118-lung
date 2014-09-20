@@ -1,0 +1,76 @@
+עאסי	:PREPOSITION:	עאסי	O	O
+שלום	:NOUN-M,S,CONST:	שלום	B-NP	O
+עלית	:NOUN-F,S,CONST:	עלייה	I-NP	O
+הסמנים	DEF:NOUN-M,P,ABS:	סמן	I-NP	Markers-C2745888
+רומזת	:VERB-F,S,A,BEINONI:	רמז	O	O
+שיתכן	REL-SUBCONJ:MODAL:	ייתכן	O	O
+שהטיפול	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+לא	:NEGATION:	לא	O	O
+עוזר	:VERB-M,S,A,BEINONI:	עזר	O	O
+אםכי	:VERB-F,S,2,IMPERATIVE:	אםכי	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בתחילת	PREPOSITION:NOUN-F,S,CONST:	תחילה	B-NP	first-C0205435
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+עלית	:NOUN-F,S,CONST:	עלייה	B-NP	O
+סמנים	:NOUN-M,P,ABS:	סמן	I-NP	Markers-C2745888
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+סיטי	:NOUN-F,S,CONST:	סיטי	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+סרטן	:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+לבלב	:NOUN-M,S,ABS:	לבלב	I-NP	pancreas-C0030274
+למרות	:CONJUNCTION:	למרות	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+גרורות	:NOUN-F,P,ABS:	גרורה	B-NP	metastasis-C0027627
+ראתיות	:ADJECTIVE-F,P,CONST:	ראתיות	I-NP	O
+לכן	:CONJUNCTION:	לכן	I-NP	O
+עדיף	:ADJECTIVE-M,S,ABS:	עדיף	I-NP	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+לסרטני	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-MF,S,1	סרטן	B-NP	malignancy-C0006826
+מעי	:NOUN-M,S,ABS:	מעי	I-NP	intestine-C0021853
+ולבלב	CONJ:NOUN-M,S,ABS:	לבלב	I-NP	pancreas-C0030274
+ישנם	:EXISTENTIAL-POSITIVE:PRONOMIAL-M,P,3	יש	B-NP	O
+מומחים	:NOUN-M,P,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+כאלו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	אל	B-NP	deity-C0681169-ambigous
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+מבתי	PREPOSITION:NOUN-M,P,CONST:	בית	I-NP	house-C2003847
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+הגדולים	DEF:ADJECTIVE-M,P,ABS:	גדול	I-NP	O
+בגדול	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	גדול	B-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להחליט	:VERB-TOINFINITIVE:	החליט	O	O
+אם	:CONJUNCTION:	אם	O	O
+הולכים	:VERB-M,P,A,BEINONI:	הלך	O	O
+לעוד	PREPOSITION:NOUN-M,S,CONST:	עוד	O	More-C0205172
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+אין	:NEGATION:	אין	I-NP	O
+טפולים	:ADJECTIVE-M,P,ABS:	טפול	I-NP	O
+מוכחים	:VERB-M,P,A,BEINONI:	הוכח	O	O
+היטב	:ADVERB:	היטב	O	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+אפשר	:ADVERB:	אפשר	O	O
+עדין	:ADJECTIVE-M,S,ABS:	עדין	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+(	:PUNCUATION:	(	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+יחד	:ADVERB:	יחד	O	O
+עמכם	:NOUN-M,S,ABS:POSSESIVE-M,P,2	עם	B-NP	O
+)	:PUNCUATION:	)	O	O
+נסיון	:NOUN-M,S,ABS:	ניסיון	B-NP	Experience-C0596545-ambigous
+טיפולי	:ADJECTIVE-M,S,ABS:	טיפולי	I-NP	O
+בתרופה	PREPOSITION:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+כמו	:PREPOSITION:	כמו	O	O
+מיטומיצין	:NOUN-M,S,ABS:	מיטומיצין	B-NP	mitomycin-C0002475
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

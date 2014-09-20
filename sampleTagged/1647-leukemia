@@ -1,0 +1,33 @@
+אחותך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אח	B-NP	Brothers-C0337527-ambigous
+סובלת	:VERB-F,S,A,BEINONI:	סבל	O	suffering-C0683278
+מ	:PREPOSITION:	מ	O	O
+דרגה	:NOUN-F,S,ABS:	דרגה	B-NP	rank-C0699794
+A	:FOREIGN:	A	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מחלת	:NOUN-F,S,CONST:	מחלה	I-NP	disease-C0012634
+CLL	:FOREIGN:	CLL	O	O
+שדורש	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דרש	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+בלבד	:ADVERB:	בלבד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בקרוב	:ADVERB:	בקרוב	O	O
+יפתח	:VERB-M,S,3,FUTURE:	פתח	O	Opening-C1882151
+אתר	:NOUN-M,S,CONST:	אתר	B-NP	 Ether-C0014994-ambigous
+אינטרנט	:NOUN-M,S,ABS:	אינטרנט	I-NP	internet-C0282111
+של	:SHEL_PREP:	של	I-NP	O
+עמותה	:NOUN-F,S,ABS:	עמותה	I-NP	O
+ישראלית	:ADJECTIVE-F,S,ABS:	ישראלי	I-NP	O
+ל	:PREPOSITION:	ל	O	O
+CLL	:FOREIGN:	CLL	O	O
+ותוכלו	CONJ:MODAL-M,P,2,FUTURE:	יכול	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+על	:PREPOSITION:	על	O	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

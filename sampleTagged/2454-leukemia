@@ -1,0 +1,31 @@
+שלום	:NOUN-M,S,CONST:	שלום	B-NP	O
+גל	:PROPERNAME:	גל	I-NP	wave-C0678544
+.	:PUNCUATION:	.	O	O
+
+אחת	:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+לתפקוד	PREPOSITION:NOUN-M,S,CONST:	תפקוד	B-NP	Function-C0542341
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+PT	:FOREIGN:	PT	I-NP	specialistAcronym-E0635674-pt
+אשר	:CONJUNCTION:	אשר	O	O
+נמדדת	:VERB-F,S,A,BEINONI:	נמדד	O	O
+בערכי	PREPOSITION:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+INR	:FOREIGN:	INR	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ערך	:NOUN-M,S,CONST:	ערך	B-NP	values-C0042295
+INR	:FOREIGN:	INR	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+1.0	:NUMERAL:	###NUMBER###	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+נורמלי	:ADJECTIVE-M,S,ABS:	נורמלי	O	O
+לחלוטין	:ADVERB:	לחלוטין	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+בניתוח	PREPOSITION+DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+

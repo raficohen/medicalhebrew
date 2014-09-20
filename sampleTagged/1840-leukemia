@@ -1,0 +1,26 @@
+לא	:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+
+אספירין	:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+לא	:NEGATION:	לא	O	O
+ישפיע	:VERB-M,S,3,FUTURE:	השפיע	O	O
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+על	:PREPOSITION:	על	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+להוסיף	:VERB-TOINFINITIVE:	הוסיף	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

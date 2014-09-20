@@ -1,0 +1,28 @@
+מצטער	:VERB-M,S,A,BEINONI:	הצטער	O	O
+פורום	:NOUN-M,S,ABS:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+מוסר	:VERB-M,S,A,BEINONI:	מסר	O	O
+שמות	:NOUN-M,P,ABS:	שם	B-NP	Name-C0027365-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+מומחים	:NOUN-M,P,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+של	:SHEL_PREP:	של	I-NP	O
+מכון	:NOUN-M,S,CONST:	מיכון	I-NP	Industrial machine-C0337076
+המטולוגי	DEF:NOUN-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+במרכז	PREPOSITION:NOUN-M,S,ABS:	מרכז	B-NP	center-C0205099
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+ותוכלי	CONJ:MODAL-F,S,2,FUTURE:	יכול	O	O
+לקבל	PREPOSITION:NOUN-M,S,CONST:	קבל	B-NP	O
+ההמלצות	DEF:NOUN-F,P,ABS:	המלצה	I-NP	recommendation-C0034866
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

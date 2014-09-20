@@ -1,0 +1,44 @@
+לא	:NEGATION:	לא	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+במחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+גנטית	:ADJECTIVE-F,S,ABS:	גנטי	I-NP	genetic-C0314603
+.	:PUNCUATION:	.	O	O
+
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+קשה	:ADJECTIVE-M,S,ABS:	קשה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פ.ו	:NOUN-M,S,ABS:POSSESIVE-F,S,3	פ.	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+עם	:PREPOSITION:	עם	O	O
+תופעות	:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+תרובוטיות	:ADJECTIVE-F,P,CONST:	תרובוטיות	I-NP	O
+שבדרך	PREPOSITION+REL-SUBCONJ:NOUN-F,S,CONST:	ב	I-NP	O
+כלל	:NOUN-M,S,ABS:	כלל	I-NP	Rule-C0870077-ambigous
+נמנעות	:VERB-F,P,A,BEINONI:	נמנע	I-NP	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+אספירין	:NOUN-M,S,ABS:	אספירין	I-NP	aspirin-C0004057
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופאי	PREPOSITION:NOUN-M,P,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+,	:PUNCUATION:	,	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+,	:PUNCUATION:	,	O	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+שעוקבים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עקב	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+לשאלותך	PREPOSITION:NOUN-F,P,ABS:POSSESIVE-M,S,3	שאלות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

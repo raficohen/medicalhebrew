@@ -1,0 +1,30 @@
+אפשר	:MODAL:	אפשר	O	O
+לשתות	:VERB-TOINFINITIVE:	שתה	O	O
+מים	:NOUN-M,P,ABS:	מים	B-NP	water-C0043047
+לפני	:PREPOSITION:	לפני	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	O	O
+ויטמין	:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+ב	PREPOSITION::		O	O
+12	:NUMERAL:	###NUMBER###	O	O
+אפשר	:MODAL:	אפשר	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+טבלית	:NOUN-F,S,CONST:	טבלית	B-NP	tablets-C0039225
+ויטמין	:NOUN-M,S,ABS:	ויטמין	I-NP	vitamin-C0042890
+ב	PREPOSITION::		B-NP	O
+12	:NUMERAL:	###NUMBER###	I-NP	O
+מיקרוגר')תת	PREPOSITION:ADJECTIVE-M,S,CONST:	יקרוגר')תת	O	O
+1000	:NUMERAL:	###NUMBER###	B-NP	O
+לשוני	:ADJECTIVE-M,S,ABS:	לשוני	O	O
+פעם	:ADVERB:	פעם	O	once-C1948045
+בשבוע	PREPOSITION+DEF:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

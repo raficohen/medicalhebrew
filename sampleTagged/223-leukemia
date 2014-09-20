@@ -1,0 +1,21 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ניסיוני	:ADJECTIVE-M,S,ABS:	ניסיוני	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+ישראלי	:ADJECTIVE-M,S,ABS:	ישראלי	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+ל	:PREPOSITION:	ל	I-NP	O
+מיאלומה	:NOUN-F,S,ABS:	מיאלומה	I-NP	myeloma-C0026764
+אלא	:CONJUNCTION:	אלא	O	O
+ישראל	:PROPERNAME:	ישראל	B-NP	O
+משתתפת	:VERB-F,S,A,BEINONI:	השתתף	O	O
+לפרוטוקולים	PREPOSITION+DEF:NOUN-M,P,ABS:	פרוטוקול	B-NP	O
+בן	:PROPERNAME:	בן	I-NP	Son (person)-C0037683-ambigous
+לאומיים	:ADJECTIVE-M,P,ABS:	לאומי	I-NP	O
+שבטח	REL-SUBCONJ:ADVERB:	בטח	O	O
+נמצאים	:VERB-M,P,A,BEINONI:	נמצא	O	O
+במרכז	PREPOSITION+DEF:NOUN-M,S,ABS:	מרכז	B-NP	center-C0205099
+של	:SHEL_PREP:	של	I-NP	O
+קרובתך	:NOUN-M,P,ABS:POSSESIVE-M,P,3	קרוב	I-NP	Near-C1706276
+.	:PUNCUATION:	.	O	O
+

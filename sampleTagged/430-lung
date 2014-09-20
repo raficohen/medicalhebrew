@@ -1,0 +1,90 @@
+מאיר	:PROPERNAME:	מאיר	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+ראשית	:ADVERB:	ראשית	O	O
+די	:ADVERB:	די	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מאופי	PREPOSITION:NOUN-M,P,CONST:	אופה	B-NP	O
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+והבדיקות	CONJ+DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שעברת	REL-SUBCONJ:VERB-M,S,3,PAST:	עברת	O	O
+שמקור	REL-SUBCONJ:NOUN-M,S,CONST:	מקור	B-NP	Source-C0449416
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+אינו	:VERB-MF,P,3,PAST:	אינה	O	O
+בלב	PREPOSITION:NOUN-M,S,ABS:	לב	B-NP	heart-C0018787
+,	:PUNCUATION:	,	O	O
+אלא	:CONJUNCTION:	אלא	O	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+-	:PUNCUATION:	-	I-NP	O
+רקמות	:NOUN-F,P,ABS:	רקמה	I-NP	tissue-C0040300
+רכות	:ADJECTIVE-F,P,ABS:	רך	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+צלעות	:NOUN-F,P,ABS:	צלע	I-NP	ribs-C0035561
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	O	O
+שחסר	REL-SUBCONJ:VERB-M,S,3,PAST:	חסר	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+בפרטים	PREPOSITION:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+שמסרת	REL-SUBCONJ:VERB-F,S,2,PAST:	מסר	O	O
+אלו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	אל	B-NP	deity-C0681169-ambigous
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+הדמיה	:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+:	:PUNCUATION:	:	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+,	:PUNCUATION:	,	O	O
+CT	:FOREIGN:	CT	O	O
+של	:SHEL_PREP:	של	O	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+,	:PUNCUATION:	,	O	O
+מיפוי עצמות	:TERM:	מיפוי עצמות	O	bone scan-C0203668
+.	:PUNCUATION:	.	O	O
+
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אם	:CONJUNCTION:	אם	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+איזה	:QUANTIFIER-CONST:	איזה	B-NP	O
+פתולוגיה	:NOUN-F,S,ABS:	פתולוגיה	I-NP	pathology-C0030664
+בצלעות	PREPOSITION:NOUN-F,P,ABS:	צלע	B-NP	ribs-C0035561
+כמו	:PREPOSITION:	כמו	O	O
+שבר	:NOUN-M,S,ABS:	שבר	B-NP	fracture-C0016658
+ישן	:ADJECTIVE-M,S,ABS:	ישן	I-NP	O
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+ביטויים	:NOUN-M,P,ABS:	ביטוי	B-NP	expression-C0017262
+דומים	:ADJECTIVE-M,P,ABS:	דומה	I-NP	O
+למה	PREPOSITION:INTERROGATIVE:	מה	O	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מוסר	:VERB-M,S,A,BEINONI:	מסר	O	O
+ובוודאי	CONJ:ADVERB:	בוודאי	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+פתולוגיה	:NOUN-F,S,ABS:	פתולוגיה	B-NP	pathology-C0030664
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	O	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וביצעת	CONJ:VERB-F,S,2,PAST:	ביצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אלו	:PRONOUN-MF,P,3:	אלו	B-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+שמי	REL-SUBCONJ:INTERROGATIVE:	מי	B-NP	O
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+כירוג	:ADVERB:	כירוג	O	O
+חזה	:NOUN-M,S,ABS:	חזה	O	chest-C0817096
+במקום	:PREPOSITION:	במקום	O	O
+מגוריך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	מגורים	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+תודה	:INTERJECTION:	תודה	O	O
+

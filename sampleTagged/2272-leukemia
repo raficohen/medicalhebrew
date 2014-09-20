@@ -1,0 +1,29 @@
+כדי	:CONJUNCTION:	כדי	O	O
+שההמוגלובין	REL-SUBCONJ:PROPERNAME:	ההמוגלובין	B-NP	O
+ירד	:VERB-M,S,3,PAST:	ירד	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בריקון	PREPOSITION:PROPERNAME:	ריקון	B-NP	O
+מאגרי	:NOUN-M,P,CONST:	מאגר	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+כנראה	:ADVERB:	כנראה	O	O
+שהמאגרים	REL-SUBCONJ+DEF:NOUN-M,P,ABS:	מאגר	B-NP	O
+עדיין	:ADVERB:	עדיין	O	O
+לא	:NEGATION:	לא	O	O
+רקים	:VERB-M,P,A,BEINONI:	רקים	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בתכשיר	PREPOSITION:NOUN-M,S,ABS:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+6	:NUMERAL:	###NUMBER###	B-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+לפחות	:ADVERB:	לפחות	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,26 @@
+אנטי	:PREFIX:	אנטי	O	O
+קרדיוליפין	:NOUN-M,P,ABS:	קרדיוליפינים	B-NP	O
+במיוחד	:ADVERB:	במיוחד	I-NP	O
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	I-NP	kind-C0332307
+IgM	:FOREIGN:	IgM	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קמצ	:VERB-M,S,2,IMPERATIVE:	קמץ	O	O
+מוגבר	:ADJECTIVE-M,S,ABS:	מוגבר	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+לא	:NEGATION:	לא	I-NP	O
+ספציפי	:ADJECTIVE-M,S,ABS:	ספציפי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+,	:PUNCUATION:	,	O	O
+לכשלעצמה	PREPOSITION+TEMP-SUBCONJ:NOUN-F,S,ABS:	ל	O	O
+,	:PUNCUATION:	,	O	O
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+מוסיפה	:VERB-F,S,A,BEINONI:	הוסיף	O	O
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+.	:PUNCUATION:	.	O	O
+

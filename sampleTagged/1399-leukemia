@@ -1,0 +1,25 @@
+התשובות	DEF:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+לא	:NEGATION:	לא	O	O
+ברורות	:ADJECTIVE-F,P,ABS:	ברור	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+אם	:CONJUNCTION:	אם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+נכון	:ADVERB:	נכון	O	O
+שה	:NOUN-M,S,ABS:	שה	O	O
+PTT	:FOREIGN:	PTT	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+44	:NUMERAL:	###NUMBER###	B-NP	O
+שנייות	REL-SUBCONJ:NOUN-F,S,ABS:	נייות	O	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הקופה	DEF:NOUN-F,S,ABS:	קוף	I-NP	Monkeys-C0026447
+בהתאם	:ADVERB:	בהתאם	O	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

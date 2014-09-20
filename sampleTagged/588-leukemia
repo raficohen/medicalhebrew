@@ -1,0 +1,21 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בחיסון	PREPOSITION:NOUN-M,S,ABS:	חיסון	O	vaccine-C0042210
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	O	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לבעית	PREPOSITION:NOUN-F,S,CONST:	בעיה	B-NP	problem-C0033213
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+של	:SHEL_PREP:	של	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+ילדים	:NOUN-M,P,ABS:	ילד	I-NP	children-C0008059
+לצורך	PREPOSITION:NOUN-M,S,ABS:	צורך	O	need-C0027552
+בנוגדי	PREPOSITION:PARTICIPLE-M,P,A,CONST:	נגד	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+

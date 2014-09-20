@@ -1,0 +1,30 @@
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+עברו	:VERB-MF,P,3,PAST:	עבר	O	past-C1444637
+מאז	:ADVERB:	מאז	O	O
+הכריתת	DEF:NOUN-F,S,ABS:	הכריתת	B-NP	O
+טחול	:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+ומערכת	CONJ:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+החיסון	DEF:NOUN-M,S,ABS:	חיסון	I-NP	vaccine-C0042210
+התארגנה	:VERB-F,S,3,PAST:	התארגן	O	O
+מחדש	:ADVERB:	מחדש	O	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לשפעת	PREPOSITION:NOUN-F,S,CONST:	שפעה	B-NP	O
+החזירים	DEF:NOUN-M,P,ABS:	חזיר	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+חיסון	:NOUN-M,S,ABS:	חיסון	B-NP	vaccine-C0042210
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+אמצעי	:NOUN-M,P,CONST:	אמצע	B-NP	Middle-C0444598
+זהירות	:NOUN-F,S,ABS:	זהירות	I-NP	O
+רגילים	:ADJECTIVE-M,P,ABS:	רגיל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+נקווה	:VERB-M,S,A,BEINONI:	נקווה	O	O
+לטוב	PREPOSITION:ADJECTIVE-M,S,ABS:	טוב	O	good-C0205170
+!	:PUNCUATION:	!	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

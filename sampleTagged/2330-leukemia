@@ -1,0 +1,36 @@
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+של	:SHEL_PREP:	של	I-NP	O
+הלימפוציטים	DEF:NOUN-F,S,ABS:	הלימפוציטים	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+בעל	:VERB-M,S,3,PAST:	בעל	O	husband-C0242664
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+מעשית	:ADJECTIVE-F,S,ABS:	מעשי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+לפי	:PREPOSITION:	לפי	O	O
+התלונות	DEF:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הן	:CONJUNCTION:	הן	B-NP	O
+רק	:CONJUNCTION:	רק	O	O
+כלי	:NOUN-M,S,CONST:	כלי	B-NP	O
+עזר	:PROPERNAME:	עזר	I-NP	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

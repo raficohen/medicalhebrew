@@ -1,0 +1,45 @@
+שוני	:NOUN-M,S,ABS:	שוני	O	O
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+
+קשרית	:NOUN-F,S,ABS:	קשר	B-NP	connection-C0449379
+ריאתית	:ADJECTIVE-F,S,ABS:	ריאתית	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+מצויה	:ADJECTIVE-F,S,ABS:	מצוי	I-NP	O
+ברקמת	PREPOSITION:NOUN-F,S,CONST:	רקמה	B-NP	tissue-C0040300
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+קשרית	:NOUN-F,S,ABS:	קשר	B-NP	connection-C0449379
+פלאורלית	:ADJECTIVE-F,S,ABS:	פלאורלית	I-NP	O
+-	:PUNCUATION:	-	O	O
+בקרום	PREPOSITION:NOUN-M,S,CONST:	קרום	B-NP	membrane-C0025255
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+או	:CONJUNCTION:	או	O	O
+בקרבתו	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-M,S,3	קרבה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפלאורה	DEF:NOUN-F,S,ABS:	הפלאורה	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+קרום	:NOUN-M,S,ABS:	קרום	B-NP	membrane-C0025255
+העוטף	DEF:PARTICIPLE-M,S,A,ABS:	עטף	O	O
+את	:AT_PREP:	את	B-NP	O
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+בהיקפה	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	היקף	B-NP	scope-C1710028
+.	:PUNCUATION:	.	O	O
+
+לפיכך	:CONJUNCTION:	לפיכך	O	O
+,	:PUNCUATION:	,	O	O
+קשרית	:NOUN-F,S,ABS:	קשר	B-NP	connection-C0449379
+פלאורלית	:ADJECTIVE-F,S,ABS:	פלאורלית	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+נמצאת	:VERB-F,S,A,BEINONI:	נמצא	I-NP	O
+בהיקף	PREPOSITION:NOUN-M,S,CONST:	היקף	B-NP	scope-C1710028
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+מקווה	:VERB-M,S,A,BEINONI:	קיווה	O	O
+שעזר	REL-SUBCONJ:PROPERNAME:	עזר	B-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

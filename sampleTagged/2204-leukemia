@@ -1,0 +1,64 @@
+בהמשך	PREPOSITION:NOUN-M,S,ABS:	המשך	B-NP	continued-C0549178
+למה	PREPOSITION:INTERROGATIVE:	מה	O	O
+שעניתי	REL-SUBCONJ:VERB-MF,S,1,PAST:	ענה	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+:	:PUNCUATION:	:	O	O
+רפואה	:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+נכונה	:ADJECTIVE-F,S,ABS:	נכון	I-NP	O
+נעשית	:VERB-F,S,A,BEINONI:	נעשה	O	O
+בשיקול	PREPOSITION:NOUN-M,S,CONST:	שיקול	B-NP	CONSIDERATION-C0518609
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+לאחר	:CONJUNCTION:	לאחר	O	O
+שבוחנים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	בחן	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+המרכיבים	DEF:NOUN-M,P,ABS:	מרכיב	I-NP	component-C0449432
+של	:SHEL_PREP:	של	I-NP	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לפעמים	:ADVERB:	לפעמים	O	O
+בעיות	:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+פשוטות	:ADJECTIVE-F,P,ABS:	פשוט	I-NP	O
+שניתן	REL-SUBCONJ:MODAL-M,S,A:	ניתן	O	O
+לפתור	:VERB-TOINFINITIVE:	פתר	O	O
+בטלפון	PREPOSITION:NOUN-M,S,ABS:	טלפון	B-NP	O
+או	:CONJUNCTION:	או	O	O
+בפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בעיות	:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+לשבת	:VERB-TOINFINITIVE:	ישב	O	O
+מול	:PREPOSITION:	מול	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+אתן	:VERB-MF,S,1,FUTURE:	נתן	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+בפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+רציני	:ADJECTIVE-M,S,ABS:	רציני	O	O
+!	:PUNCUATION:	!	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

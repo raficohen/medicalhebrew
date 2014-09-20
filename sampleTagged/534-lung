@@ -1,0 +1,55 @@
+הסירי	:VERB-F,S,2,IMPERATIVE:	הסיר	O	O
+דאגה	:NOUN-F,S,ABS:	דאגה	B-NP	concern-C2699424
+מליבך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	לב	B-NP	heart-C0018787
+.	:PUNCUATION:	.	O	O
+
+כפתור	:NOUN-M,S,ABS:	כפתור	B-NP	O
+פולמונלי	:PROPERNAME:	פולמונלי	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+תיאור	:NOUN-M,S,ABS:	תיאור	B-NP	Description-C0678257
+אנטומי	:ADJECTIVE-M,S,ABS:	אנטומי	I-NP	anatomy-C0002808
+של	:SHEL_PREP:	של	I-NP	O
+עורק	:NOUN-M,S,CONST:	עורק	I-NP	artery-C0003842
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+בגוף	PREPOSITION:NOUN-M,S,CONST:	גוף	B-NP	body-C0460148
+האדם	DEF:NOUN-M,S,ABS:	אדם	I-NP	human-C0086418
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+איברים	:NOUN-M,P,ABS:	איבר	B-NP	organ-C0029236
+ואיזורים	CONJ:NOUN-M,P,ABS:	איזור	B-NP	O
+אנטומים	:ADJECTIVE-M,P,ABS:	אנטומים	I-NP	O
+שקיבלו	REL-SUBCONJ:VERB-MF,P,3,PAST:	קיבל	O	O
+שמות	:NOUN-M,P,ABS:	שם	B-NP	Name-C0027365-ambigous
+ציוריים	:ADJECTIVE-M,P,ABS:	ציורי	I-NP	O
+מאד	:ADVERB:	מאוד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כגון	:PREPOSITION:	כגון	O	O
+האוכף	DEF:NOUN-M,S,ABS:	אוכף	B-NP	O
+התורכי	DEF:ADJECTIVE-M,S,ABS:	תורכי	I-NP	O
+,	:PUNCUATION:	,	O	O
+המבוך	DEF:NOUN-M,S,ABS:	מבוך	B-NP	O
+,	:PUNCUATION:	,	O	O
+חצוצרות	:NOUN-F,P,ABS:	חצוצרה	B-NP	fallopian tube-C0015556
+וכן	CONJ:CONJUNCTION:	כן	O	O
+הלאה	:ADVERB:	הלאה	O	O
+.	:PUNCUATION:	.	O	O
+
+עצם	:NOUN-M,S,CONST:	עצם	B-NP	bone-C0262950
+השמות	DEF:NOUN-M,P,ABS:	שם	I-NP	Name-C0027365-ambigous
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+מעידים	:VERB-M,P,A,BEINONI:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+קיום	:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+מחלה	:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+הראי	DEF:NOUN-M,S,ABS:	ראי	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+צילום	:NOUN-M,S,CONST:	צילום	I-NP	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

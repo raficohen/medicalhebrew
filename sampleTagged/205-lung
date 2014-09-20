@@ -1,0 +1,50 @@
+נאוה	:PROPERNAME:	נאוה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הבנתי	:VERB-MF,S,1,PAST:	הבין	O	O
+נכון	:ADVERB:	נכון	O	O
+כוונתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	כוונה	B-NP	intentions-C0162425
+ל	:PREPOSITION:	ל	O	O
+MRI	:FOREIGN:	MRI	O	O
+.	:PUNCUATION:	.	O	O
+
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+הדמיה	:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+בטכניקה	PREPOSITION:NOUN-F,S,ABS:	טכניקה	B-NP	O
+שונה	:ADJECTIVE-F,S,ABS:	שונה	I-NP	O
+מזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+ה	DEF::	ה	I-NP	O
+CT	:FOREIGN:	CT	I-NP	O
+ובאמצעותה	CONJ:PREPOSITION:PRONOMIAL-F,S,3	באמצעות	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+מיידע	:VERB-M,S,A,BEINONI:	יידע	O	O
+הדמייתי	:ADJECTIVE-M,S,ABS:	הדמייתי	O	O
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+במצעים	PREPOSITION+DEF:NOUN-M,P,ABS:	מצע	B-NP	medium-C0009458
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+להבחין	:VERB-TOINFINITIVE:	הבחין	O	O
+בין	:PREPOSITION:	בין	O	O
+תהליכים	:NOUN-M,P,ABS:	תהליך	B-NP	process-C1184743
+ממאירים	:ADJECTIVE-M,P,ABS:	ממאיר	I-NP	malignant-C0205282
+לבין	:PREPOSITION:	לבין	I-NP	O
+שפירים	:ADJECTIVE-M,P,ABS:	שפיר	I-NP	benign-C0205183
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

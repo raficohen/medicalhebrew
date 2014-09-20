@@ -1,0 +1,25 @@
+כן	:ADVERB:	כן	O	O
+.	:PUNCUATION:	.	O	O
+
+פרט	:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+לאנמיה	PREPOSITION:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קשה	:ADJECTIVE-F,S,ABS:	קשה	I-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בתסיות	:PARTICIPLE-F,P,A,CONST:	בתסיות	I-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ואת	CONJ:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+למיון	PREPOSITION:NOUN-M,S,ABS:	מיון	O	Classification-C0008902
+פנימי	:ADJECTIVE-M,S,ABS:	פנימי	O	O
+או	:CONJUNCTION:	או	O	O
+למכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+הקרוב	DEF:ADJECTIVE-M,S,ABS:	קרוב	I-NP	Near-C1706276
+למגורך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	מגור	B-NP	O
+בהקדם	:ADVERB:	בהקדם	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

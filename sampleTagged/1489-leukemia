@@ -1,0 +1,29 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הס.ד	:NOUN-M,S,ABS:POSSESIVE-F,S,3	הס.	B-NP	O
+ולבדוק	CONJ:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+ערך	:NOUN-M,S,CONST:	ערך	I-NP	values-C0042295
+התסיות	DEF:ADJECTIVE-F,P,ABS:	התסיות	I-NP	O
+(	:PUNCUATION:	(	O	O
+PLT).לבדוק	:FOREIGN:	PLT).לבדוק	O	O
+גם	:CONJUNCTION:	גם	O	O
+PT	:FOREIGN:	PT	O	specialistAcronym-E0635674-pt
+ו	:CONJUNCTION:	ו	O	O
+PTT	:FOREIGN:	PTT	O	O
+דרך	:PREPOSITION:	דרך	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+הסטיות	DEF:NOUN-F,P,ABS:	סטייה	B-NP	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מוסרת	:VERB-F,S,A,BEINONI:	מסר	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+משמעותיות	:ADJECTIVE-F,P,ABS:	משמעותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

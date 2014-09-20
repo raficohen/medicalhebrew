@@ -1,0 +1,23 @@
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+בבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+במספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+דרכים	:NOUN-F,P,ABS:	דרך	I-NP	Through-C0332273-ambigous
+אתה	:PRONOUN-M,S,2:	הוא	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להעלות	PREPOSITION+DEF:NOUN-F,S,ABS:	עלות	B-NP	costs-C0010186
+תצונה	:PROPERNAME:	תצונה	I-NP	O
+לאתר	:VERB-TOINFINITIVE:	איתר	O	O
+או	:CONJUNCTION:	או	O	O
+לשלוח	:VERB-TOINFINITIVE:	שלח	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+של	:SHEL_PREP:	של	I-NP	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+,	:PUNCUATION:	,	O	O
+כמובן	:ADVERB:	כמובן	O	O
+ללא	:PREPOSITION:	ללא	O	O
+הפנים	DEF:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+ונכל	CONJ:PROPERNAME:	נכל	O	O
+להתקדם	:VERB-TOINFINITIVE:	התקדם	O	O
+

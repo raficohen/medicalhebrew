@@ -1,0 +1,41 @@
+לאחר	:CONJUNCTION:	לאחר	O	O
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+ישיותר	:VERB-M,S,A,BEINONI:	ישיותר	O	O
+נטיה	:NOUN-F,S,ABS:	נטייה	B-NP	O
+לזיהומים	PREPOSITION:NOUN-M,P,ABS:	זיהום	B-NP	infection-C0009450
+חיידקיים	:ADJECTIVE-M,P,ABS:	חיידקיים	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+וירליים	CONJ:NOUN-F,P,ABS:	ירליים	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אינך	:COPULA-M,S,2,BEINONI,NEGATIVE:	הוא	O	O
+מקבל	:VERB-M,S,A,BEINONI:	קיבל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+תרופתי	:ADJECTIVE-M,S,ABS:	תרופתי	I-NP	O
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+כי	:CONJUNCTION:	כי	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+קרש	:NOUN-M,S,ABS:	קרש	B-NP	O
+ל	PREPOSITION::		B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+התקררויות	:NOUN-F,P,ABS:	התקררות	I-NP	O
+"	:PUNCUATION:	"	O	O
+בחורף	PREPOSITION+DEF:NOUN-M,S,ABS:	חורף	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+עדיף	:ADJECTIVE-M,S,ABS:	עדיף	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+פנימי	:ADJECTIVE-M,S,ABS:	פנימי	I-NP	O
+ולפני	CONJ:PREPOSITION:	לפני	O	O
+בקשת	:NOUN-F,S,CONST:	בקשה	B-NP	O
+פטור	:NOUN-M,S,ABS:	פטור	I-NP	O
+משמירות	PREPOSITION:NOUN-F,P,ABS:	שמירה	I-NP	preserving-C0728887
+

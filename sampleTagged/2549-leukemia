@@ -1,0 +1,78 @@
+לו	:CONJUNCTION:	לו	O	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	B-NP	life-C0376558
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+פשוטים	:ADJECTIVE-M,P,ABS:	פשוט	O	O
+יותר	:ADVERB:	יותר	O	O
+היינו	:CONJUNCTION:	היינו	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+דרך	:PREPOSITION:	דרך	O	O
+האינטרנט	DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+פשוטים	:ADJECTIVE-M,P,ABS:	פשוט	O	O
+.	:PUNCUATION:	.	O	O
+
+פריטין	:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+גם	:CONJUNCTION:	גם	O	O
+בחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	O	iron-C0302583
+בגלל	:PREPOSITION:	בגלל	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+דלקת	:NOUN-F,S,ABS:	דלקת	I-NP	inflammation-C0021368
+.	:PUNCUATION:	.	O	O
+
+לעומת	:PREPOSITION:	לעומת	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+,	:PUNCUATION:	,	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+לא	:NEGATION:	לא	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+,	:PUNCUATION:	,	O	O
+אלא	:CONJUNCTION:	אלא	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+כרונית	PREPOSITION:PROPERNAME-F,S:	רונית	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבחון	:VERB-TOINFINITIVE:	בחן	O	O
+את	:AT_PREP:	את	B-NP	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+לפרטיו	PREPOSITION:NOUN-M,P,ABS:POSSESIVE-M,S,3	פרט	B-NP	details-C1522508-ambigous
+ולהחליט	CONJ:VERB-TOINFINITIVE:	החליט	O	O
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+יותר	:ADVERB:	יותר	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+מאשר	:VERB-M,S,A,BEINONI:	אישר	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+בתוספת	PREPOSITION:NOUN-F,S,CONST:	תוספת	B-NP	additional-C1524062
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+

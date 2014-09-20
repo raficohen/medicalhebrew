@@ -1,0 +1,75 @@
+מה	:INTERROGATIVE:	מה	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שקיבלת	REL-SUBCONJ:VERB-F,S,2,PAST:	קיבל	O	O
+להיסטיוציטוזיס	PREPOSITION:NOUN-M,S,ABS:	היסטיוציטוזיס	B-NP	histiocytoses-C0019618
+?	:PUNCUATION:	?	O	O
+
+סטרוידים	:ADJECTIVE-F,S,ABS:	סטרוידים	O	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+נעשתה	:VERB-F,S,3,PAST:	נעשה	O	O
+שוב	:ADVERB:	שוב	O	O
+ביופסיה	:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+של	:SHEL_PREP:	של	I-NP	O
+בלוטה	:NOUN-F,S,ABS:	בלוטה	I-NP	gland-C1285092
+מוגדלות	:ADJECTIVE-F,P,ABS:	מוגדל	I-NP	O
+בצואר	:PROPERNAME:	בצואר	I-NP	O
+אחרי	:PREPOSITION:	אחרי	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+ש	:CONJUNCTION:	ש	O	O
+'?	:NOUN-M,S,CONST:	'?	B-NP	O
+האם	DEF:NOUN-F,S,ABS:	אם	I-NP	Mother-C0026591-ambigous
+נעשתה	:VERB-F,S,3,PAST:	נעשה	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+?	:PUNCUATION:	?	O	O
+
+את	:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+בהמטולוגיה	PREPOSITION:NOUN-F,S,ABS:	המטולוגיה	B-NP	hematology-C0018943
+,	:PUNCUATION:	,	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לאבחנה	PREPOSITION:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+סופית	:ADJECTIVE-F,S,ABS:	סופי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+עדיין	:ADVERB:	עדיין	O	O
+היסטוציטוזיס	:PROPERNAME:	היסטוציטוזיס	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מכון	:NOUN-M,S,CONST:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:NOUN-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+בית	:NOUN-M,S,CONST:	בית	I-NP	house-C2003847
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+,	:PUNCUATION:	,	O	O
+את	:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+למכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+(	:PUNCUATION:	(	O	O
+או	:CONJUNCTION:	או	O	O
+מחלקה	:NOUN-F,S,ABS:	מחלקה	B-NP	O
+)	:PUNCUATION:	)	O	O
+של	:SHEL_PREP:	של	O	O
+הבית	DEF:NOUN-M,S,ABS:	בית	B-NP	house-C2003847
+חולים	:NOUN-M,S,ABS:POSSESIVE-M,P,3	חולי	B-NP	O
+הקרוב	DEF:ADJECTIVE-M,S,ABS:	קרוב	I-NP	Near-C1706276
+למקום	PREPOSITION:NOUN-M,S,CONST:	מקום	O	place-C0442504
+מגוריך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	מגורים	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+!	:PUNCUATION:	!	O	O
+
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	B-NP	O
+

@@ -1,0 +1,51 @@
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+במספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+מילים	:NOUN-F,P,ABS:	מילה	I-NP	circumcision-C0008819
+על	:PREPOSITION:	על	O	O
+מהלך	:NOUN-M,S,CONST:	מהלך	B-NP	move-C2699029
+מתמשך	:VERB-M,S,A,BEINONI:	התמשך	O	O
+בפולציטמיה	:ADJECTIVE-M,S,CONST:	בפולציטמיה	O	O
+ורה	CONJ:PROPERNAME:	רה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+שחשוב	REL-SUBCONJ:ADJECTIVE-M,S,ABS:	חשוב	O	O
+כרגע	:ADVERB:	כרגע	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+איזון	:NOUN-M,S,CONST:	איזון	B-NP	balance-C0014653
+ספירות	:NOUN-F,P,CONST:	ספירה	I-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ואם	CONJ:CONJUNCTION:	אם	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+במינון	PREPOSITION:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הידראה	:NOUN-F,S,ABS:	הידראה	I-NP	hydroxyurea-C0020402
+מביא	:VERB-M,S,A,BEINONI:	הביא	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+-	:PUNCUATION:	-	O	O
+אין	:NEGATION:	אין	O	O
+לצפות	:VERB-TOINFINITIVE:	צפה	O	O
+למשהו	PREPOSITION:NOUN-M,S,ABS:	משהו	B-NP	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	I-NP	good-C0205170
+יותר	:ADVERB:	יותר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בהידראה	PREPOSITION:NOUN-F,S,ABS:	הידראה	B-NP	hydroxyurea-C0020402
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להמשך	:VERB-TOINFINITIVE:	נמשך	O	O
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מגבלת	:NOUN-F,S,CONST:	מגבלה	B-NP	Limitation-C0449295
+זמן	:NOUN-M,S,ABS:	זמן	I-NP	O
+בתקווה	PREPOSITION:NOUN-F,S,ABS:	תקווה	B-NP	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+יהיו	:COPULA-MF,P,3,FUTURE,POSITIVE:	הוא	O	O
+תופעות	:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+.	:PUNCUATION:	.	O	O
+

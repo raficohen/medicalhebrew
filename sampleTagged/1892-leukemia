@@ -1,0 +1,38 @@
+ככל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	O	O
+את	:AT_PREP:	את	B-NP	O
+סובלת	:VERB-F,S,A,BEINONI:	סבל	I-NP	suffering-C0683278
+מאנמיה	:PROPERNAME:	מאנמיה	I-NP	O
+מחסר	PREPOSITION:NOUN-M,S,CONST:	חסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ולקחת	CONJ:VERB-TOINFINITIVE:	לקח	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+וההמוגלובין	CONJ:PROPERNAME:	ההמוגלובין	B-NP	O
+לא	:NEGATION:	לא	O	O
+השתפר	:VERB-M,S,3,PAST:	השתפר	O	O
+ככל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	B-NP	O
+אינך	:COPULA-M,S,2,BEINONI,NEGATIVE:	הוא	O	O
+סופגת	:VERB-F,S,A,BEINONI:	ספג	O	O
+היטב	:ADVERB:	היטב	O	O
+.	:PUNCUATION:	.	O	O
+
+במקרה	:ADVERB:	במקרה	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בוריד	PREPOSITION:NOUN-M,S,ABS:	וריד	B-NP	vein-C0042449
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

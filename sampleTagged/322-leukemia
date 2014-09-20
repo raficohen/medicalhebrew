@@ -1,0 +1,36 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+כך	:ADVERB:	כך	O	O
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+עלו	:VERB-MF,P,3,PAST:	עלה	O	O
+או	:CONJUNCTION:	או	O	O
+שמא	:CONJUNCTION:	שמא	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עלייה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+גם	:CONJUNCTION:	גם	O	O
+בכדוריות	PREPOSITION:NOUN-F,S,ABS:	כדוריות	B-NP	O
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+ובלבנות	PREPOSITION+CONJ:VERB-TOINFINITIVE:	ב	O	O
+-	:PUNCUATION:	-	O	O
+והאם	CONJ:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+?	:PUNCUATION:	?	O	O
+
+ערך	:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+של	:SHEL_PREP:	של	I-NP	O
+500000	:NUMERAL:	###NUMBER###	I-NP	O
+טרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	טרומבוציטים	O	O
+עדין	:ADJECTIVE-M,S,ABS:	עדין	O	O
+לא	:NEGATION:	לא	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	O	Causations-C0085978
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+באספרין	PREPOSITION+DEF:NOUN-M,S,ABS:	האספרין	B-NP	O
+אם	:CONJUNCTION:	אם	O	O
+אין	:NEGATION:	אין	O	O
+גורמי	:NOUN-M,P,CONST:	גורם	B-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+

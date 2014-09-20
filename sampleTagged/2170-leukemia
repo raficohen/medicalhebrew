@@ -1,0 +1,39 @@
+פקטור	:NOUN-M,S,ABS:	פקטור	B-NP	O
+V	:FOREIGN:	V	I-NP	O
+ליידן	:PROPERNAME:	ליידן	I-NP	leyden-c0082536
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+מוכר	:ADJECTIVE-M,S,ABS:	מוכר	I-NP	O
+ולא	CONJ:NEGATION:	לא	I-NP	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	O	O
+.	:PUNCUATION:	.	O	O
+
+להערכתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	הערכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+סביר	:ADJECTIVE-M,S,ABS:	סביר	I-NP	O
+שתוכלי	REL-SUBCONJ:MODAL-F,S,2,FUTURE:	יכול	O	O
+להשתמש	:VERB-TOINFINITIVE:	השתמש	O	O
+בגלולות	PREPOSITION:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+"	:PUNCUATION:	"	I-NP	O
+נורמליות	:ADJECTIVE-F,P,ABS:	נורמלי	I-NP	O
+"	:PUNCUATION:	"	O	O
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	O	prevention-C0199176
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+

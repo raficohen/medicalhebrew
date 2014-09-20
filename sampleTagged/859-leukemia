@@ -1,0 +1,32 @@
+תופעה	:NOUN-F,S,ABS:	תופעה	B-NP	phenomenon-C1882365
+של	:SHEL_PREP:	של	I-NP	O
+F5L	:FOREIGN:	F5L	I-NP	O
+הטרוזיגוטי	:ADJECTIVE-M,S,ABS:	הטרוזיגוטי	I-NP	heterozygote-C0019425
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+גם	:CONJUNCTION:	גם	O	O
+אצל	:PREPOSITION:	אצל	O	O
+הנשים	DEF:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+בודקות	:VERB-F,P,A,BEINONI:	בדק	O	O
+אותו	:QUANTIFIER-CONST:	אותו	B-NP	O
+וחייות	:ADJECTIVE-F,P,CONST:	וחייות	I-NP	O
+בסדר	:ADVERB:	בסדר	I-NP	O
+....	:PUNCUATION:	....	O	O
+
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+ידריך	:VERB-M,S,3,FUTURE:	הדריך	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+על	:PREPOSITION:	על	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+שמתאים	REL-SUBCONJ:VERB-M,S,A,BEINONI:	התאים	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

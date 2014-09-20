@@ -1,0 +1,30 @@
+לפני	:PREPOSITION:	לפני	O	O
+שמיחסים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	ייחס	O	O
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לאבחן	:VERB-TOINFINITIVE:	אבחן	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+באמת	:ADVERB:	באמת	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+חסימות	:NOUN-F,P,ABS:	חסימה	B-NP	blocking-C0233660
+של	:SHEL_PREP:	של	I-NP	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+בגיל	PREPOSITION:NOUN-M,S,ABS:	גיל	B-NP	O
+כה	:ADVERB:	כה	O	O
+צעיר	:ADJECTIVE-M,S,ABS:	צעיר	O	O
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+חמור	:ADJECTIVE-M,S,ABS:	חמור	I-NP	O
+וכדאי	CONJ:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

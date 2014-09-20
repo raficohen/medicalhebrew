@@ -1,0 +1,32 @@
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+לימפומה	:PROPERNAME:	לימפומה	I-NP	lymphoma-C0024299
+מתבצעת	:VERB-F,S,A,BEINONI:	התבצע	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+פתולוג	:NOUN-M,S,ABS:	פתולוג	I-NP	O
+מביופסיה	PREPOSITION:NOUN-F,S,ABS:	ביופסיה	I-NP	biopsy-C0005558
+של	:SHEL_PREP:	של	I-NP	O
+בלוטת לימפה	:TERM:	בלוטת לימפה	O	lymph node-C0024204
+,	:PUNCUATION:	,	O	O
+מח	:NOUN-M,S,CONST:	מח	B-NP	O
+עצם	:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+או	:CONJUNCTION:	או	O	O
+רקמות	:NOUN-F,P,ABS:	רקמה	B-NP	tissue-C0040300
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+נגועות	:ADJECTIVE-F,P,ABS:	נגוע	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+להשלמת	PREPOSITION:NOUN-F,S,CONST:	השלמה	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

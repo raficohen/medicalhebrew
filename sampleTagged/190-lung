@@ -1,0 +1,55 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+ללכת	:VERB-TOINFINITIVE:	הלך	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+לדבר	PREPOSITION:NOUN-M,S,ABS:	דבר	O	O
+על	:PREPOSITION:	על	O	O
+האפשרות	DEF:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+נגד	:PREPOSITION:	נגד	O	O
+פטרת	:NOUN-M,S,ABS:	פטרת	B-NP	fungal infection-C0026946
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+וכן	CONJ:CONJUNCTION:	כן	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+חיבים	:VERB-M,S,3,FUTURE:	חיבים	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+כמו	:PREPOSITION:	כמו	O	O
+בעיות	:NOUN-F,P,CONST:	בעיה	B-NP	problem-C0033213
+הבליעה	DEF:NOUN-F,S,ABS:	בליעה	I-NP	swallowing-C0011167
+עוברות	:VERB-F,P,A,BEINONI:	עבר	O	past-C1444637
+בדכ	:PREPOSITION:	בדך	O	O
+תוך	:NOUN-M,S,CONST:	תוך	B-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	I-NP	number-C0237753
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+מסוף	PREPOSITION:NOUN-M,S,CONST:	סוף	B-NP	O
+הכמו	DEF:NOUN-F,S,ABS:	הכמו	I-NP	O
+רדיאשיין	:PROPERNAME:	רדיאשיין	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+הזמן	DEF:NOUN-M,S,ABS:	זמן	B-NP	O
+להבראה	PREPOSITION:NOUN-F,S,ABS:	הבראה	B-NP	O
+שונה	:ADJECTIVE-F,S,ABS:	שונה	I-NP	O
+מאדם	PREPOSITION:NOUN-M,S,ABS:	אדם	B-NP	human-C0086418
+לאדם	PREPOSITION:NOUN-M,S,ABS:	אדם	B-NP	human-C0086418
+צריך	:MODAL-M,S,A:	צריך	O	O
+לזכור	:VERB-TOINFINITIVE:	זכר	O	O
+שהטיפול	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הקשה	DEF:ADJECTIVE-M,S,ABS:	קשה	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+מוגבל	:ADJECTIVE-M,S,ABS:	מוגבל	O	O
+בזמן	PREPOSITION+DEF:NOUN-M,S,ABS:	זמן	B-NP	O
+והוא	CONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+שנותן	REL-SUBCONJ:VERB-M,S,A,BEINONI:	נתן	O	O
+לסיכוי	PREPOSITION:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+להשגת	PREPOSITION:NOUN-F,S,CONST:	השגה	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+יותר	:ADVERB:	יותר	I-NP	O
+לזמן	PREPOSITION:NOUN-M,S,ABS:	זמן	B-NP	O
+רחוק	:ADJECTIVE-M,S,ABS:	רחוק	I-NP	O
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

@@ -1,0 +1,28 @@
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+עלול	:MODAL-M,S,A:	עלול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+טרואמה	:PROPERNAME:	טרואמה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+המקרה	DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+דורש	:VERB-M,S,A,BEINONI:	דרש	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+של	:SHEL_PREP:	של	I-NP	O
+פנמאי	:PROPERNAME:	פנמאי	I-NP	O
+/	:PUNCUATION:	/	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+בנוגע	:ADVERB:	בנוגע	O	O
+להנחיות	PREPOSITION:NOUN-F,P,ABS:	הנחיה	B-NP	O
+והמשך	CONJ:NOUN-M,S,ABS:	המשך	O	continued-C0549178
+או	:CONJUNCTION:	או	O	O
+הפסקת	:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,22 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+אנטיקואגולנטי	:PROPERNAME:	אנטיקואגולנטי	I-NP	O
+מונע	:VERB-M,S,A,BEINONI:	מנע	O	O
+קרישים	:NOUN-M,P,ABS:	קריש	B-NP	clot-C0009074
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+מעבירה	:VERB-F,S,A,BEINONI:	העביר	O	O
+גן	:NOUN-M,S,ABS:	גן	B-NP	gene-C0017337
+הטרוזיגוט	:NOUN-M,S,ABS:	הטרוזיגוט	I-NP	heterozygote-C0019425
+לילדים	PREPOSITION+DEF:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+רצוי	:PARTICIPLE-M,S,A,ABS:	רצה	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מסודר	:ADJECTIVE-M,S,ABS:	מסודר	B-NP	O
+ביחידת	PREPOSITION:NOUN-F,S,CONST:	יחידה	B-NP	unit-C0439148
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בלינסון	:PROPERNAME:	בלינסון	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+תל	:PROPERNAME:	תל	I-NP	O
+השומר	DEF:PROPERNAME:	שומר	I-NP	O
+

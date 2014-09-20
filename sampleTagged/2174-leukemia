@@ -1,0 +1,34 @@
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+ב	:PREPOSITION:	ב	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+PLT	:FOREIGN:	PLT	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+טסיות	:NOUN-F,P,ABS:	טסיותות	I-NP	O
+,	:PUNCUATION:	,	O	O
+תרומבוציטים	:ADVERB:	תרומבוציטים	O	O
+)	:PUNCUATION:	)	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+במתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+אפידוראל	:NOUN-M,S,ABS:	אפידוראל	I-NP	epidural-C0592511
+כאשר	:CONJUNCTION:	כאשר	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הטסיות	DEF:NOUN-F,S,ABS:	הטסיות	I-NP	O
+מעל	:PREPOSITION:	מעל	O	O
+100000	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

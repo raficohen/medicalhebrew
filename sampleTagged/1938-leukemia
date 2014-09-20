@@ -1,0 +1,45 @@
+שמוליק	:PROPERNAME:	שמוליק	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ככל	:CONJUNCTION:	ככל	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+האנטיקרדיוליפין	DEF:NOUN-M,S,ABS:	האנטיקרדיוליפין	I-NP	O
+והאירועים	CONJ+DEF:NOUN-M,P,ABS:	אירוע	I-NP	event-C0441471
+הווסקולרים	DEF:PARTICIPLE-M,S,A,ABS:	הווסקולרים	O	O
+שעברת	REL-SUBCONJ:VERB-M,S,3,PAST:	עברת	O	O
+.	:PUNCUATION:	.	O	O
+
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+בד"כ	:ADVERB:	בד"כ	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בנוגדי	PREPOSITION:PARTICIPLE-M,P,A,CONST:	נגד	B-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+כגון	:PREPOSITION:	כגון	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+אירועים	:NOUN-M,P,ABS:	אירוע	I-NP	event-C0441471
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+שום	:QUANTIFIER-CONST:	שום	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+האנטיקרדיוליפין	:PROPERNAME:	האנטיקרדיוליפין	B-NP	O
+וסרטן	CONJ:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

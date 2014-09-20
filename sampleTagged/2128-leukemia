@@ -1,0 +1,31 @@
+לא	:NEGATION:	לא	O	O
+ראיתי	:VERB-MF,S,1,PAST:	ראה	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+ממשית	:ADJECTIVE-F,S,ABS:	ממשי	I-NP	O
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+באם	:CONJUNCTION:	באם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	I-NP	O
+אז	:CONJUNCTION:	אז	O	O
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+רק	:CONJUNCTION:	רק	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+מטרידות	:VERB-F,P,A,BEINONI:	הטריד	O	O
+-	:PUNCUATION:	-	O	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+.	:PUNCUATION:	.	O	O
+

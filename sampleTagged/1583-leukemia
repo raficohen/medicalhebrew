@@ -1,0 +1,30 @@
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+את	:AT_PREP:	את	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+מעולה	:ADJECTIVE-M,S,ABS:	מעולה	I-NP	O
+ורצוי	CONJ:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוגים	PREPOSITION:NOUN-M,P,ABS:	המטולוגים	B-NP	O
+שביקשו	REL-SUBCONJ:VERB-MF,P,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לתשובות	PREPOSITION+DEF:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+שה	:NOUN-M,S,ABS:	שה	B-NP	O
+PC	:FOREIGN:	PC	I-NP	specialistAcronym-E0688663-pc
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+מהנורמה	PREPOSITION+DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+אבל	:CONJUNCTION:	אבל	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+נורמלים	:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+להתייחס	:VERB-TOINFINITIVE:	התייחס	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

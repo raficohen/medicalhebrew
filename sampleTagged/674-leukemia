@@ -1,0 +1,28 @@
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והספירות	CONJ+DEF:NOUN-F,P,ABS:	ספירה	B-NP	count-C0750480
+לא	:NEGATION:	לא	O	O
+יורדות	:VERB-F,P,A,BEINONI:	ירד	O	O
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+בעיקר	PREPOSITION:NOUN-M,S,CONST:	עיקר	B-NP	O
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	I-NP	count-C0750480
+הלבנה	DEF:ADJECTIVE-F,S,ABS:	לבן	I-NP	O
+והטסיות	CONJ+DEF:NOUN-F,S,ABS:	הטסיות	I-NP	O
+עקרונית	:ADVERB:	עקרונית	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לעבוד	:VERB-TOINFINITIVE:	עבד	O	O
+-	:PUNCUATION:	-	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+כמובן	:ADVERB:	כמובן	O	O
+היכן	:INTERROGATIVE:	היכן	B-NP	O
+מקום	:NOUN-M,S,CONST:	מקום	B-NP	place-C0442504
+העבודה	DEF:NOUN-F,S,ABS:	עבודה	I-NP	Work-C0043227
+-	:PUNCUATION:	-	I-NP	O
+האם	:INTERROGATIVE:	האם	I-NP	O
+כרוך	:ADJECTIVE-M,S,ABS:	כרוך	I-NP	O
+במגע	PREPOSITION:NOUN-M,S,ABS:	מגע	B-NP	Touch sensation-C0702221
+עם	:PREPOSITION:	עם	O	O
+אנשים	:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+?	:PUNCUATION:	?	O	O
+

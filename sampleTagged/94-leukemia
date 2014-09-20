@@ -1,0 +1,31 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+סטבילית	:PARTICIPLE-F,P,A,CONST:	סטבילית	O	O
+במשך	PREPOSITION:NOUN-M,S,CONST:	משך	O	Duration-C0449238
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+השנים	DEF:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+.	:PUNCUATION:	.	O	O
+
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הפריטין	DEF:NOUN-M,S,ABS:	הפריטין	I-NP	O
+יחסית	:ADVERB:	יחסית	I-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ש	:CONJUNCTION:	ש	O	O
+הדיאטה	DEF:NOUN-F,S,ABS:	דיאטה	B-NP	diet-C0012155
+לא	:NEGATION:	לא	O	O
+מספקת	:VERB-F,S,A,BEINONI:	סיפק	O	O
+מספיק	:ADVERB:	מספיק	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לתקן	:VERB-TOINFINITIVE:	תיקן	O	O
+בשינוי	PREPOSITION:NOUN-M,S,CONST:	שינוי	B-NP	difference-C1705241
+הדיאטה	DEF:NOUN-F,S,ABS:	דיאטה	I-NP	diet-C0012155
+או	:CONJUNCTION:	או	O	O
+כדורים	:NOUN-M,P,ABS:	כדור	B-NP	Pills-C0994475
+

@@ -1,0 +1,28 @@
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שהיה	REL-SUBCONJ:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+לו	:CONJUNCTION:	לו	B-NP	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+ממאיר	:ADJECTIVE-M,S,ABS:	ממאיר	I-NP	malignant-C0205282
+ראשוני	:ADJECTIVE-M,S,ABS:	ראשוני	I-NP	O
+וקיבל	CONJ:VERB-M,S,3,PAST:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בכימוטרפיה	PREPOSITION:NOUN-F,S,ABS:	כימוטרפיה	B-NP	chemotherapy-C0013216
+ו/או	:VERB-MF,P,3,PAST:	ו/או	O	O
+הקרנות	DEF:NOUN-F,P,ABS:	קרן	B-NP	horn-C0019939
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+נתונים	:NOUN-M,P,ABS:	נתון	I-NP	O
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+לפני	:PREPOSITION:	לפני	O	O
+שמקבלים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	קיבל	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+.	:PUNCUATION:	.	O	O
+

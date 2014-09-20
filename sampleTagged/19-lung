@@ -1,0 +1,36 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	B-NP	O
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+הנכון	DEF:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ובכלל	CONJ:ADVERB:	בכלל	O	O
+-	:PUNCUATION:	-	O	O
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+לא	:NEGATION:	לא	O	O
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+או	:CONJUNCTION:	או	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+לפורום	PREPOSITION:NOUN-M,S,ABS:	פורום	O	O
+באינטרנט	PREPOSITION+DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+מיד	:ADVERB:	מייד	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שניתח	REL-SUBCONJ:VERB-M,S,3,PAST:	ניתח	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לבדיקה	PREPOSITION+DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

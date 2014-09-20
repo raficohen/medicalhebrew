@@ -1,0 +1,40 @@
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+ממש	:ADVERB:	ממש	O	O
+בחינה	:NOUN-F,S,ABS:	בחינה	B-NP	O
+!	:PUNCUATION:	!	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לניתוח	PREPOSITION:NOUN-M,S,CONST:	ניתוח	B-NP	surgery-C0038894
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+.	:PUNCUATION:	.	O	O
+
+במה	PREPOSITION:INTERROGATIVE:	מה	B-NP	O
+שראיתי	REL-SUBCONJ:VERB-MF,S,1,PAST:	ראה	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+בסדר	:ADVERB:	בסדר	O	O
+.	:PUNCUATION:	.	O	O
+
+לציין	:VERB-TOINFINITIVE:	ציין	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+הלוקוציטים	DEF:NOUN-M,P,ABS:	הלוקוציטים	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+wbc	:FOREIGN:	wbc	I-NP	O
+)	:PUNCUATION:	)	O	O
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

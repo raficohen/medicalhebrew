@@ -1,0 +1,33 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בויטמין	PREPOSITION+DEF:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+החיוני	DEF:ADJECTIVE-M,S,ABS:	חיוני	I-NP	O
+למרכיבים	PREPOSITION:NOUN-M,P,ABS:	מרכיב	B-NP	component-C0449432
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+בגוף	PREPOSITION+DEF:NOUN-M,S,ABS:	גוף	B-NP	body-C0460148
+.	:PUNCUATION:	.	O	O
+
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+ששיטות	REL-SUBCONJ:NOUN-F,P,CONST:	שיטה	B-NP	system-C0449913
+המדידה	DEF:NOUN-F,S,ABS:	מדידה	I-NP	O
+שלנו	:SHEL_PREP:PRONOMIAL-MF,P,1	של	I-NP	O
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+מדויקות	:ADJECTIVE-F,P,ABS:	מדויק	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+לא	:NEGATION:	לא	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+ערך	:NOUN-M,S,ABS:	ערך	I-NP	values-C0042295
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+מצביע	:VERB-M,S,A,BEINONI:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+חוסר	:NOUN-M,S,ABS:	חוסר	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+והמשמעויות	CONJ+DEF:NOUN-F,P,ABS:	משמעות	I-NP	significance-C0237881
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,32 @@
+בדרך	PREPOSITION:NOUN-F,S,ABS:	דרך	O	Through-C0332273-ambigous
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+קרורמון	:PROPERNAME:	קרורמון	B-NP	O
+לא	:NEGATION:	לא	O	O
+גורם	:VERB-M,S,A,BEINONI:	גרם	O	O
+להצטברות	PREPOSITION:NOUN-F,S,CONST:	הצטברות	B-NP	Hoarding-C0424337
+מים	:NOUN-M,P,ABS:	מים	I-NP	water-C0043047
+בריאות	:NOUN-F,S,ABS:	בריאות	I-NP	health-C0018684
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+גבוהים	:ADJECTIVE-M,P,ABS:	גבוה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+,	:PUNCUATION:	,	O	O
+היכולים	DEF:MODAL-M,P:	יכול	O	O
+להגרם	:VERB-TOINFINITIVE:	נגרם	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רקורמון	:NOUN-M,S,ABS:	רקורמון	B-NP	epoetin-C0014822
+,	:PUNCUATION:	,	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להקשות	:VERB-TOINFINITIVE:	הקשה	O	percussion-C0030987
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+.	:PUNCUATION:	.	O	O
+

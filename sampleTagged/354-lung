@@ -1,0 +1,18 @@
+הפיתרון	DEF:NOUN-M,S,ABS:	הפיתרון	B-NP	O
+היעיל	DEF:ADJECTIVE-M,S,ABS:	יעיל	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+פיזיוטרפיה	:NOUN-F,S,ABS:	פיזיוטרפיה	B-NP	physiotherapy-C0949766
+נשימתית	:ADJECTIVE-F,S,ABS:	נשימתית	I-NP	O
+אינטנסיבית	:ADJECTIVE-F,S,ABS:	אינטנסיבי	I-NP	O
+כולל	:VERB-M,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+הדרכה	:NOUN-F,S,ABS:	הדרכה	I-NP	Educational process of instructing-C0039401
+לבן	PREPOSITION:NOUN-M,S,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לגבי	:PREPOSITION:	לגבי	O	O
+ביצוע	:NOUN-M,S,CONST:	ביצוע	B-NP	O
+פיזיוטריפה	:ADJECTIVE-M,S,CONST:	פיזיוטריפה	I-NP	O
+בבית	PREPOSITION:NOUN-M,S,CONST:	בית	B-NP	house-C2003847
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+

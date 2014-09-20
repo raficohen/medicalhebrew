@@ -1,0 +1,23 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+קודם	:ADVERB:	קודם	O	O
+להוריד	:VERB-TOINFINITIVE:	הוריד	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+התרומבוציטים	:NOUN-F,S,ABS:	התרומבוציטים	I-NP	O
+בעזרת	:PREPOSITION:	בעזרת	O	O
+תרופות	:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+.	:PUNCUATION:	.	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לתכנון	PREPOSITION:NOUN-M,S,CONST:	תכנון	O	O
+הריון	:NOUN-M,S,CONST:	הריון	B-NP	pregnancy-C0032961
+אנני	:PROPERNAME-F,S:	אנני	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+המלצות	:NOUN-F,P,ABS:	המלצה	B-NP	recommendation-C0034866
+בפורום	PREPOSITION:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+\	:PUNCUATION:	\	O	O
+פרופ	:NOUN-M,P,ABS:POSSESIVE-MF,S,1	פרו	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

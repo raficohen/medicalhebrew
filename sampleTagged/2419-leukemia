@@ -1,0 +1,47 @@
+חסימת	:NOUN-F,S,CONST:	חסימה	B-NP	blocking-C0233660
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+בריאות	:NOUN-F,S,ABS:	בריאות	I-NP	health-C0018684
+במחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+סרטן	:NOUN-M,S,ABS:	סרטן	I-NP	malignancy-C0006826
+אינה	:VERB-M,S,3,PAST:	אינה	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לקלציום	PREPOSITION:NOUN-M,S,ABS:	קלציום	B-NP	calcium-C0006675
+.	:PUNCUATION:	.	O	O
+
+לחץ	:NOUN-M,S,CONST:	לחץ	B-NP	pressure-C0033095
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לא	:NEGATION:	לא	O	O
+אמור	:MODAL-M,S,A:	אמור	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מושפע	:VERB-M,S,A,BEINONI:	הושפע	O	O
+מזריקות	PREPOSITION:NOUN-F,P,ABS:	זריקה	B-NP	injection-C1272883
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+,	:PUNCUATION:	,	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+מינון	:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+ותופעות	CONJ:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+-	:PUNCUATION:	-	I-NP	O
+כדאי	:MODAL:	כדאי	I-NP	O
+שתתיעץ	REL-SUBCONJ:VERB-F,S,3,FUTURE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שהמליץ	REL-SUBCONJ:VERB-M,S,3,PAST:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+או	:CONJUNCTION:	או	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

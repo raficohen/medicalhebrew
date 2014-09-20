@@ -1,0 +1,32 @@
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהכיוון	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	כיוון	B-NP	direction-C0449738
+של	:SHEL_PREP:	של	I-NP	O
+apla	:FOREIGN:	apla	I-NP	O
+שלילי	:ADJECTIVE-M,S,ABS:	שלילי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+גם	:CONJUNCTION:	גם	B-NP	O
+תקינות	:NOUN-F,S,ABS:	תקינות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+המשמך	DEF:PARTICIPLE-F,S,A,ABS:	המשמך	B-NP	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+רגיל	:ADJECTIVE-M,S,ABS:	רגיל	I-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+/	:PUNCUATION:	/	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

@@ -1,0 +1,45 @@
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+את	:AT_PREP:	את	B-NP	O
+התלונות	DEF:NOUN-F,P,ABS:	תלונה	I-NP	complaint-C0277786
+ואת	CONJ:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הברור	DEF:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+המתחייב	DEF:PARTICIPLE-M,S,A,ABS:	התחייב	O	O
+כבר	:ADVERB:	כבר	O	O
+בצעת	:VERB-F,S,2,PAST:	בצע	O	O
+.	:PUNCUATION:	.	O	O
+
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+הנמוך	DEF:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+היחיד	DEF:ADJECTIVE-M,S,ABS:	יחיד	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הפריטין	DEF:NOUN-M,S,ABS:	הפריטין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+?	:PUNCUATION:	?	O	O
+
+למרות	:CONJUNCTION:	למרות	O	O
+שכל	REL-SUBCONJ:QUANTIFIER-CONST:	כול	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	I-NP	count-C0750480
+האדומה	DEF:ADJECTIVE-F,S,ABS:	אדום	I-NP	O
+תקינים	:ADJECTIVE-M,P,ABS:	תקין	O	O
+?	:PUNCUATION:	?	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+

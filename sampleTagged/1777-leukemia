@@ -1,0 +1,29 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+עודף	:NOUN-M,S,CONST:	עודף	B-NP	excess-C1979886
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בגוף	PREPOSITION+DEF:NOUN-M,S,ABS:	גוף	B-NP	body-C0460148
+ולא	CONJ:NEGATION:	לא	O	O
+מנוצל	:VERB-M,S,A,BEINONI:	נוצל	O	O
+או	:CONJUNCTION:	או	O	O
+שהפריטין	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	הפריטין	B-NP	O
+הגבוה	DEF:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+תגובתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	תגובה	B-NP	reaction-C0443286
+למחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+דלקתית	:ADJECTIVE-F,S,ABS:	דלקתי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד	:PROPERNAME:	ד	I-NP	O
+,	:PUNCUATION:	,	O	O
+ר	:PROPERNAME:	ר	B-NP	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	B-NP	O
+

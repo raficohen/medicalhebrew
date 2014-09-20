@@ -1,0 +1,39 @@
+יתכן	:MODAL:	ייתכן	O	O
+כן	:CONJUNCTION:	כן	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בן	:NOUN-M,S,CONST:	בן	I-NP	Son (person)-C0037683-ambigous
+הפלות	:NOUN-F,P,ABS:	הפלה	I-NP	abortion-C0156543
+חוזרות	:ADJECTIVE-F,P,ABS:	חוזר	I-NP	O
+וקרישיות	CONJ:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+;	:PUNCUATION:	;	O	O
+חלקם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	חלק	B-NP	part-C0449719
+בסל	PREPOSITION+DEF:NOUN-M,S,ABS:	סל	B-NP	O
+,	:PUNCUATION:	,	O	O
+לפי	:PREPOSITION:	לפי	O	O
+בקשת	:NOUN-F,S,CONST:	בקשה	B-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+או	:CONJUNCTION:	או	I-NP	O
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+,	:PUNCUATION:	,	O	O
+היתר	:NOUN-M,S,ABS:	היתר	B-NP	License-C0023636
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+בסל	PREPOSITION+DEF:NOUN-M,S,ABS:	סל	B-NP	O
+אך	:CONJUNCTION:	אך	O	O
+אפשר	:MODAL:	אפשר	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+בתשלום	PREPOSITION:NOUN-M,S,ABS:	תשלום	B-NP	O
+בהתאם	:ADVERB:	בהתאם	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+של	:SHEL_PREP:	של	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

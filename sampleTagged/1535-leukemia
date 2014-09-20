@@ -1,0 +1,34 @@
+זהירות	:NOUN-F,S,ABS:	זהירות	B-NP	O
+בלקיחת	PREPOSITION:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+גלולה	:NOUN-F,S,ABS:	גלולה	I-NP	pills-C0994475
+ובירור	CONJ:NOUN-M,S,ABS:	בירור	I-NP	O
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+נעשים	:VERB-M,P,A,BEINONI:	נעשה	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+אישי	:ADJECTIVE-M,S,ABS:	אישי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+משפחתי	:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+של	:SHEL_PREP:	של	I-NP	O
+טרומבוזה	:PROPERNAME:	טרומבוזה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+יוכל	:MODAL-M,S,2,FUTURE:	יכול	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	B-NP	anamnesis-C0021055
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+ולראות	CONJ:VERB-TOINFINITIVE:	ראה	O	O
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+שייכת	:ADJECTIVE-F,S,ABS:	שייך	I-NP	O
+לקטגוריה	PREPOSITION:NOUN-F,S,ABS:	קטגוריה	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

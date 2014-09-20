@@ -1,0 +1,29 @@
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	O	O
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפורום	DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+לא	:NEGATION:	לא	O	O
+לימודי	:ADJECTIVE-M,S,ABS:	לימודי	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+הבנתי	:VERB-MF,S,1,PAST:	הבין	O	O
+המטרה	DEF:NOUN-F,S,ABS:	מטרה	B-NP	goal-C0018017
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מיקרה	:PARTICIPLE-M,S,A:POSSESIVE-F,S,3	ייקר	I-NP	O
+טרומבופילינ	:PROPERNAME:	טרומבופילין	I-NP	O
+נובעת	:VERB-F,S,A,BEINONI:	נבע	O	O
+לרוב	:ADVERB:	לרוב	O	O
+מחסר	PREPOSITION:NOUN-M,S,ABS:	חסר	B-NP	O
+גנטי	:ADJECTIVE-M,S,ABS:	גנטי	I-NP	genetic-C0314603
+בפקטורים	PREPOSITION:NOUN-M,P,ABS:	פקטור	B-NP	O
+מסויימים	:ADJECTIVE-M,P,ABS:	מסוים	I-NP	O
+ולעיתים	CONJ:ADVERB:	לעתים	I-NP	O
+רחוקות	:ADJECTIVE-F,P,ABS:	רחוק	I-NP	O
+מיצירת	PREPOSITION:NOUN-F,S,CONST:	יצירה	B-NP	creation-C0441513
+נרכשת	:VERB-F,S,A,BEINONI:	נרכש	O	acquired-C0439661
+של	:SHEL_PREP:	של	O	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+.	:PUNCUATION:	.	O	O
+

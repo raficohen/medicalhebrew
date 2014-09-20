@@ -1,0 +1,28 @@
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+לא	:NEGATION:	לא	O	O
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	O	O
+לקביעת	PREPOSITION:NOUN-F,S,CONST:	קביעה	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+שוב	:ADVERB:	שוב	O	O
+.	:PUNCUATION:	.	O	O
+
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בידיים	PREPOSITION+DEF:NOUN-F,P,ABS:	יד	B-NP	hand-C0018563
+של	:SHEL_PREP:	של	I-NP	O
+הגינקולוג	DEF:NOUN-M,S,ABS:	גינקולוג	I-NP	gynecologist-C0237419
+שיעקוב	REL-SUBCONJ:VERB-M,S,3,FUTURE:	עקב	O	O
+אחריך	:PREPOSITION:PRONOMIAL-M,S,2	אחרי	B-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

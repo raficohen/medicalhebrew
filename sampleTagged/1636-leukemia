@@ -1,0 +1,25 @@
+צריכות	:ADJECTIVE-F,P,ABS:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+עוד	:ADVERB:	עוד	B-NP	More-C0205172
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+במזגרת	:NOUN-MF,S,ABS:	במזגרת	I-NP	O
+בירור	:NOUN-M,S,CONST:	בירור	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+ו/או	:PROPERNAME:	ו/או	I-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+ואני	CONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אליהם	:PREPOSITION:PRONOMIAL-M,P,3	אל	B-NP	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+הנחיות	:NOUN-F,P,ABS:	הנחיה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

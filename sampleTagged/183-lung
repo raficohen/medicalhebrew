@@ -1,0 +1,31 @@
+נטע	:PROPERNAME:	נטע	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+ברפואה	PREPOSITION:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+-	:PUNCUATION:	-	I-NP	O
+הכל	DEF:QUANTIFIER:	כול	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+עלייך	:PREPOSITION:PRONOMIAL-F,S,2	על	B-NP	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+-	:PUNCUATION:	-	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והסיבה	CONJ+DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+קשורה	:ADJECTIVE-F,S,ABS:	קשור	O	O
+בריאות	:NOUN-F,S,ABS:	בריאות	B-NP	health-C0018684
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

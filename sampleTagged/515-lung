@@ -1,0 +1,28 @@
+על	:PREPOSITION:	על	O	O
+פניו	:NOUN-MF,P,ABS:POSSESIVE-M,S,3	פנים	B-NP	face-C0015450
+ניראה	:VERB-MF,P,1,FUTURE:	נראה	O	O
+שמקור	REL-SUBCONJ:NOUN-M,S,CONST:	מקור	B-NP	Source-C0449416
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+(	:PUNCUATION:	(	I-NP	O
+צלעות...)ממליץ	:NOUN-MF,S,ABS:	צלעות...)ממליץ	I-NP	O
+לבצע	PREPOSITION:NOUN-M,S,CONST:	בצע	O	O
+CT	:FOREIGN:	CT	O	O
+של	:SHEL_PREP:	של	O	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+עם	:PREPOSITION:	עם	O	O
+התמקדות	:NOUN-F,S,ABS:	התמקדות	B-NP	O
+באיזור	PREPOSITION+DEF:NOUN-M,S,ABS:	איזור	B-NP	O
+בו	:PREPOSITION:PRONOMIAL-M,S,3	ב	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+את	:AT_PREP:	את	B-NP	O
+הכאבים	DEF:NOUN-M,P,ABS:	כאב	I-NP	pain-C0030193
+ואם	CONJ:CONJUNCTION:	אם	O	O
+ה	DEF::	ה	B-NP	O
+CT	:FOREIGN:	CT	I-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לכירורג	PREPOSITION:NOUN-M,S,ABS:	כירורג	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+

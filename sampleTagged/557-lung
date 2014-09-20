@@ -1,0 +1,54 @@
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+צודק	:VERB-M,S,A,BEINONI:	צדק	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+מסתמים	:NOUN-M,P,ABS:	מסתם	I-NP	valve-C0184252
+השונים	DEF:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+מהותי	:ADJECTIVE-M,S,ABS:	מהותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכול	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+כמובן	:ADVERB:	כמובן	I-NP	O
+היתרונות	DEF:NOUN-M,P,ABS:	יתרון	I-NP	advantage-C0681074
+והחסרונות	CONJ+DEF:NOUN-M,P,ABS:	חסרון	I-NP	O
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בין	:PREPOSITION:	בין	O	O
+הדברים	DEF:NOUN-M,P,ABS:	דבר	B-NP	O
+שקובעים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	קבע	O	O
+איזה	:QUANTIFIER-CONST:	איזה	B-NP	O
+מסתם	:NOUN-M,S,ABS:	מסתם	I-NP	valve-C0184252
+להשתיל	:VERB-TOINFINITIVE:	השתיל	O	O
+יש	:NOUN-M,S,ABS:	יש	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+גיל	:PROPERNAME:	גיל	I-NP	O
+החולה	:PROPERNAME:	החולה	I-NP	O
+,	:PUNCUATION:	,	O	O
+הפעילות	DEF:NOUN-F,S,ABS:	פעילות	B-NP	activity-C0441655
+הגופנית	DEF:ADJECTIVE-F,S,ABS:	גופני	I-NP	O
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+,	:PUNCUATION:	,	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+אישה	:NOUN-F,S,ABS:	איש	B-NP	people-C0027361
+גם	:CONJUNCTION:	גם	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בשלב	PREPOSITION:NOUN-M,S,CONST:	שלב	B-NP	stage-C0205390
+הפוריות	DEF:NOUN-F,S,ABS:	פוריות	I-NP	O
+ועוד	CONJ:ADVERB:	עוד	O	More-C0205172
+משתנים	:NOUN-M,P,ABS:	משתנה	B-NP	variable-C0439828
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+המלצתי	:VERB-MF,S,1,PAST:	המליץ	O	O
+התיעץ	:VERB-M,S,2,IMPERATIVE:	התייעץ	O	O
+היטב	:ADVERB:	היטב	O	O
+היטב	:ADVERB:	היטב	O	O
+עם	:PREPOSITION:	עם	O	O
+הקרדיולוג	DEF:NOUN-M,S,ABS:	קרדיולוג	B-NP	cardiologist-C0175906
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+!	:PUNCUATION:	!	O	O
+

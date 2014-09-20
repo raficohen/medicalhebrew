@@ -1,0 +1,81 @@
+לפי	:PREPOSITION:	לפי	O	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+שקיבלתי	REL-SUBCONJ:VERB-MF,S,1,PAST:	קיבל	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+משמעותי	:ADJECTIVE-M,S,ABS:	משמעותי	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+8.6	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+H6	:FOREIGN:	H6	I-NP	O
+כשהגורם	TEMP-SUBCONJ+DEF:NOUN-M,S,ABS:	גורם	B-NP	O
+השכיח	DEF:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+את	:AT_PREP:	את	B-NP	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	I-NP	O
+פוריות	:NOUN-F,S,ABS:	פוריות	I-NP	O
+וקיים	CONJ:VERB-M,S,3,PAST:	קיים	O	O
+דמם	:VERB-M,S,3,PAST:	דמם	O	O
+רב	:ADJECTIVE-M,S,ABS:	רב	B-NP	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+המחזור	DEF:NOUN-M,S,ABS:	מחזור	I-NP	reunion-C0035373
+?	:PUNCUATION:	?	O	O
+
+או	:CONJUNCTION:	או	O	O
+מחזורים	:NOUN-M,P,ABS:	מחזור	B-NP	reunion-C0035373
+רבים	:ADJECTIVE-M,P,ABS:	רב	I-NP	O
+מהרגיל	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	רגיל	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לאיבוד	PREPOSITION:NOUN-M,S,CONST:	איבוד	B-NP	Loss-C1517945
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+במערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+?	:PUNCUATION:	?	O	O
+
+כיב	:NOUN-M,S,CONST:	כיב	B-NP	ulcer-C0041582
+-	:PUNCUATION:	-	I-NP	O
+טחורים	:NOUN-M,P,ABS:	טחורים	I-NP	hemorrhoids-C0019112
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+את	:AT_PREP:	את	B-NP	O
+ממוצא	PREPOSITION:NOUN-M,S,CONST:	מוצא	I-NP	origin-C0439659
+מזרח	:NOUN-M,S,ABS:	מזרח	I-NP	O
+תיכוני	:ADJECTIVE-M,S,ABS:	תיכוני	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+בשלב	PREPOSITION+DEF:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+דחוף	:ADJECTIVE-M,S,ABS:	דחוף	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+וחומצה	CONJ:NOUN-F,S,ABS:	חומצה	B-NP	Acids-C0001128
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+בנסיוב	PREPOSITION:NOUN-M,S,CONST:	נסיוב	B-NP	serum-C0229671
+-	:PUNCUATION:	-	I-NP	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	I-NP	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+הנ"ל	DEF:ADJECTIVE-M,S,ABS:	הנ"ל	I-NP	O
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	I-NP	O
+בהמלצה	PREPOSITION+DEF:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+

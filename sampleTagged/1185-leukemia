@@ -1,0 +1,33 @@
+מי	:INTERROGATIVE:	מי	B-NP	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+טובה	:ADJECTIVE-F,S,ABS:	טוב	O	good-C0205170
+מאוד	:ADVERB:	מאוד	O	O
+!	:PUNCUATION:	!	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+שוב	:ADVERB:	שוב	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ויט.ב	CONJ:PROPERNAME:	יט.ב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+.	:PUNCUATION:	.	O	O
+12	:NUMERAL:	###NUMBER###	B-NP	O
+במקרה	PREPOSITION:NOUN-M,S,CONST:	מקרה	O	case-C0868928
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+אפשר	:VERB-M,S,3,PAST:	אפשר	O	O
+להשתממש	PREPOSITION:NOUN-MF,P,ABS:POSSESIVE-MF,S,1	השתמם	B-NP	O
+ב	:PREPOSITION:	ב	O	O
+כדור	:NOUN-M,S,ABS:	כדור	B-NP	Pills-C0994475
+תתלשוני	:VERB-F,P,3,FUTURE:	תתלשוני	O	O
+פעם	:ADVERB:	פעם	O	once-C1948045
+בשבוע	PREPOSITION+DEF:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

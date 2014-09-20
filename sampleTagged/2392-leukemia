@@ -1,0 +1,30 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+לירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בהמוגלובין	:PREPOSITION:	בהמוגלובין	O	O
+מעבר	:NOUN-M,S,ABS:	מעבר	B-NP	Transition-C2700061-ambigous
+להפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+במשק	PREPOSITION:NOUN-M,S,CONST:	משק	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+וויטמינים	CONJ:NOUN-M,P,ABS:	ויטמין	O	vitamin-C0042890
+.	:PUNCUATION:	.	O	O
+
+לדוגמא	PREPOSITION:NOUN-F,S,ABS:	דוגמה	O	example-C1707959
+,	:PUNCUATION:	,	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בהמוגלובין	:VERB-TOINFINITIVE:	בהמוגלובין	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+עלייה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+בנפח	PREPOSITION:NOUN-M,S,CONST:	נפח	B-NP	Volume-C0449468
+הפלזמה	DEF:NOUN-F,S,ABS:	פלזמה	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+נוזל	:NOUN-M,S,CONST:	נוזל	I-NP	liquid-C0302908
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+

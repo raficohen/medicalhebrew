@@ -1,0 +1,31 @@
+אלקרן	:PARTICIPLE-M,S,A,CONST:	אלקרן	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+השם	DEF:NOUN-M,S,ABS:	שם	B-NP	Name-C0027365-ambigous
+המסחרי	DEF:ADJECTIVE-M,S,ABS:	מסחרי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+MELPHALAN	:FOREIGN:	MELPHALAN	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בוודאי	:ADVERB:	בוודאי	O	O
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+חומר	:NOUN-M,S,ABS:	חומר	B-NP	material-C0520510
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+ברשת	PREPOSITION+DEF:NOUN-F,S,ABS:	רשת	B-NP	network-C1513822
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+לאנשים	PREPOSITION:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+מבוגרים	:ADJECTIVE-M,P,ABS:	מבוגר	I-NP	adults-C0001675
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתאים	:VERB-TOINFINITIVE:	התאים	O	O
+למצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+תפקוד	:NOUN-M,S,CONST:	תפקוד	I-NP	Function-C0542341
+הכליות	DEF:NOUN-F,P,ABS:	כליה	I-NP	kidney-C0022646
+.	:PUNCUATION:	.	O	O
+

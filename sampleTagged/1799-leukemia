@@ -1,0 +1,127 @@
+נכון	:ADVERB:	נכון	O	O
+שמחסני	REL-SUBCONJ:NOUN-M,P,CONST:	מחסן	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+ריקים	:ADJECTIVE-M,P,ABS:	ריק	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+)	:PUNCUATION:	)	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+HB	:FOREIGN:	HB	O	O
+של	:SHEL_PREP:	של	O	O
+11.2	:NUMERAL:	###NUMBER###	B-NP	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	I-NP	O
+בתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+מיינור	:NOUN-M,P,ABS:	מיינורים	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+כן	:CONJUNCTION:	כן	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+פומי	:ADJECTIVE-M,S,ABS:	פומי	I-NP	O
+:	:PUNCUATION:	:	O	O
+אם	:CONJUNCTION:	אם	O	O
+הסלו	:VERB-MF,P,2,IMPERATIVE:	הסלו	O	O
+פה	:ADVERB:	פה	O	Oral cavity-C0226896
+לא	:NEGATION:	לא	O	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	O	good-C0205170
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+כדורים	:NOUN-M,P,ABS:	כדור	B-NP	Pills-C0994475
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+:	:PUNCUATION:	:	I-NP	O
+פריפול	:PROPERNAME:	פריפול	I-NP	O
+,	:PUNCUATION:	,	I-NP	O
+פרוגראד	:NOUN-M,P,ABS:POSSESIVE-MF,S,1	פרוגרא	I-NP	O
+,	:PUNCUATION:	,	O	O
+פרוגרדומט	:PROPERNAME:	פרוגרדומט	B-NP	O
+,	:PUNCUATION:	,	O	O
+המינון	DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+למבוגר	PREPOSITION+DEF:NOUN-M,S,ABS:	מבוגר	B-NP	adults-C0001675
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+כדור	:NOUN-M,S,ABS:	כדור	O	Pills-C0994475
+פעמיים	:ADVERB:	פעמיים	O	O
+ביום	PREPOSITION:NOUN-M,S,ABS:	יום	B-NP	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+עם	:PREPOSITION:	עם	O	O
+חלב	:PROPERNAME:	חלב	B-NP	Milk (body substance)-C0026131
+ולא	CONJ:NEGATION:	לא	O	O
+עם	:PREPOSITION:	עם	O	O
+תה.יש	:VERB-M,S,2,FUTURE:	תה.יש	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ובדיקת	CONJ:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+כימיה	:NOUN-F,S,ABS:	כימיה	I-NP	O
+כולל	:VERB-M,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+טרנספרין	:NOUN-M,S,ABS:	טרנספרין	I-NP	transferrin-C0040679
+ופריטין	CONJ:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+אחרי	:PREPOSITION:	אחרי	O	O
+חודש	:NOUN-M,S,ABS:	חודש	B-NP	months-C0439231
+ואם	CONJ:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+אז	:CONJUNCTION:	אז	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+.	:PUNCUATION:	.	O	O
+
+בנוסף	:ADVERB:	בנוסף	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+דימומים	:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+חזקים	:ADJECTIVE-M,P,ABS:	חזק	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+מחזור	:NOUN-M,S,ABS:	מחזור	I-NP	reunion-C0035373
+,	:PUNCUATION:	,	I-NP	O
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+.	:PUNCUATION:	.	O	O
+
+.	:PUNCUATION:	.	O	O
+)	:PUNCUATION:	)	O	O
+,	:PUNCUATION:	,	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+לבצע	PREPOSITION:NOUN-M,S,CONST:	בצע	B-NP	O
+ת	:PROPERNAME:	ת	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+ולהבדק	CONJ:VERB-TOINFINITIVE:	נבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+,	:PUNCUATION:	,	O	O
+אחר	:PREPOSITION:	אחר	O	O
+?	:PUNCUATION:	?	O	O
+
+עקב	:PREPOSITION:	עקב	O	O
+דיאטה	:NOUN-F,S,ABS:	דיאטה	B-NP	diet-C0012155
+צמחונית	:ADJECTIVE-F,S,ABS:	צמחוני	I-NP	O
+האם	:INTERROGATIVE:	האם	I-NP	O
+את	:AT_PREP:	את	B-NP	O
+בודקת	:VERB-F,S,A,BEINONI:	בדק	O	O
+פעם	:ADVERB:	פעם	O	once-C1948045
+בשנה	PREPOSITION:NOUN-F,S,ABS:	שנה	B-NP	year-C0439234
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+B12	:FOREIGN:	B12	I-NP	O
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+?	:PUNCUATION:	?	O	O
+
+לוקחת	:VERB-F,S,A,BEINONI:	לקח	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+?	:PUNCUATION:	?	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

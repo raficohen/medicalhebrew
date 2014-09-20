@@ -1,0 +1,54 @@
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+גבוליים	:ADJECTIVE-M,P,ABS:	גבולי	O	borderline-C0205189
+.	:PUNCUATION:	.	O	O
+
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בנסיוב	PREPOSITION:NOUN-M,S,ABS:	נסיוב	B-NP	serum-C0229671
+ולקחת	CONJ:VERB-TOINFINITIVE:	לקח	O	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
++	:PUNCUATION:	+	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+למספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+ואח"כ	CONJ:CONJUNCTION:	אח"כ	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+.	:PUNCUATION:	.	O	O
+
+נא	:INTERJECTION:	נא	O	O
+לשים	:VERB-TOINFINITIVE:	שם	O	Name-C0027365-ambigous
+לב	:NOUN-M,S,ABS:	לב	B-NP	heart-C0018787
+כי	:CONJUNCTION:	כי	O	O
+לאחר	:PREPOSITION:	לאחר	O	O
+לקיחת	:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+צואה	:NOUN-F,S,ABS:	צואה	B-NP	feces-C0015733
+בצבע	PREPOSITION:NOUN-M,S,ABS:	צבע	B-NP	color-C0009393
+שחור	:ADJECTIVE-M,S,ABS:	שחור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+(	:PUNCUATION:	(	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+תכשירים	:NOUN-M,P,ABS:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+כמו	:PREPOSITION:	כמו	O	O
+FOLEX	:FOREIGN:	FOLEX	B-NP	O
+המכילים	DEF:PARTICIPLE-M,P,A,ABS:	הכיל	O	O
+את	:AT_PREP:	את	B-NP	O
+שתי	:NUMERAL-F,D,CONST:	CARD2	I-NP	O
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+ביחד	:ADVERB:	ביחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+

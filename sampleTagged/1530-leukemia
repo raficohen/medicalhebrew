@@ -1,0 +1,28 @@
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+בעצמו	PREPOSITION:PRONOUN:PRONOMIAL-M,S,3	עצמו	B-NP	O
+לא	:NEGATION:	לא	O	O
+מאבחן	:VERB-M,S,A,BEINONI:	אבחן	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+יוכל	:MODAL-M,S,2,FUTURE:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+לקיחת	:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	I-NP	anamnesis-C0021055
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+ודיון	CONJ:NOUN-M,S,ABS:	דיון	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

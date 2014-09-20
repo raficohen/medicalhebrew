@@ -1,0 +1,27 @@
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+מענין	PREPOSITION:NOUN-M,S,ABS:	עניין	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+האים	:ADVERB:	האים	O	O
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+ישירות	:ADVERB:	ישירות	O	O
+למסור	:VERB-TOINFINITIVE:	מסר	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+מדויקים	:ADJECTIVE-M,P,ABS:	מדויק	I-NP	O
+על	:PREPOSITION:	על	O	O
+סוג	:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+הלימפומה	DEF:NOUN-F,S,ABS:	הלימפומה	I-NP	O
+פתולוגיה	:PROPERNAME:	פתולוגיה	I-NP	pathology-C0030664
+ועוד	CONJ:ADVERB:	עוד	O	More-C0205172
+מה	:INTERROGATIVE:	מה	B-NP	O
+שכשור	PREPOSITION+REL-SUBCONJ:NOUN-M,S,ABS:	כ	B-NP	O
+למיקרה	PREPOSITION:PARTICIPLE-M,S,A:POSSESIVE-F,S,3	ייקר	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

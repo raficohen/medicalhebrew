@@ -1,0 +1,38 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבחון	:VERB-TOINFINITIVE:	בחן	O	O
+את	:AT_PREP:	את	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	I-NP	O
+לאורך	PREPOSITION:NOUN-M,S,CONST:	אורך	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+דווקא	:ADVERB:	דווקא	O	O
+ערך	:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+של	:SHEL_PREP:	של	I-NP	O
+13.5	:NUMERAL:	###NUMBER###	I-NP	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+חריג	:ADJECTIVE-M,S,ABS:	חריג	O	O
+.	:PUNCUATION:	.	O	O
+
+הסבירות	DEF:NOUN-F,S,ABS:	סבירות	B-NP	Probability-C0033204
+לבעייה	PREPOSITION:NOUN-F,S,ABS:	בעיה	O	problem-C0033213
+תזונתית	:ADJECTIVE-F,S,ABS:	תזונתי	B-NP	O
+או	:CONJUNCTION:	או	O	O
+בעיית	:NOUN-F,S,CONST:	בעיה	B-NP	problem-C0033213
+ספיגה	:NOUN-F,S,ABS:	ספיגה	I-NP	absorption-C0000854
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+קטנה	:ADJECTIVE-F,S,ABS:	קטן	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מלא	:ADJECTIVE-M,S,ABS:	מלא	O	O
+מרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+או	:CONJUNCTION:	או	O	O
+מהמטולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

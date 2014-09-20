@@ -1,0 +1,26 @@
+האנשים	DEF:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+הנוטלים	DEF:PARTICIPLE-M,P,A,ABS:	נטל	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+ונמצאים	CONJ:VERB-M,P,A,BEINONI:	נמצא	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שלי	:SHEL_PREP:PRONOMIAL-MF,S,1	של	I-NP	O
+אוכלים	:VERB-M,P,A,BEINONI:	אכל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+סוג	:NOUN-M,S,ABS:	סוג	I-NP	kind-C0332307
+של	:SHEL_PREP:	של	I-NP	O
+מזון	:NOUN-M,S,ABS:	מזון	I-NP	food-C0016452
+כולל	:NOUN-M,S,ABS:	כולל	I-NP	including-C0332257
+ירוקים	:ADJECTIVE-M,P,ABS:	ירוק	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+הנחיות	:NOUN-F,P,ABS:	הנחיה	B-NP	O
+על	:PREPOSITION:	על	O	O
+-	:PUNCUATION:	-	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

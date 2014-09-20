@@ -1,0 +1,30 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שבמקרה	REL-SUBCONJ:ADVERB:	במקרה	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+וירלית	:ADJECTIVE-F,S,ABS:	וירלית	I-NP	O
+שיכולה	REL-SUBCONJ:MODAL-F,S,A,BEINONI:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טחול מוגדל	:TERM:	טחול מוגדל	O	splenomegaly-C0038002
+.	:PUNCUATION:	.	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+שוב	:ADVERB:	שוב	O	O
+לפדיאטר	PREPOSITION:PROPERNAME:	פדיאטר	O	O
+או	:CONJUNCTION:	או	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+ילדים	:NOUN-M,P,ABS:	ילד	I-NP	children-C0008059
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

@@ -1,0 +1,19 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	I-NP	O
+כוללת	:VERB-F,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+בנוסף	:ADVERB:	בנוסף	O	O
+לבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+מעבדה	:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,A,BEINONI:	נראה	O	O
+שתלונותיך	REL-SUBCONJ:NOUN-F,P,ABS:POSSESIVE-F,S,2	תלונה	B-NP	complaint-C0277786
+עכשיו	:ADVERB:	עכשיו	I-NP	O
+קשורות	:ADJECTIVE-F,P,ABS:	קשור	I-NP	O
+לאסתמה	PREPOSITION:NOUN-F,S,ABS:	אסתמה	B-NP	asthma-C0004096
+

@@ -1,0 +1,21 @@
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ההמוגלובין	DEF:ADJECTIVE-M,P,ABS:	ההמוגלובין	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+לכשלעצמה	PREPOSITION+TEMP-SUBCONJ:NOUN-F,S,ABS:	ל	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+מדאיגה	:ADJECTIVE-F,S,ABS:	מדאיג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במיוחד	:ADVERB:	במיוחד	O	O
+בנשים	PREPOSITION:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+צעירות	:ADJECTIVE-F,P,ABS:	צעיר	I-NP	O
+המדממות	DEF:PARTICIPLE-F,P,A,ABS:	דימם	O	O
+מידי	:PREPOSITION:	מידי	O	O
+חודש	:NOUN-M,S,CONST:	חודש	B-NP	months-C0439231
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	I-NP	O
+נמצאים	:VERB-M,P,A,BEINONI:	נמצא	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+מהנורמה	PREPOSITION+DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+

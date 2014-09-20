@@ -1,0 +1,40 @@
+זיהום	:NOUN-M,S,CONST:	זיהום	B-NP	infection-C0009450
+אויר	:NOUN-M,S,ABS:	אוויר	I-NP	Air-C0001861
+אכן	:ADVERB:	אכן	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לפגוע	:VERB-TOINFINITIVE:	פגע	O	O
+בריאות	:NOUN-F,S,ABS:	בריאות	B-NP	health-C0018684
+.	:PUNCUATION:	.	O	O
+
+הפתרון	DEF:NOUN-M,S,ABS:	פתרון	B-NP	solution-C0037633
+האידאילי	DEF:NOUN-F,P,ABS:	האידאילי	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+לשכב	:VERB-TOINFINITIVE:	שכב	O	O
+תחת	:PREPOSITION:	תחת	O	O
+עצי	:NOUN-M,P,CONST:	עץ	B-NP	O
+דקל	:PROPERNAME:	דקל	I-NP	O
+לחופו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	חוף	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ים	:PROPERNAME:	ים	I-NP	sea-C0036493
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+אנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+כך	:ADVERB:	כך	O	O
+,	:PUNCUATION:	,	O	O
+חלקנו	:VERB-MF,P,1,PAST:	חלק	O	part-C0449719
+לפחות	:ADVERB:	לפחות	O	O
+לא	:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+
+ההתגוננות	DEF:NOUN-F,S,ABS:	התגוננות	B-NP	O
+הטובה	DEF:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+ביותר	:ADVERB:	ביותר	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+להימנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מסביבה	PREPOSITION:NOUN-F,S,ABS:	סביבה	B-NP	Environment-C0014406
+מזוהמת	:VERB-F,S,A,BEINONI:	זוהם	O	O
+.	:PUNCUATION:	.	O	O
+

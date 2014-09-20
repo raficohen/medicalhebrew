@@ -1,0 +1,22 @@
+לסבתה	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,3	סבה	B-NP	O
+אירוע מוחי	:TERM:	אירוע מוחי	O	cerebrovascular accident-C0038454
+קשור	:ADJECTIVE-M,S,ABS:	קשור	I-NP	O
+לטרומבוזה	:ADJECTIVE-M,S,ABS:	לטרומבוזה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+מוחי	:ADJECTIVE-M,S,ABS:	מוחי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לסימנים	PREPOSITION:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+ולפרוגנוזה	PREPOSITION+CONJ:NOUN-F,S,ABS:	ל	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לנוירולוג	PREPOSITION:NOUN-M,S,CONST:	נוירולוג	B-NP	Neurologist-C0237426
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

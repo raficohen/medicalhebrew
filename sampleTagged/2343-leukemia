@@ -1,0 +1,36 @@
+לפני	:PREPOSITION:	לפני	O	O
+קביעת	:NOUN-F,S,CONST:	קביעה	B-NP	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	I-NP	diagnosis-C0011900
+כדאי	:MODAL:	כדאי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שוב	:ADVERB:	שוב	O	O
+.	:PUNCUATION:	.	O	O
+
+הפעם	:ADVERB:	הפעם	O	O
+לחכות	:VERB-TOINFINITIVE:	חיכה	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+לאחר	:PREPOSITION:	לאחר	O	O
+סיום	:NOUN-M,S,CONST:	סיום	B-NP	End-C0444930
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והממצאים	CONJ+DEF:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+חוזרים	:VERB-M,P,A,BEINONI:	חזר	O	O
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+הערכה	:NOUN-F,S,ABS:	הערכה	B-NP	O
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

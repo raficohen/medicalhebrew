@@ -1,0 +1,37 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+הדימום	DEF:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+"	:PUNCUATION:	"	I-NP	O
+הממושך	DEF:ADJECTIVE-M,S,ABS:	ממושך	I-NP	O
+"	:PUNCUATION:	"	O	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+במסגרת	PREPOSITION:NOUN-F,S,CONST:	מסגרת	O	O
+הנורמלי	DEF:ADJECTIVE-M,S,ABS:	נורמלי	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לבחון	:VERB-TOINFINITIVE:	בחן	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+,	:PUNCUATION:	,	O	O
+שכן	:CONJUNCTION:	שכן	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בטסיות	PREPOSITION:NOUN-F,P,ABS:	טסיותות	B-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+והפרעות	CONJ:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+להביע	:VERB-TOINFINITIVE:	הביע	O	O
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+ממושך	:ADJECTIVE-M,S,ABS:	ממושך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

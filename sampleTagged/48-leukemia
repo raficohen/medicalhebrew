@@ -1,0 +1,34 @@
+אלו	:PRONOUN-MF,P,3:	אלו	B-NP	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+חלקיות	:ADJECTIVE-F,P,ABS:	חלקי	I-NP	O
+ואי	CONJ:PREFIX:	אי	O	Islands-C0022130
+אפשר	:MODAL:	אפשר	O	O
+לאבחן	:VERB-TOINFINITIVE:	אבחן	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+....	:PUNCUATION:	....	O	O
+
+לציין	:VERB-TOINFINITIVE:	ציין	O	O
+שה	:NOUN-M,S,ABS:	שה	B-NP	O
+MCV	:FOREIGN:	MCV	I-NP	O
+המוגבר	DEF:ADJECTIVE-M,S,ABS:	מוגבר	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להעיד	:VERB-TOINFINITIVE:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+חסר	:NOUN-M,S,CONST:	חסר	B-NP	O
+וויט	:PROPERNAME:	וויט	I-NP	O
+ב	PREPOSITION::		B-NP	O
+12	:NUMERAL:	###NUMBER###	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+ח'	:ADVERB:	ח'	I-NP	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לביצוע	PREPOSITION:NOUN-M,S,CONST:	ביצוע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אלא	:CONJUNCTION:	אלא	O	O
+וגם	CONJ:CONJUNCTION:	גם	B-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+

@@ -1,0 +1,96 @@
+שני	:NOUN-M,S,CONST:	שני	B-NP	second-C0205436-ambigous
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הבנתי	:VERB-MF,S,1,PAST:	הבין	O	O
+נכון	:ADVERB:	נכון	O	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+לפני	:PREPOSITION:	לפני	O	O
+כחמישה	PREPOSITION:NUMERAL-M,P,ABS:	CARD5	B-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+.	:PUNCUATION:	.	O	O
+
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+הסיכוי	DEF:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+לחזה	PREPOSITION:NOUN-M,S,CONST:	חזה	O	chest-C0817096
+אויר	:NOUN-M,S,ABS:	אוויר	B-NP	Air-C0001861
+חוזר	:ADJECTIVE-M,S,ABS:	חוזר	I-NP	O
+בצד	PREPOSITION+DEF:NOUN-M,S,ABS:	צד	B-NP	side-C0441987
+המנותח	DEF:PARTICIPLE-M,S,A,ABS:	נותח	O	O
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+.	:PUNCUATION:	.	O	O
+
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+בצד	PREPOSITION:NOUN-M,S,CONST:	צד	B-NP	side-C0441987
+השני	DEF:NOUN-M,S,ABS:	שני	I-NP	second-C0205436-ambigous
+לפני	:PREPOSITION:	לפני	O	O
+שממליצים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	המליץ	B-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+על	:PREPOSITION:	על	O	O
+פעילות	:NOUN-F,S,ABS:	פעילות	B-NP	activity-C0441655
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפעילויות	DEF:NOUN-F,P,ABS:	פעילות	B-NP	activity-C0441655
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מציין	:VERB-M,S,A,BEINONI:	ציין	O	O
+עלולות	:ADJECTIVE-F,P,ABS:	עלול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מסוכנות	:ADJECTIVE-F,P,ABS:	מסוכן	O	O
+עבור	:PREPOSITION:	עבור	O	O
+מישהוא	:NOUN-M,S,ABS:	מישהו	B-NP	O
+שפוטנציאלית	REL-SUBCONJ:ADJECTIVE-F,S,ABS:	פוטנציאלי	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+לו	:CONJUNCTION:	לו	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+אויר	:NOUN-M,S,ABS:	אוויר	I-NP	Air-C0001861
+ספונטני	:ADJECTIVE-M,S,ABS:	ספונטני	I-NP	spontaneous-C0205359
+.	:PUNCUATION:	.	O	O
+
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+CT	:FOREIGN:	CT	O	O
+של	:SHEL_PREP:	של	O	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+(	:PUNCUATION:	(	O	O
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+ביצעת	:VERB-F,S,2,PAST:	ביצע	O	O
+)	:PUNCUATION:	)	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+שהריאות	REL-SUBCONJ+DEF:NOUN-F,P,ABS:	ריאה	B-NP	lung-C0024109
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	I-NP	O
+,	:PUNCUATION:	,	O	O
+וא	:PROPERNAME:	וא	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+וא''כ	:PROPERNAME:	וא''ך	I-NP	O
+שוקל	:VERB-M,S,A,BEINONI:	שקל	O	O
+אם	:CONJUNCTION:	אם	O	O
+להגביל	:VERB-TOINFINITIVE:	הגביל	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+בסוג	PREPOSITION:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פעילות	:NOUN-F,S,ABS:	פעילות	I-NP	activity-C0441655
+.	:PUNCUATION:	.	O	O
+
+תודה	:INTERJECTION:	תודה	O	O
+ושבוע	CONJ:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+ובטוח	CONJ:ADJECTIVE-M,S,ABS:	בטוח	I-NP	O
+.	:PUNCUATION:	.	O	O
+

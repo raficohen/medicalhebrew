@@ -1,0 +1,33 @@
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+תת	:PREFIX:	תת	I-NP	O
+אוכלוסיות	:NOUN-F,P,ABS:	אוכלוסייה	I-NP	population-C0032659
+של	:SHEL_PREP:	של	I-NP	O
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לבנים	:ADJECTIVE-M,P,ABS:	לבן	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+קשה	:ADJECTIVE-F,S,ABS:	קשה	O	O
+לכימות	PREPOSITION+DEF:NOUN-M,S,ABS:	כימות	O	O
+,	:PUNCUATION:	,	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+חריגות	:NOUN-F,P,ABS:	חריגה	B-NP	O
+קלות	:ADJECTIVE-F,P,ABS:	קל	I-NP	O
+הן	:CONJUNCTION:	הן	O	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+חסרות	:ADJECTIVE-F,P,ABS:	חסר	O	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	B-NP	importance-C1705104
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION:NOUN-F,S,CONST:	אם	B-NP	Mother-C0026591-ambigous
+ההפרעה	DEF:NOUN-F,S,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+נמשכת	:VERB-F,S,A,BEINONI:	נמשך	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+ממושך	:ADJECTIVE-M,S,ABS:	ממושך	I-NP	O
+הסבירות	DEF:NOUN-F,S,ABS:	סבירות	B-NP	Probability-C0033204
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לחריגה	PREPOSITION:NOUN-F,S,ABS:	חריגה	B-NP	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+יורדת	:VERB-F,S,A,BEINONI:	ירד	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,78 @@
+אם	:CONJUNCTION:	אם	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+8	:NUMERAL:	###NUMBER###	I-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+ומאומה	CONJ:NOUN-F,S,ABS:	מאומה	O	O
+לא	:NEGATION:	לא	O	O
+קרה	:VERB-M,S,3,PAST:	קרה	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+שכדאי	REL-SUBCONJ:MODAL:	כדאי	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+לאור	:PREPOSITION:	לאור	B-NP	O
+הפגמים	DEF:NOUN-M,P,ABS:	פגם	I-NP	Defect-C1457869
+בפקטורי	PREPOSITION:NOUN-M,P,CONST:	פקטור	B-NP	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+האם	:INTERROGATIVE:	האם	O	O
+האנדומטריוזיס	DEF:NOUN-F,S,ABS:	האנדומטריוזיס	B-NP	O
+מחייבת	:VERB-F,S,A,BEINONI:	חייב	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ואם	CONJ:CONJUNCTION:	אם	O	O
+הגלולות	DEF:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+יעילות	:NOUN-F,S,ABS:	יעילות	B-NP	efficiency-C0013682
+כפי	:CONJUNCTION:	כפי	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מציינת	:VERB-F,S,A,BEINONI:	ציין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מוצא	:NOUN-M,S,ABS:	מוצא	B-NP	origin-C0439659
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+על	:PREPOSITION:	על	I-NP	O
+כך	:PRONOUN:	כך	B-NP	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+הנשים	DEF:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+ברירה	:NOUN-F,S,ABS:	ברירה	B-NP	O
+יתכן	:MODAL:	ייתכן	O	O
+ותוך	CONJ:PREPOSITION:	תוך	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זמני	:ADJECTIVE-M,S,ABS:	זמני	I-NP	O
+באנדומטריוזיס	PREPOSITION:NOUN-M,S,ABS:	אנדומטריוזיס	B-NP	endometriosis-C0014175
+כדאי	:MODAL:	כדאי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+מניעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	מניעה	I-NP	prevention-C0199176
+לתקופה	PREPOSITION:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+מוגבלת	:ADJECTIVE-F,S,ABS:	מוגבל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+על	:PREPOSITION:	על	O	O
+כדורים	:NOUN-M,P,ABS:	כדור	B-NP	Pills-C0994475
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+-	:PUNCUATION:	-	O	O
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+ג"כ	:PREPOSITION:	ג"כ	O	O
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+הנשים	DEF:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+.	:PUNCUATION:	.	O	O
+

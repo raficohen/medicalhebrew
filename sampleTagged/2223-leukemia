@@ -1,0 +1,39 @@
+המדד	DEF:NOUN-M,S,ABS:	מדד	B-NP	index-C0918012
+החשוב	DEF:ADJECTIVE-M,S,ABS:	חשוב	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+היחס	DEF:NOUN-M,S,ABS:	יחס	B-NP	relations-C0869014
+בין	:PREPOSITION:	בין	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+לטרנספרין	PREPOSITION:NOUN-M,S,ABS:	טרנספרין	B-NP	transferrin-C0040679
+.	:PUNCUATION:	.	O	O
+
+היחס	DEF:NOUN-M,S,ABS:	יחס	B-NP	relations-C0869014
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להשתנות	:VERB-TOINFINITIVE:	השתנה	O	urination-C0042034
+במיגוון	PREPOSITION:NOUN-M,S,CONST:	מגוון	O	Diversity-C1880371
+מצבים	:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+ולא	CONJ:NEGATION:	לא	O	O
+רק	:CONJUNCTION:	רק	O	O
+בחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ולאחרון	PREPOSITION+CONJ+DEF:ADJECTIVE-M,S,ABS:	ל	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+הסבר	:NOUN-M,S,ABS:	הסבר	B-NP	explanation-C0681841
+מספק	PREPOSITION:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+,	:PUNCUATION:	,	O	O
+פנה	:VERB-M,S,3,PAST:	פנה	O	O
+להמטולוג	:PROPERNAME:	להמטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

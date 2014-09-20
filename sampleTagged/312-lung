@@ -1,0 +1,27 @@
+בגילך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	גיל	B-NP	O
+גידוךים	:PARTICIPLE-M,P,A,ABS:	גידוךים	O	O
+בראות	PREPOSITION:NOUN-F,S,CONST:	ראות	B-NP	O
+נדירים	:ADJECTIVE-M,P,ABS:	נדיר	I-NP	O
+מאד	:ADVERB:	מאוד	I-NP	O
+יחד	:ADVERB:	יחד	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+כדאי	:MODAL:	כדאי	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+ראות	:NOUN-F,S,ABS:	ראות	B-NP	O
+בהקדם	:ADVERB:	בהקדם	I-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+שיוכל	REL-SUBCONJ:MODAL-M,S,2,FUTURE:	יכול	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ולברר	CONJ:VERB-TOINFINITIVE:	בירר	O	O
+מצבך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	מצב	B-NP	Condition-C0348080
+ולהמליץ	CONJ:VERB-TOINFINITIVE:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

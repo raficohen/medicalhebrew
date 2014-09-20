@@ -1,0 +1,29 @@
+לגבי	:PREPOSITION:	לגבי	O	O
+קשרית	:NOUN-F,S,ABS:	קשר	B-NP	connection-C0449379
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ואת	CONJ:AT_PREP:	את	B-NP	O
+ה	DEF::	ה	I-NP	O
+סיטי	:NOUN-F,S,ABS:	סיטי	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ראות	:NOUN-F,S,ABS:	ראות	I-NP	O
+ולהתרשם	CONJ:VERB-TOINFINITIVE:	התרשם	O	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+רק	:CONJUNCTION:	רק	B-NP	O
+מעקב	:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+אבל	:CONJUNCTION:	אבל	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+מאד	:ADVERB:	מאוד	O	O
+!	:PUNCUATION:	!	O	O
+
+שיראה	REL-SUBCONJ:VERB-M,S,3,FUTURE:	ראה	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

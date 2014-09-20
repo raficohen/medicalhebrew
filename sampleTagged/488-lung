@@ -1,0 +1,23 @@
+כנראה	:ADVERB:	כנראה	O	O
+שעצם	REL-SUBCONJ:NOUN-M,S,CONST:	עצם	B-NP	bone-C0262950
+הסטרנום	DEF:NOUN-M,S,ABS:	הסטרנום	I-NP	O
+נשברה	:VERB-F,S,3,PAST:	נשבר	O	O
+וכעת	CONJ:ADVERB:	כעת	O	O
+התאחתה	:VERB-F,S,3,PAST:	התאחה	O	O
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+,	:PUNCUATION:	,	O	O
+בוא	:VERB-M,S,2,IMPERATIVE:	בא	O	O
+נחכה	:VERB-MF,P,1,FUTURE:	חיכה	O	O
+מספר	PREPOSITION:NOUN-M,S,CONST:	ספר	B-NP	Books-C0006002
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+ואם	CONJ:CONJUNCTION:	אם	O	O
+התוצאה	DEF:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+הקוסמטית	DEF:ADJECTIVE-F,S,ABS:	קוסמטי	I-NP	O
+בעיתית	:ADVERB:	בעיתית	O	O
+נבדוק	:VERB-MF,P,1,FUTURE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+הענין	DEF:NOUN-M,S,ABS:	עניין	I-NP	O
+בשנית	:ADVERB:	בשנית	O	O
+

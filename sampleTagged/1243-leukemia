@@ -1,0 +1,28 @@
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+הן	:CONJUNCTION:	הן	B-NP	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+יותר	:ADVERB:	יותר	I-NP	O
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ואם	CONJ:CONJUNCTION:	אם	O	O
+בוצעה	:VERB-F,S,3,PAST:	בוצע	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+והפריטין	CONJ+DEF:NOUN-M,S,ABS:	הפריטין	I-NP	O
+בדם	PREPOSITION+DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+

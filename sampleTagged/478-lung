@@ -1,0 +1,19 @@
+אלון	:PROPERNAME:	אלון	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+שתטוס	REL-SUBCONJ:VERB-F,S,3,FUTURE:	טס	O	O
+ההגבלה	DEF:NOUN-F,S,ABS:	הגבלה	B-NP	O
+היחידה	DEF:ADJECTIVE-F,S,ABS:	יחיד	I-NP	O
+הינה	:ADVERB:	הינה	I-NP	O
+בצלילה	PREPOSITION+DEF:NOUN-F,S,ABS:	צלילה	B-NP	O
+תדאג	:VERB-F,S,3,FUTURE:	דאג	O	O
+לנסוע	:VERB-TOINFINITIVE:	נסע	O	O
+למקומות	PREPOSITION:NOUN-M,P,ABS:	מקום	B-NP	place-C0442504
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+גישה	:NOUN-F,S,ABS:	גישה	B-NP	approach-C0449445
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+

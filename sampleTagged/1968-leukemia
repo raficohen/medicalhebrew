@@ -1,0 +1,37 @@
+סה"כ	:ADVERB:	סה"כ	O	O
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+העליון	DEF:ADJECTIVE-M,S,ABS:	עליון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+רטיקולוציטים	:NOUN-M,S,ABS:	רטיקולוציטים	I-NP	O
+,	:PUNCUATION:	,	O	O
+תיפקודי	:NOUN-M,S,ABS:POSSESIVE-MF,S,1	תפקוד	B-NP	Function-C0542341
+כבד	:ADJECTIVE-M,S,ABS:	כבד	I-NP	liver-C0023884
+,	:PUNCUATION:	,	O	O
+תרופות	:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+,	:PUNCUATION:	,	O	O
+פגיעה	:NOUN-F,S,ABS:	פגיעה	B-NP	O
+ראשונית	:ADJECTIVE-F,S,ABS:	ראשוני	I-NP	O
+בלשד	PREPOSITION:NOUN-M,S,CONST:	לשד	B-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+.	:PUNCUATION:	.	O	O
+
+הכל	DEF:QUANTIFIER:	כול	B-NP	O
+נכון	:ADJECTIVE-M,S,ABS:	נכון	O	O
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+MCV	:FOREIGN:	MCV	O	O
+הרבה	:ADVERB:	הרבה	O	O
+יותר	:ADVERB:	יותר	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+,	:PUNCUATION:	,	O	O
+וזה	CONJ:PRONOUN-M,S,3:	זה	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+סה"כ	:ADVERB:	סה"כ	O	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+

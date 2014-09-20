@@ -1,0 +1,30 @@
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ובוצעו	CONJ:VERB-MF,P,3,PAST:	בוצע	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+יתר	:NOUN-M,S,CONST:	יתר	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+והן	CONJ:CONJUNCTION:	הן	B-NP	O
+תקינות	:NOUN-F,P,ABS:	תקינה	I-NP	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+Potein	:FOREIGN:	Potein	I-NP	O
+C+S	:FOREIGN:	C+S	I-NP	O
+ואם	CONJ:CONJUNCTION:	אם	I-NP	O
+הממצאים	DEF:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+באותו	PREPOSITION:QUANTIFIER-CONST:	אותו	B-NP	O
+סדר	:NOUN-M,S,CONST:	סדר	I-NP	O
+גודל	:NOUN-M,S,ABS:	גודל	I-NP	size-C0456389
+לא	:NEGATION:	לא	O	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+להימנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מטיפולי	PREPOSITION:NOUN-M,P,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+פוריות	:NOUN-F,S,ABS:	פוריות	O	O
+

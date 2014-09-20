@@ -1,0 +1,26 @@
+בהחלט	:ADVERB:	בהחלט	O	O
+ערך	:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בעל	:NOUN-M,S,CONST:	בעל	B-NP	husband-C0242664
+משמעות	:NOUN-F,S,ABS:	משמעות	I-NP	significance-C0237881
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+.	:PUNCUATION:	.	O	O
+
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לייעוץ	PREPOSITION:NOUN-M,S,ABS:	ייעוץ	B-NP	counselling-C0010210
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+4	:NUMERAL:	###NUMBER###	B-NP	O
+עיניים	:NOUN-F,P,ABS:	עין	I-NP	eyes-C0015392
+איתי	:AT_PREP:PRONOMIAL-MF,S,1	את	B-NP	O
+או	:CONJUNCTION:	או	O	O
+עם	:PREPOSITION:	עם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

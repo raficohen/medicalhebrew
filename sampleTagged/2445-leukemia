@@ -1,0 +1,42 @@
+לא	:NEGATION:	לא	O	O
+אוכל	:VERB-M,S,A,BEINONI:	אכל	O	O
+לסייע	:VERB-TOINFINITIVE:	סייע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+כיצד	:ADVERB:	כיצד	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להשיג	:VERB-TOINFINITIVE:	השיג	O	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+בתילנד	:PROPERNAME:	בתילנד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+גם	:CONJUNCTION:	גם	O	O
+לא	:NEGATION:	לא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+זמן	:NOUN-M,S,CONST:	זמן	B-NP	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+של	:SHEL_PREP:	של	I-NP	O
+אדקס	:NOUN-M,S,ABS:	אדקס	I-NP	ibuprofen-C0020740
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+לא	:NEGATION:	לא	O	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+ממשית	:ADJECTIVE-F,S,ABS:	ממשי	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+חלף	:VERB-M,S,3,PAST:	חלף	O	O
+יותר	:ADVERB:	יותר	B-NP	O
+מיום	PREPOSITION:NOUN-M,S,ABS:	יום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

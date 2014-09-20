@@ -1,0 +1,26 @@
+יתכן	:MODAL:	ייתכן	O	O
+שלאמך	PREPOSITION+REL-SUBCONJ:NOUN-F,S,ABS:POSSESIVE-F,S,2	ל	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לויקימיה	:PROPERNAME:	לויקימיה	B-NP	O
+ובנוסף	CONJ:ADVERB:	בנוסף	B-NP	O
+תסנינים	:NOUN-M,P,ABS:	תסנין	I-NP	O
+בעור	PREPOSITION:NOUN-M,S,ABS:	עור	B-NP	skin-C0444099
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+בסוג	PREPOSITION:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+מסויים	:ADJECTIVE-M,S,ABS:	מסוים	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+AML	:FOREIGN:	AML	I-NP	O
+בדרך	PREPOSITION:NOUN-F,S,ABS:	דרך	O	Through-C0332273-ambigous
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+התסנינם	:PROPERNAME:	התסנינם	B-NP	O
+נעלמים	:VERB-M,P,A,BEINONI:	נעלם	O	O
+עם	:PREPOSITION:	עם	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

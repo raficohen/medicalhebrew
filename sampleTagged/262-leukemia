@@ -1,0 +1,22 @@
+פגם	:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+נפוץ	:ADJECTIVE-M,S,ABS:	נפוץ	O	O
+מאוד	:ADVERB:	מאוד	O	O
+אך	:CONJUNCTION:	אך	O	O
+אי	:PREFIX:	אי	O	Islands-C0022130
+אפשר	:MODAL:	אפשר	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+ה	DEF::	ה	B-NP	O
+PE	:FOREIGN:	PE	I-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+או	:CONJUNCTION:	או	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+הנחיות	:NOUN-F,P,ABS:	הנחיה	O	O
+

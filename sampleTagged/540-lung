@@ -1,0 +1,28 @@
+חיסון	:NOUN-M,S,ABS:	חיסון	B-NP	vaccine-C0042210
+לכול	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+?	:PUNCUATION:	?	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+שמעתי	:VERB-MF,S,1,PAST:	שמע	O	O
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	B-NP	O
+,	:PUNCUATION:	,	O	O
+על	:PREPOSITION:	על	O	O
+חיסון	:NOUN-M,S,ABS:	חיסון	B-NP	vaccine-C0042210
+כן	:CONJUNCTION:	כן	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+נגד	:PREPOSITION:	נגד	O	O
+דלקת ריאות	:TERM:	דלקת ריאות	O	pneumonia-C0032285
+(	:PUNCUATION:	(	O	O
+שמחולליה	REL-SUBCONJ:NOUN-M,P,ABS:POSSESIVE-F,S,3	מחולל	B-NP	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+רבים	:ADJECTIVE-M,P,ABS:	רב	O	O
+ושונים	CONJ:ADJECTIVE-M,P,ABS:	שונה	O	O
+)	:PUNCUATION:	)	O	O
+לכול	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	B-NP	life-C0376558
+לא	:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,32 @@
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	O	O
+"	:PUNCUATION:	"	B-NP	O
+נטייה	:NOUN-F,S,ABS:	נטייה	I-NP	O
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:ADVERB:	כדאי	O	O
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+באם	PREPOSITION:NOUN-F,S,CONST:	אם	B-NP	Mother-C0026591-ambigous
+הדימום	DEF:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+מילדותי	PREPOSITION:ADJECTIVE-M,S,ABS:	ילדותי	O	O
+שיגרתי	:ADJECTIVE-M,S,ABS:	שגרתי	O	O
+ורק	CONJ:CONJUNCTION:	רק	O	O
+אחר	:PREPOSITION:	אחר	O	O
+כך	:PRONOUN:	כך	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+עם	:PREPOSITION:	עם	O	O
+יש	:NOUN-M,S,CONST:	יש	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

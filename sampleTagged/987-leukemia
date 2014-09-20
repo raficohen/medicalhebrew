@@ -1,0 +1,27 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+לא	:NEGATION:	לא	O	O
+מחייבת	:VERB-F,S,A,BEINONI:	חייב	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לתופעות	PREPOSITION:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	O	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

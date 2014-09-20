@@ -1,0 +1,33 @@
+בנוכחות	PREPOSITION:NOUN-F,S,ABS:	נוכחות	B-NP	presence-C0392148
+רמות	:ADJECTIVE-F,P,ABS:	רם	I-NP	O
+נוגברות	:ADJECTIVE-F,P,CONST:	נוגברות	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פקטורים	:NOUN-M,P,ABS:	פקטור	I-NP	O
+9	:NUMERAL:	###NUMBER###	B-NP	O
+ו	CONJ::		O	O
+-	:PUNCUATION:	-	O	O
+11	:NUMERAL:	###NUMBER###	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+דיווחים	:NOUN-M,P,ABS:	דיווח	B-NP	O
+על	:PREPOSITION:	על	O	O
+עליה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+בקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+,	:PUNCUATION:	,	O	O
+האם	:INTERROGATIVE:	האם	O	O
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+את	:AT_PREP:	את	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להיועץ	PREPOSITION+DEF:NOUN-M,S,ABS:	יועץ	B-NP	O
+ברופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+לאור	:PREPOSITION:	לאור	O	O
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	B-NP	anamnesis-C0021055
+אישית	:ADJECTIVE-F,S,ABS:	אישי	I-NP	O
+ומשפחתית	CONJ:ADJECTIVE-F,S,ABS:	משפחתי	I-NP	familial-C0015576
+של	:SHEL_PREP:	של	I-NP	O
+אירועים	:NOUN-M,P,ABS:	אירוע	I-NP	event-C0441471
+טרומבוטיים	:ADVERB:	טרומבוטיים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

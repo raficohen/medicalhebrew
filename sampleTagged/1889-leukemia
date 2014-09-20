@@ -1,0 +1,37 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	O	examination-C0031809
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	O	O
+.	:PUNCUATION:	.	O	O
+
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+עם	:PREPOSITION:	עם	O	O
+ווריאביליות	CONJ:ADJECTIVE-F,P,CONST:	וריאביליות	B-NP	O
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	O	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+2	:NUMERAL:	###NUMBER###	I-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	I-NP	values-C0042295
+הם	:PRONOUN-M,P,3:	הוא	O	O
+בטווח	PREPOSITION:NOUN-M,S,CONST:	טווח	B-NP	long-term-C0443252
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+וזה	CONJ:PRONOUN-M,S,3:	זה	O	O
+בסדר	:ADVERB:	בסדר	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	O	O
+לוי	:PROPERNAME:	לוי	B-NP	O
+

@@ -1,0 +1,51 @@
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+כפי	:CONJUNCTION:	כפי	O	O
+שמופיעות	REL-SUBCONJ:VERB-F,P,A,BEINONI:	הופיע	O	O
+בבי"ח	PREPOSITION:NOUN-M,S,ABS:	בי"ח	B-NP	O
+נראות	:VERB-F,P,A,BEINONI:	נראה	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+ועלה	CONJ:VERB-M,S,3,PAST:	עלה	O	O
+חשש	:NOUN-M,S,ABS:	חשש	B-NP	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+בקופ"ח	PREPOSITION:PROPERNAME:	קופ"ח	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לסגור	:VERB-TOINFINITIVE:	סגר	O	O
+את	:AT_PREP:	את	B-NP	O
+העיניין	DEF:NOUN-M,S,ABS:	העיניין	I-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+שוב	:ADVERB:	שוב	O	O
+בעוד	:PREPOSITION:	בעוד	O	O
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+הנ"ל	DEF:ADJECTIVE-M,S,ABS:	הנ"ל	I-NP	O
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+ילדים	:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+.	:PUNCUATION:	.	O	O
+
+ללא	:PREPOSITION:	ללא	O	O
+פרטיים	:ADJECTIVE-M,P,ABS:	פרטי	O	O
+על	:PREPOSITION:	על	O	O
+ההיסטוריה	DEF:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	O	O
+ומשפחתית	CONJ:ADJECTIVE-F,S,ABS:	משפחתי	O	familial-C0015576
+של	:SHEL_PREP:	של	O	O
+הילד	DEF:NOUN-M,S,ABS:	ילד	B-NP	children-C0008059
+קשה	:ADVERB:	קשה	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+ההפרעות	DEF:NOUN-F,P,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+האפשריות	DEF:ADJECTIVE-F,P,ABS:	אפשרי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

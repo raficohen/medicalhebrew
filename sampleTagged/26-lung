@@ -1,0 +1,47 @@
+סוהא	:PROPERNAME:	סוהא	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+-	:PUNCUATION:	-	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+באפשרותי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	אפשרות	B-NP	Ability-C0085732-ambigous
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+מבלי	:CONJUNCTION:	מבלי	O	O
+להכיר	:VERB-TOINFINITIVE:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+ההיסטוריה	DEF:NOUN-F,S,ABS:	היסטוריה	I-NP	history-C0019664
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+ומבלי	CONJ:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+.	:PUNCUATION:	.	O	O
+
+חזרי	:VERB-F,S,2,IMPERATIVE:	חזר	O	O
+בבקשה	PREPOSITION:NOUN-F,S,ABS:	בקשה	B-NP	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שמכיר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הכיר	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ועוקב	CONJ:VERB-M,S,A,BEINONI:	עקב	O	O
+אחר	:PREPOSITION:	אחר	O	O
+הממצאים	DEF:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+בבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+שיסביר	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+את	:AT_PREP:	את	B-NP	O
+הממצאים	DEF:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

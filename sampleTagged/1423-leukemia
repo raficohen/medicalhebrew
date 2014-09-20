@@ -1,0 +1,47 @@
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בתופעות	PREPOSITION:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+של	:SHEL_PREP:	של	I-NP	O
+לחץ	:NOUN-M,S,ABS:	לחץ	I-NP	pressure-C0033095
+עצבי	:ADJECTIVE-M,S,ABS:	עצבי	I-NP	O
+מישיבה	PREPOSITION:NOUN-F,S,ABS:	ישיבה	B-NP	O
+ממושכת	:ADJECTIVE-F,S,ABS:	ממושך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+אישי	:ADJECTIVE-M,S,ABS:	אישי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+משפחתי	:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+של	:SHEL_PREP:	של	I-NP	O
+טרומבוזות	:PROPERNAME:	טרומבוזות	I-NP	O
+בעבר	PREPOSITION:NOUN-M,S,CONST:	עבר	O	past-C1444637
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+קטן	:ADJECTIVE-M,S,ABS:	קטן	O	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+שישמע	REL-SUBCONJ:VERB-M,S,3,FUTURE:	שמע	O	O
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	B-NP	anamnesis-C0021055
+יותר	:ADVERB:	יותר	I-NP	O
+מדויקת	:ADJECTIVE-F,S,ABS:	מדויק	I-NP	O
+אפשר	:ADVERB:	אפשר	I-NP	O
+למצא	PREPOSITION:PROPERNAME:	מצא	O	O
+תור	:NOUN-M,S,ABS:	תור	B-NP	turn-C1709743
+מוקדם	:ADJECTIVE-M,S,ABS:	מוקדם	I-NP	O
+דרך	:PREPOSITION:	דרך	O	O
+המושלם	DEF:ADJECTIVE-M,S,ABS:	מושלם	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הקופות	DEF:NOUN-F,P,ABS:	קוף	I-NP	Monkeys-C0026447
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	O	O
+.	:PUNCUATION:	.	O	O
+
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

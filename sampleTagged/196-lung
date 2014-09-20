@@ -1,0 +1,43 @@
+גם	:CONJUNCTION:	גם	B-NP	O
+עישון פסיבי	:TERM:	עישון פסיבי	O	passive smoking-C0037370
+עלול	:MODAL-M,S,A:	עלול	O	O
+להזיק	:VERB-TOINFINITIVE:	הזיק	O	O
+אם	:CONJUNCTION:	אם	O	O
+כי	:CONJUNCTION:	כי	O	O
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	B-NP	O
+פחות	:ADVERB:	פחות	O	O
+מעישון	PREPOSITION:NOUN-M,S,ABS:	עישון	O	smoking-C0037369
+רגיל	:ADJECTIVE-M,S,ABS:	רגיל	O	O
+כנראה	:ADVERB:	כנראה	O	O
+שבני	REL-SUBCONJ:NOUN-M,P,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+ביתך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	בית	I-NP	house-C2003847
+לא	:NEGATION:	לא	O	O
+רוצים	:VERB-M,P,A,BEINONI:	רצה	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+לעשן	PREPOSITION:NOUN-M,S,ABS:	עשן	B-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להגדיר	:VERB-TOINFINITIVE:	הגדיר	O	O
+איזור	:NOUN-M,S,ABS:	איזור	B-NP	O
+בבית	PREPOSITION+DEF:NOUN-M,S,ABS:	בית	B-NP	house-C2003847
+שבו	:VERB-MF,P,2,IMPERATIVE:	ישב	O	O
+יעשנו	:VERB-MF,P,3,FUTURE:	עישן	O	O
+ואולי	CONJ:ADVERB:	אולי	O	O
+להשיג	:VERB-TOINFINITIVE:	השיג	O	O
+מעפרות	PREPOSITION:NOUN-F,P,ABS:	עפרה	B-NP	O
+שיונקות	REL-SUBCONJ:VERB-F,P,A,BEINONI:	ינק	O	O
+עשן	:NOUN-M,S,ABS:	עשן	B-NP	O
+כמו	:CONJUNCTION:	כמו	O	O
+שרואים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	ראה	O	O
+בשדות	PREPOSITION:NOUN-M,P,CONST:	שדה	B-NP	O
+התעופה	DEF:NOUN-F,S,ABS:	תעופה	I-NP	O
+הגדולים	DEF:ADJECTIVE-M,P,ABS:	גדול	I-NP	O
+באירופה	PREPOSITION:PROPERNAME:	אירופה	B-NP	O
+(	:PUNCUATION:	(	O	O
+איני	:ADJECTIVE-M,S,ABS:	איני	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+כיתד	PREPOSITION:PROPERNAME:	יתד	B-NP	O
+להשיגם	:VERB-TOINFINITIVE:ACC-NOM-M,P,3	השיג	O	O
+)	:PUNCUATION:	)	O	O
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	O	success-C0597535
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

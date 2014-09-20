@@ -1,0 +1,64 @@
+הנפיחות	DEF:NOUN-F,S,ABS:	נפיחות	B-NP	swelling-C0013604
+ברגל	PREPOSITION+DEF:NOUN-F,S,ABS:	רגל	B-NP	foot-C0016504
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להמשך	:VERB-TOINFINITIVE:	נמשך	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+ולעיתים	CONJ:ADVERB:	לעתים	O	O
+לא	:NEGATION:	לא	O	O
+חולפת	:VERB-F,S,A,BEINONI:	חלף	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+פגיעה	:NOUN-F,S,ABS:	פגיעה	B-NP	O
+בורידים	PREPOSITION:NOUN-M,P,ABS:	וריד	B-NP	vein-C0042449
+.	:PUNCUATION:	.	O	O
+
+כדאי	:ADVERB:	כדאי	O	O
+מאוד	:ADVERB:	מאוד	O	O
+לגרוב	:VERB-TOINFINITIVE:	גרב	O	O
+גרב	:NOUN-M,S,ABS:	גרב	B-NP	O
+אלסטית	:NOUN-F,S,ABS:	אלסטית	I-NP	O
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הורמונלי	:ADJECTIVE-M,S,ABS:	הורמונלי	I-NP	Hormonal-C0458083
+כגון	:PREPOSITION:	כגון	O	O
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+מומלצות	:VERB-F,P,A,BEINONI:	הומלץ	O	O
+למי	PREPOSITION:INTERROGATIVE:	מי	B-NP	O
+שסבל	REL-SUBCONJ:VERB-M,S,3,PAST:	סבל	O	suffering-C0683278
+מ	:PREPOSITION:	מ	O	O
+-	:PUNCUATION:	-	O	O
+DVT	:FOREIGN:	DVT	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+הגבוה	DEF:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+לחזרת	PREPOSITION:NOUN-F,S,CONST:	חזרה	B-NP	back-C0004600
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+קשרבין	:ADJECTIVE-M,P,ABS:	קשרבין	B-NP	O
+תכשיר	:NOUN-M,S,ABS:	תכשיר	I-NP	Pharmaceutical Preparations-C0013227
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ולבין	CONJ:PREPOSITION:	לבין	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מניעה	:NOUN-F,S,ABS:	מניעה	B-NP	prevention-C0199176
+ליטול	:VERB-TOINFINITIVE:	נטל	O	O
+את	:AT_PREP:	את	B-NP	O
+שני	:NOUN-M,S,CONST:	שני	I-NP	second-C0205436-ambigous
+התכשירים	DEF:NOUN-M,P,ABS:	תכשיר	I-NP	Pharmaceutical Preparations-C0013227
+יחד	:ADVERB:	יחד	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,80 @@
+הקשר	DEF:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+סיבוכי	:NOUN-M,P,CONST:	סיבוך	B-NP	complication-C0009566
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+חד	:PREFIX:	חד	O	O
+משמעי	:ADJECTIVE-M,S,ABS:	משמעי	O	O
+.	:PUNCUATION:	.	O	O
+
+רק	:CONJUNCTION:	רק	O	O
+בשנים	PREPOSITION+DEF:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+האחרונות	DEF:ADJECTIVE-F,P,ABS:	אחרון	I-NP	O
+הנושא	DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+נבדק	:VERB-M,S,3,PAST:	נבדק	O	O
+.	:PUNCUATION:	.	O	O
+
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+עדויות	:NOUN-F,P,ABS:	עדות	B-NP	testimony-C0680706
+חד	:PREFIX:	חד	O	O
+משמעיות	:ADJECTIVE-F,P,ABS:	משמעי	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+הדעות	DEF:NOUN-F,P,ABS:	דעה	B-NP	O
+וההמלצות	CONJ+DEF:NOUN-F,P,ABS:	המלצה	I-NP	recommendation-C0034866
+הן	:PRONOUN-F,P,3:	הוא	B-NP	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+היית	:COPULA-F,S,2,PAST,POSITIVE:	הוא	O	O
+זקוקה	:ADJECTIVE-F,S,ABS:	זקוק	O	O
+לקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	O	heparin-C0019134
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+ראשון	:NUMERAL-M,S,ABS:	ORD1	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	B-NP	O
+החמיר	:VERB-M,S,3,PAST:	החמיר	O	O
+את	:AT_PREP:	את	B-NP	O
+עניין	:NOUN-M,S,CONST:	עניין	I-NP	O
+שדימומים	REL-SUBCONJ:NOUN-M,P,ABS:	דימום	I-NP	hemorrhage-C0019080
+עקב	:PREPOSITION:	עקב	O	O
+היפרדות	:NOUN-F,S,CONST:	היפרדות	B-NP	O
+השלייה	DEF:NOUN-F,S,ABS:	שלייה	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+מכיוון	:CONJUNCTION:	מכיוון	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בנושאים	PREPOSITION:NOUN-M,P,ABS:	נושא	B-NP	Subject-C1706203
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+חד	:PREFIX:	חד	I-NP	O
+משמעית	:ADJECTIVE-F,S,ABS:	משמעי	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתפני	REL-SUBCONJ:VERB-F,S,2,FUTURE:	פנה	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+שיבחן	REL-SUBCONJ:VERB-M,S,3,FUTURE:	בחן	O	O
+את	:AT_PREP:	את	B-NP	O
+העניין	DEF:NOUN-M,S,ABS:	עניין	I-NP	O
+בקפדנות	PREPOSITION:NOUN-F,S,ABS:	קפדנות	B-NP	O
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+4	:NUMERAL:	###NUMBER###	B-NP	O
+עיניים	:NOUN-F,P,ABS:	עין	I-NP	eyes-C0015392
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

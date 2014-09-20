@@ -1,0 +1,65 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+אפשרות	:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלתיך	:PROPERNAME:	שאלתיך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפורום	DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+הנוכחי	DEF:ADJECTIVE-M,S,ABS:	נוכחי	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+בבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+השדיים	DEF:ADJECTIVE-M,P,ABS:	שדי	I-NP	O
+כי	:CONJUNCTION:	כי	O	O
+אם	:CONJUNCTION:	אם	O	O
+בעיקר	:ADVERB:	בעיקר	O	O
+בגידולים	PREPOSITION:NOUN-M,P,ABS:	גידול	B-NP	tumor-C0027651
+ובבעיות	PREPOSITION+CONJ:NOUN-F,P,ABS:	ב	O	O
+כירורגיות	:ADJECTIVE-F,P,ABS:	כירורגיות	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הריאות	DEF:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+והמייצר	CONJ+DEF:PARTICIPLE-M,S,A,ABS:	ייצר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+במקרה	:ADVERB:	במקרה	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לפורום	PREPOSITION:NOUN-M,S,ABS:	פורום	B-NP	O
+באינטרנט	PREPOSITION+DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+כי	:CONJUNCTION:	כי	O	O
+אם	:CONJUNCTION:	אם	O	O
+ללכת	:VERB-TOINFINITIVE:	הלך	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שיבדוק	REL-SUBCONJ:VERB-M,S,3,FUTURE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+בעיקר	:ADVERB:	בעיקר	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+צריכה	:NOUN-F,S,ABS:	צריכה	I-NP	consumption-C0009830
+לגבי	:PREPOSITION:	לגבי	O	O
+החשד	DEF:NOUN-M,S,ABS:	חשד	B-NP	Suspicion-C0242114
+של	:SHEL_PREP:	של	I-NP	O
+גוש	:NOUN-M,S,CONST:	גוש	I-NP	Mass-C0577559
+בשד	PREPOSITION+DEF:NOUN-M,S,ABS:	שד	B-NP	breast-C0006141
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

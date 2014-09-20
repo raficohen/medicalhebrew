@@ -1,0 +1,23 @@
+זיהום	:NOUN-M,S,ABS:	זיהום	B-NP	infection-C0009450
+בדרכי	PREPOSITION:NOUN-F,P,CONST:	דרך	B-NP	Through-C0332273-ambigous
+השתן	DEF:NOUN-M,S,ABS:	שתן	I-NP	urine-C0042036
+ע"י	:PREPOSITION:	ע"י	O	O
+חיידק	:NOUN-M,S,CONST:	חיידק	B-NP	bacterium-C0004611
+E.coli	:FOREIGN:	E.coli	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+לאיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+סוג	:NOUN-M,S,ABS:	סוג	I-NP	kind-C0332307
+של	:SHEL_PREP:	של	I-NP	O
+אנטיביוטיקה	:NOUN-F,S,ABS:	אנטיביוטיקה	I-NP	antibiotics-C0003232
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+רגישות	:NOUN-F,S,ABS:	רגישות	B-NP	sensitivity-C0036667
+ולטפל	CONJ:VERB-TOINFINITIVE:	טיפל	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+,	:PUNCUATION:	,	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+הוראה	:NOUN-F,S,ABS:	הוראה	B-NP	Educational process of instructing-C0039401-ambigous
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+

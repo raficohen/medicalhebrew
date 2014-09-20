@@ -1,0 +1,41 @@
+לתרופות	PREPOSITION:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+נגד	:PREPOSITION:	נגד	O	O
+אפילפסיה	:PROPERNAME:	אפילפסיה	B-NP	epilepsy-C0014544
+עשויות	:ADJECTIVE-F,P,ABS:	עשוי	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+תופעות	:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדי	:CONJUNCTION:	כדי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+מחפשים	:VERB-M,P,A,BEINONI:	חיפש	O	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מהי	:INTERROGATIVE:PRONOMIAL-F,S,3	מה	B-NP	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לנוירולוג	PREPOSITION:NOUN-M,S,CONST:	נוירולוג	B-NP	Neurologist-C0237426
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	I-NP	O
+,	:PUNCUATION:	,	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+/	:PUNCUATION:	/	O	O
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+בוודאי	:ADVERB:	בוודאי	O	O
+יודעים	:VERB-M,P,A,BEINONI:	ידע	O	O
+הכי	:ADVERB:	הכי	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+מהן	PREPOSITION:PRONOUN-F,P,3:	הוא	B-NP	O
+תופעות	:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+הלוואי	DEF:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+השכעחות	DEF:PARTICIPLE-F,P,A,ABS:	השכעחות	O	O
+או	:CONJUNCTION:	או	O	O
+המסוכנות	DEF:ADJECTIVE-F,P,ABS:	מסוכן	O	O
+.	:PUNCUATION:	.	O	O
+

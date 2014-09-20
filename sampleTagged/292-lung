@@ -1,0 +1,52 @@
+אורן	:PROPERNAME-M,S:	אורן	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+קשה	:ADJECTIVE-M,S,ABS:	קשה	I-NP	O
+לומר	:VERB-TOINFINITIVE:	אמר	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מבלי	:CONJUNCTION:	מבלי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+המטופל	DEF:NOUN-M,S,ABS:	מטופל	I-NP	patient-C0030705
+.	:PUNCUATION:	.	O	O
+
+לדבריך	PREPOSITION:NOUN-M,P,ABS:POSSESIVE-F,S,2	דבר	B-NP	O
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+המופק	DEF:PARTICIPLE-M,S,A,ABS:	הופק	O	O
+בתנועה	PREPOSITION+DEF:NOUN-F,S,ABS:	תנועה	B-NP	movement-C0026649
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+מקורו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מקור	B-NP	Source-C0449416
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+(	:PUNCUATION:	(	I-NP	O
+שריר	:NOUN-M,S,ABS:	שריר	I-NP	muscle-C0026845
+,	:PUNCUATION:	,	I-NP	O
+שלד	:NOUN-M,S,ABS:	שלד	I-NP	skeleton-C0037253
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הדבר	DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+עדיין	:ADVERB:	עדיין	O	O
+מתריד	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	תרי	B-NP	O
+-	:PUNCUATION:	-	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

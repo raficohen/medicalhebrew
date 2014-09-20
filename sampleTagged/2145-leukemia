@@ -1,0 +1,46 @@
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+עקרוני	:ADJECTIVE-M,S,ABS:	עקרוני	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	I-NP	O
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אינטראקציה	:NOUN-F,S,ABS:	אינטראקציה	B-NP	O
+בין	:PREPOSITION:	בין	O	O
+אלכוהול	:NOUN-M,S,ABS:	אלכוהול	B-NP	alcohol-C0001962
+או	:CONJUNCTION:	או	O	O
+סמים	:NOUN-M,P,ABS:	סם	B-NP	drug-C0013227
+לבין	:PREPOSITION:	לבין	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+שני	:NUMERAL-M,D,CONST:	CARD2	B-NP	O
+החומרים	DEF:NOUN-M,P,ABS:	חומר	I-NP	material-C0520510
+נמצאים	:VERB-M,P,A,BEINONI:	נמצא	O	O
+ברשימה	PREPOSITION:NOUN-F,S,ABS:	רשימה	B-NP	list-C0745732
+של	:SHEL_PREP:	של	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+זהירות	:NOUN-F,S,ABS:	זהירות	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+"	:PUNCUATION:	"	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+שמי	REL-SUBCONJ:INTERROGATIVE:	מי	B-NP	O
+שצורך	REL-SUBCONJ:VERB-M,S,A,BEINONI:	צרך	O	O
+אלכוהול	:NOUN-M,S,ABS:	אלכוהול	B-NP	alcohol-C0001962
+עשוי	:MODAL-M,S,A:	עשוי	O	O
+ליפול	:VERB-TOINFINITIVE:	נפל	O	stillbirth-C0595939
+ולהחבל	CONJ:VERB-TOINFINITIVE:	נחבל	O	O
+בתדירות	PREPOSITION:NOUN-F,S,ABS:	תדירות	B-NP	Frequencies-C0439603
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+,	:PUNCUATION:	,	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+עשוי	:ADJECTIVE-M,S,ABS:	עשוי	I-NP	O
+ליהות	PREPOSITION:ADJECTIVE-F,P,CONST:	יהות	O	O
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	O	O
+יותר	:ADVERB:	יותר	O	O
+.	:PUNCUATION:	.	O	O
+

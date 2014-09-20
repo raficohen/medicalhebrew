@@ -1,0 +1,24 @@
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+הבילירובין	DEF:NOUN-M,S,ABS:	הבילירובין	I-NP	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+גבוליים	:ADJECTIVE-M,P,ABS:	גבולי	O	borderline-C0205189
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+לא	:NEGATION:	לא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+בערכים	PREPOSITION:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פנה	:VERB-M,S,3,PAST:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	I-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

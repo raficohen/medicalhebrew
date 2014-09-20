@@ -1,0 +1,28 @@
+תלוי	:ADVERB:	תלוי	O	O
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+בהתאוששות	PREPOSITION:NOUN-F,S,CONST:	התאוששות	I-NP	O
+ספירות	:NOUN-F,P,CONST:	ספירה	I-NP	count-C0750480
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ובעיקר	CONJ:ADVERB:	בעיקר	O	O
+בכדוריות	PREPOSITION:NOUN-F,S,CONST:	כדוריות	O	O
+הלבנות	:NOUN-F,P,CONST:	הלבנה	B-NP	O
+והטרומבוציטים	:VERB-M,S,2,IMPERATIVE:	והטרומבוציטים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שהרופאים	REL-SUBCONJ+DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+המטפלים	DEF:PARTICIPLE-M,P,A,ABS:	טיפל	O	O
+נתנו	:VERB-MF,P,3,PAST:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+ההנחיות	DEF:NOUN-F,P,ABS:	הנחיה	I-NP	O
+המתאימות	DEF:ADJECTIVE-F,P,ABS:	מתאים	I-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+המינימלים	DEF:ADJECTIVE-M,P,ABS:	המינימלים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

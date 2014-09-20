@@ -1,0 +1,46 @@
+רידת	:NOUN-M,S,CONST:	רידת	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חוסר	:NOUN-M,S,ABS:	חוסר	B-NP	O
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+וטיפול	CONJ:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+בתכשירים	PREPOSITION:NOUN-M,P,ABS:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+דרך	:PREPOSITION:	דרך	O	O
+הפה	DEF:NOUN-M,S,ABS:	פה	B-NP	Oral cavity-C0226896
+לא	:NEGATION:	לא	O	O
+עוזר	:VERB-M,S,A,BEINONI:	עזר	O	O
+,	:PUNCUATION:	,	O	O
+אזי	:CONJUNCTION:	אזי	O	O
+מתן	:VERB-M,S,3,PAST:	מיתן	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+תוך	:PREPOSITION:	תוך	O	O
+ורידי	:NOUN-M,P,CONST:	וריד	B-NP	vein-C0042449
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+אופציה	:NOUN-F,S,ABS:	אופציה	B-NP	option-C1518601
+ראוייה	:ADJECTIVE-F,S,ABS:	ראוי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גם	:CONJUNCTION:	גם	B-NP	O
+ירידה	:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+תרומבוציטים	:NOUN-F,S,ABS:	תרומבוציטים	I-NP	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+

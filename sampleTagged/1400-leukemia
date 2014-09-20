@@ -1,0 +1,23 @@
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+בידים	PREPOSITION:NOUN-M,S,ABS:	ידים	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פנימאי	:NOUN-M,S,ABS:	פנימאי	I-NP	O
+/	:PUNCUATION:	/	I-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+שעוקבים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עקב	O	O
+אחריו	:PREPOSITION:PRONOMIAL-M,S,3	אחרי	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	B-NP	O
+ינתן	:VERB-M,S,3,FUTURE:	ניתן	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+לתנאים	PREPOSITION+DEF:NOUN-M,P,ABS:	תנא	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הקופות	DEF:NOUN-F,P,ABS:	קוף	I-NP	Monkeys-C0026447
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברב	PREPOSITION+DEF:NOUN-M,S,ABS:	רב	B-NP	O
+י	:NUMERAL:	י	O	O
+

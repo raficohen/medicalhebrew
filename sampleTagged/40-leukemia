@@ -1,0 +1,30 @@
+מחלת	:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+קסטלמן	:NOUN-M,S,ABS:	קסטלמן	I-NP	Angiolymphoid hyperplasia-C0017531
+קשורה	:ADJECTIVE-F,S,ABS:	קשור	I-NP	O
+לעיתים	:ADVERB:	לעתים	I-NP	O
+בהדבקה	PREPOSITION:NOUN-F,S,ABS:	הדבקה	B-NP	Contagion-C0598197-ambigous
+בוירס	:PROPERNAME:	בוירס	I-NP	O
+HHV-8	:FOREIGN:	HHV-8	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הצורה	DEF:NOUN-F,S,ABS:	צורה	B-NP	O
+אוניצנטרית	:PROPERNAME:	אוניצנטרית	I-NP	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לשאול	:VERB-TOINFINITIVE:	שאל	O	O
+למטפלים	PREPOSITION:NOUN-M,P,ABS:	מטפל	O	O
+על	:PREPOSITION:	על	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+של	:SHEL_PREP:	של	I-NP	O
+הוירוס	DEF:NOUN-M,S,ABS:	וירוס	I-NP	virus-C0042776
+וגם	CONJ:CONJUNCTION:	גם	O	O
+על	:PREPOSITION:	על	O	O
+הריסק	:NOUN-F,S,ABS:	הריסק	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הדבקה	:NOUN-F,S,ABS:	הדבקה	I-NP	Contagion-C0598197-ambigous
+.	:PUNCUATION:	.	O	O
+

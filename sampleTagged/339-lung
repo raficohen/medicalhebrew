@@ -1,0 +1,87 @@
+גנט	:PROPERNAME:	גנט	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שהנוזל	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	נוזל	B-NP	liquid-C0302908
+בחלל	PREPOSITION+DEF:NOUN-M,S,ABS:	חלל	B-NP	space-C1883067
+מסביב	:ADVERB:	מסביב	O	O
+לריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+תגובתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	תגובה	B-NP	reaction-C0443286
+למחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+הזיהומית	DEF:ADJECTIVE-F,S,ABS:	הזיהומית	I-NP	O
+שהיתה	REL-SUBCONJ:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+בריאה	:NOUN-F,S,ABS:	בריאה	B-NP	O
+או	:CONJUNCTION:	או	O	O
+בקרומי	PREPOSITION:NOUN-M,P,CONST:	קרום	B-NP	membrane-C0025255
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+.	:PUNCUATION:	.	O	O
+
+כיון	PREPOSITION:NOUN-M,S,ABS:	יון	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+בידי	:PREPOSITION:	בידי	B-NP	O
+הצילומים	DEF:NOUN-M,P,ABS:	צילום	I-NP	O
+איני	:ADJECTIVE-M,S,ABS:	איני	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לחוות	:VERB-TOINFINITIVE:	חווה	O	farm-C0557759
+דיעה	:NOUN-F,S,ABS:	דעה	B-NP	O
+אם	:CONJUNCTION:	אם	O	O
+הכמות	DEF:NOUN-F,S,ABS:	כמות	B-NP	amount-C1265611
+מצדיקה	:VERB-F,S,A,BEINONI:	הצדיק	O	O
+ניקוז	:NOUN-M,S,ABS:	ניקוז	B-NP	drainage-C0012621
+.	:PUNCUATION:	.	O	O
+
+בד'כ	:ADVERB:	בד'ך	O	O
+אם	:CONJUNCTION:	אם	O	O
+הכמות	DEF:NOUN-F,S,ABS:	כמות	B-NP	amount-C1265611
+קטנה	:ADJECTIVE-F,S,ABS:	קטן	O	O
+ואינה	CONJ:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+סימפטומטית	:ADJECTIVE-F,S,ABS:	סימפטומטית	O	O
+ומשוכנעים	CONJ:VERB-M,P,A,BEINONI:	שוכנע	O	O
+כי	:CONJUNCTION:	כי	O	O
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לנוזל	PREPOSITION+DEF:NOUN-M,S,ABS:	נוזל	B-NP	liquid-C0302908
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בניקוז	PREPOSITION+DEF:NOUN-M,S,ABS:	ניקוז	B-NP	drainage-C0012621
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הכמות	DEF:NOUN-F,S,ABS:	כמות	B-NP	amount-C1265611
+גדולה	:ADJECTIVE-F,S,ABS:	גדול	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בהוצאתו	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-M,S,3	הוצאה	O	Expenditures-C0015316
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+ועל	CONJ:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+שהריאה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+תוכל	:MODAL-F,S,3,FUTURE:	יכול	O	O
+להתפשט	:VERB-TOINFINITIVE:	התפשט	O	O
+הייטב	:ADVERB:	הייטב	O	O
+.	:PUNCUATION:	.	O	O
+
+לפחד	PREPOSITION:NOUN-M,S,CONST:	פחד	O	fear-C0015726
+-	:PUNCUATION:	-	O	O
+ממש	:ADVERB:	ממש	O	O
+לא	:NEGATION:	לא	O	O
+!	:PUNCUATION:	!	O	O
+
+!	:PUNCUATION:	!	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

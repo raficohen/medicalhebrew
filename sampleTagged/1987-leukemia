@@ -1,0 +1,32 @@
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+דימומים	:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+מריריות	PREPOSITION:NOUN-F,S,ABS:	ריריות	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+לעור	PREPOSITION:NOUN-M,S,ABS:	עור	O	skin-C0444099
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+בנפח	PREPOSITION:NOUN-M,S,CONST:	נפח	B-NP	Volume-C0449468
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+,	:PUNCUATION:	,	O	O
+אולם	:CONJUNCTION:	אולם	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+ספק	:NOUN-M,S,ABS:	ספק	I-NP	doubt-C0870444
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+טסיות	:NOUN-F,P,ABS:	טסיותות	I-NP	O
+ותיפקודי	CONJ:NOUN-M,S,ABS:POSSESIVE-MF,S,1	תפקוד	I-NP	Function-C0542341
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+בסיסיים	:ADJECTIVE-M,P,ABS:	בסיסי	I-NP	O
+ולפי	PREPOSITION+CONJ:NOUN-M,S,CONST:	ל	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+להלחיט	PREPOSITION+DEF:NOUN-F,P,ABS:	ההלחיט	B-NP	O
+על	:PREPOSITION:	על	O	O
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+בירור	:NOUN-M,S,ABS:	בירור	I-NP	O
+וטיפול	CONJ:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+

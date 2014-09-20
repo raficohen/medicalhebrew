@@ -1,0 +1,24 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+שהמכשיר	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+האוטומטי	DEF:ADJECTIVE-M,S,ABS:	אוטומטי	I-NP	O
+מפיק	:VERB-M,S,A,BEINONI:	הפיק	O	O
+ללא	:PREPOSITION:	ללא	O	O
+שנבקש	REL-SUBCONJ:VERB-MF,P,1,FUTURE:	ביקש	O	O
+.	:PUNCUATION:	.	O	O
+
+אנ	:PROPERNAME:	אן	B-NP	O
+,	:PUNCUATION:	,	O	O
+כהמטולוג	:PROPERNAME:	כהמטולוג	B-NP	O
+ותיק	:ADJECTIVE-M,S,ABS:	ותיק	I-NP	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+המשמעות	DEF:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+.	:PUNCUATION:	.	O	O
+

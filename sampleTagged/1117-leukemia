@@ -1,0 +1,37 @@
+לפי	:PREPOSITION:	לפי	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+שהצלחתי	REL-SUBCONJ:VERB-MF,S,1,PAST:	הצליח	O	O
+לקרוא	:VERB-TOINFINITIVE:	קרא	O	O
+החלק	DEF:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+הכתוב	DEF:ADJECTIVE-M,S,ABS:	כתוב	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+המספרים	DEF:NOUN-M,P,ABS:	מספר	I-NP	number-C0237753
+יצא	:VERB-M,S,3,PAST:	יצא	O	O
+משובש	:ADJECTIVE-M,S,ABS:	משובש	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+לקריאה	PREPOSITION:NOUN-F,S,ABS:	קריאה	B-NP	call-C0679006
+)	:PUNCUATION:	)	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+הם	:PRONOUN-M,P,3:	הוא	O	O
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+משהו	:NOUN-M,S,ABS:	משהו	B-NP	O
+חריג	:ADJECTIVE-M,S,ABS:	חריג	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+נא	:INTERJECTION:	נא	I-NP	O
+לציין	:VERB-TOINFINITIVE:	ציין	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+-	:PUNCUATION:	-	O	O
+ומה	CONJ:INTERROGATIVE:	מה	O	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+התלונות	DEF:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+?	:PUNCUATION:	?	O	O
+

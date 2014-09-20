@@ -1,0 +1,31 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+אחר	:PREPOSITION:	אחר	O	O
+מצב	:NOUN-M,S,CONST:	מצב	B-NP	Condition-C0348080
+הרגל	DEF:NOUN-F,S,ABS:	רגל	I-NP	foot-C0016504
+,	:PUNCUATION:	,	O	O
+ויטמינים	:NOUN-M,P,ABS:	ויטמין	B-NP	vitamin-C0042890
+וחומצה	CONJ:NOUN-F,S,ABS:	חומצה	B-NP	Acids-C0001128
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לטול	PREPOSITION:PROPERNAME:	טול	B-NP	O
+לפי	:PREPOSITION:	לפי	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הומוציסטאין	:NOUN-M,S,ABS:	הומוציסטאין	I-NP	homocysteine-C0019878
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+סך	:NOUN-M,S,CONST:	סך	B-NP	O
+התמונה	DEF:NOUN-F,S,ABS:	תמונה	I-NP	Picture-C0441469
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+יש	:NOUN-M,S,ABS:	יש	B-NP	O
+צורך	:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+בבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	O	O
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	B-NP	O
+מדוקדק	:ADJECTIVE-M,S,ABS:	מדוקדק	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+בפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+.	:PUNCUATION:	.	O	O
+

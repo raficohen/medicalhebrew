@@ -1,0 +1,26 @@
+עניתי	:VERB-MF,S,1,PAST:	ענה	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+שכן	:NOUN-M,S,ABS:	שכן	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+במסגרת	PREPOSITION:NOUN-F,S,CONST:	מסגרת	O	O
+פורום	:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+המלצות	:NOUN-F,P,ABS:	המלצה	B-NP	recommendation-C0034866
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+שעוקב	REL-SUBCONJ:VERB-M,S,A,BEINONI:	עקב	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+מחלתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	מחלה	B-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

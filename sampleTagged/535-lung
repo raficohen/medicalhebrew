@@ -1,0 +1,48 @@
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+הכתוב	DEF:NOUN-M,S,ABS:	כתוב	I-NP	O
+ניראה	:VERB-MF,P,1,FUTURE:	נראה	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+באמפיזמה	PREPOSITION:NOUN-F,S,ABS:	אמפיזמה	B-NP	emphysema-C0013990
+שלה	:SHEL_PREP:PRONOMIAL-F,S,3	של	I-NP	O
+דרגות	:NOUN-F,P,ABS:	דרגה	B-NP	rank-C0699794
+חומרה	:NOUN-F,S,ABS:	חומרה	B-NP	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+(	:PUNCUATION:	(	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+בהכרח	:ADVERB:	בהכרח	O	O
+כולן	:QUANTIFIER:PRONOMIAL-F,P,3	כול	B-NP	O
+דורשות	:VERB-F,P,A,BEINONI:	דרש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+הן	:CONJUNCTION:	הן	O	O
+לתיפקודי	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-MF,S,1	תפקוד	B-NP	Function-C0542341
+נשימה	:NOUN-F,S,ABS:	נשימה	I-NP	respiration-C0035203
+והן	CONJ:CONJUNCTION:	הן	O	O
+למגבלות	PREPOSITION+DEF:NOUN-F,P,ABS:	מגבלה	B-NP	Limitation-C0449295
+תיפקודיות	:ADJECTIVE-F,P,CONST:	תיפקודיות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+נ.ב	:ADVERB:	נ.ב	O	O
+הפסקת	:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+עישון	:NOUN-M,S,ABS:	עישון	I-NP	smoking-C0037369
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+תמיד	:ADVERB:	תמיד	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	I-NP	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+!	:PUNCUATION:	!	O	O
+

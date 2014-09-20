@@ -1,0 +1,61 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+לא	:NEGATION:	לא	O	O
+אם	:CONJUNCTION:	אם	O	O
+מותר	:VERB-M,S,A,BEINONI:	הותר	O	O
+או	:CONJUNCTION:	או	O	O
+אסור	:ADVERB:	אסור	O	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+יותר	:ADVERB:	יותר	O	O
+מסוכן	:ADJECTIVE-M,S,ABS:	מסוכן	O	O
+.	:PUNCUATION:	.	O	O
+
+לשם	:PREPOSITION:	לשם	O	O
+כך	:PRONOUN:	כך	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הכוונה	DEF:NOUN-F,S,ABS:	כוונה	B-NP	intentions-C0162425
+של	:SHEL_PREP:	של	I-NP	O
+"	:PUNCUATION:	"	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+קריש	:NOUN-M,S,ABS:	קריש	B-NP	clot-C0009074
+ברגליים	PREPOSITION+DEF:NOUN-F,P,ABS:	רגל	B-NP	foot-C0016504
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+קריש	:NOUN-M,S,CONST:	קריש	B-NP	clot-C0009074
+-	:PUNCUATION:	-	I-NP	O
+כדאי	:MODAL:	כדאי	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+וכדאי	CONJ:MODAL:	כדאי	O	O
+להתאים	:VERB-TOINFINITIVE:	התאים	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+בהקדם	:ADVERB:	בהקדם	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	O	O
+.	:PUNCUATION:	.	O	O
+

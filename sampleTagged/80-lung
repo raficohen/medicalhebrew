@@ -1,0 +1,51 @@
+עידן	:PROPERNAME:	עידן	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+למיטב	PREPOSITION:NOUN-M,S,CONST:	מיטב	O	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	B-NP	O
+השימוש	DEF:NOUN-M,S,ABS:	שימוש	I-NP	Usage-C0457083
+באסבסט	PREPOSITION:NOUN-M,S,ABS:	אסבסט	B-NP	O
+אסור	:ADJECTIVE-M,S,ABS:	אסור	I-NP	O
+כיום	:ADVERB:	כיום	I-NP	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+.	:PUNCUATION:	.	O	O
+
+חשיפה	:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+לו	:CONJUNCTION:	לו	O	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לגידול	PREPOSITION:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+בבית	PREPOSITION:NOUN-M,S,CONST:	בית	B-NP	house-C2003847
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+עשרות	:NUMERAL-F,P,CONST:	CARD10	B-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+לאחר	:CONJUNCTION:	לאחר	O	O
+מכן	:VERB-M,S,2,IMPERATIVE:	מיכן	O	O
+.	:PUNCUATION:	.	O	O
+
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+עם	:PREPOSITION:	עם	O	O
+ממנדס	PREPOSITION:NOUN-M,S,CONST:	מנדס	B-NP	O
+בנין	:PROPERNAME:	בניין	I-NP	O
+או	:CONJUNCTION:	או	O	O
+של	:SHEL_PREP:	של	O	O
+העיריה	DEF:NOUN-F,S,ABS:	עירייה	B-NP	O
+אם	:CONJUNCTION:	אם	O	O
+אתם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+חשופים	:ADJECTIVE-M,P,ABS:	חשוף	O	O
+לאסבסט	PREPOSITION:NOUN-M,S,ABS:	אסבסט	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+ישיר	:ADJECTIVE-M,S,ABS:	ישיר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

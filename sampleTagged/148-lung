@@ -1,0 +1,52 @@
+אלכס	:PROPERNAME:	אלכס	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+ככלל	PREPOSITION:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+,	:PUNCUATION:	,	O	O
+לאחר	:CONJUNCTION:	לאחר	O	O
+התיקון	DEF:NOUN-M,S,ABS:	תיקון	B-NP	O
+לא	:NEGATION:	לא	O	O
+תצטרך	:VERB-F,S,3,FUTURE:	הצטרך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מוגבל	:ADJECTIVE-M,S,ABS:	מוגבל	B-NP	O
+בעתיד	PREPOSITION+DEF:NOUN-M,S,ABS:	עתיד	B-NP	future-C0016884
+,	:PUNCUATION:	,	O	O
+כמובן	:ADVERB:	כמובן	O	O
+לאחר	:PREPOSITION:	לאחר	O	O
+תקופת	:NOUN-F,S,CONST:	תקופה	B-NP	Time periods-C0439582
+החלמה	:NOUN-F,S,ABS:	החלמה	I-NP	recovery-C0237820
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+הנחשב	DEF:PARTICIPLE-M,S,A,ABS:	נחשב	O	O
+למסוכן	PREPOSITION:ADJECTIVE-M,S,ABS:	מסוכן	O	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+הערכה	:NOUN-F,S,ABS:	הערכה	B-NP	O
+מדויקת	:ADJECTIVE-F,S,ABS:	מדויק	I-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+ותוצאות	CONJ:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+צפויות	:ADJECTIVE-F,P,ABS:	צפוי	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להתבצע	:VERB-TOINFINITIVE:	התבצע	O	O
+רק	:CONJUNCTION:	רק	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+שיבדוק	REL-SUBCONJ:VERB-M,S,3,FUTURE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לקראת	:PREPOSITION:	לקראת	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

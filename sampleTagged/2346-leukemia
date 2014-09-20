@@ -1,0 +1,60 @@
+דוריות	:NOUN-F,S,CONST:	דוריות	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לבנות	PREPOSITION:NOUN-F,P,ABS:	בת	B-NP	daughter-C0011011
+מכילות	:VERB-F,P,A,BEINONI:	הכיל	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+סוגים	:NOUN-M,P,ABS:	סוג	I-NP	kind-C0332307
+של	:SHEL_PREP:	של	I-NP	O
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+לימפוציטים	:PREPOSITION:	לימפוציטים	O	O
+-	:PUNCUATION:	-	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	B-NP	O
+הסוגים	DEF:NOUN-M,P,ABS:	סוג	I-NP	kind-C0332307
+.	:PUNCUATION:	.	O	O
+
+כאשר	:CONJUNCTION:	כאשר	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מספר	:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+לימפוציטים	:NOUN-M,P,ABS:	לימפוציטים	I-NP	O
+,	:PUNCUATION:	,	O	O
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+לימפופניה	:NOUN-F,S,ABS:	לימפופניה	B-NP	lymphopenia-C0024312
+.	:PUNCUATION:	.	O	O
+
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+,	:PUNCUATION:	,	O	O
+ממתי	PREPOSITION:NOUN-M,P,CONST:	מת	B-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+וכד	CONJ:NOUN-M,S,ABS:	כד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לרוב	:ADVERB:	לרוב	O	O
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+חסר	:ADJECTIVE-M,S,ABS:	חסר	I-NP	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	I-NP	importance-C1705104
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION:NOUN-F,S,CONST:	אם	B-NP	Mother-C0026591-ambigous
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+חוזר	:VERB-M,S,A,BEINONI:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+עצמו	:PRONOUN:PRONOMIAL-M,S,3	עצמו	B-NP	O
+,	:PUNCUATION:	,	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+להתיעצות	PREPOSITION:NOUN-ABS:	התייעצות	O	consultations-C0009818
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	O	O
+.	:PUNCUATION:	.	O	O
+

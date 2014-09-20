@@ -1,0 +1,37 @@
+יתכן	:MODAL:	ייתכן	O	O
+ומדובר	CONJ:ADJECTIVE-M,S,CONST:	מדובר	O	O
+במחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+ITP	:FOREIGN:	ITP	I-NP	O
+כרונית	PREPOSITION:PROPERNAME-F,S:	רונית	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+אפוגה	:PROPERNAME:	אפוגה	B-NP	O
+ארוכה	:NOUN-F,S,ABS:	ארוכה	I-NP	O
+וכעת	CONJ:ADVERB:	כעת	O	O
+שוב	:ADVERB:	שוב	O	O
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+של	:SHEL_PREP:	של	I-NP	O
+ירידה	:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+המספר	DEF:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+כעת	:ADVERB:	כעת	O	O
+למהבה	:VERB-F,S,A,BEINONI:	למהבה	O	O
+סכנה	:NOUN-F,S,ABS:	סכנה	B-NP	danger-C1428845
+של	:SHEL_PREP:	של	I-NP	O
+דימום	:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+ההמטולוגית	:ADVERB:	ההמטולוגית	O	O
+יטפלו	:VERB-MF,P,3,FUTURE:	טפל	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

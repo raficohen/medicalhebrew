@@ -1,0 +1,47 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+במעבדות	PREPOSITION:NOUN-F,P,ABS:	מעבדה	B-NP	Laboratory-C0022877
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	PREPOSITION:NOUN-M,S,CONST:	היות	O	Exist-C2987476
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+2	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+לוקח	:VERB-M,S,A,BEINONI:	לקח	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+מהארוע	PREPOSITION+DEF:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+שבו	:VERB-MF,P,2,IMPERATIVE:	ישב	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+הדימום	DEF:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+ועד	CONJ:PREPOSITION:	עד	O	O
+שרואים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+בהמוגלובין	PREPOSITION+DEF:NOUN-M,S,ABS:	ההמוגלובין	B-NP	O
+שאיננה	REL-SUBCONJ:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+דרסטית	:ADJECTIVE-F,S,ABS:	דרסטית	O	O
+,	:PUNCUATION:	,	O	O
+כך	:PRONOUN:	כך	O	O
+שהשתלשלות	REL-SUBCONJ:NOUN-F,S,CONST:	השתלשלות	B-NP	O
+הארועים	DEF:NOUN-M,P,ABS:	הארועים	I-NP	O
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+מתקבלת	:VERB-F,S,A,BEINONI:	התקבל	O	O
+על	:PREPOSITION:	על	O	O
+הדעת	DEF:NOUN-F,S,ABS:	דעת	B-NP	O
+ובהתאם	CONJ:ADVERB:	בהתאם	O	O
+לתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	O	result-C1274040
+כדאי	:MODAL:	כדאי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ולשקול	CONJ:VERB-TOINFINITIVE:	שקל	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בכדורי	PREPOSITION:NOUN-M,P,CONST:	כדור	B-NP	Pills-C0994475
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+

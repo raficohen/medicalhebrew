@@ -1,0 +1,28 @@
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+מבטאים	:VERB-M,P,A,BEINONI:	ביטא	O	O
+את	:AT_PREP:	את	B-NP	O
+זמן	:NOUN-M,S,CONST:	זמן	I-NP	O
+קרישת	:NOUN-F,S,CONST:	קרישה	I-NP	O
+דמך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	דם	I-NP	blood-C0005767
+במבחנה	PREPOSITION:NOUN-F,S,ABS:	מבחנה	B-NP	O
+כתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	O	result-C1274040
+מגירויי	PREPOSITION:NOUN-M,P,CONST:	גירוי	B-NP	stimulus-C0234402
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+הם	:PRONOUN-M,P,3:	הוא	O	O
+כמעט	:ADVERB:	כמעט	O	O
+ותקינים	CONJ:ADJECTIVE-M,P,ABS:	תקין	O	O
+וקרוב	CONJ:NOUN-M,S,ABS:	קרוב	O	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בעלת	:NOUN-F,S,CONST:	בעל	I-NP	husband-C0242664
+חשיבות	:NOUN-F,S,ABS:	חשיבות	I-NP	importance-C1705104
+מעשית	:ADJECTIVE-F,S,ABS:	מעשי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

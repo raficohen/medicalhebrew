@@ -1,0 +1,20 @@
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+הנ"ל	:PROPERNAME:	הנ"ל	I-NP	O
+הם	:PRONOUN-M,P,3:	הוא	O	O
+בגדר	PREPOSITION+DEF:NOUN-F,S,ABS:	גדר	B-NP	Restricted-C0443288
+התקין	DEF:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהסיבה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+להפלות	PREPOSITION:NOUN-F,P,ABS:	הפלה	B-NP	abortion-C0156543
+חוזרות	:ADJECTIVE-F,P,ABS:	חוזר	I-NP	O
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+קשורות	:ADJECTIVE-F,P,ABS:	קשור	O	O
+להפרעה	PREPOSITION:NOUN-F,S,ABS:	הפרעה	O	arrhythmia-C0003811
+במנגנון	PREPOSITION:NOUN-M,S,CONST:	מנגנון	B-NP	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,41 @@
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הסבר	:NOUN-M,S,ABS:	הסבר	I-NP	explanation-C0681841
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+והממצא	CONJ+DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+מחמיר	:ADJECTIVE-M,S,ABS:	מחמיר	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,CONST:	עצם	I-NP	bone-C0262950
+1	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+חד	:PREFIX:	חד	I-NP	O
+פעמית	:ADJECTIVE-F,S,ABS:	פעמי	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+מה	:INTERROGATIVE:	מה	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+2	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	I-NP	values-C0042295
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	I-NP	count-C0750480
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מחלות	:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+?	:PUNCUATION:	?	O	O
+

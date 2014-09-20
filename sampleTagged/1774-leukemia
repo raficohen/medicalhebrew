@@ -1,0 +1,37 @@
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לדימום	PREPOSITION:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+תת	:PREFIX:	תת	I-NP	O
+עורי	:VERB-F,S,2,IMPERATIVE:	עיוור	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והשאווה	:PROPERNAME:	והשאווה	I-NP	O
+גורמת	:VERB-F,S,A,BEINONI:	גרם	O	O
+לטראומה	PREPOSITION:NOUN-F,S,ABS:	טראומה	B-NP	trauma-C0043251
+של	:SHEL_PREP:	של	I-NP	O
+העור	DEF:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+והכלי	CONJ+DEF:NOUN-M,S,ABS:	כלי	I-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הקטנים	DEF:ADJECTIVE-M,P,ABS:	קטן	I-NP	O
+שבתוכו	REL-SUBCONJ:PREPOSITION:PRONOMIAL-M,S,3	בתוך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להשתמש	:VERB-TOINFINITIVE:	השתמש	O	O
+במשחה	PREPOSITION:NOUN-F,S,ABS:	משחה	B-NP	cream-C0700385
+להורדת	PREPOSITION:NOUN-F,S,CONST:	הורדה	O	Lower (action)-C2003888
+שערות	:NOUN-F,P,ABS:	שערה	B-NP	strand-C1704972
+בתקופת	PREPOSITION:NOUN-F,S,CONST:	תקופה	B-NP	Time periods-C0439582
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+,	:PUNCUATION:	,	O	O
+וברור	CONJ:ADJECTIVE-M,S,ABS:	ברור	O	O
+להמנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מגילוח	PREPOSITION:NOUN-M,S,ABS:	גילוח	B-NP	O
+!	:PUNCUATION:	!	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

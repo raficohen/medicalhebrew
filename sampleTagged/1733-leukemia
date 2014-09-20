@@ -1,0 +1,34 @@
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+התסיות	DEF:ADJECTIVE-F,P,ABS:	התסיות	I-NP	O
+כעת	:ADVERB:	כעת	O	O
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+ה	DEF::	ה	I-NP	O
+מאפשר	:VERB-M,S,A,BEINONI:	אפשר	I-NP	O
+פעולה	:NOUN-F,S,ABS:	פעולה	B-NP	action-C0441472
+כירורגית	:ADJECTIVE-F,S,ABS:	כירורגית	I-NP	O
+או/ו.הרדמה	:VERB-F,S,3,PAST:	או/ו.הרדמה	I-NP	O
+אפידורלית	:ADJECTIVE-F,S,ABS:	אפידורלית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ההחלטה	DEF:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+תילקח	:VERB-F,S,3,FUTURE:	נלקח	O	O
+לפני	:PREPOSITION:	לפני	O	O
+הפעולות	DEF:NOUN-F,P,ABS:	פעולה	B-NP	action-C0441472
+בהתאם	:ADVERB:	בהתאם	O	O
+לתשובות	PREPOSITION:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+.	:PUNCUATION:	.	O	O
+
+כ.ל	:NOUN-M,S,ABS:POSSESIVE-M,S,3	כ.	B-NP	O
+גבוהות	:ADJECTIVE-F,P,ABS:	גבוה	O	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+פרופ	:PROPERNAME:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

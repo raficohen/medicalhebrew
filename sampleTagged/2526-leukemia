@@ -1,0 +1,42 @@
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+הן	:CONJUNCTION:	הן	O	O
+למעשה	:ADVERB:	למעשה	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בהורמונים	PREPOSITION:NOUN-M,P,ABS:	הורמון	B-NP	hormones-C0019932
+.	:PUNCUATION:	.	O	O
+
+אחת	:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+מתופעות	PREPOSITION:NOUN-F,P,CONST:	תופעה	I-NP	phenomenon-C1882365
+הלוואי	DEF:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+של	:SHEL_PREP:	של	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+שכיחות	:NOUN-F,S,ABS:	שכיחות	B-NP	O
+מוגברת	:ADJECTIVE-F,S,ABS:	מוגבר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פקקת	:VERB-F,S,2,PAST:	פקק	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+תרומבוזה	:NOUN-F,S,ABS:	תרומבוזה	I-NP	thrombosis-C0040053
+)	:PUNCUATION:	)	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ורידים	:NOUN-M,P,ABS:	וריד	I-NP	vein-C0042449
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+שכיחות	:NOUN-F,S,ABS:	שכיחות	B-NP	O
+מוגברת	:ADJECTIVE-F,S,ABS:	מוגבר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+תלוי	:ADVERB:	תלוי	O	O
+בגורמי	PREPOSITION:NOUN-M,P,CONST:	גורם	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+של	:SHEL_PREP:	של	I-NP	O
+חברתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	חבר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

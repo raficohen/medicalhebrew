@@ -1,0 +1,25 @@
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+של	:SHEL_PREP:	של	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בקלקסן.....בטוח	PREPOSITION:ADJECTIVE-M,S,CONST:	קלקסן.....בטוח	O	O
+שיש	:NOUN-M,S,CONST:	שיש	B-NP	O
+סיבה	:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+!	:PUNCUATION:	!	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שרופא	REL-SUBCONJ:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+או	:CONJUNCTION:	או	O	O
+קרדיאולוג	:NOUN-F,P,ABS:	קרדיאולוג	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+יענו	:VERB-MF,P,3,FUTURE:	ענה	O	O
+לשאלתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

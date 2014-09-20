@@ -1,0 +1,42 @@
+עליך	:PREPOSITION:PRONOMIAL-M,S,2	על	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בדחיפות	PREPOSITION:NOUN-F,S,ABS:	דחיפות	B-NP	urgency-C0085606
+עם	:PREPOSITION:	עם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+למרפאה	PREPOSITION:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+העוסקת	DEF:PARTICIPLE-F,S,A,ABS:	עסק	O	O
+בהפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+במנגנון	PREPOSITION:NOUN-M,S,CONST:	מנגנון	O	mechanism-C0441712
+קרישת	:NOUN-F,S,CONST:	קרישה	B-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+מרפאות	:NOUN-F,P,ABS:	מרפאה	B-NP	Clinic-C0442592
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+קיימות	:ADJECTIVE-F,P,ABS:	קיים	I-NP	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+בי"ח	:NOUN-M,S,ABS:	בי"ח	B-NP	O
+מרכזי	:ADJECTIVE-M,S,ABS:	מרכזי	I-NP	O
+בארץ	PREPOSITION:NOUN-F,S,CONST:	ארץ	B-NP	Country-C0454664-ambigous
+-	:PUNCUATION:	-	I-NP	O
+הדסה	:PROPERNAME:	הדסה	I-NP	O
+,	:PUNCUATION:	,	O	O
+תה"ש	:PROPERNAME:	תה"ש	B-NP	O
+,	:PUNCUATION:	,	O	O
+רמב"ם	:PROPERNAME:	רמב"ם	B-NP	O
+,	:PUNCUATION:	,	O	O
+וולפסון	:PROPERNAME:	וולפסון	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לאבחנה	PREPOSITION:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+בהקדם	PREPOSITION+DEF:NOUN-M,S,ABS:	הקדם	B-NP	O
+ובמידת	PREPOSITION+CONJ:NOUN-F,S,CONST:	ב	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+

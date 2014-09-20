@@ -1,0 +1,65 @@
+אבי	:PROPERNAME:	אבי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מהו	:INTERROGATIVE:PRONOMIAL-M,S,3	מה	B-NP	O
+גילך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	גיל	I-NP	O
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+גורם	:NOUN-M,S,ABS:	גורם	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+בחשבון	PREPOSITION+DEF:NOUN-M,S,ABS:	חשבון	B-NP	expense-C0680864
+כאשר	:CONJUNCTION:	כאשר	O	O
+חושבים	:VERB-M,P,A,BEINONI:	חשב	O	O
+על	:PREPOSITION:	על	O	O
+תיקון	:NOUN-M,S,ABS:	תיקון	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+קיימים	:ADJECTIVE-M,P,ABS:	קיים	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+פתרונות	:NOUN-M,P,ABS:	פתרון	I-NP	solution-C0037633
+לא	:NEGATION:	לא	I-NP	O
+ניתוחיים	:ADJECTIVE-M,P,ABS:	ניתוחי	I-NP	O
+שמטרתם	REL-SUBCONJ:NOUN-F,S,ABS:POSSESIVE-M,P,3	מטרה	B-NP	goal-C0018017
+לשפר	:VERB-TOINFINITIVE:	שיפר	O	O
+את	:AT_PREP:	את	B-NP	O
+המראה	DEF:NOUN-M,S,ABS:	מראה	I-NP	mirror-C0181868
+.	:PUNCUATION:	.	O	O
+
+אחד	:NUMERAL-M,S,ABS:	CARD1	B-NP	O
+מהם	:INTERROGATIVE:PRONOMIAL-M,P,3	מה	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+מילו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מיל	B-NP	O
+בתותבת	PREPOSITION:NOUN-F,S,ABS:	תותבת	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+סיליקון	:PROPERNAME:	סיליקון	I-NP	silicon-C0037107
+,	:PUNCUATION:	,	O	O
+עם	:PREPOSITION:	עם	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+טובות	:ADJECTIVE-F,P,ABS:	טוב	I-NP	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+פלסטיקאי	:ADJECTIVE-M,S,ABS:	פלסטיקאי	I-NP	O
+שמתמחה	REL-SUBCONJ:VERB-M,S,A,BEINONI:	התמחה	O	O
+בזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+שחיה	:NOUN-F,S,ABS:	שחייה	B-NP	swimming-C0039003
+בוודאי	:ADVERB:	בוודאי	O	O
+לא	:NEGATION:	לא	O	O
+מזיקה	:VERB-F,S,A,BEINONI:	הזיק	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+עוזי	:PROPERNAME:	עוזי	B-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

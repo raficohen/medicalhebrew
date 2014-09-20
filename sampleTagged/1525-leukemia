@@ -1,0 +1,34 @@
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהתופעות	REL-SUBCONJ+DEF:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+קשורות	:ADJECTIVE-F,P,ABS:	קשור	O	O
+לממצא	PREPOSITION+DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+המעבדתי	DEF:ADJECTIVE-M,S,ABS:	המעבדתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לנוירולוג	PREPOSITION:NOUN-M,S,ABS:	נוירולוג	B-NP	Neurologist-C0237426
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+הבת	DEF:NOUN-F,S,ABS:	בת	I-NP	daughter-C0011011
+-	:PUNCUATION:	-	I-NP	O
+דודה	:NOUN-F,S,ABS:	דוד	I-NP	O
+לרופה	PREPOSITION:PARTICIPLE-M,S,A,CONST:	רפה	O	O
+משפחה	:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+/	:PUNCUATION:	/	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+ולדון	CONJ:VERB-TOINFINITIVE:	דן	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

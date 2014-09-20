@@ -1,0 +1,75 @@
+אליה	:PROPERNAME:	אליה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+הקשר	DEF:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+החזק	DEF:ADJECTIVE-M,S,ABS:	חזק	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+הידוע	DEF:NOUN-M,S,ABS:	ידוע	I-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+לחלות	:VERB-TOINFINITIVE:	חלה	O	O
+בסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+.	:PUNCUATION:	.	O	O
+
+קיימים	:ADJECTIVE-M,P,ABS:	קיים	B-NP	O
+גורמים	:NOUN-M,P,ABS:	גורם	I-NP	O
+סביבתיים	:ADJECTIVE-M,P,ABS:	סביבתי	I-NP	environmental-C0014406
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+הקשורים	DEF:PARTICIPLE-M,P,A,ABS:	קשר	O	connection-C0449379
+לחשיפה	PREPOSITION:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+לחומרים	PREPOSITION:NOUN-M,P,ABS:	חומר	B-NP	material-C0520510
+או	:CONJUNCTION:	או	O	O
+מזהמים	:VERB-M,P,A,BEINONI:	זיהם	O	O
+סביבתיים	:ADJECTIVE-M,P,ABS:	סביבתי	O	environmental-C0014406
+.	:PUNCUATION:	.	O	O
+
+למיטב	PREPOSITION:NOUN-M,S,CONST:	מיטב	O	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	B-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+עבודה	:NOUN-F,S,ABS:	עבודה	B-NP	Work-C0043227
+המראה	DEF:PARTICIPLE-F,S,A,ABS:	הראה	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+מגורים	:NOUN-M,P,ABS:	מגורים	B-NP	O
+בעיר	PREPOSITION+DEF:NOUN-F,S,ABS:	עיר	B-NP	O
+מול	:PREPOSITION:	מול	O	O
+מגורים	:NOUN-M,P,ABS:	מגורים	B-NP	O
+באזורים	PREPOSITION:NOUN-M,P,ABS:	אזור	B-NP	area-C0017446
+שאינם	REL-SUBCONJ:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+עירוניים	:ADJECTIVE-M,P,ABS:	עירוני	O	O
+לבין	:PREPOSITION:	לבין	O	O
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+.	:PUNCUATION:	.	O	O
+
+ילד	:NOUN-M,S,ABS:	ילד	B-NP	children-C0008059
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגור	:VERB-TOINFINITIVE:	גר	O	O
+באזור	PREPOSITION:NOUN-M,S,ABS:	אזור	B-NP	area-C0017446
+נקי	:ADJECTIVE-M,S,ABS:	נקי	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+בדירה	PREPOSITION:NOUN-F,S,ABS:	דירה	O	O
+לזוג	PREPOSITION:NOUN-M,S,CONST:	זוג	O	pair-C1709450
+הורים	:NOUN-M,P,ABS:	הורה	B-NP	parents-C0030551
+מעשנים	:VERB-M,P,A,BEINONI:	עישן	O	O
+ומצבו	CONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	מצב	B-NP	Condition-C0348080
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+פחות	:ADVERB:	פחות	O	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	O	good-C0205170
+מילד	PREPOSITION:NOUN-M,S,CONST:	ילד	B-NP	children-C0008059
+שיגור	:NOUN-M,S,ABS:	שיגור	I-NP	O
+בעיר	PREPOSITION+DEF:NOUN-F,S,ABS:	עיר	B-NP	O
+בבית	PREPOSITION+DEF:NOUN-M,S,ABS:	בית	B-NP	house-C2003847
+שבו	:VERB-MF,P,2,IMPERATIVE:	ישב	O	O
+לא	:NEGATION:	לא	O	O
+מעשנים	:VERB-M,P,A,BEINONI:	עישן	O	O
+.	:PUNCUATION:	.	O	O
+
+סוף	:NOUN-M,S,CONST:	סוף	B-NP	O
+שבוע	:NOUN-M,S,ABS:	שבוע	I-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

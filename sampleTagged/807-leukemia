@@ -1,0 +1,29 @@
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+דורש	:VERB-M,S,A,BEINONI:	דרש	O	O
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מתלת	PREPOSITION:PREFIX:	תלת	I-NP	O
+מיאלומה	:NOUN-F,S,ABS:	מיאלומה	I-NP	myeloma-C0026764
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+ש	:CONJUNCTION:	ש	O	O
+IGA	:FOREIGN:	IGA	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+801	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+בכדי	:CONJUNCTION:	בכדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+הפנייה	:NOUN-F,S,ABS:	הפניה	B-NP	Cross-Reference-C1707532
+במכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+הקרוב	DEF:ADJECTIVE-M,S,ABS:	קרוב	I-NP	Near-C1706276
+

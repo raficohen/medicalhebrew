@@ -1,0 +1,29 @@
+עלייה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+ברמה	PREPOSITION:NOUN-F,S,ABS:	רמה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פיברינוגן	:NOUN-M,S,ABS:	פיברינוגן	I-NP	fibrinogen-C0016006
+היא	:PRONOUN-F,S,3:	הוא	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+טבעית	:ADJECTIVE-F,S,ABS:	טבעי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הגוף	DEF:NOUN-M,S,ABS:	גוף	I-NP	body-C0460148
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+דלקת	:NOUN-F,S,ABS:	דלקת	I-NP	inflammation-C0021368
+/	:PUNCUATION:	/	I-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+דחק	:NOUN-M,S,ABS:	דחק	I-NP	stress-C0038435
+.	:PUNCUATION:	.	O	O
+
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להסתמך	:VERB-TOINFINITIVE:	הסתמך	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+הזו	DEF:PRONOUN-F,S,3:	זו	I-NP	O
+בלבד	:ADVERB:	בלבד	O	O
+.	:PUNCUATION:	.	O	O
+

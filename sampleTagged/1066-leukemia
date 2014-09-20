@@ -1,0 +1,23 @@
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+FISH	:FOREIGN:	FISH	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+לאיתור	PREPOSITION:NOUN-M,S,CONST:	איתור	B-NP	O
+פגמים	:NOUN-M,P,ABS:	פגם	I-NP	Defect-C1457869
+יחודיים	:ADJECTIVE-M,P,ABS:	ייחודי	I-NP	O
+בכרומוזומים	PREPOSITION:NOUN-M,P,ABS:	כרומוזומים	B-NP	O
+במחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+כמו	:CONJUNCTION:	כמו	O	O
+במחלות	PREPOSITION:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+ולממצאים	PREPOSITION+CONJ+DEF:NOUN-M,P,ABS:	ל	O	O
+עשויים	:MODAL-M,P,A:	עשוי	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+השלכות	:NOUN-F,P,ABS:	השלכה	B-NP	projection-C0016538
+לגבי	:PREPOSITION:	לגבי	O	O
+קביעת	:NOUN-F,S,CONST:	קביעה	B-NP	O
+מדיניות	:NOUN-F,S,ABS:	מדיניות	I-NP	O
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

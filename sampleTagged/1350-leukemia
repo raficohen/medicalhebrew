@@ -1,0 +1,56 @@
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שה	:NOUN-M,S,ABS:	שה	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+CLL	:FOREIGN:	CLL	I-NP	O
+במצה	PREPOSITION:NOUN-F,S,ABS:	מצה	B-NP	O
+יציב	:ADJECTIVE-M,S,ABS:	יציב	I-NP	O
+שאינו	REL-SUBCONJ:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+מקרים	:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+כאלו	PREPOSITION:PRONOUN-MF,P,3:	אלו	B-NP	O
+מוכרים	:VERB-M,P,A,BEINONI:	מכר	O	O
+וידועים	CONJ:ADJECTIVE-M,P,ABS:	ידוע	O	O
+ויכולים	CONJ:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	O	surveillance-C0220920
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+CLL	:FOREIGN:	CLL	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+לדילול	PREPOSITION:NOUN-M,S,CONST:	דילול	B-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+השבועיות	DEF:ADJECTIVE-F,P,ABS:	שבועי	I-NP	O
+מבטאים	:VERB-M,P,A,BEINONI:	ביטא	O	O
+ע"מ	:VERB-M,S,A,BEINONI:	ע"מ	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+שהמינון	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+בטווח	PREPOSITION+DEF:NOUN-M,S,ABS:	טווח	B-NP	long-term-C0443252
+הנכון	DEF:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וערכים	CONJ:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+הם	:PRONOUN-M,P,3:	הוא	O	O
+בטווח	PREPOSITION+DEF:NOUN-M,S,ABS:	טווח	B-NP	long-term-C0443252
+הטיפולי	DEF:ADJECTIVE-M,S,ABS:	טיפולי	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+שהדם	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+לא	:NEGATION:	לא	O	O
+ייקרש	:VERB-M,S,3,FUTURE:	נקרש	O	O
+.	:PUNCUATION:	.	O	O
+

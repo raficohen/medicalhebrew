@@ -1,0 +1,33 @@
+קשה	:ADVERB:	קשה	O	O
+להתרשם	:VERB-TOINFINITIVE:	התרשם	O	O
+מהכתוב	PREPOSITION+DEF:NOUN-M,S,ABS:	כתוב	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+חייבים	:NOUN-M,P,ABS:	חייב	B-NP	O
+לראת	PREPOSITION+DEF:NOUN-F,S,ABS:	הראת	B-NP	O
+ולמשש	CONJ:VERB-TOINFINITIVE:	מישש	O	O
+את	:AT_PREP:	את	B-NP	O
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+קשה	:ADVERB:	קשה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+להתיחס	:VERB-TOINFINITIVE:	התייחס	O	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שקבלת	REL-SUBCONJ:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+לבניתיים	PREPOSITION+DEF:NOUN-F,DP,ABS:	הבניתיים	O	O
+.	:PUNCUATION:	.	O	O
+
+MTHFR	:FOREIGN:	MTHFR	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+גורם סיכון	:TERM:	גורם סיכון	O	risk factor-C0035648
+בלבד	:ADVERB:	בלבד	I-NP	O
+.	:PUNCUATION:	.	O	O
+

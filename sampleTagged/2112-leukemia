@@ -1,0 +1,49 @@
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+מדוע	:ADVERB:	מדוע	O	O
+אובחנת	:VERB-F,S,2,PAST:	אובחן	O	O
+כתרומבופילית	:NOUN-F,P,ABS:	כתרומבופילית	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+ב	PREPOSITION::		B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+עודף	:NOUN-M,S,ABS:	עודף	I-NP	excess-C1979886
+"	:PUNCUATION:	"	O	O
+,	:PUNCUATION:	,	O	O
+12	:NUMERAL:	###NUMBER###	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+מדוע	:ADVERB:	מדוע	O	O
+את	:AT_PREP:	את	B-NP	O
+נוטלת	:VERB-F,S,A,BEINONI:	נטל	I-NP	O
+טריקרדיה	:NOUN-F,S,ABS:	טריקרדיה	I-NP	tricardia-C1033666
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להביא	:VERB-TOINFINITIVE:	הביא	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	I-NP	O
+במלואו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	מלוא	B-NP	O
+ולקבל	CONJ:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מהמטולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+

@@ -1,0 +1,18 @@
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+בידים	PREPOSITION:NOUN-M,S,ABS:	ידים	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הקרדיאולוג	DEF:NOUN-F,P,ABS:	הקרדיאולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לתרומבוציטים	PREPOSITION:NOUN-F,S,ABS:	תרומבוציטים	B-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+איזורי	:ADJECTIVE-M,S,ABS:	אזורי	I-NP	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+

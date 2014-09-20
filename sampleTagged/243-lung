@@ -1,0 +1,29 @@
+איני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	O	Specialist Physician-C2348234
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+של	:SHEL_PREP:	של	I-NP	O
+חומרים	:NOUN-M,P,ABS:	חומר	I-NP	material-C0520510
+וסרטן	CONJ:NOUN-M,S,CONST:	סרטן	I-NP	malignancy-C0006826
+סיליקה	:NOUN-F,S,ABS:	סיליקה	I-NP	silica-C0037098
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	B-NP	O
+חומר	:NOUN-M,S,ABS:	חומר	B-NP	material-C0520510
+אינרטי	:PROPERNAME:	אינרטי	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+נושמים	:VERB-M,P,A,BEINONI:	נשם	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+לא	:NEGATION:	לא	O	O
+נראית	:VERB-F,S,A,BEINONI:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+סכנה	:NOUN-F,S,ABS:	סכנה	B-NP	danger-C1428845
+מיוחדת	:ADJECTIVE-F,S,ABS:	מיוחד	I-NP	O
+בקרמים	PREPOSITION:NOUN-M,P,ABS:	קרם	B-NP	O
+שוב	:ADVERB:	שוב	O	O
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+תחום	:NOUN-M,S,CONST:	תחום	B-NP	O
+התמחותי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	התמחות	I-NP	O
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

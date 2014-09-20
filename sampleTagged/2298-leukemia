@@ -1,0 +1,21 @@
+הקריש	DEF:NOUN-M,S,ABS:	קריש	B-NP	clot-C0009074
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להשתחרר	:VERB-TOINFINITIVE:	השתחרר	O	O
+ממקומו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	מקום	B-NP	place-C0442504
+ללא	:PREPOSITION:	ללא	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לנטילת	PREPOSITION:NOUN-F,S,CONST:	נטילה	B-NP	O
+קומדין	:NOUN-M,S,ABS:	קומדין	I-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+הקומדין	DEF:NOUN-M,S,ABS:	הקומדין	B-NP	O
+מונע	:VERB-M,S,A,BEINONI:	מנע	O	O
+הגדלת	:NOUN-F,S,CONST:	הגדלה	B-NP	increase-C0442805
+הקריש	DEF:NOUN-M,S,ABS:	קריש	I-NP	clot-C0009074
+ובכך	CONJ:ADVERB:	בכך	O	O
+מאפשר	:VERB-M,S,A,BEINONI:	אפשר	O	O
+לגוף	PREPOSITION+DEF:NOUN-M,S,ABS:	גוף	B-NP	body-C0460148
+לפרק	:VERB-TOINFINITIVE:	פירק	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+

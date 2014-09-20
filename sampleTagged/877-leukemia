@@ -1,0 +1,31 @@
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+וגם	CONJ:CONJUNCTION:	גם	O	O
+פרדניזון	:NOUN-M,S,ABS:	פרדניזון	B-NP	prednisone-C0032952
+מעלים	:VERB-M,P,A,BEINONI:	העלה	O	O
+מ	:PREPOSITION:	מ	O	O
+ס'	:NOUN-M,S,CONST:	ס'	B-NP	O
+הלוקוציטים	DEF:NOUN-M,P,ABS:	הלוקוציטים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מ	:PREPOSITION:	מ	O	O
+ס'	:NOUN-M,S,ABS:	ס'	B-NP	O
+הגבוה	DEF:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אאוזינופילים	:PROPERNAME:	אאוזינופילים	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להעיד	:VERB-TOINFINITIVE:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+אלרגיה	:NOUN-F,S,ABS:	אלרגיה	B-NP	Allergy Specialty-C0002111
+כלשהיא	:PRONOUN-F,S:	כלשהו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+בטח	:ADVERB:	בטח	I-NP	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+ויבוצעו	CONJ:VERB-MF,P,3,FUTURE:	בוצע	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לביקורת	PREPOSITION:NOUN-F,S,CONST:	ביקורת	O	Criticism-C0870379
+פר	:NOUN-M,S,ABS:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

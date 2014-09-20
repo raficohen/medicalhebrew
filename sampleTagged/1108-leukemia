@@ -1,0 +1,25 @@
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+משמעותי	:ADJECTIVE-M,S,ABS:	משמעותי	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+שרופא	REL-SUBCONJ:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+יראה	:VERB-M,S,3,FUTURE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ויחליט	CONJ:VERB-M,S,3,FUTURE:	החליט	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+המטולוגי	:PREPOSITION:	המטולוגי	O	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

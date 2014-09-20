@@ -1,0 +1,40 @@
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+חלופה	:NOUN-F,S,ABS:	חלופה	I-NP	O
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+שאיננה	REL-SUBCONJ:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+(	:PUNCUATION:	(	O	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+)	:PUNCUATION:	)	O	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מביאה	:VERB-F,S,A,BEINONI:	הביא	O	O
+אריכות	:NOUN-F,S,CONST:	אריכות	B-NP	O
+ימים	:NOUN-M,P,ABS:	יום	I-NP	O
+תוך	:PREPOSITION:	תוך	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+שמירה	:NOUN-F,S,ABS:	שמירה	B-NP	preserving-C0728887
+על	:PREPOSITION:	על	O	O
+איכות	:NOUN-F,S,CONST:	איכות	B-NP	quality-C0332306
+חיים	:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+כמו	:CONJUNCTION:	כמו	O	O
+שמביא	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הביא	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+להסרת	PREPOSITION:NOUN-F,S,CONST:	הסרה	B-NP	removal-C0015252
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+שאלותיך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+הרבות	DEF:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+אשמח	:VERB-MF,S,1,FUTURE:	שמח	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+בפגישה	PREPOSITION:NOUN-F,S,ABS:	פגישה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	B-NP	O
+ובני	CONJ:NOUN-M,P,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+משפחתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

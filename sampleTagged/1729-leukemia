@@ -1,0 +1,61 @@
+קודם	:ADVERB:	קודם	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחפס	PREPOSITION:NOUN-M,S,CONST:	חפס	O	O
+סיבת	:NOUN-F,S,CONST:	סיבה	B-NP	Causations-C0085978
+האנמיה	DEF:NOUN-F,S,ABS:	האנמיה	I-NP	O
+:	:PUNCUATION:	:	O	O
+כלכלה	:NOUN-F,S,ABS:	כלכלה	B-NP	O
+עניה	:ADJECTIVE-F,S,ABS:	עני	I-NP	O
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+,	:PUNCUATION:	,	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+,	:PUNCUATION:	,	O	O
+מולדת	:PROPERNAME:	מולדת	B-NP	O
+....	:PUNCUATION:	....	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+עיתרון	:PROPERNAME:	עיתרון	B-NP	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בברל	PREPOSITION:PROPERNAME:	ברל	B-NP	O
+בתוך	:PREPOSITION:	בתוך	O	O
+הוריד	DEF:NOUN-M,S,ABS:	וריד	B-NP	vein-C0042449
+אלא	:CONJUNCTION:	אלא	O	O
+רק	:CONJUNCTION:	רק	O	O
+במיקרים	PREPOSITION+DEF:PARTICIPLE-M,P,A,ABS:	ייקר	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+חוסר	:NOUN-M,S,CONST:	חוסר	I-NP	O
+ספיגה	:NOUN-F,S,ABS:	ספיגה	I-NP	absorption-C0000854
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+אפשר	:ADVERB:	אפשר	O	O
+לקחחת	:NOUN-MF,S,ABS:	לקחחת	B-NP	O
+הכדורים	DEF:NOUN-M,P,ABS:	כדור	I-NP	Pills-C0994475
+לפני	:PREPOSITION:	לפני	O	O
+האוכל	DEF:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+עם	:PREPOSITION:	עם	O	O
+כוס	:NOUN-F,S,CONST:	כוס	B-NP	cup-C0180231
+מיץ	:NOUN-M,S,ABS:	מיץ	I-NP	juice-C1268568
+ולהקפיד	CONJ:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+יומי	:ADJECTIVE-M,S,ABS:	יומי	O	O
+לפחות	:ADVERB:	לפחות	O	O
+6שבועות	:PARTICIPLE-M,P,A,ABS:	6שבועות	O	O
+.	:PUNCUATION:	.	O	O
+
+עלית	:PROPERNAME:	עלייה	B-NP	O
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	I-NP	O
+תתחיל	:VERB-F,S,3,FUTURE:	התחיל	O	O
+תוך	:PREPOSITION:	תוך	O	O
+שבועים	:NOUN-M,P,ABS:	שבועים	B-NP	O
+כמו	:CONJUNCTION:	כמו	O	O
+במתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+ורידי	:NOUN-M,P,CONST:	וריד	I-NP	vein-C0042449
+.....	:PUNCUATION:	.....	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

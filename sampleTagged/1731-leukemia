@@ -1,0 +1,23 @@
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הלויקוציטוזיס	:PROPERNAME:	הלויקוציטוזיס	I-NP	O
+בעבר	PREPOSITION:NOUN-M,S,ABS:	עבר	O	past-C1444637
+וגם	CONJ:CONJUNCTION:	גם	O	O
+עכשיו	:ADVERB:	עכשיו	O	O
+בטח	:ADVERB:	בטח	O	O
+תחת	:PREPOSITION:	תחת	O	O
+פיקוח	:NOUN-M,S,ABS:	פיקוח	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המטולוג	:PROPERNAME:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לתשובות	PREPOSITION:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מציגה	:VERB-F,S,A,BEINONI:	הציג	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

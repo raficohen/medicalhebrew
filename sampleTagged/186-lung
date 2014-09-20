@@ -1,0 +1,24 @@
+סימה	:PROPERNAME:	סימה	B-NP	O
+שלום	:PROPERNAME:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להשיב	:VERB-TOINFINITIVE:	השיב	O	O
+על	:PREPOSITION:	על	O	O
+צילום	:NOUN-M,S,CONST:	צילום	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

@@ -1,0 +1,43 @@
+מוזר	:ADJECTIVE-M,S,ABS:	מוזר	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+כו	:NOUN-M,S,ABS:	כו	B-NP	O
+נמוכים	:ADJECTIVE-M,P,ABS:	נמוך	I-NP	O
+כבר	:ADVERB:	כבר	O	O
+בתחילת	PREPOSITION:NOUN-F,S,CONST:	תחילה	B-NP	first-C0205435
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+אפילו	:CONJUNCTION:	אפילו	O	O
+תחת	:PREPOSITION:	תחת	O	O
+תלסמיה	:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+שמשק	REL-SUBCONJ:NOUN-M,S,CONST:	משק	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+משק	:NOUN-M,S,ABS:	משק	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+רק	:CONJUNCTION:	רק	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+)	:PUNCUATION:	)	O	O
+ולהקפיד	CONJ:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+תוספות	:NOUN-F,P,CONST:	תוספת	B-NP	additional-C1524062
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+וחומצה	CONJ:NOUN-F,S,ABS:	חומצה	B-NP	Acids-C0001128
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+אכילת	:NOUN-F,S,CONST:	אכילה	B-NP	O
+בשר	PREPOSITION:NOUN-M,S,CONST:	שר	I-NP	Singing-C0234857
+משמעותה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	משמעות	I-NP	significance-C0237881
+תוספת	:NOUN-F,S,CONST:	תוספת	B-NP	additional-C1524062
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+

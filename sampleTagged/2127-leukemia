@@ -1,0 +1,64 @@
+אספירין	:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+וקלקסן	CONJ:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+הן	:CONJUNCTION:	הן	O	O
+תרפות	:NOUN-F,P,ABS:	תרפות	B-NP	O
+שמנטרלות	REL-SUBCONJ:VERB-F,P,A,BEINONI:	נטרל	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+חלקי	:ADJECTIVE-M,S,ABS:	חלקי	I-NP	O
+את	:AT_PREP:	את	B-NP	O
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שתיהן	:PRONOUN-F,P,3:	שתיים	B-NP	O
+עובדות	:VERB-F,P,A,BEINONI:	עבד	O	O
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+שונה	:ADJECTIVE-F,S,ABS:	שונה	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להם	:PREPOSITION:PRONOMIAL-M,P,3	ל	B-NP	O
+שימושים	:NOUN-M,P,ABS:	שימוש	B-NP	Usage-C0457083
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הכוונה	DEF:NOUN-F,S,ABS:	כוונה	B-NP	intentions-C0162425
+ב	:PREPOSITION:	ב	O	O
+"	:PUNCUATION:	"	O	O
+התגלה	:VERB-M,S,3,PAST:	התגלה	O	O
+פקטור	:NOUN-M,S,ABS:	פקטור	B-NP	O
+C	:FOREIGN:	C	I-NP	O
+"	:PUNCUATION:	"	O	O
+(	:PUNCUATION:	(	O	O
+לכולם	PREPOSITION:PRONOUN-M,P,3:	כולם	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+את	:AT_PREP:	את	B-NP	O
+הפקטור	DEF:NOUN-M,S,ABS:	פקטור	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+)	:PUNCUATION:	)	O	O
+ולהבין	CONJ:VERB-TOINFINITIVE:	הבין	O	O
+עד	:PREPOSITION:	עד	O	O
+כמה	:QUANTIFIER-CONST:	כמה	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+IUGR	:FOREIGN:	IUGR	O	O
+(	:PUNCUATION:	(	O	O
+קל	:ADJECTIVE-M,S,ABS:	קל	O	O
+?	:PUNCUATION:	?	O	O
+
+קשה	:ADVERB:	קשה	O	O
+?	:PUNCUATION:	?	O	O
+
+)	:PUNCUATION:	)	O	O
+ואז	CONJ:CONJUNCTION:	אז	O	O
+להחליט	:VERB-TOINFINITIVE:	החליט	O	O
+.	:PUNCUATION:	.	O	O
+
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,83 @@
+B12	:FOREIGN:	B12	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בספירה	PREPOSITION+DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+הלבנהאך	DEF:ADJECTIVE-F,S,ABS:	הלבנהאך	I-NP	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ולאחר	CONJ:PREPOSITION:	לאחר	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+B12	:FOREIGN:	B12	I-NP	O
+אין	:NEGATION:	אין	I-NP	O
+שינוי	:NOUN-M,S,ABS:	שינוי	I-NP	difference-C1705241
+בספירה	PREPOSITION+DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+-	:PUNCUATION:	-	I-NP	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	I-NP	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שזו	REL-SUBCONJ:PRONOUN-F,S,3:	זו	B-NP	O
+לא	:NEGATION:	לא	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+ועל	CONJ:PREPOSITION:	על	O	O
+כן	:CONJUNCTION:	כן	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+בשני	PREPOSITION:NUMERAL-M,D,CONST:	CARD2	B-NP	O
+כיוונים	:NOUN-M,P,ABS:	כיוון	I-NP	direction-C0449738
+:	:PUNCUATION:	:	O	O
+א	:NUMERAL:	א	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	O	O
+B12	:FOREIGN:	B12	O	O
+?	:PUNCUATION:	?	O	O
+
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ספיגה	:NOUN-F,S,ABS:	ספיגה	I-NP	absorption-C0000854
+במערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+?	:PUNCUATION:	?	O	O
+
+ב	:PREPOSITION:	ב	O	O
+.	:PUNCUATION:	.	O	O
+
+מהי	:INTERROGATIVE:PRONOMIAL-F,S,3	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לירידה	PREPOSITION+DEF:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+הקבועה	DEF:ADJECTIVE-F,S,ABS:	קבוע	I-NP	O
+בס	:NOUN-M,S,ABS:	בס	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לבנה	:PROPERNAME:	לבנה	B-NP	O
+כשאינך	TEMP-SUBCONJ:COPULA-M,S,2,BEINONI,NEGATIVE:	הוא	O	O
+ממוצא	PREPOSITION:NOUN-M,S,ABS:	מוצא	B-NP	origin-C0439659
+תימני	:ADJECTIVE-M,S,ABS:	תימני	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+לשם	:PREPOSITION:	לשם	O	O
+כך	:PRONOUN:	כך	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתבקרי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	ביקר	O	O
+במרפאה	PREPOSITION+DEF:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+המטולוגית	DEF:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+הצמודה	DEF:ADJECTIVE-F,S,ABS:	צמוד	I-NP	O
+לאחד	PREPOSITION:NUMERAL-M,S,ABS:	CARD1	B-NP	O
+מבתי	PREPOSITION:NOUN-M,P,CONST:	בית	I-NP	house-C2003847
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+הגדולים	DEF:ADJECTIVE-M,P,ABS:	גדול	I-NP	O
+לפי	PREPOSITION:NOUN-M,S,CONST:	פה	O	Oral cavity-C0226896
+התיאור	DEF:NOUN-M,S,ABS:	תיאור	B-NP	Description-C0678257
+לא	:NEGATION:	לא	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בלוקמיה	PREPOSITION:PROPERNAME:	לוקמיה	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+

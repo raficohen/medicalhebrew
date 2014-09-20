@@ -1,0 +1,34 @@
+בסך	:ADVERB:	בסך	B-NP	O
+הכל	DEF:QUANTIFIER:	כול	I-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+סבירה	:ADJECTIVE-F,S,ABS:	סביר	O	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לשפר	:VERB-TOINFINITIVE:	שיפר	O	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+בלקיחת	PREPOSITION:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+כדורי	:NOUN-M,P,CONST:	כדור	I-NP	Pills-C0994475
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+מסוג	PREPOSITION:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+פולקס	:ADJECTIVE-M,S,ABS:	פולקס	I-NP	O
+או	:CONJUNCTION:	או	O	O
+פריפול	:PREPOSITION:	פריפול	O	O
+1	:NUMERAL:	###NUMBER###	B-NP	O
+ליום	PREPOSITION:NOUN-M,S,ABS:	יום	O	O
+לפני	:PREPOSITION:	לפני	O	O
+אוכל	:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+עם	:PREPOSITION:	עם	O	O
+כוס	:NOUN-F,S,CONST:	כוס	B-NP	cup-C0180231
+מיץ	:NOUN-M,S,ABS:	מיץ	I-NP	juice-C1268568
+במשך	:PREPOSITION:	במשך	O	O
+חודשים	:NOUN-M,P,ABS:	חודש	B-NP	months-C0439231
+.	:PUNCUATION:	.	O	O
+

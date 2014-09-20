@@ -1,0 +1,41 @@
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+המצורפות	DEF:PARTICIPLE-F,P,A,ABS:	צורף	O	O
+הן	:CONJUNCTION:	הן	B-NP	O
+לא	:NEGATION:	לא	I-NP	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	I-NP	O
+ובוודאי	CONJ:ADVERB:	בוודאי	O	O
+לא	:NEGATION:	לא	O	O
+לגבי	:PREPOSITION:PRONOMIAL-MF,S,1	לגבי	B-NP	O
+מישהי	:PRONOUN-F,S,3:	מישהו	B-NP	O
+בת	:NOUN-F,S,ABS:	בת	I-NP	daughter-C0011011
+23	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גם	:CONJUNCTION:	גם	B-NP	O
+קבלת	:NOUN-F,S,CONST:	קבלה	I-NP	Acceptance-C0000899-ambigous
+מנות	:NOUN-F,P,ABS:	מנה	I-NP	dose-C0178602
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+מקובל	:ADJECTIVE-M,S,ABS:	מקובל	I-NP	O
+בגיל	PREPOSITION+DEF:NOUN-M,S,ABS:	גיל	B-NP	O
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+אוו	:VERB-MF,P,2,IMPERATIVE:	איוה	O	O
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+לדעת	PREPOSITION:NOUN-F,S,CONST:	דעה	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+,	:PUNCUATION:	,	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+.	:PUNCUATION:	.	O	O
+

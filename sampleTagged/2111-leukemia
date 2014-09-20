@@ -1,0 +1,45 @@
+נחנו	:VERB-MF,P,1,PAST:	נח	O	O
+מעדיפים	:VERB-M,P,A,BEINONI:	העדיף	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+מעל	:PREPOSITION:	מעל	O	O
+7	:NUMERAL:	###NUMBER###	B-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+אישה	:NOUN-F,S,ABS:	איש	B-NP	people-C0027361
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+תלוי	:ADJECTIVE-M,S,ABS:	תלוי	O	O
+במדדים	PREPOSITION:NOUN-M,P,ABS:	מדד	B-NP	index-C0918012
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+ההמוגלובין	:PROPERNAME:	ההמוגלובין	B-NP	O
+לא	:NEGATION:	לא	O	O
+יורד	:VERB-M,S,A,BEINONI:	ירד	O	O
+מתחת	:PREPOSITION:	מתחת	O	O
+לערך	PREPOSITION:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+בתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אין	:NEGATION:	אין	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+חיוניות	:NOUN-F,S,ABS:	חיוניות	B-NP	O
+בהמשך	PREPOSITION:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+תוך	:PREPOSITION:	תוך	O	O
+ורידי	:NOUN-M,P,CONST:	וריד	B-NP	vein-C0042449
+.	:PUNCUATION:	.	O	O
+

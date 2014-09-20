@@ -1,0 +1,46 @@
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+קשה	:ADJECTIVE-F,S,ABS:	קשה	I-NP	O
+ללא	:PREPOSITION:	ללא	O	O
+ראית	:NOUN-F,S,CONST:	ראיה	B-NP	evidence-C0332120
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+המסמכים	DEF:NOUN-M,P,ABS:	מסמך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+מה	:INTERROGATIVE:	מה	I-NP	O
+שכתוב	REL-SUBCONJ:ADJECTIVE-M,S,ABS:	כתוב	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חשד	:NOUN-M,S,ABS:	חשד	B-NP	Suspicion-C0242114
+לתהליך	PREPOSITION+DEF:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+תופס	:VERB-M,S,A,BEINONI:	תפס	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+בריאה	PREPOSITION:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+שמשמעותו	REL-SUBCONJ:NOUN-F,S,ABS:POSSESIVE-M,S,3	משמעות	B-NP	significance-C0237881
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חשד	:NOUN-M,S,ABS:	חשד	B-NP	Suspicion-C0242114
+לגידול	PREPOSITION:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+ממקור	PREPOSITION:NOUN-M,S,CONST:	מקור	O	Source-C0449416
+ריאה	:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+או	:CONJUNCTION:	או	O	O
+ממקור	PREPOSITION:NOUN-M,S,ABS:	מקור	B-NP	Source-C0449416
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדחיפות	PREPOSITION:NOUN-F,S,ABS:	דחיפות	B-NP	urgency-C0085606
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הסי	:VERB-F,S,2,IMPERATIVE:	היסה	I-NP	O
+טי	:PREPOSITION:	טי	O	O
+לכירורג	:NOUN-M,S,ABS:	לכירורג	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+אשמח	:VERB-MF,S,1,FUTURE:	שמח	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+לעזר	PREPOSITION:PROPERNAME:	עזר	B-NP	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+

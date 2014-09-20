@@ -1,0 +1,24 @@
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+שאריות	:NOUN-F,P,ABS:	שארית	B-NP	Drug Residues-C0013202-ambigous
+מימי	PREPOSITION:NOUN-M,P,CONST:	יום	B-NP	O
+העישון	DEF:NOUN-M,S,ABS:	עישון	I-NP	smoking-C0037369
+אבל	:CONJUNCTION:	אבל	O	O
+איני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+אפשר	:MODAL:	אפשר	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ראות	:NOUN-F,S,ABS:	ראות	I-NP	O
+לבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	B-NP	O
+על	:PREPOSITION:	על	O	O
+פניו	:NOUN-MF,P,ABS:POSSESIVE-M,S,3	פנים	B-NP	face-C0015450
+לא	:NEGATION:	לא	I-NP	O
+נראהליש	:ADJECTIVE-M,S,CONST:	נראהליש	I-NP	O
+קשור	:ADJECTIVE-M,S,CONST:	קשור	I-NP	O
+אלי	:PREPOSITION:	אל	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

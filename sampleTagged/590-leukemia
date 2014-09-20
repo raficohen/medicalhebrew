@@ -1,0 +1,26 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	I-NP	O
+MDS	:FOREIGN:	MDS	I-NP	O
+מתקדם	:ADJECTIVE-M,S,ABS:	מתקדם	I-NP	O
+נתן	:VERB-M,S,3,PAST:	נתן	O	O
+במסגרת	PREPOSITION:NOUN-F,S,CONST:	מסגרת	O	O
+מכונים	:NOUN-M,P,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגים	:PREPOSITION:	המטולוגים	O	O
+מוסמכים	:NOUN-M,P,ABS:	מוסמך	B-NP	O
+ואני	CONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+סבור	:ADJECTIVE-M,S,ABS:	סבור	O	O
+שהנ"ל	REL-SUBCONJ:PROPERNAME:	הנ"ל	B-NP	O
+מטופל	:VERB-M,S,A,BEINONI:	טופל	O	O
+היטב	:ADVERB:	היטב	O	O
+.	:PUNCUATION:	.	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+למחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	O	disease-C0012634
+ריאות	:NOUN-F,P,ABS:	ריאה	B-NP	lung-C0024109
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+גם	:CONJUNCTION:	גם	B-NP	O
+תטופלנה	:VERB-F,P,3,FUTURE:	טופל	I-NP	O
+בהתאם	:ADVERB:	בהתאם	O	O
+לצרכים	PREPOSITION+DEF:NOUN-M,S,ABS:	צרכים	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,75 @@
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+מורכב	:ADJECTIVE-M,S,ABS:	מורכב	I-NP	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+שדווקא	REL-SUBCONJ:ADVERB:	דווקא	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+הרבה	:ADVERB:	הרבה	O	O
+הגיון	:NOUN-M,S,CONST:	היגיון	B-NP	O
+לטיפול	PREPOSITION:NOUN-M,S,CONST:	טיפול	O	Therapeutic procedure-C0087111
+כמותרפי	:NOUN-M,P,ABS:POSSESIVE-F,S,3	כמותרף	B-NP	O
+ממההתחלה	:VERB-M,S,2,FUTURE:	ממההתחלה	O	O
+שכן	:VERB-M,S,2,IMPERATIVE:	שיכן	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+ניתוח	:NOUN-M,S,CONST:	ניתוח	B-NP	surgery-C0038894
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הכימי	DEF:ADJECTIVE-M,S,ABS:	כימי	I-NP	O
+נדחה	:VERB-M,S,3,PAST:	נדחה	O	O
+וכאן	CONJ:ADVERB:	כאן	O	O
+רצו	:VERB-MF,P,3,PAST:	רץ	O	O
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+עמו	:PREPOSITION:PRONOMIAL-M,S,3	עם	B-NP	O
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+שאכן	REL-SUBCONJ:ADVERB:	אכן	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+במצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שבו	:VERB-MF,P,2,IMPERATIVE:	ישב	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+שני	:NUMERAL-M,D,CONST:	CARD2	B-NP	O
+גידולים	:NOUN-M,P,ABS:	גידול	I-NP	tumor-C0027651
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+התגובה	DEF:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+השונה	DEF:ADJECTIVE-F,S,ABS:	שונה	I-NP	O
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+רומזת	:VERB-F,S,A,BEINONI:	רמז	O	O
+שאכן	REL-SUBCONJ:ADVERB:	אכן	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בשני	PREPOSITION:NUMERAL-M,D,CONST:	CARD2	B-NP	O
+גידולים	:NOUN-M,P,ABS:	גידול	I-NP	tumor-C0027651
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+כי	:CONJUNCTION:	כי	O	O
+לא	:NEGATION:	לא	O	O
+מוכיחה	:VERB-F,S,A,BEINONI:	הוכיח	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ניתוחי	:ADJECTIVE-M,S,ABS:	ניתוחי	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+במצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	O	O
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+כמותרפיה	:NOUN-F,S,ABS:	כמותרפיה	I-NP	chemotherapy-C0013216
+לא	:NEGATION:	לא	I-NP	O
+מספיק	:ADVERB:	מספיק	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מצבים	:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+משלבים	:VERB-M,P,A,BEINONI:	שילב	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+עם	:PREPOSITION:	עם	O	O
+הקרנה	:NOUN-F,S,ABS:	הקרנה	B-NP	radiation-C0034519
+הכל	DEF:QUANTIFIER:	כול	I-NP	O
+תלוי	:ADJECTIVE-M,S,ABS:	תלוי	O	O
+בגודל	PREPOSITION:NOUN-M,S,CONST:	גודל	B-NP	size-C0456389
+של	:SHEL_PREP:	של	I-NP	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+ואפשרות	CONJ:NOUN-F,S,CONST:	אפשרות	I-NP	Ability-C0085732-ambigous
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+של	:SHEL_PREP:	של	I-NP	O
+החולה	:PROPERNAME:	החולה	I-NP	O
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

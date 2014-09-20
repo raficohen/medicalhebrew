@@ -1,0 +1,24 @@
+סיטי	:NOUN-F,S,ABS:	סיטי	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+אלא	:CONJUNCTION:	אלא	O	O
+מדגים	PREPOSITION:NOUN-M,P,ABS:	דג	B-NP	fish-C0016163
+ממצאים	:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+שחייבים	REL-SUBCONJ:MODAL-M,P,A:	חייב	O	O
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+בירור	:NOUN-M,S,ABS:	בירור	I-NP	O
+,	:PUNCUATION:	,	O	O
+נא	:INTERJECTION:	נא	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדגום	:VERB-TOINFINITIVE:	דגם	O	O
+את	:AT_PREP:	את	B-NP	O
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+ולבצע	CONJ:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+פאט	:PROPERNAME:	פאט	I-NP	O
+סיטי	:NOUN-F,S,ABS:	סיטי	O	O
+

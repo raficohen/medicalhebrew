@@ -1,0 +1,58 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+פריטין	:PROPERNAME:	פריטין	I-NP	ferritin-C0015879
+11	:NUMERAL:	###NUMBER###	B-NP	O
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	O	O
+ומרמזת	CONJ:VERB-F,S,A,BEINONI:	רימז	O	O
+על	:PREPOSITION:	על	O	O
+חסר	:NOUN-M,S,CONST:	חסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+יחלד	:NOUN-M,S,ABS:POSSESIVE-F,S,3	יחל	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+טרנספירין	:PROPERNAME:	טרנספירין	I-NP	O
+בחסר	PREPOSITION:NOUN-M,S,CONST:	חסר	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+צריך	:MODAL-M,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+ואצליך	:ADJECTIVE-F,S,CONST:	ואצליך	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+טרנספירין	:NOUN-M,S,ABS:	טרנספירין	I-NP	O
+פעם	:NOUN-F,S,ABS:	פעם	I-NP	once-C1948045
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אכן	:ADVERB:	אכן	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לבטא	:VERB-TOINFINITIVE:	ביטא	O	O
+תהליך	:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+דלקתי	:ADJECTIVE-M,S,ABS:	דלקתי	I-NP	O
+שכדאי	REL-SUBCONJ:MODAL:	כדאי	O	O
+לחפשו	:VERB-TOINFINITIVE:ACC-NOM-M,S,3	חיפש	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

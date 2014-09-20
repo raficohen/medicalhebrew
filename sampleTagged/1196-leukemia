@@ -1,0 +1,23 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+למחלות	PREPOSITION:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+זיהומיות	:ADJECTIVE-F,P,ABS:	זיהומיות	I-NP	O
+בייחוד	:ADVERB:	בייחוד	I-NP	O
+למחלות	PREPOSITION:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+טרופיות	:ADJECTIVE-F,P,ABS:	טרופי	I-NP	O
+או	:CONJUNCTION:	או	O	O
+לחילופין	:ADVERB:	לחלופין	O	O
+עם	:PREPOSITION:	עם	O	O
+גסטרואנטרולוג	:PROPERNAME:	גסטרואנטרולוג	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+דר	:PROPERNAME-M,S:	דר	I-NP	O
+'	:PUNCUATION:	'	I-NP	O
+שוורץ	:PROPERNAME:	שוורץ	I-NP	O
+,	:PUNCUATION:	,	O	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+גלעדי	:NOUN-M,P,ABS:POSSESIVE-MF,S,1	גלעד	I-NP	O
+

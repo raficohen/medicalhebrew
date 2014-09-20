@@ -1,0 +1,37 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+אושי	:PROPERNAME:	אושי	I-NP	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+גורמים	:NOUN-M,P,ABS:	גורם	B-NP	O
+השיכים	DEF:NOUN-M,P,ABS:	השיכים	O	O
+ללופוס	PREPOSITION:NOUN-M,S,ABS:	לופוס	B-NP	lupus-C0024131
+העור	DEF:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+ואשר	CONJ:CONJUNCTION:	אשר	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+להתעבר	:VERB-TOINFINITIVE:	התעבר	O	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+בהפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+וקרישה	CONJ:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	O	O
+ואני	CONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+בר	:PREFIX:	בר	O	O
+סמכא	:ADJECTIVE-M,S,ABS:	סמכא	O	O
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+ששאלת	REL-SUBCONJ:VERB-F,S,2,PAST:	שאל	O	O
+עליו	:PREPOSITION:PRONOMIAL-M,S,3	על	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

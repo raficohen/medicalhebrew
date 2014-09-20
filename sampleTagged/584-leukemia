@@ -1,0 +1,61 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+היתה	:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+דלקת	:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+בחלל	PREPOSITION:NOUN-M,S,CONST:	חלל	B-NP	space-C1883067
+הפה	DEF:NOUN-M,S,ABS:	פה	I-NP	Oral cavity-C0226896
+לפני	:PREPOSITION:	לפני	O	O
+שמששת	REL-SUBCONJ:VERB-F,S,2,PAST:	מישש	O	O
+את	:AT_PREP:	את	B-NP	O
+הבלוטות	DEF:NOUN-F,P,ABS:	בלוטה	I-NP	gland-C1285092
+?	:PUNCUATION:	?	O	O
+
+2	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+נמושו	:VERB-MF,P,3,PAST:	נמושו	O	O
+בלוטות	:NOUN-F,P,ABS:	בלוטה	B-NP	gland-C1285092
+במקומות	PREPOSITION:NOUN-M,P,ABS:	מקום	B-NP	place-C0442504
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+נמוש	:VERB-MF,P,1,FUTURE:	מש	O	O
+הטחול	DEF:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+?	:PUNCUATION:	?	O	O
+
+3	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+לפני	:PREPOSITION:	לפני	O	O
+שעושים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עשה	O	O
+ביופסיה	:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+לשאלות	PREPOSITION:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+1,2	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ובמידה	PREPOSITION+CONJ:NOUN-F,S,ABS:	ב	I-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+CT	:FOREIGN:	CT	B-NP	O
+וכמובן	CONJ:ADVERB:	כמובן	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+.	:PUNCUATION:	.	O	O
+
+לפי	PREPOSITION:NOUN-M,S,CONST:	פה	O	Oral cavity-C0226896
+התיאור	DEF:NOUN-M,S,ABS:	תיאור	B-NP	Description-C0678257
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+

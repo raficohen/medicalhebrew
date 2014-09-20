@@ -1,0 +1,45 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+רמה	:NOUN-F,S,ABS:	רמה	B-NP	O
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אינזים	:NOUN-M,S,ABS:	אינזים	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להצביע	:VERB-TOINFINITIVE:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+בכבד	PREPOSITION+DEF:NOUN-M,S,ABS:	כבד	B-NP	liver-C0023884
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+מתפרקות	:VERB-F,P,A,BEINONI:	התפרק	O	O
+במבחנה	PREPOSITION:NOUN-F,S,ABS:	מבחנה	B-NP	O
+(	:PUNCUATION:	(	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+נקרא	:VERB-M,S,3,PAST:	נקרא	O	O
+המוליה	DEF:NOUN-F,S,ABS:	מוליה	B-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+,	:PUNCUATION:	,	O	O
+כמו	:PREPOSITION:	כמו	O	O
+בילירובין	:NOUN-F,P,ABS:	בילירובינות	B-NP	O
+שהתוצאה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+שלהן	:SHEL_PREP:PRONOMIAL-F,P,3	של	I-NP	O
+לא	:NEGATION:	לא	O	O
+תהיה	:COPULA-F,S,3,FUTURE,POSITIVE:	הוא	O	O
+אמינה	:ADJECTIVE-F,S,ABS:	אמין	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+הן	:CONJUNCTION:	הן	B-NP	O
+לא	:NEGATION:	לא	O	O
+מבוצעות	:VERB-F,P,A,BEINONI:	בוצע	O	O
+.	:PUNCUATION:	.	O	O
+

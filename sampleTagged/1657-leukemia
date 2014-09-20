@@ -1,0 +1,28 @@
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+טלסמיה	:NOUN-F,P,ABS:	טלסמיות	I-NP	O
+מינור	:NOUN-M,S,ABS:	מינור	I-NP	minor-C0026193
+בעצמו	PREPOSITION:PRONOUN:PRONOMIAL-M,S,3	עצמו	B-NP	O
+לא	:NEGATION:	לא	O	O
+גורם	:VERB-M,S,A,BEINONI:	גרם	O	O
+להרגשת	PREPOSITION:NOUN-F,S,CONST:	הרגשה	B-NP	Emotions-C0013987
+קור	:PROPERNAME:	קור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+כן	:CONJUNCTION:	כן	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+לבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+,	:PUNCUATION:	,	O	O
+בן	:NOUN-M,S,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+היתר	:NOUN-M,S,CONST:	היתר	I-NP	License-C0023636
+תפקודי	:NOUN-M,P,CONST:	תפקוד	I-NP	Function-C0542341
+בלוטת התריס	:TERM:	בלוטת התריס	O	thyroid gland-C0040132
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

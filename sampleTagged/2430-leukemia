@@ -1,0 +1,33 @@
+צדק	:NOUN-M,S,CONST:	צדק	B-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מניעה	:NOUN-F,S,ABS:	מניעה	B-NP	prevention-C0199176
+שתשתמשי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	השתמש	O	O
+בגלולות	PREPOSITION:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתתיעצי	REL-SUBCONJ:VERB-F,S,2,FUTURE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+בעניין	PREPOSITION:NOUN-M,S,CONST:	עניין	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

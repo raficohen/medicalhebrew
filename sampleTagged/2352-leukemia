@@ -1,0 +1,29 @@
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+קשורות	:ADJECTIVE-F,P,ABS:	קשור	O	O
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+למצב	PREPOSITION:NOUN-M,S,CONST:	מצב	B-NP	Condition-C0348080
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+השולח	DEF:NOUN-M,S,ABS:	שולח	I-NP	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חשש	:NOUN-M,S,ABS:	חשש	B-NP	O
+לבעיית	PREPOSITION:NOUN-F,S,CONST:	בעיה	B-NP	problem-C0033213
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

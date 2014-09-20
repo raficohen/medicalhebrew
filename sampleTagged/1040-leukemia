@@ -1,0 +1,24 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+קלות	:ADJECTIVE-F,P,ABS:	קל	I-NP	O
+בתפקודי	PREPOSITION:NOUN-M,P,CONST:	תפקוד	B-NP	Function-C0542341
+כבד	:NOUN-M,S,ABS:	כבד	I-NP	liver-C0023884
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	B-NP	O
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לתרופות	PREPOSITION:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+אבל	:CONJUNCTION:	אבל	O	O
+אפשר	:MODAL:	אפשר	O	O
+להפסק	:VERB-TOINFINITIVE:	נפסק	O	O
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+ולבדוק	CONJ:VERB-TOINFINITIVE:	בדק	O	O
+בעוד	:PREPOSITION:	בעוד	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+ש'	:NOUN-M,S,ABS:	ש'	I-NP	O
+פר	:NOUN-M,S,ABS:	פר	I-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

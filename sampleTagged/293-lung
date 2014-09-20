@@ -1,0 +1,102 @@
+גלי	:NOUN-M,P,CONST:	גל	B-NP	wave-C0678544
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+כמובן	:ADVERB:	כמובן	I-NP	O
+נחשב	:VERB-M,S,3,PAST:	נחשב	O	O
+לגורם	PREPOSITION:NOUN-M,S,ABS:	גורם	B-NP	O
+המוכח	DEF:PARTICIPLE-M,S,A,ABS:	הוכח	O	O
+והשכיח	CONJ+DEF:ADJECTIVE-M,S,ABS:	שכיח	B-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+להתפתחות	PREPOSITION:NOUN-F,S,CONST:	התפתחות	O	O
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+.	:PUNCUATION:	.	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+ל	:PREPOSITION:	ל	I-NP	O
+90	:NUMERAL:	###NUMBER###	I-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+מהחולים	PREPOSITION+DEF:PARTICIPLE-M,P,A,ABS:	חלה	B-NP	O
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+מתגלה	:VERB-M,S,A,BEINONI:	התגלה	O	O
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הסטוריה	:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+של	:SHEL_PREP:	של	I-NP	O
+עישון	:NOUN-M,S,ABS:	עישון	I-NP	smoking-C0037369
+.	:PUNCUATION:	.	O	O
+
+בכ	:PREPOSITION:	בך	O	O
+-	:PUNCUATION:	-	O	O
+10	:NUMERAL:	###NUMBER###	B-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+מהחולים	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	חולה	B-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+חשיפה	:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+לעישון	PREPOSITION+DEF:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+.	:PUNCUATION:	.	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שישנם	REL-SUBCONJ:EXISTENTIAL-POSITIVE:PRONOMIAL-M,P,3	יש	B-NP	O
+גורמים	:NOUN-M,P,ABS:	גורם	B-NP	O
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+גורמים	:NOUN-M,P,ABS:	גורם	I-NP	O
+סביבתיים	:ADJECTIVE-M,P,ABS:	סביבתי	I-NP	environmental-C0014406
+,	:PUNCUATION:	,	O	O
+כמו	:PREPOSITION:	כמו	O	O
+חשיפה	:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+לחומרים	PREPOSITION:NOUN-M,P,ABS:	חומר	B-NP	material-C0520510
+מסרטנים	:VERB-M,P,A,BEINONI:	סרטן	O	malignancy-C0006826
+בסביבבת	:VERB-F,S,2,PAST:	בסביבבת	O	O
+חיינו	:VERB-MF,P,1,PAST:	חי	O	O
+,	:PUNCUATION:	,	O	O
+וגורמים	CONJ:NOUN-M,P,ABS:	גורם	B-NP	O
+הקשורים	DEF:PARTICIPLE-M,P,A,ABS:	קשר	O	connection-C0449379
+במבנה	PREPOSITION:NOUN-M,S,CONST:	מבנה	B-NP	O
+הגנים	DEF:NOUN-M,P,ABS:	גן	I-NP	gene-C0017337
+שלנו	:SHEL_PREP:PRONOMIAL-MF,P,1	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מגורים	:NOUN-M,P,ABS:	מגורים	B-NP	O
+ברחוב	PREPOSITION:NOUN-M,S,ABS:	רחוב	B-NP	O
+ראשי	:ADJECTIVE-M,S,ABS:	ראשי	I-NP	O
+,	:PUNCUATION:	,	O	O
+עם	:PREPOSITION:	עם	O	O
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+חשיפה	:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+ושאיפה	CONJ:NOUN-F,S,ABS:	שאיפה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פסולת	:NOUN-F,S,ABS:	פסולת	I-NP	O
+הנפלטת	DEF:PARTICIPLE-F,S,A,ABS:	נפלט	O	O
+ממכוניות	PREPOSITION:NOUN-F,P,ABS:	מכונית	B-NP	O
+ועשן	CONJ:NOUN-M,S,ABS:	עשן	I-NP	O
+,	:PUNCUATION:	,	O	O
+למייטב	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	מייט	B-NP	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	I-NP	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+הוכחו	:VERB-MF,P,3,PAST:	הוכח	O	O
+כמעלים	PREPOSITION+DEF:PARTICIPLE-M,P,A,ABS:	העלה	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+לחלות	:VERB-TOINFINITIVE:	חלה	O	O
+בסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+ובתקווה	PREPOSITION+CONJ:NOUN-F,S,ABS:	ב	O	O
+שאינך	REL-SUBCONJ:COPULA-M,S,2,BEINONI,NEGATIVE:	הוא	O	O
+מעשנת	:VERB-F,S,A,BEINONI:	עישן	O	O
+,	:PUNCUATION:	,	O	O
+
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

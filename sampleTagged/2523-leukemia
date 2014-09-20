@@ -1,0 +1,35 @@
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+השיגרתית	DEF:ADJECTIVE-F,S,ABS:	שגרתי	I-NP	O
+המכשיר	DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+האוטומטי	DEF:ADJECTIVE-M,S,ABS:	אוטומטי	I-NP	O
+המבצע	DEF:NOUN-M,S,ABS:	מבצע	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+פולט	:VERB-M,S,A,BEINONI:	פלט	O	O
+נתונים	:NOUN-M,P,ABS:	נתון	B-NP	O
+רבים	:ADJECTIVE-M,P,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+חלקם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	חלק	B-NP	part-C0449719
+חשובים	:ADJECTIVE-M,P,ABS:	חשוב	O	O
+וחלקם	CONJ:NOUN-M,S,ABS:POSSESIVE-M,P,3	חלק	B-NP	part-C0449719
+לא	:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להתיחס	:VERB-TOINFINITIVE:	התייחס	O	O
+רק	:CONJUNCTION:	רק	O	O
+למרכיב	PREPOSITION:NOUN-M,S,ABS:	מרכיב	B-NP	component-C0449432
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+פרטי	:NOUN-M,P,CONST:	פרט	I-NP	details-C1522508-ambigous
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	I-NP	count-C0750480
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,22 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מתרשם	:VERB-M,S,A,BEINONI:	התרשם	O	O
+שהגניקולוג	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	גינקולוג	B-NP	gynecologist-C0237419
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+צודק	:VERB-M,S,A,BEINONI:	צדק	O	O
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+להבדיל	:VERB-TOINFINITIVE:	הבדיל	O	O
+אם	:CONJUNCTION:	אם	O	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+באנמיה	PREPOSITION:PROPERNAME:	אנמיה	B-NP	anemia-C0002871
+עקב	:PREPOSITION:	עקב	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+או	:CONJUNCTION:	או	O	O
+מסיבות	:NOUN-F,P,ABS:	מסיבה	B-NP	O
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

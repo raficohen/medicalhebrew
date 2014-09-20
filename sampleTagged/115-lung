@@ -1,0 +1,60 @@
+מירי	PREPOSITION:NOUN-M,S,CONST:	ירי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+קצת	:ADVERB:	קצת	O	O
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מבלי	:CONJUNCTION:	מבלי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+את	:AT_PREP:	את	B-NP	O
+ההיסטוריה	DEF:NOUN-F,S,ABS:	היסטוריה	I-NP	history-C0019664
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+וכל	CONJ:QUANTIFIER-CONST:	כול	B-NP	O
+פרט	:NOUN-M,S,ABS:	פרט	I-NP	details-C1522508-ambigous
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+רלוונטי	:ADJECTIVE-M,S,ABS:	רלוונטי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לפחות	:ADVERB:	לפחות	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ולהבין	CONJ:VERB-TOINFINITIVE:	הבין	O	O
+במה	PREPOSITION:INTERROGATIVE:	מה	B-NP	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+.	:PUNCUATION:	.	O	O
+
+מרבית	:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+הבעיות	DEF:NOUN-F,P,ABS:	בעיה	I-NP	problem-C0033213
+"	:PUNCUATION:	"	O	O
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+"	:PUNCUATION:	"	B-NP	O
+מקורן	:NOUN-M,S,ABS:POSSESIVE-F,P,3	מקור	I-NP	Source-C0449416
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+(	:PUNCUATION:	(	I-NP	O
+שרירים	:NOUN-M,P,ABS:	שריר	I-NP	muscle-C0026845
+צלעות	:NOUN-F,P,ABS:	צלע	I-NP	ribs-C0035561
+)	:PUNCUATION:	)	O	O
+והן	CONJ:CONJUNCTION:	הן	B-NP	O
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+מדאיגות	:ADJECTIVE-F,P,ABS:	מדאיג	O	O
+.	:PUNCUATION:	.	O	O
+
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+שבוע	:NOUN-M,S,ABS:	שבוע	I-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

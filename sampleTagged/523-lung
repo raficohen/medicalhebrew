@@ -1,0 +1,77 @@
+את	:AT_PREP:	את	B-NP	O
+מצינת	PREPOSITION:NOUN-F,S,CONST:	צינה	I-NP	O
+3	:NUMERAL:	###NUMBER###	I-NP	O
+בעיות	:NOUN-F,P,ABS:	בעיה	I-NP	problem-C0033213
+נפרדות	:ADJECTIVE-F,P,ABS:	נפרד	I-NP	O
+:	:PUNCUATION:	:	I-NP	O
+הקאות	:NOUN-F,P,ABS:	הקאה	I-NP	vomiting-C0042963
+,	:PUNCUATION:	,	I-NP	O
+עצירות	:NOUN-F,S,ABS:	עצירות	I-NP	constipation-C0009806
+ובקע	CONJ:NOUN-M,S,CONST:	בקע	I-NP	hernia-C0019270
+סרעפתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	סרעפת	I-NP	diaphragm-C0011980
+.	:PUNCUATION:	.	O	O
+
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+שהבקע	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	בקע	B-NP	hernia-C0019270
+מסביר	:VERB-M,S,A,BEINONI:	הסביר	O	O
+את	:AT_PREP:	את	B-NP	O
+ההקאות	DEF:NOUN-F,P,ABS:	הקאה	I-NP	vomiting-C0042963
+בעקבות	:PREPOSITION:	בעקבות	O	O
+אוכל	:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+אך	:CONJUNCTION:	אך	O	O
+איננו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מסביר	:VERB-M,S,A,BEINONI:	הסביר	O	O
+את	:AT_PREP:	את	B-NP	O
+העצירות	DEF:NOUN-F,S,ABS:	עצירות	I-NP	constipation-C0009806
+שאופינית	REL-SUBCONJ:ADJECTIVE-F,S,ABS:	אופייני	O	O
+לגיל	PREPOSITION:NOUN-M,S,ABS:	גיל	B-NP	O
+וסיבותיה	CONJ:NOUN-F,P,ABS:POSSESIVE-F,S,3	סיבה	B-NP	Causations-C0085978
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+ובין	CONJ:PREPOSITION:	בין	O	O
+השאר	DEF:NOUN-M,S,ABS:	שאר	B-NP	rest-C0035253
+גם	:CONJUNCTION:	גם	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+תרופתי	:ADJECTIVE-M,S,ABS:	תרופתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+ליעץ	:VERB-TOINFINITIVE:	ייעץ	O	O
+איך	:ADVERB:	איך	O	O
+לפתור	:VERB-TOINFINITIVE:	פתר	O	O
+את	:AT_PREP:	את	B-NP	O
+בעית	:NOUN-F,S,CONST:	בעיה	I-NP	problem-C0033213
+העצירות	DEF:NOUN-F,S,ABS:	עצירות	I-NP	constipation-C0009806
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הבקע	DEF:NOUN-M,S,ABS:	בקע	B-NP	hernia-C0019270
+וההקאות	CONJ+DEF:NOUN-F,P,ABS:	הקאה	B-NP	vomiting-C0042963
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להמשך	PREPOSITION:NOUN-M,S,CONST:	המשך	O	continued-C0549178
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+(	:PUNCUATION:	(	I-NP	O
+בליעת	:NOUN-F,S,CONST:	בליעה	I-NP	swallowing-C0011167
+בריום	:NOUN-M,S,ABS:	בריום	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+גסטרוסקופיה	:NOUN-F,S,ABS:	גסטרוסקופיה	B-NP	gastroscopy-C0017195
+?	:PUNCUATION:	?	O	O
+
+)	:PUNCUATION:	)	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+או	:CONJUNCTION:	או	O	O
+לאשש	:VERB-TOINFINITIVE:	אישש	O	O
+את	:AT_PREP:	את	B-NP	O
+האבחנה	DEF:NOUN-F,S,ABS:	אבחנה	I-NP	diagnosis-C0011900
+ואת	CONJ:AT_PREP:	את	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+המתאים	DEF:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

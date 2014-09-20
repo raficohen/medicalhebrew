@@ -1,0 +1,28 @@
+נטילת	:NOUN-F,S,CONST:	נטילה	B-NP	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+בהחלט	:ADVERB:	בהחלט	O	O
+מורידה	:VERB-F,S,A,BEINONI:	הוריד	O	O
+את	:AT_PREP:	את	B-NP	O
+רמות	:NOUN-F,P,CONST:	רמה	I-NP	O
+ההומוציסטאין	DEF:NOUN-F,S,ABS:	ההומוציסטאין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+תוצאה	:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+מהימנה	:ADJECTIVE-F,S,ABS:	מהימן	I-NP	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+תחת	:PREPOSITION:	תחת	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מלא	:ADJECTIVE-M,S,ABS:	מלא	O	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	B-NP	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

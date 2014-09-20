@@ -1,0 +1,21 @@
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבקש	:VERB-TOINFINITIVE:	ביקש	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+המטולוגי	DEF:NOUN-M,S,ABS:	המטולוגי	B-NP	hematology-C0018943
+בקרוב	:ADVERB:	בקרוב	O	O
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	O	need-C0027552
+לקיחת	:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	I-NP	anamnesis-C0021055
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+ודיון	CONJ:NOUN-M,S,ABS:	דיון	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

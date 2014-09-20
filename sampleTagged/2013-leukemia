@@ -1,0 +1,28 @@
+כן	:CONJUNCTION:	כן	O	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להיבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+בדחיפות	PREPOSITION:NOUN-F,S,ABS:	דחיפות	B-NP	urgency-C0085606
+.	:PUNCUATION:	.	O	O
+
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+כחולים	:ADJECTIVE-M,P,ABS:	כחול	I-NP	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להצביע	:VERB-TOINFINITIVE:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+לעור	PREPOSITION+DEF:NOUN-M,S,ABS:	עור	B-NP	skin-C0444099
+ובאם	CONJ:CONJUNCTION:	באם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+מרובים	:ADJECTIVE-M,P,ABS:	מרובה	I-NP	O
+כאלה	PREPOSITION:PRONOUN-MF,P,3:	אלה	B-NP	O
+כדאי	:MODAL:	כדאי	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+בדחיפות	PREPOSITION:NOUN-F,S,ABS:	דחיפות	B-NP	urgency-C0085606
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+

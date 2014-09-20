@@ -1,0 +1,37 @@
+בעקבות	:PREPOSITION:	בעקבות	O	O
+החבלה	DEF:NOUN-F,S,ABS:	חבלה	B-NP	trauma-C0043251
+נוצר	:VERB-M,S,3,PAST:	נוצר	O	O
+דלףאויר	:PROPERNAME-M,S:	דלףאויר	B-NP	O
+מיזערי	:PROPERNAME:	מיזערי	I-NP	O
+מהריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+יספג	:VERB-M,S,3,FUTURE:	נספג	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+ימשך	:VERB-M,S,3,FUTURE:	נמשך	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וכיס	CONJ:NOUN-M,S,CONST:	כיס	I-NP	Cyst-C0010709
+האויר	DEF:NOUN-M,S,ABS:	אוויר	I-NP	Air-C0001861
+גדול	:ADJECTIVE-M,S,ABS:	גדול	O	O
+או	:CONJUNCTION:	או	O	O
+גורם	:NOUN-M,S,ABS:	גורם	B-NP	O
+לסימפטומים	PREPOSITION:NOUN-M,P,ABS:	סימפטום	B-NP	symptom-C1457887
+חיבים	:ADJECTIVE-M,P,ABS:	חיבים	I-NP	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+בו	:PREPOSITION:PRONOMIAL-M,S,3	ב	B-NP	O
+בהקדם	:ADVERB:	בהקדם	O	O
+.	:PUNCUATION:	.	O	O
+
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+צילום	:NOUN-M,S,CONST:	צילום	I-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+מספק	PREPOSITION:NOUN-M,S,ABS:	ספק	O	doubt-C0870444
+.	:PUNCUATION:	.	O	O
+

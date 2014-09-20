@@ -1,0 +1,65 @@
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+שתי	:NUMERAL-F,D,CONST:	CARD2	B-NP	O
+הפלות	:NOUN-F,P,ABS:	הפלה	I-NP	abortion-C0156543
+בטרימסטר	PREPOSITION+DEF:NOUN-M,S,ABS:	הטרימסטר	B-NP	O
+הראשון	DEF:NUMERAL-M,S,ABS:	ORD1	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+!	:PUNCUATION:	!	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+חושבת	:VERB-F,S,A,BEINONI:	חשב	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבירור	DEF:NOUN-M,S,ABS:	בירור	B-NP	O
+כולל	:VERB-M,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+:	:PUNCUATION:	:	I-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	I-NP	O
+סרולוגיה	:NOUN-F,S,ABS:	סרולוגיה	I-NP	serology-C0036743
+,	:PUNCUATION:	,	I-NP	O
+אנדוקרינולוגיה	:NOUN-F,S,ABS:	אנדוקרינולוגיה	I-NP	endocrinology-C0014137
+,	:PUNCUATION:	,	I-NP	O
+המטולוגיה	:NOUN-F,S,ABS:	המטולוגיה	I-NP	hematology-C0018943
+...	:PUNCUATION:	...	O	O
+
+והבדיקות	CONJ+DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הגנטיות	DEF:ADJECTIVE-F,P,ABS:	גנטי	I-NP	genetic-C0314603
+(	:PUNCUATION:	(	O	O
+בתשלום	PREPOSITION:NOUN-M,S,ABS:	תשלום	B-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הגנטיות	DEF:ADJECTIVE-F,P,ABS:	גנטי	I-NP	genetic-C0314603
+חשובות	:ADJECTIVE-F,P,ABS:	חשוב	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+האפשרות	DEF:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+הגבוהה	DEF:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+ומכאן	CONJ:ADVERB:	מכאן	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+תבררי	:VERB-F,S,2,FUTURE:	ברר	O	O
+האם	:INTERROGATIVE:	האם	O	O
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+חלק	:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהסכום	PREPOSITION+DEF:NOUN-M,S,ABS:	סכום	I-NP	O
+מק"ח	PREPOSITION:NOUN-M,S,ABS:	ק"ח	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+ביטוח	:NOUN-M,S,ABS:	ביטוח	B-NP	O
+מושלם	:ADJECTIVE-M,S,ABS:	מושלם	I-NP	O
+!	:PUNCUATION:	!	O	O
+

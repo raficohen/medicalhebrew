@@ -1,0 +1,35 @@
+ההמלצה	DEF:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+זריקת	:NOUN-F,S,CONST:	זריקה	B-NP	injection-C1272883
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+לפני	:PREPOSITION:	לפני	O	O
+הנסיעות	DEF:NOUN-F,P,ABS:	נסיעה	B-NP	trip-C0077275
+.	:PUNCUATION:	.	O	O
+
+עם	:PREPOSITION:	עם	O	O
+מכתב	:NOUN-M,S,ABS:	מכתב	B-NP	O
+מלווה	:ADJECTIVE-M,S,ABS:	מלווה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+אפשר	:MODAL:	אפשר	O	O
+לנסוע	:VERB-TOINFINITIVE:	נסע	O	O
+עם	:PREPOSITION:	עם	O	O
+זריקה	:NOUN-F,S,ABS:	זריקה	B-NP	injection-C1272883
+.	:PUNCUATION:	.	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	I-NP	O
+לשלוח	:VERB-TOINFINITIVE:	שלח	O	O
+המזוודה	DEF:NOUN-F,S,ABS:	מזוודה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+הזריקה	DEF:NOUN-F,S,ABS:	זריקה	B-NP	injection-C1272883
+בפנים	PREPOSITION+DEF:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+!	:PUNCUATION:	!	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

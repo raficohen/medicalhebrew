@@ -1,0 +1,24 @@
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+קרוב	:NOUN-M,S,ABS:	קרוב	O	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מהי	:INTERROGATIVE:PRONOMIAL-F,S,3	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+שנשלחת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	נשלח	O	O
+לביצוע	PREPOSITION+DEF:NOUN-M,S,ABS:	ביצוע	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+איתי	:AT_PREP:PRONOMIAL-MF,S,1	את	B-NP	O
+או	:CONJUNCTION:	או	O	O
+עם	:PREPOSITION:	עם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+

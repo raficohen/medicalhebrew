@@ -1,0 +1,35 @@
+טוב	:ADVERB:	טוב	O	good-C0205170
+שאתה	REL-SUBCONJ:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+תחת	:PREPOSITION:	תחת	O	O
+פיקוח	:NOUN-M,S,ABS:	פיקוח	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+שמכיר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+זאת	:PRONOUN-F,S,3:	זאת	I-NP	O
+תחת	:PREPOSITION:	תחת	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+,	:PUNCUATION:	,	O	O
+היתי	:PROPERNAME:	היתי	B-NP	O
+נמנע	:VERB-M,S,A,BEINONI:	נמנע	O	O
+מפעילות	PREPOSITION:NOUN-F,S,CONST:	פעילות	B-NP	activity-C0441655
+ספורט	:NOUN-M,S,ABS:	ספורט	I-NP	sports-C0038039
+עם	:PREPOSITION:	עם	O	O
+לחצים	:NOUN-M,P,ABS:	לחץ	B-NP	pressure-C0033095
+ומאמץ	CONJ:NOUN-M,S,ABS:	מאמץ	B-NP	Exertion-C0015264
+שעשוים	REL-SUBCONJ:ADVERB:	עשוים	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לדימום	PREPOSITION+DEF:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

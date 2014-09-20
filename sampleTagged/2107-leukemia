@@ -1,0 +1,60 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+גורמי	:NOUN-M,P,CONST:	גורם	I-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+,	:PUNCUATION:	,	O	O
+פקטור	:NOUN-M,S,ABS:	פקטור	B-NP	O
+VIII	:FOREIGN:	VIII	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+ומוטציה	CONJ:NOUN-F,S,ABS:	מוטציה	I-NP	mutation-C0026882
+בפקטור	PREPOSITION:NOUN-M,S,ABS:	פקטור	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+טיסה	:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+גורם סיכון	:TERM:	גורם סיכון	O	risk factor-C0035648
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+באם	:CONJUNCTION:	באם	O	O
+את	:AT_PREP:	את	B-NP	O
+מעוניית	:VERB-M,S,A,BEINONI:	מעוניית	O	O
+לטוס	:VERB-TOINFINITIVE:	טס	O	O
+,	:PUNCUATION:	,	O	O
+את	:AT_PREP:	את	B-NP	O
+זקוקה	:ADJECTIVE-F,S,ABS:	זקוק	I-NP	O
+להתנהגות	PREPOSITION:NOUN-F,S,ABS:	התנהגות	B-NP	Behavior-C0004927
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+כמו	:PREPOSITION:	כמו	O	O
+גרביים	:NOUN-M,P,ABS:	גרב	B-NP	O
+אלסטיות	:NOUN-F,S,ABS:	אלסטיות	I-NP	O
+,	:PUNCUATION:	,	O	O
+הליכה	:NOUN-F,S,ABS:	הליכה	B-NP	O
+במטוס	PREPOSITION+DEF:NOUN-M,S,ABS:	מטוס	B-NP	O
+ואולי	CONJ:ADVERB:	אולי	O	O
+זריקה	:NOUN-F,S,ABS:	זריקה	B-NP	injection-C1272883
+של	:SHEL_PREP:	של	I-NP	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+מלא	:ADJECTIVE-M,S,ABS:	מלא	O	O
+.	:PUNCUATION:	.	O	O
+

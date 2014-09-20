@@ -1,0 +1,29 @@
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+ארוך	:ADJECTIVE-M,S,ABS:	ארוך	I-NP	O
+וכדאי	CONJ:ADVERB:	כדאי	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+המטולוגי	DEF:NOUN-M,S,ABS:	המטולוגי	B-NP	hematology-C0018943
+מסודר	:ADJECTIVE-M,S,ABS:	מסודר	O	O
+במכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+הקרוב	DEF:ADJECTIVE-M,S,ABS:	קרוב	I-NP	Near-C1706276
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שבוצעו	REL-SUBCONJ:VERB-MF,P,3,PAST:	בוצע	O	O
+לא	:NEGATION:	לא	O	O
+מסבירות	PREPOSITION:NOUN-F,S,ABS:	סבירות	O	Probability-C0033204
+השתף	:PREPOSITION:	השתף	O	O
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+באמת	:ADVERB:	באמת	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+PS	:FOREIGN:	PS	I-NP	specialistAcronym-E0578986-ps
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

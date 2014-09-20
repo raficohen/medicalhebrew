@@ -1,0 +1,41 @@
+פוליציטמיה	:PROPERNAME:	פוליציטמיה	B-NP	O
+וורה	:PROPERNAME:	וורה	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+בה	:PREPOSITION:PRONOMIAL-F,S,3	ב	B-NP	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+ייצור	:NOUN-M,S,ABS:	ייצור	B-NP	production-C0033268
+מוגבר	:ADJECTIVE-M,S,ABS:	מוגבר	I-NP	O
+ובלתי	CONJ:PREFIX:	בלתי	O	O
+מבוקר	:VERB-M,S,A,BEINONI:	בוקר	O	morning-C0332170
+של	:SHEL_PREP:	של	O	O
+תאי	:NOUN-M,P,CONST:	תא	B-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+בעיקר	:ADVERB:	בעיקר	O	O
+של	:SHEL_PREP:	של	O	O
+כדוריות	:NOUN-F,S,ABS:	כדוריות	B-NP	O
+אדומות	:PROPERNAME:	אדום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לחיות	:VERB-TOINFINITIVE:	חי	O	O
+עם	:PREPOSITION:	עם	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+מקרים	:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+עשויה	:MODAL-F,S,A:	עשוי	O	O
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+ללוקמיה	PREPOSITION:PROPERNAME:	לוקמיה	B-NP	O
+אך	:CONJUNCTION:	אך	O	O
+בדר"כ	:ADVERB:	בדר"כ	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+

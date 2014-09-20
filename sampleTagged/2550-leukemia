@@ -1,0 +1,48 @@
+האם	:INTERROGATIVE:	האם	O	O
+באמת	:ADVERB:	באמת	O	O
+ההמוגלובין	:ADVERB:	ההמוגלובין	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+?	:PUNCUATION:	?	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+.	:PUNCUATION:	.	O	O
+
+לנשים	PREPOSITION:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	B-NP	hemoglobin-C0019046
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+יותר	:ADVERB:	יותר	O	O
+מגברים	PREPOSITION:NOUN-M,P,ABS:	גבר	B-NP	Male gender-C0024554
+ורמת	CONJ:NOUN-F,S,CONST:	רמה	I-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+עבוריך	:VERB-M,P,A,BEINONI:	עבוריך	O	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבחון	:VERB-TOINFINITIVE:	בחן	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+הספירות	DEF:NOUN-F,P,ABS:	ספירה	B-NP	count-C0750480
+למשך	PREPOSITION:NOUN-M,S,CONST:	משך	O	Duration-C0449238
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+ארוך	:ADJECTIVE-M,S,ABS:	ארוך	I-NP	O
+,	:PUNCUATION:	,	O	O
+ורק	CONJ:CONJUNCTION:	רק	O	O
+אם	:CONJUNCTION:	אם	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+שינוי	:NOUN-M,S,ABS:	שינוי	B-NP	difference-C1705241
+משמעותי	:ADJECTIVE-M,S,ABS:	משמעותי	I-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+ולבדוק	CONJ:VERB-TOINFINITIVE:	בדק	O	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

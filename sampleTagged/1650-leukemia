@@ -1,0 +1,98 @@
+לרון	PREPOSITION:PROPERNAME:	רון	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפנייה	DEF:NOUN-F,S,ABS:	פנייה	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+אינה	:VERB-M,S,3,PAST:	אינה	O	O
+בתחום	PREPOSITION+DEF:NOUN-M,S,ABS:	תחום	B-NP	O
+המקצועי	DEF:ADJECTIVE-M,S,ABS:	מקצועי	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+קשה	:ADVERB:	קשה	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+דרך	:PREPOSITION:	דרך	O	O
+האינטרנט	DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+חרדות	:NOUN-F,P,ABS:	חרדה	B-NP	anxiety-C0003467
+אך	:CONJUNCTION:	אך	O	O
+קביעתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	קביעה	B-NP	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+נעשה	:VERB-M,S,3,PAST:	נעשה	O	O
+כלום	:PRONOUN:	כלום	B-NP	O
+לא	:NEGATION:	לא	O	O
+תואמת	:VERB-F,S,A,BEINONI:	תאם	O	O
+את	:AT_PREP:	את	B-NP	O
+תיאורך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	תיאור	I-NP	Description-C0678257
+.	:PUNCUATION:	.	O	O
+
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+בלוטות	:NOUN-F,P,CONST:	בלוטה	I-NP	gland-C1285092
+לימפה	:PROPERNAME:	לימפה	I-NP	lympha-C0024202
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+קבע	:VERB-M,S,3,PAST:	קבע	O	O
+שניתן	REL-SUBCONJ:VERB-M,S,3,PAST:	ניתן	O	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+להסתפק	:VERB-TOINFINITIVE:	הסתפק	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+,	:PUNCUATION:	,	O	O
+ככל	:CONJUNCTION:	ככל	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	B-NP	O
+הסבירות	DEF:NOUN-F,S,ABS:	סבירות	I-NP	Probability-C0033204
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בסרטן	PREPOSITION+DEF:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+היא	:PRONOUN-F,S,3:	הוא	O	O
+ממש	:ADVERB:	ממש	O	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ולשתף	CONJ:VERB-TOINFINITIVE:	שיתף	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+בחרדות	PREPOSITION:NOUN-F,P,ABS:	חרדה	B-NP	anxiety-C0003467
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שהוא	REL-SUBCONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+ימצא	:VERB-M,S,3,FUTURE:	מצא	O	O
+דרך	:NOUN-F,S,ABS:	דרך	B-NP	Through-C0332273-ambigous
+להרגיע	:VERB-TOINFINITIVE:	הרגיע	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שמבחינה	PREPOSITION+REL-SUBCONJ:NOUN-F,S,ABS:	מ	O	O
+מקצועית	:ADJECTIVE-F,S,ABS:	מקצועי	B-NP	O
+אתה	:PRONOUN-M,S,2:	הוא	I-NP	O
+מטופל	:VERB-M,S,A,BEINONI:	טופל	O	O
+כהלכה	:ADVERB:	כהלכה	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

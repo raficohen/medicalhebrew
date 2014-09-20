@@ -1,0 +1,62 @@
+אילן	:PROPERNAME:	אילן	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+הצילום	DEF:NOUN-M,S,ABS:	צילום	B-NP	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+במסך	PREPOSITION:NOUN-M,S,ABS:	מסך	B-NP	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לא	:NEGATION:	לא	O	O
+לפספס	:VERB-TOINFINITIVE:	פספס	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+קטנים	:ADJECTIVE-M,P,ABS:	קטן	I-NP	O
+וחשובים	CONJ:ADJECTIVE-M,P,ABS:	חשוב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+2	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+שכך	REL-SUBCONJ:ADVERB:	כך	B-NP	O
+לא	:NEGATION:	לא	O	O
+עושים	:VERB-M,P,A,BEINONI:	עשה	O	O
+רפואה	:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+.	:PUNCUATION:	.	O	O
+
+אנא	:INTERJECTION:	אנא	B-NP	O
+חזור	:VERB-M,S,2,IMPERATIVE:	חזר	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+ששלך	REL-SUBCONJ:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+שיראה	REL-SUBCONJ:VERB-M,S,3,FUTURE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הצילום	DEF:NOUN-M,S,ABS:	צילום	I-NP	O
+ויוכל	CONJ:MODAL-M,S,2,FUTURE:	יכול	O	O
+לשייך	:VERB-TOINFINITIVE:	שייך	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+לחולה	PREPOSITION:ADJECTIVE-M,S,ABS:	חולה	O	O
+.	:PUNCUATION:	.	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

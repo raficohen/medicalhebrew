@@ -1,0 +1,26 @@
+סיטואציה	:NOUN-F,S,ABS:	סיטואציה	B-NP	O
+נדירה	:ADJECTIVE-F,S,ABS:	נדיר	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+התנגדות	:NOUN-F,S,ABS:	התנגדות	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לקראו	:VERB-TOINFINITIVE:	לקראו	O	O
+באלון	PREPOSITION:PROPERNAME:	אלון	B-NP	O
+שמגיע	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הגיע	O	O
+עם	:PREPOSITION:	עם	O	O
+החיסון	DEF:NOUN-M,S,ABS:	חיסון	B-NP	vaccine-C0042210
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הזהרות	:NOUN-F,P,ABS:	הזהרה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

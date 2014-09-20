@@ -1,0 +1,27 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	I-NP	O
+אגרילין	:NOUN-M,S,ABS:	אגרילין	I-NP	anagrelide-C0051809
+גם	:CONJUNCTION:	גם	O	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	O	good-C0205170
+מאוד	:ADVERB:	מאוד	O	O
+בטרומבוציטמיה	:PROPERNAME:	בטרומבוציטמיה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+ממארת	:ADJECTIVE-F,S,ABS:	ממאיר	I-NP	malignant-C0205282
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+ארוך	:ADJECTIVE-M,S,ABS:	ארוך	I-NP	O
+בנוגע	:ADVERB:	בנוגע	I-NP	O
+לאיזון	PREPOSITION+DEF:NOUN-M,S,ABS:	איזון	B-NP	balance-C0014653
+או	:CONJUNCTION:	או	O	O
+החמרה	:NOUN-F,S,ABS:	החמרה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

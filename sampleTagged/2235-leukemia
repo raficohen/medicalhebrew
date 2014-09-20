@@ -1,0 +1,35 @@
+לא	:NEGATION:	לא	O	O
+ראיתי	:VERB-MF,S,1,PAST:	ראה	O	O
+שבצעו	REL-SUBCONJ:VERB-MF,P,3,PAST:	בצע	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+המקובלות	DEF:ADJECTIVE-F,P,ABS:	מקובל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+גם	:CONJUNCTION:	גם	O	O
+בחלבון	PREPOSITION:NOUN-M,S,ABS:	חלבון	B-NP	protein-C0033684
+S	:FOREIGN:	S	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+תלוי	:ADVERB:	תלוי	I-NP	O
+מתי	:ADVERB:	מתי	I-NP	O
+נעשה	:VERB-M,S,3,PAST:	נעשה	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+מכיוון	:CONJUNCTION:	מכיוון	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+,	:PUNCUATION:	,	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,98 @@
+את	:AT_PREP:	את	B-NP	O
+מקבל	:NOUN-M,S,CONST:	מקבל	I-NP	host-C1167395-ambigous
+מינון	:NOUN-M,S,CONST:	מינון	I-NP	dosage-C0178602
+מניעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	מניעה	I-NP	prevention-C0199176
+של	:SHEL_PREP:	של	I-NP	O
+40	:NUMERAL:	###NUMBER###	I-NP	O
+מ"ג	:NOUN-M,S,ABS:	מ"ג	I-NP	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+ליום	PREPOSITION:NOUN-M,S,ABS:	יום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בגלל	:PREPOSITION:	בגלל	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הפלות	:NOUN-F,P,ABS:	הפלה	I-NP	abortion-C0156543
+חוזרות	:ADJECTIVE-F,P,ABS:	חוזר	I-NP	O
+את	:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ב	:PREPOSITION:	ב	O	O
+.	:PUNCUATION:	.	O	O
+
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+לפעילות	PREPOSITION:NOUN-F,S,CONST:	פעילות	B-NP	activity-C0441655
+ANTI	:FOREIGN:	ANTI	I-NP	O
+F	:FOREIGN:	F	I-NP	O
+XA	:FOREIGN:	XA	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+בין	:PREPOSITION:	בין	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+ל	PREPOSITION::		I-NP	O
+4	:NUMERAL:	###NUMBER###	I-NP	O
+שעות	:NOUN-F,P,ABS:	שעה	I-NP	hour-C0439227
+אחרי	:PREPOSITION:	אחרי	O	O
+הזריקה	DEF:NOUN-F,S,ABS:	זריקה	B-NP	injection-C1272883
+.	:PUNCUATION:	.	O	O
+
+התחום	DEF:NOUN-M,S,ABS:	תחום	B-NP	O
+המניעתי	DEF:ADJECTIVE-M,S,ABS:	המניעתי	I-NP	O
+:	:PUNCUATION:	:	O	O
+0.3	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	I-NP	O
+0.5	:NUMERAL:	###NUMBER###	I-NP	O
+אחרי	:PREPOSITION:	אחרי	O	O
+12	:NUMERAL:	###NUMBER###	B-NP	O
+שעות	:NOUN-F,P,ABS:	שעה	I-NP	hour-C0439227
+מהזריקה	PREPOSITION+DEF:NOUN-F,S,ABS:	זריקה	B-NP	injection-C1272883
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סכנה	:NOUN-F,S,ABS:	סכנה	B-NP	danger-C1428845
+של	:SHEL_PREP:	של	I-NP	O
+דימום	:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+.	:PUNCUATION:	.	O	O
+
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	B-NP	O
+לא	:NEGATION:	לא	O	O
+עובר	:VERB-M,S,A,BEINONI:	עבר	O	past-C1444637
+לעובר	PREPOSITION+DEF:NOUN-M,S,ABS:	עובר	B-NP	fetus-C0015965
+ולא	CONJ:NEGATION:	לא	O	O
+מסכן	:VERB-M,S,A,BEINONI:	סיכן	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+במרפ	:PREPOSITION:	במרף	O	O
+'	:PUNCUATION:	'	O	O
+להריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+בסיכון	PREPOSITION:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+עקב	:PREPOSITION:	עקב	O	O
+הפלות	:NOUN-F,P,ABS:	הפלה	B-NP	abortion-C0156543
+חוזרות	:ADJECTIVE-F,P,ABS:	חוזר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ידריכו	:VERB-MF,P,3,FUTURE:	הדריך	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+ולידה	CONJ:NOUN-F,S,ABS:	לידה	B-NP	birth-C0005615
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הרבה	:ADVERB:	הרבה	B-NP	O
+ניסיון	:NOUN-M,S,ABS:	ניסיון	I-NP	Experience-C0596545-ambigous
+עם	:PREPOSITION:	עם	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+!	:PUNCUATION:	!	O	O
+
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	B-NP	O
+

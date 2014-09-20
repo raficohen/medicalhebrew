@@ -1,0 +1,24 @@
+קשה	:ADVERB:	קשה	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+יחודיים	:ADJECTIVE-M,P,ABS:	ייחודי	O	O
+ויכולים	CONJ:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מופרעים	:ADJECTIVE-M,P,ABS:	מופרע	O	O
+במיגוון	PREPOSITION:NOUN-M,S,CONST:	מגוון	B-NP	Diversity-C1880371
+מצבים	:NOUN-M,P,ABS:	מצב	I-NP	Condition-C0348080
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+להמטולוג	:NOUN-M,P,ABS:	להמטולוג	B-NP	O
+שמטפל	REL-SUBCONJ:VERB-M,S,A,BEINONI:	טיפל	O	O
+בך	:PREPOSITION:PRONOMIAL-M,S,2	ב	B-NP	O
+.	:PUNCUATION:	.	O	O
+

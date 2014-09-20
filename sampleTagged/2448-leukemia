@@ -1,0 +1,30 @@
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+לא	:NEGATION:	לא	O	O
+סובלת	:VERB-F,S,A,BEINONI:	סבל	O	suffering-C0683278
+מתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	O	thalassemia-C0039730
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+חסרות	:ADJECTIVE-F,P,ABS:	חסר	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+שלמה	:ADJECTIVE-F,S,ABS:	שלם	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+גנטי	:ADJECTIVE-M,S,ABS:	גנטי	B-NP	genetic-C0314603
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+בכן	PREPOSITION:NOUN-M,S,CONST:	כן	O	O
+בן	:NOUN-M,S,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+זוגך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	זוג	I-NP	pair-C1709450
+סובל	:VERB-M,S,A,BEINONI:	סבל	O	suffering-C0683278
+מתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+מייגור	:NOUN-M,S,ABS:	מייגור	I-NP	O
+

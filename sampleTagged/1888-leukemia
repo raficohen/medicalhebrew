@@ -1,0 +1,76 @@
+רינה	:PROPERNAME:	רינה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הפסקת	:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+הקומדין	DEF:NOUN-M,S,ABS:	הקומדין	I-NP	O
+והכאבים	CONJ+DEF:NOUN-M,P,ABS:	כאב	I-NP	pain-C0030193
+שהופיעו	REL-SUBCONJ:VERB-MF,P,3,PAST:	הופיע	O	O
+באותו	PREPOSITION:QUANTIFIER-CONST:	אותו	B-NP	O
+יום	:NOUN-M,S,ABS:	יום	I-NP	O
+מפני	:CONJUNCTION:	מפני	O	O
+שלוקח	REL-SUBCONJ:VERB-M,S,A,BEINONI:	לקח	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+עד	:PREPOSITION:	עד	O	O
+שערכי	REL-SUBCONJ:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+INR	:FOREIGN:	INR	I-NP	O
+משתנים	:ADJECTIVE-M,P,ABS:	משתנה	I-NP	variable-C0439828
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זה	:PRONOUN-M,S,3:	זה	O	O
+עלייך	:PREPOSITION:PRONOMIAL-F,S,2	על	B-NP	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+ערנית	:ADJECTIVE-F,S,ABS:	ערני	O	O
+לסימפטומים	PREPOSITION:NOUN-M,P,ABS:	סימפטום	B-NP	symptom-C1457887
+שונים	:ADJECTIVE-M,P,ABS:	שונה	O	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+ברורים	:ADJECTIVE-M,P,ABS:	ברור	O	O
+לך	:PREPOSITION:PRONOMIAL-M,S,2	ל	B-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+מיד	:ADVERB:	מייד	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+שקריש	REL-SUBCONJ:NOUN-M,S,CONST:	קריש	B-NP	clot-C0009074
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+יחזור	:VERB-M,S,3,FUTURE:	חזר	O	O
+תחת	:PREPOSITION:	תחת	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+אך	:CONJUNCTION:	אך	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+חשש	:NOUN-M,S,ABS:	חשש	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+מיד	:ADVERB:	מייד	O	O
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+דר	:PROPERNAME:	דר	I-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

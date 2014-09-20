@@ -1,0 +1,30 @@
+שגית	:PROPERNAME:	שגייה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+מדוברבמחלה	:ADJECTIVE-M,S,CONST:	מדוברבמחלה	B-NP	O
+גרורתית	:ADJECTIVE-F,S,ABS:	גרורתית	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+פרוגנוזה	:NOUN-F,S,ABS:	פרוגנוזה	B-NP	prognosis-C0033325
+שאינה	REL-SUBCONJ:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	O	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+מרבית	:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+גרורתית	:ADJECTIVE-F,S,ABS:	גרורתית	I-NP	O
+לא	:NEGATION:	לא	O	O
+ישרדו	:VERB-MF,P,3,FUTURE:	שרד	O	O
+את	:AT_PREP:	את	B-NP	O
+מחלתם	:NOUN-F,S,ABS:POSSESIVE-M,P,3	מחלה	I-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

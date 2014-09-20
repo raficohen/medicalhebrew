@@ -1,0 +1,67 @@
+כל	:QUANTIFIER-CONST:	כול	O	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+איןמשמעות	:PARTICIPLE-M,S,A,CONST:	איןמשמעות	O	O
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	O	clinical-C0205210
+לסרעפת	PREPOSITION+DEF:NOUN-F,S,ABS:	סרעפת	B-NP	diaphragm-C0011980
+במנח	PREPOSITION:NOUN-M,S,ABS:	מנח	B-NP	O
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+אזי	:CONJUNCTION:	אזי	O	O
+אין	:NEGATION:	אין	O	O
+לזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+הדורשת	DEF:PARTICIPLE-F,S,A,ABS:	דרש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+סרעפת	:NOUN-F,S,ABS:	סרעפת	B-NP	diaphragm-C0011980
+גבווהה	:VERB-F,S,A,BEINONI:	גבווהה	O	O
+דהיינו	:CONJUNCTION:	דהיינו	B-NP	O
+מיקום	:NOUN-M,S,ABS:	מיקום	I-NP	location-C0450429
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+בבית	PREPOSITION:NOUN-M,S,CONST:	בית	B-NP	house-C2003847
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+וכתוצאה	PREPOSITION+CONJ:NOUN-F,S,ABS:	כ	O	O
+מכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+הקטנת	:NOUN-F,S,CONST:	הקטנה	B-NP	O
+נפח	:NOUN-M,S,CONST:	נפח	I-NP	Volume-C0449468
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+ופגיעה	CONJ:NOUN-F,S,ABS:	פגיעה	B-NP	O
+בתיפקוד	PREPOSITION:NOUN-M,S,CONST:	תפקוד	B-NP	Function-C0542341
+הריאות	DEF:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+(	:PUNCUATION:	(	I-NP	O
+..	:PUNCUATION:	..	I-NP	O
+קוצר נשימה	:TERM:	קוצר נשימה	O	shortness of breath-C0013404
+במאמץ	PREPOSITION:NOUN-M,S,ABS:	מאמץ	B-NP	Exertion-C0015264
+או	:CONJUNCTION:	או	O	O
+מנוחה	:NOUN-F,S,ABS:	מנוחה	B-NP	rest-C0035253
+,	:PUNCUATION:	,	O	O
+למשל	:CONJUNCTION:	למשל	O	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+הסיבות	DEF:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+אין	:NOUN-M,S,ABS:	אין	B-NP	O
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+החל	:VERB-M,S,3,PAST:	החל	O	O
+ממיקום	PREPOSITION:NOUN-M,S,ABS:	מיקום	O	location-C0450429
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+של	:SHEL_PREP:	של	O	O
+הכבד	DEF:NOUN-M,S,ABS:	כבד	B-NP	liver-C0023884
+(	:PUNCUATION:	(	O	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+ממיצא	PREPOSITION:PARTICIPLE-M,S,A,CONST:	ייצא	O	O
+אנטומי	:ADJECTIVE-M,S,ABS:	אנטומי	O	anatomy-C0002808
+בלבד	:ADVERB:	בלבד	O	O
+ללא	:PREPOSITION:	ללא	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+)	:PUNCUATION:	)	O	O
+וחלה	CONJ:VERB-F,S,3,PAST:	חל	O	O
+בגידולים	PREPOSITION:NOUN-M,P,ABS:	גידול	B-NP	tumor-C0027651
+סרטניים	:ADJECTIVE-M,P,ABS:	סרטני	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+חלל	:NOUN-M,S,CONST:	חלל	I-NP	space-C1883067
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+או	:CONJUNCTION:	או	O	O
+הבטן	DEF:NOUN-F,S,ABS:	בטן	B-NP	abdomen-C0000726
+.	:PUNCUATION:	.	O	O
+

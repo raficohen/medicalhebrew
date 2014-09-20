@@ -1,0 +1,23 @@
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+האמור	DEF:ADJECTIVE-M,S,ABS:	אמור	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שמקור	REL-SUBCONJ:NOUN-M,S,CONST:	מקור	B-NP	Source-C0449416
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+בשריר	PREPOSITION:NOUN-M,S,ABS:	שריר	B-NP	muscle-C0026845
+או	:CONJUNCTION:	או	O	O
+בשלד.לא	:ADJECTIVE-M,S,CONST:	בשלד.לא	O	O
+ניראה	:VERB-MF,P,1,FUTURE:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+הדורשת	DEF:PARTICIPLE-F,S,A,ABS:	דרש	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+מעמיק	:VERB-M,S,A,BEINONI:	העמיק	O	O
+יותר	:ADVERB:	יותר	O	O
+של	:SHEL_PREP:	של	O	O
+ריאות	:NOUN-F,P,ABS:	ריאה	B-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+

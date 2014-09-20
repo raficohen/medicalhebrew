@@ -1,0 +1,75 @@
+גלית	:PROPERNAME:	גלית	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+משאלתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+גוש	:NOUN-M,S,ABS:	גוש	B-NP	Mass-C0577559
+בשד	PREPOSITION+DEF:NOUN-M,S,ABS:	שד	B-NP	breast-C0006141
+או	:CONJUNCTION:	או	O	O
+במקום	PREPOSITION:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+בחזה	PREPOSITION+DEF:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+ברור	:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+בפורום	PREPOSITION:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+שכזו	PREPOSITION+REL-SUBCONJ:PRONOUN-F,S,3:	כ	O	O
+מבלי	:CONJUNCTION:	מבלי	O	O
+להכיר	:VERB-TOINFINITIVE:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+,	:PUNCUATION:	,	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+ולראות	CONJ:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+הרלוונטיות	DEF:ADJECTIVE-F,P,ABS:	רלוונטי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+זכותך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	זכות	B-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+לא	:NEGATION:	לא	O	O
+בפורומים	PREPOSITION+DEF:NOUN-M,P,ABS:	פורום	B-NP	O
+באינטרנט	PREPOSITION+DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+אלא	:CONJUNCTION:	אלא	O	O
+בביקור	PREPOSITION:NOUN-M,S,ABS:	ביקור	B-NP	visit-C0545082
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

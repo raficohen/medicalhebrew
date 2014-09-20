@@ -1,0 +1,40 @@
+בירור	:NOUN-M,S,CONST:	בירור	B-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+נטילת	:NOUN-F,S,CONST:	נטילה	B-NP	O
+גלולה	:NOUN-F,S,ABS:	גלולה	I-NP	pills-C0994475
+נעשה	:VERB-M,S,3,PAST:	נעשה	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+אישי	:ADJECTIVE-M,S,ABS:	אישי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+משפחתי	:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+של	:SHEL_PREP:	של	I-NP	O
+טרומבוזה	:PROPERNAME:	טרומבוזה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לבת	PREPOSITION:NOUN-F,S,ABS:	בת	B-NP	daughter-C0011011
+שלן	REL-SUBCONJ:VERB-M,S,3,PAST:	לן	O	O
+ה	DEF::	ה	B-NP	O
+PC	:FOREIGN:	PC	I-NP	specialistAcronym-E0688663-pc
+כמעט	:ADVERB:	כמעט	O	O
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+לא	:NEGATION:	לא	O	O
+משקף	:VERB-M,S,A,BEINONI:	שיקף	O	O
+לפי	:PREPOSITION:	לפי	O	O
+דעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	דעה	B-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

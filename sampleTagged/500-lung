@@ -1,0 +1,83 @@
+שילוב	:NOUN-M,S,ABS:	שילוב	B-NP	integration-C1158478
+של	:SHEL_PREP:	של	I-NP	O
+ממצאי	:NOUN-M,P,CONST:	ממצא	I-NP	Finding-C0243095
+CT	:FOREIGN:	CT	I-NP	O
+חזה	:NOUN-M,S,CONST:	חזה	I-NP	chest-C0817096
+צילומי	:NOUN-M,P,CONST:	צילום	I-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+,	:PUNCUATION:	,	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+PET	:FOREIGN:	PET	O	O
+אמורים	:ADJECTIVE-M,P,ABS:	אמור	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+מושג	:NOUN-M,S,ABS:	מושג	B-NP	Term (lexical)-C1705313
+על	:PREPOSITION:	על	O	O
+הדירוג	DEF:NOUN-M,S,ABS:	דירוג	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מחלת	:NOUN-F,S,CONST:	מחלה	I-NP	disease-C0012634
+הסרטן	DEF:NOUN-M,S,ABS:	סרטן	I-NP	malignancy-C0006826
+והתפשטותה	CONJ:NOUN-F,S,ABS:POSSESIVE-F,S,3	התפשטות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+תמיד	:ADVERB:	תמיד	O	O
+האופציה	DEF:NOUN-F,S,ABS:	אופציה	B-NP	option-C1518601
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+כירורגיה	:PROPERNAME:	כירורגיה	B-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+כירורגיה	:PROPERNAME:	כירורגיה	B-NP	surgery-C0038894
+היא	:PRONOUN-F,S,3:	הוא	O	O
+האופציה	DEF:NOUN-F,S,ABS:	אופציה	B-NP	option-C1518601
+הטיפולית	DEF:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+שטומנת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	טמן	O	O
+בחובה	PREPOSITION:NOUN-F,S,ABS:	חובה	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+סיכויי	:NOUN-M,P,CONST:	סיכוי	I-NP	chance-C0237506
+ההישרדות	DEF:NOUN-F,S,ABS:	הישרדות	I-NP	O
+בחיים	PREPOSITION+DEF:NOUN-M,P,ABS:	חיים	B-NP	life-C0376558
+הגבוהה	DEF:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אפשרות	:NOUN-F,S,CONST:	אפשרות	B-NP	Ability-C0085732-ambigous
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+כמוטרפיה	:VERB-M,S,3,FUTURE:	כמוטרפיה	O	O
+/	:PUNCUATION:	/	O	O
+הקרנות	:NOUN-F,P,ABS:	הקרנה	B-NP	radiation-C0034519
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+שטומנת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	טמן	O	O
+בחובה	PREPOSITION:NOUN-F,S,ABS:	חובה	B-NP	O
+קושי	:NOUN-M,S,ABS:	קושי	B-NP	O
+לחולה	PREPOSITION:ADJECTIVE-M,S,ABS:	חולה	O	O
+.	:PUNCUATION:	.	O	O
+
+הסיכוים	DEF:NOUN-M,S,ABS:	הסיכוים	B-NP	O
+להישרדות	PREPOSITION:NOUN-F,S,ABS:	הישרדות	O	O
+בחיים	PREPOSITION+DEF:NOUN-M,P,ABS:	חיים	B-NP	life-C0376558
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+נגזרת	:PARTICIPLE-F,S,A,ABS:	נגזר	O	O
+של	:SHEL_PREP:	של	O	O
+הדירוג	DEF:NOUN-M,S,ABS:	דירוג	B-NP	O
+,	:PUNCUATION:	,	O	O
+מצבו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מצב	B-NP	Condition-C0348080
+הכללי	DEF:ADJECTIVE-M,S,ABS:	כללי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+,	:PUNCUATION:	,	O	O
+מימוש	:NOUN-M,S,CONST:	מימוש	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+או	:CONJUNCTION:	או	O	O
+הימנעות	:NOUN-F,S,ABS:	הימנעות	B-NP	avoidance-C0870186
+מכול	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+

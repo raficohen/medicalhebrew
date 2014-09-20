@@ -1,0 +1,28 @@
+כן	:ADVERB:	כן	O	O
+.	:PUNCUATION:	.	O	O
+
+אומנם	:ADVERB:	אומנם	O	O
+הנושא	DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+של	:SHEL_PREP:	של	I-NP	O
+הקשר	DEF:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+הריוניות	:ADJECTIVE-F,P,ABS:	הריוניות	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מספיק	:ADVERB:	מספיק	O	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+בהיסטוריה	PREPOSITION+DEF:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+המילדותית	:NOUN-MF,S,ABS:	המילדותית	B-NP	O
+יש	:NOUN-M,S,ABS:	יש	I-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+בעיות	:NOUN-F,P,ABS:	בעיה	I-NP	problem-C0033213
+שמצדיקות	REL-SUBCONJ:VERB-F,P,A,BEINONI:	הצדיק	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

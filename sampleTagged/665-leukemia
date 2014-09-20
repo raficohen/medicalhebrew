@@ -1,0 +1,29 @@
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+אירוע	:NOUN-M,S,ABS:	אירוע	I-NP	event-C0441471
+אלא	:CONJUNCTION:	אלא	O	O
+רק	:CONJUNCTION:	רק	O	O
+בבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להסתפק	:VERB-TOINFINITIVE:	הסתפק	O	O
+באספרין	PREPOSITION:PROPERNAME:	אספרין	B-NP	O
+75	:NUMERAL:	###NUMBER###	B-NP	O
+מ	PREPOSITION::		I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+ג	:NUMERAL:	ג	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+לפני	:PREPOSITION:	לפני	I-NP	O
+ואחרי	CONJ:PREPOSITION:	אחרי	I-NP	O
+הטיסות	DEF:NOUN-F,P,ABS:	טיסה	I-NP	flight-C2610507
+ובזמן	PREPOSITION+CONJ:NOUN-M,S,CONST:	ב	O	O
+הטיסה	DEF:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+הארוכה	DEF:ADJECTIVE-F,S,ABS:	ארוך	I-NP	O
+להתהלך	:VERB-TOINFINITIVE:	התהלך	O	O
+לפחות	:ADVERB:	לפחות	O	O
+פעמיים	:ADVERB:	פעמיים	O	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,28 @@
+לפי	:PREPOSITION:	לפי	O	O
+התאור	DEF:NOUN-M,S,ABS:	תיאור	B-NP	Description-C0678257
+קרוב	:NOUN-M,S,ABS:	קרוב	O	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בתהליך	PREPOSITION:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+דלקתי	:ADJECTIVE-M,S,ABS:	דלקתי	I-NP	O
+אך	:CONJUNCTION:	אך	I-NP	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+יותר	:ADVERB:	יותר	I-NP	O
+מדוייקת	:ADJECTIVE-F,S,ABS:	מדוייקת	I-NP	O
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+CT	:FOREIGN:	CT	I-NP	O
+יחד	:ADVERB:	יחד	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+רנטגנולוג	:NOUN-M,S,ABS:	רנטגנולוג	B-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+.	:PUNCUATION:	.	O	O
+

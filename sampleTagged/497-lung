@@ -1,0 +1,43 @@
+הכאבים	DEF:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+לרוב	PREPOSITION:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+מקורם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	מקור	I-NP	Source-C0449416
+מהשרירים	PREPOSITION+DEF:NOUN-M,P,ABS:	שריר	B-NP	muscle-C0026845
+או	:CONJUNCTION:	או	O	O
+מהמבנה	PREPOSITION+DEF:NOUN-M,S,ABS:	מבנה	B-NP	O
+הגרמי	DEF:ADJECTIVE-M,S,ABS:	גרמי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+,	:PUNCUATION:	,	O	O
+הסיבות	DEF:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+לרוב	:ADVERB:	לרוב	O	O
+הן	:PRONOUN-F,P,3:	הוא	B-NP	O
+שפירות	:ADJECTIVE-F,P,ABS:	שפיר	I-NP	benign-C0205183
+וחולפות	CONJ:ADJECTIVE-F,P,ABS:	חולף	O	O
+לבד	:ADVERB:	לבד	O	O
+.	:PUNCUATION:	.	O	O
+
+אניי	:PROPERNAME:	אניי	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתיבדק	REL-SUBCONJ:VERB-F,S,3,FUTURE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+אפילו	:CONJUNCTION:	אפילו	O	O
+למטרת	PREPOSITION:NOUN-F,S,CONST:	מטרה	B-NP	goal-C0018017
+הרגעה	:NOUN-F,S,ABS:	הרגעה	I-NP	sedative-C0036557
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+הרושם	DEF:NOUN-M,S,ABS:	רושם	B-NP	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מודאג	:VERB-M,S,A,BEINONI:	הודאג	O	O
+.	:PUNCUATION:	.	O	O
+
+ההילובקטר	:PROPERNAME:	ההילובקטר	B-NP	O
+לא	:NEGATION:	לא	O	O
+אמור	:MODAL-M,S,A:	אמור	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+האבים	:NOUN-M,P,ABS:	האבים	B-NP	O
+בחזה	PREPOSITION:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+

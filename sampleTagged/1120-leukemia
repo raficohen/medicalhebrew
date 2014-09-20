@@ -1,0 +1,49 @@
+תלונות	:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+ייחודיות	:NOUN-F,S,ABS:	ייחודיות	B-NP	O
+לפוליציטמיה	PREPOSITION:NOUN-F,S,ABS:	פוליציטמיה	B-NP	O
+ורה	CONJ:PROPERNAME:	רה	B-NP	O
+,	:PUNCUATION:	,	O	O
+ייתכן	:ADVERB:	ייתכן	O	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+להידראה	PREPOSITION:NOUN-F,S,ABS:	הידראה	B-NP	hydroxyurea-C0020402
+(	:PUNCUATION:	(	I-NP	O
+כאבי	:NOUN-M,P,CONST:	כאב	I-NP	pain-C0030193
+רגליים	:NOUN-F,P,ABS:	רגל	I-NP	foot-C0016504
+)	:PUNCUATION:	)	O	O
+תלוי	:ADJECTIVE-M,S,ABS:	תלוי	O	O
+במנון	PREPOSITION:PARTICIPLE-M,S,A,ABS:	ניוון	O	O
+.	:PUNCUATION:	.	O	O
+
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ריכוז	:NOUN-M,S,ABS:	ריכוז	I-NP	Mental concentration-C0086045-ambigous
+וטשטוש	CONJ:NOUN-M,S,ABS:	טשטוש	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+כתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	O	result-C1274040
+מעלייה	PREPOSITION:NOUN-F,S,ABS:	עלייה	B-NP	O
+ברמת	PREPOSITION:NOUN-F,S,CONST:	רמה	B-NP	O
+הכדוריות	DEF:NOUN-F,S,ABS:	כדוריות	I-NP	O
+האדומות	DEF:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+האם	:INTERROGATIVE:	האם	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לסימנים	PREPOSITION:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+אלו	:PRONOUN-MF,P,3:	אלו	B-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+ואחרי	CONJ:PREPOSITION:	אחרי	O	O
+הקזות	:NOUN-F,P,ABS:	הקזה	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+הטחול	DEF:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+בממדים	PREPOSITION:NOUN-M,P,ABS:	ממד	B-NP	O
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+לא	:NEGATION:	לא	O	O
+מסביר	:VERB-M,S,A,BEINONI:	הסביר	O	O
+את	:AT_PREP:	את	B-NP	O
+התופעות	DEF:NOUN-F,P,ABS:	תופעה	I-NP	phenomenon-C1882365
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,45 @@
+רנין	:NOUN-M,S,ABS:	רנין	B-NP	rennin-C0035100-ambigous
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הצילומים	DEF:NOUN-M,P,ABS:	צילום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+רנטגן	:PROPERNAME:	רנטגן	I-NP	O
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+באות	:VERB-F,P,A,BEINONI:	בא	O	O
+במקום	:PREPOSITION:	במקום	O	O
+הסתכלות	:NOUN-F,S,ABS:	הסתכלות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+חייבות	:ADJECTIVE-F,P,ABS:	חייב	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+מענה	:NOUN-M,S,ABS:	מענה	B-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+או	:CONJUNCTION:	או	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שמציע	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הציע	O	O
+לאמך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	B-NP	Mother-C0026591-ambigous
+ניתוח	:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

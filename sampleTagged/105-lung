@@ -1,0 +1,55 @@
+דן	:PROPERNAME:	דן	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+ראשית	:ADVERB:	ראשית	O	O
+,	:PUNCUATION:	,	O	O
+לנוכח	:PREPOSITION:	לנוכח	O	O
+הכאב	DEF:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+להימנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מאימון	PREPOSITION:NOUN-M,S,ABS:	אימון	B-NP	O
+מאתגר	:ADJECTIVE-M,S,ABS:	מאתגר	I-NP	O
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+,	:PUNCUATION:	,	O	O
+עד	:PREPOSITION:	עד	O	O
+חלוף	:NOUN-M,S,CONST:	חלוף	B-NP	O
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והכאב	CONJ+DEF:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+לא	:NEGATION:	לא	O	O
+נעלם	:VERB-M,S,3,PAST:	נעלם	O	O
+במנוחה	PREPOSITION:PROPERNAME:	מנוחה	B-NP	rest-C0035253
+,	:PUNCUATION:	,	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+במצבים	PREPOSITION:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חזה	:PROPERNAME:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+המלצתי	:VERB-MF,S,1,PAST:	המליץ	O	O
+:	:PUNCUATION:	:	O	O
+מנוחה	:NOUN-F,S,ABS:	מנוחה	B-NP	rest-C0035253
+מאימון	PREPOSITION:NOUN-M,S,ABS:	אימון	I-NP	O
+גופני	:ADJECTIVE-M,S,ABS:	גופני	I-NP	O
+מאומץ	:ADJECTIVE-M,S,ABS:	מאומץ	I-NP	O
+וחזרה	CONJ:NOUN-F,S,ABS:	חזרה	I-NP	back-C0004600
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והכאב	CONJ+DEF:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+נסוג	:VERB-M,S,A,BEINONI:	נסוג	O	O
+.	:PUNCUATION:	.	O	O
+
+החלמה	:NOUN-F,S,ABS:	החלמה	B-NP	recovery-C0237820
+מהירה	:ADJECTIVE-F,S,ABS:	מהיר	I-NP	O
+ד"ר	:TITULA-S:	ד"ר	I-NP	O
+קרמר	:NOUN-M,S,ABS:	קרמר	O	kremer-C1441631
+

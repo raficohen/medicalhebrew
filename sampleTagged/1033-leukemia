@@ -1,0 +1,34 @@
+את	:AT_PREP:	את	B-NP	O
+לא	:NEGATION:	לא	O	O
+מוסרת	:VERB-F,S,A,BEINONI:	מסר	O	O
+את	:AT_PREP:	את	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לספיגה	PREPOSITION:NOUN-F,S,ABS:	ספיגה	B-NP	absorption-C0000854
+של	:SHEL_PREP:	של	I-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+נוטלת	:VERB-F,S,A,BEINONI:	נטל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שיחליט	REL-SUBCONJ:VERB-M,S,3,FUTURE:	החליט	O	O
+על	:PREPOSITION:	על	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+המטולוגי	:PREPOSITION:	המטולוגי	O	O
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

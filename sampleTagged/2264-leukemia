@@ -1,0 +1,31 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+ממצאי	:NOUN-M,P,CONST:	ממצא	B-NP	Finding-C0243095
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+להריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+מתקבל	:VERB-M,S,A,BEINONI:	התקבל	O	O
+הרושם	DEF:NOUN-M,S,ABS:	רושם	B-NP	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+חולה	:VERB-F,S,A,BEINONI:	חלה	O	O
+בזיהום	PREPOSITION:NOUN-M,S,ABS:	זיהום	B-NP	infection-C0009450
+קל	:ADJECTIVE-M,S,ABS:	קל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+חולף	:VERB-M,S,A,BEINONI:	חלף	O	O
+כדאי	:ADVERB:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+(	:PUNCUATION:	(	O	O
+במיוחד	:ADVERB:	במיוחד	O	O
+עקב	:PREPOSITION:	עקב	O	O
+ההריון	DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+

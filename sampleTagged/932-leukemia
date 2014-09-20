@@ -1,0 +1,20 @@
+את	:AT_PREP:	את	B-NP	O
+חייבת	:MODAL-F,S,A:	חייב	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+מיד	:ADVERB:	מייד	B-NP	O
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ולשים	CONJ:VERB-TOINFINITIVE:	שם	O	Name-C0027365-ambigous
+לב	:NOUN-M,S,ABS:	לב	B-NP	heart-C0018787
+בין	:PREPOSITION:	בין	O	O
+היתר	:NOUN-M,S,ABS:	היתר	B-NP	License-C0023636
+למספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+וכמובן	CONJ:ADVERB:	כמובן	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+לרמת	PREPOSITION:NOUN-F,S,CONST:	רמה	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ופריטין	CONJ:NOUN-M,S,ABS:	פריטין	O	ferritin-C0015879
+בנסיוב	PREPOSITION:NOUN-M,S,ABS:	נסיוב	B-NP	serum-C0229671
+

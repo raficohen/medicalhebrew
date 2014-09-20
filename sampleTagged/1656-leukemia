@@ -1,0 +1,37 @@
+כמובן	:ADVERB:	כמובן	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+עם	:PREPOSITION:	עם	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הפיברינוגן	DEF:NOUN-M,S,ABS:	הפיברינוגן	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+מהנורמה	PREPOSITION+DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+למוטציה	PREPOSITION:NOUN-F,S,ABS:	מוטציה	O	mutation-C0026882
+הומוזיגוטית	:ADJECTIVE-F,S,ABS:	הומוזיגוטית	O	O
+MTHFR	:FOREIGN:	MTHFR	O	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+לתקנה	PREPOSITION:NOUN-F,S,ABS:	תקנה	B-NP	O
+בחי	PREPOSITION+DEF:NOUN-M,S,ABS:	חי	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+שבטח	REL-SUBCONJ:ADVERB:	בטח	O	O
+את	:AT_PREP:	את	B-NP	O
+כבר	:ADVERB:	כבר	O	O
+מקבלת	:VERB-F,S,A,BEINONI:	קיבל	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

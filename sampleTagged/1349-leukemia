@@ -1,0 +1,26 @@
+לפי	:PREPOSITION:	לפי	O	O
+מיטב	:NOUN-M,S,CONST:	מיטב	B-NP	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+נויטרופניה	:NOUN-F,S,ABS:	נויטרופניה	B-NP	neutropenia-C0027947
+וטחורים	CONJ:NOUN-M,P,ABS:	טחורים	B-NP	hemorrhoids-C0019112
+אלא	:CONJUNCTION:	אלא	O	O
+אם	:CONJUNCTION:	אם	O	O
+כן	:CONJUNCTION:	כן	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+נויטרופניה	:NOUN-F,S,ABS:	נויטרופניה	B-NP	neutropenia-C0027947
+עשויים	:MODAL-M,P,A:	עשוי	O	O
+להתפתח	:VERB-TOINFINITIVE:	התפתח	O	O
+זיהומים	:NOUN-M,P,ABS:	זיהום	B-NP	infection-C0009450
+באזור	PREPOSITION:NOUN-M,S,CONST:	אזור	B-NP	area-C0017446
+הטחורים	DEF:NOUN-M,P,ABS:	טחורים	I-NP	hemorrhoids-C0019112
+הקיימים	DEF:ADJECTIVE-M,P,ABS:	קיים	I-NP	O
+אשר	:VERB-M,S,3,PAST:	אישר	O	O
+יותר	:ADVERB:	יותר	O	O
+קשה	:ADVERB:	קשה	O	O
+להתגבר	:VERB-TOINFINITIVE:	התגבר	O	O
+עליהם	:PREPOSITION:PRONOMIAL-M,P,3	על	B-NP	O
+.	:PUNCUATION:	.	O	O
+

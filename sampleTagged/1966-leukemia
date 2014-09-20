@@ -1,0 +1,30 @@
+לפי	:PREPOSITION:	לפי	O	O
+הסיפרות	DEF:NOUN-F,P,ABS:	סיפרה	B-NP	O
+החומר	DEF:NOUN-M,S,ABS:	חומר	I-NP	material-C0520510
+מתפקד	:VERB-M,S,A,BEINONI:	תפקד	O	O
+כחומר	PREPOSITION:NOUN-M,S,CONST:	חומר	B-NP	material-C0520510
+המפרק	DEF:NOUN-M,S,ABS:	מפרק	I-NP	Joints-C0022417
+קרישים	:NOUN-M,P,ABS:	קריש	B-NP	clot-C0009074
+שמקורו	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	מקור	B-NP	Source-C0449416
+במזון	PREPOSITION+DEF:NOUN-M,S,ABS:	מזון	B-NP	food-C0016452
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+טסיות	:NOUN-F,P,ABS:	טסיותות	B-NP	O
+נמוכות	:ADJECTIVE-F,P,ABS:	נמוך	I-NP	O
+בדם	PREPOSITION+DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+עלול	:MODAL-M,S,A:	עלול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לשטפי	PREPOSITION:NOUN-M,P,CONST:	שטף	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+קשים	:ADJECTIVE-M,P,ABS:	קשה	I-NP	O
+ואולי	CONJ:ADVERB:	אולי	O	O
+אפילו	:CONJUNCTION:	אפילו	O	O
+באיברים	PREPOSITION:NOUN-M,P,ABS:	איבר	B-NP	organ-C0029236
+חיוניים	:ADJECTIVE-M,P,ABS:	חיוני	I-NP	O
+עד	:PREPOSITION:	עד	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+חיים	:NOUN-M,P,ABS:	חיים	O	life-C0376558
+

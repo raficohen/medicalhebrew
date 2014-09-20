@@ -1,0 +1,48 @@
+"	:PUNCUATION:	"	O	O
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+סמיך	:ADJECTIVE-M,S,ABS:	סמיך	I-NP	O
+"	:PUNCUATION:	"	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+ביטוי	:NOUN-M,S,ABS:	ביטוי	B-NP	expression-C0017262
+לא	:NEGATION:	לא	I-NP	O
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+הרבה	:ADVERB:	הרבה	O	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+אדומות	:PROPERNAME:	אדום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+בהחלט	:ADVERB:	בהחלט	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+מדוע	:ADVERB:	מדוע	O	O
+והאם	CONJ:INTERROGATIVE:	האם	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+והתיעצי	CONJ:VERB-F,S,2,IMPERATIVE:	התייעץ	O	O
+איתו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+אם	:CONJUNCTION:	אם	O	O
+באמת	:ADVERB:	באמת	O	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מספר	:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	I-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+אדומות	:PROPERNAME:	אדום	I-NP	O
+.	:PUNCUATION:	.	O	O
+

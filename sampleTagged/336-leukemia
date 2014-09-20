@@ -1,0 +1,34 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	B-NP	Rule-C0870077-ambigous
+אנו	:PRONOUN-MF,P,1:	הוא	I-NP	O
+לא	:NEGATION:	לא	O	O
+נותניםטפול	:ADJECTIVE-M,S,CONST:	נותניםטפול	O	O
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+DACOGEN	:FOREIGN:	DACOGEN	O	O
+לחולים	PREPOSITION:ADJECTIVE-M,P,ABS:	חולה	O	O
+מבוגרים	:ADJECTIVE-M,P,ABS:	מבוגר	O	adults-C0001675
+.	:PUNCUATION:	.	O	O
+
+כדי	:CONJUNCTION:	כדי	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+צריך	:MODAL-M,S,A:	צריך	O	O
+נתונים	:NOUN-M,P,ABS:	נתון	B-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+מדויקים	:ADJECTIVE-M,P,ABS:	מדויק	I-NP	O
+על	:PREPOSITION:	על	O	O
+ספירות	:NOUN-F,P,CONST:	ספירה	B-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+תופעת	:NOUN-F,S,CONST:	תופעה	B-NP	phenomenon-C1882365
+הלוואי	DEF:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+העיקרית	DEF:ADJECTIVE-F,S,ABS:	עיקרי	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+הספירות	DEF:NOUN-F,P,ABS:	ספירה	I-NP	count-C0750480
+.	:PUNCUATION:	.	O	O
+

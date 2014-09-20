@@ -1,0 +1,34 @@
+גם	:CONJUNCTION:	גם	O	O
+למי	PREPOSITION:INTERROGATIVE:	מי	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+טלסמיה	:NOUN-F,P,ABS:	טלסמיות	B-NP	O
+מינור	:NOUN-M,S,ABS:	מינור	B-NP	minor-C0026193
+מותר	:ADJECTIVE-M,S,ABS:	מותר	I-NP	O
+שיהיו	REL-SUBCONJ:COPULA-MF,P,3,FUTURE,POSITIVE:	הוא	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+מעידות	:VERB-F,P,A,BEINONI:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+,	:PUNCUATION:	,	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	O	O
+אצל	:PREPOSITION:	אצל	O	O
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+צעירות	:ADJECTIVE-F,P,ABS:	צעיר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+פני	:NOUN-M,S,ABS:	פני	B-NP	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,48 @@
+LAC	:FOREIGN:	LAC	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+הבודקת	DEF:PARTICIPLE-F,S,A,ABS:	בדק	O	O
+קיום	:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	I-NP	antibody-C0003241
+מסוימים	:ADJECTIVE-M,P,ABS:	מסוים	I-NP	O
+בשיטה	PREPOSITION+DEF:NOUN-F,S,ABS:	שיטה	B-NP	system-C0449913
+של	:SHEL_PREP:	של	I-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+באמת	:ADVERB:	באמת	O	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+משהו	:NOUN-M,S,ABS:	משהו	I-NP	O
+שבהחלט	REL-SUBCONJ:ADVERB:	בהחלט	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להשפיע	:VERB-TOINFINITIVE:	השפיע	O	O
+על	:PREPOSITION:	על	O	O
+ההריון	DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+!	:PUNCUATION:	!	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+מאוד	:ADVERB:	מאוד	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+את	:AT_PREP:	את	B-NP	O
+העניין	DEF:NOUN-M,S,ABS:	עניין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+ל	PREPOSITION::		O	O
+"	:PUNCUATION:	"	O	O
+קרישולוג	:PROPERNAME:	קרישולוג	B-NP	O
+"	:PUNCUATION:	"	O	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	O	O
+לברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+.	:PUNCUATION:	.	O	O
+

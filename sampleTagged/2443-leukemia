@@ -1,0 +1,32 @@
+נשמע	:VERB-M,S,3,PAST:	נשמע	O	O
+שסבתך	REL-SUBCONJ:NOUN-F,S,ABS:POSSESIVE-F,S,2	סבה	B-NP	O
+במצב	PREPOSITION:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+מאוד	:ADVERB:	מאוד	I-NP	O
+מורכב	:ADJECTIVE-M,S,ABS:	מורכב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מאוד	:ADVERB:	מאוד	O	O
+מקווה	:VERB-M,S,A,BEINONI:	קיווה	O	O
+שהמשפחה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+המודאגת	DEF:ADJECTIVE-F,S,ABS:	מודאג	I-NP	O
+לא	:NEGATION:	לא	O	O
+רוצה	:VERB-M,S,A,BEINONI:	רצה	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+באינטרנט	PREPOSITION+DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+לגבי	:PREPOSITION:	לגבי	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+רפואי	:ADJECTIVE-M,S,ABS:	רפואי	I-NP	O
+כה	:ADVERB:	כה	I-NP	O
+מסובך	:ADJECTIVE-M,S,ABS:	מסובך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מצטער	:VERB-M,S,A,BEINONI:	הצטער	O	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,30 @@
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+הנורמליים	DEF:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	I-NP	O
+PT	:FOREIGN:	PT	I-NP	specialistAcronym-E0635674-pt
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+בין	:PREPOSITION:	בין	O	O
+המעבדות	DEF:NOUN-F,P,ABS:	מעבדה	B-NP	Laboratory-C0022877
+השונות	DEF:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+בתלות	PREPOSITION:NOUN-F,S,ABS:	תלות	B-NP	dependence-C0011546
+במכשיר	PREPOSITION+DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+ובחומרים	PREPOSITION+CONJ:NOUN-M,P,ABS:	ב	O	O
+הנמצאים	DEF:PARTICIPLE-M,P,A,ABS:	נמצא	O	O
+בשימוש	PREPOSITION:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+במעבדה	PREPOSITION+DEF:NOUN-F,S,ABS:	מעבדה	B-NP	Laboratory-C0022877
+.	:PUNCUATION:	.	O	O
+
+להערכתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	הערכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+PT	:FOREIGN:	PT	I-NP	specialistAcronym-E0635674-pt
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,62 @@
+לימור	:PROPERNAME:	לימור	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+חד	:PREFIX:	חד	I-NP	O
+משמעית	:ADJECTIVE-F,S,ABS:	משמעי	I-NP	O
+לשאלתך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+ב	PREPOSITION::		B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+גוינט	:PROPERNAME:	גוינט	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+המדובר	DEF:ADJECTIVE-M,S,ABS:	מדובר	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+את	:AT_PREP:	את	B-NP	O
+כמות	:NOUN-F,S,CONST:	כמות	I-NP	amount-C1265611
+הטבק	DEF:NOUN-M,S,ABS:	טבק	I-NP	tobacco-C0040329
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+בסיגריה	PREPOSITION:NOUN-F,S,ABS:	סיגריה	B-NP	cigarette-C0677453
+רגילה	:ADJECTIVE-F,S,ABS:	רגיל	I-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+באותו	PREPOSITION:QUANTIFIER-CONST:	אותו	B-NP	O
+נזק	:NOUN-M,S,ABS:	נזק	I-NP	damage-C1883709
+,	:PUNCUATION:	,	O	O
+מעבר	:NOUN-M,S,ABS:	מעבר	B-NP	Transition-C2700061-ambigous
+לנזקים	PREPOSITION+DEF:NOUN-M,P,ABS:	נזק	B-NP	damage-C1883709
+האחרים	DEF:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+שנגרמים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	נגרם	O	O
+מעישון	PREPOSITION:NOUN-M,S,CONST:	עישון	B-NP	smoking-C0037369
+סמים	:NOUN-M,P,ABS:	סם	I-NP	drug-C0013227
+.	:PUNCUATION:	.	O	O
+
+אל	:NEGATION:	אל	O	O
+תלמדי	:VERB-F,S,2,FUTURE:	למד	O	O
+מתשובתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	תשובה	O	answer-C1706817
+שעישון	REL-SUBCONJ:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+סמים	:NOUN-M,P,ABS:	סם	I-NP	drug-C0013227
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+כעישון	PREPOSITION:NOUN-M,S,CONST:	עישון	B-NP	smoking-C0037369
+סיגריות	:NOUN-F,P,ABS:	סיגריה	I-NP	cigarette-C0677453
+.	:PUNCUATION:	.	O	O
+
+בשני	PREPOSITION:NOUN-M,S,CONST:	שני	B-NP	second-C0205436-ambigous
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בנזק	PREPOSITION:NOUN-M,S,ABS:	נזק	B-NP	damage-C1883709
+מצטבר	:VERB-M,S,A,BEINONI:	הצטבר	O	O
+עצום	:ADJECTIVE-M,S,ABS:	עצום	O	O
+בכמה	PREPOSITION:QUANTIFIER-CONST:	כמה	B-NP	O
+מערכות	:NOUN-F,P,ABS:	מערכה	I-NP	Array-C1510941
+.	:PUNCUATION:	.	O	O
+
+חג	:NOUN-M,S,ABS:	חג	B-NP	O
+שמח	:ADJECTIVE-M,S,ABS:	שמח	I-NP	O
+ונקי	CONJ:ADJECTIVE-M,S,ABS:	נקי	I-NP	O
+מעישון	PREPOSITION:NOUN-M,S,ABS:	עישון	O	smoking-C0037369
+.	:PUNCUATION:	.	O	O
+

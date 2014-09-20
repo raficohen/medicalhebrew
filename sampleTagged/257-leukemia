@@ -1,0 +1,19 @@
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+עליה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+ב	:PREPOSITION:	ב	I-NP	O
+IGM	:FOREIGN:	IGM	O	O
+ללא	:PREPOSITION:	ללא	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+ס.ד	:NOUN-M,S,ABS:POSSESIVE-M,S,3	ס.	B-NP	O
+ורמת	CONJ:NOUN-F,S,CONST:	רמה	B-NP	O
+אימונוגלובולין	:NOUN-M,S,ABS:	אימונוגלובולין	I-NP	Immunoglobulins-C0021027
+לפני	:PREPOSITION:	לפני	O	O
+ביקור	:NOUN-M,S,ABS:	ביקור	B-NP	visit-C0545082
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+

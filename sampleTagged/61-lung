@@ -1,0 +1,47 @@
+ירדנה	:PROPERNAME:	ירדנה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+על	:PREPOSITION:	על	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+בנטילת	PREPOSITION:NOUN-F,S,CONST:	נטילה	B-NP	O
+שתי	:NUMERAL-F,D,CONST:	CARD2	I-NP	O
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+גם	:CONJUNCTION:	גם	I-NP	O
+יחד	:ADVERB:	יחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+,	:PUNCUATION:	,	O	O
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+כדאי	:MODAL:	כדאי	O	O
+להפנות	:VERB-TOINFINITIVE:	נפנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שרשם	REL-SUBCONJ:VERB-M,S,3,PAST:	רשם	O	O
+את	:AT_PREP:	את	B-NP	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+אשר	:CONJUNCTION:	אשר	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+ההיסטוריה	DEF:NOUN-F,S,ABS:	היסטוריה	I-NP	history-C0019664
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+,	:PUNCUATION:	,	O	O
+הרקע	DEF:NOUN-M,S,ABS:	רקע	B-NP	background-C1706907
+והאינדיקציה	CONJ+DEF:NOUN-F,S,ABS:	אינדיקציה	B-NP	indication-C0392360
+למתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+שנה	:NOUN-F,S,ABS:	שנה	B-NP	year-C0439234
+טוב	:ADJECTIVE-M,S,ABS:	טוב	I-NP	good-C0205170
+ד"ר	:TITULA-S:	ד"ר	I-NP	O
+קרמר	:NOUN-M,S,ABS:	קרמר	O	kremer-C1441631
+

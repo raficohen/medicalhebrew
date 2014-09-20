@@ -1,0 +1,20 @@
+עומרי	:PROPERNAME:	עומרי	B-NP	O
+קשה	:ADVERB:	קשה	O	O
+למקד	:VERB-TOINFINITIVE:	מיקד	O	O
+את	:AT_PREP:	את	B-NP	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+בכתב	PREPOSITION:NOUN-M,S,CONST:	כתב	B-NP	O
+אתה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ובהמשך	PREPOSITION+CONJ:NOUN-M,S,CONST:	ב	O	O
+קרדיולוג	:NOUN-M,S,ABS:	קרדיולוג	B-NP	cardiologist-C0175906
+ההילובקטר	:VERB-F,S,2,IMPERATIVE:	ההילובקטר	O	O
+לא	:NEGATION:	לא	O	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לתלונות	PREPOSITION:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+

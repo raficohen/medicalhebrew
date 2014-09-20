@@ -1,0 +1,33 @@
+מחלת	:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+PV	:FOREIGN:	PV	I-NP	O
+איטית	:ADJECTIVE-F,S,ABS:	איטי	I-NP	O
+מאות	PREPOSITION:NOUN-M,S,ABS:	אות	I-NP	O
+ועוברת	CONJ:VERB-F,S,A,BEINONI:	עבר	O	past-C1444637
+ישירות	:ADVERB:	ישירות	O	O
+ללוקימיה	:PROPERNAME:	ללוקימיה	B-NP	O
+,	:PUNCUATION:	,	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+רחוקות	:ADJECTIVE-F,P,ABS:	רחוק	O	O
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+אחרי	:PREPOSITION:	אחרי	O	O
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+של	:SHEL_PREP:	של	I-NP	O
+מעקב	:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+וטיפול	CONJ:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+יש	:NOUN-M,S,ABS:	יש	I-NP	O
+טרנספומציה	:ADJECTIVE-M,S,CONST:	טרנספומציה	I-NP	O
+למיאלופיברוזיס	PREPOSITION:NOUN-M,S,ABS:	מיאלופיברוזיס	B-NP	myelofibrosis-C0001815
+.	:PUNCUATION:	.	O	O
+
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+לא	:NEGATION:	לא	O	O
+מעידה	:VERB-F,S,A,BEINONI:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+משפחתית	:ADJECTIVE-F,S,ABS:	משפחתי	I-NP	familial-C0015576
+.	:PUNCUATION:	.	O	O
+

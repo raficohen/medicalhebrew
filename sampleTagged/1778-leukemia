@@ -1,0 +1,83 @@
+עדין	:ADJECTIVE-M,S,ABS:	עדין	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+:	:PUNCUATION:	:	O	O
+מחסני	:NOUN-M,P,CONST:	מחסן	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+עדין	:ADJECTIVE-M,S,ABS:	עדין	O	O
+ריקים	:ADJECTIVE-M,P,ABS:	ריק	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+את	:AT_PREP:	את	B-NP	O
+משתמשת	:VERB-F,S,A,BEINONI:	השתמש	I-NP	O
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ליצירת	PREPOSITION:NOUN-F,S,CONST:	יצירה	O	creation-C0441513
+כ	:PREPOSITION:	כ	O	O
+.	:PUNCUATION:	.	O	O
+
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+HB	:FOREIGN:	HB	O	O
+עלה	:VERB-M,S,3,PAST:	עלה	O	O
+יפה	:ADVERB:	יפה	O	O
+.	:PUNCUATION:	.	O	O
+
+מחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לחולשה	PREPOSITION:NOUN-F,S,ABS:	חולשה	O	Asthenia-C0004093
+כללית	:ADJECTIVE-F,S,ABS:	כללי	O	O
+סחרורות	:ADVERB:	סחרורות	O	O
+.	:PUNCUATION:	.	O	O
+
+נפילת	:NOUN-F,S,CONST:	נפילה	B-NP	falling-C0085639
+מתח	:NOUN-M,S,ABS:	מתח	I-NP	O
+לעתים	:ADVERB:	לעתים	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+רמות	:NOUN-F,P,ABS:	רמה	I-NP	O
+סוכר	:NOUN-M,S,ABS:	סוכר	I-NP	sugar-C0007004
+בצום	PREPOSITION+DEF:NOUN-M,S,ABS:	צום	B-NP	Fasting-C0015663
+ואחרי	CONJ:PREPOSITION:	אחרי	O	O
+אוכל	:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+ובדיקות	CONJ:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+:	:PUNCUATION:	:	O	O
+ל	:PREPOSITION:	ל	O	O
+.	:PUNCUATION:	.	O	O
+
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+,	:PUNCUATION:	,	O	O
+ב	:PREPOSITION:	ב	O	O
+.	:PUNCUATION:	.	O	O
+
+לב	:NOUN-M,S,ABS:	לב	O	heart-C0018787
+,	:PUNCUATION:	,	O	O
+בלוטת התריס	:TERM:	בלוטת התריס	O	thyroid gland-C0040132
+...	:PUNCUATION:	...	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+לעוד	PREPOSITION:NOUN-M,S,CONST:	עוד	O	More-C0205172
+חודשיים	:ADJECTIVE-M,P,ABS:	חודשי	O	O
+עד	:PREPOSITION:	עד	O	O
+שרמת	REL-SUBCONJ:NOUN-F,S,CONST:	רמה	B-NP	O
+הפריטין	DEF:NOUN-M,S,ABS:	הפריטין	I-NP	O
+תיהיה	:PROPERNAME:	תיהיה	I-NP	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	I-NP	O
+(	:PUNCUATION:	(	O	O
+מעל	:PREPOSITION:	מעל	O	O
+20	:NUMERAL:	###NUMBER###	B-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

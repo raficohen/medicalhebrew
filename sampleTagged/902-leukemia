@@ -1,0 +1,19 @@
+אם	:CONJUNCTION:	אם	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בפקקת	PREPOSITION:NOUN-F,S,ABS:	פקקת	B-NP	thrombosis-C0040053
+ורידית	:ADJECTIVE-F,S,ABS:	ורידית	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+3	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+4	:NUMERAL:	###NUMBER###	I-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+ולהפסיק.אז	:ADJECTIVE-M,S,CONST:	ולהפסיק.אז	I-NP	O
+תוכל	:MODAL-F,S,3,FUTURE:	יכול	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לפעילות	PREPOSITION:NOUN-F,S,ABS:	פעילות	B-NP	activity-C0441655
+ספורטיבית	:ADJECTIVE-F,S,ABS:	ספורטיבי	O	O
+

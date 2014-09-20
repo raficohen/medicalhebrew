@@ -1,0 +1,32 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בלוקמיה	PREPOSITION:PROPERNAME:	לוקמיה	B-NP	O
+חריפה	:ADJECTIVE-F,S,ABS:	חריף	I-NP	acute-C0205178
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	O	O
+APL	:FOREIGN:	APL	O	O
+.	:PUNCUATION:	.	O	O
+
+כדי	:CONJUNCTION:	כדי	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+דיווח	:NOUN-M,S,ABS:	דיווח	B-NP	O
+מפורט	:VERB-M,S,A,BEINONI:	פורט	O	O
+על	:PREPOSITION:	על	O	O
+אפיון	:NOUN-M,S,CONST:	אפיון	B-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+,	:PUNCUATION:	,	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שקיבלה	REL-SUBCONJ:VERB-F,S,3,PAST:	קיבל	O	O
+עד	:PREPOSITION:	עד	O	O
+כה	:ADVERB:	כה	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+חוזרת	:ADJECTIVE-F,S,ABS:	חוזר	I-NP	O
+וכו	:PREPOSITION:	וכו	O	O
+'	:PUNCUATION:	'	O	O
+.	:PUNCUATION:	.	O	O
+

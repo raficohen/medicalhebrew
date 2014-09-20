@@ -1,0 +1,87 @@
+גיל	:PROPERNAME:	גיל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+לשאלותיך	PREPOSITION:NOUN-F,P,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+מבלי	:CONJUNCTION:	מבלי	O	O
+להכיר	:VERB-TOINFINITIVE:	הכיר	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+(	:PUNCUATION:	(	O	O
+גיל	:NOUN-M,S,ABS:	גיל	B-NP	O
+,	:PUNCUATION:	,	O	O
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+,	:PUNCUATION:	,	O	O
+מחלות	:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+רקע	:NOUN-M,S,ABS:	רקע	I-NP	background-C1706907
+וכ	:PREPOSITION:	וך	O	O
+ו'	:NOUN-M,S,ABS:	ו'	B-NP	O
+וכו')	:ADJECTIVE-M,S,ABS:	וכו')	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+התלונה	DEF:NOUN-F,S,ABS:	תלונה	B-NP	complaint-C0277786
+של	:SHEL_PREP:	של	I-NP	O
+כאב	:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+בחזה	PREPOSITION:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+(	:PUNCUATION:	(	O	O
+וקרוב	CONJ:NOUN-M,S,ABS:	קרוב	O	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+המינוח	DEF:NOUN-M,S,ABS:	מינוח	B-NP	O
+הנכון	DEF:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+בריאה	:ADJECTIVE-F,S,ABS:	בריא	I-NP	O
+)	:PUNCUATION:	)	O	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+יחודית	:ADJECTIVE-F,S,ABS:	ייחודי	O	O
+וקיימות	CONJ:NOUN-F,S,CONST:	קיימות	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+ומגוונות	CONJ:ADJECTIVE-F,P,ABS:	מגוון	I-NP	Diversity-C1880371
+שגורמות	REL-SUBCONJ:VERB-F,P,A,BEINONI:	גרם	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+בוודאי	:ADVERB:	בוודאי	O	O
+לא	:NEGATION:	לא	O	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+בראש	PREPOSITION:NOUN-M,S,CONST:	ראש	B-NP	head-C0018670
+הרשימה	DEF:NOUN-F,S,ABS:	רשימה	I-NP	list-C0745732
+.	:PUNCUATION:	.	O	O
+
+במרבית	PREPOSITION:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+אלו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	אל	B-NP	deity-C0681169-ambigous
+כאבים	:NOUN-M,P,ABS:	כאב	I-NP	pain-C0030193
+השמקורם	:PROPERNAME:	השמקורם	I-NP	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+-	:PUNCUATION:	-	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+.	:PUNCUATION:	.	O	O
+
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+הבודק	DEF:PARTICIPLE-M,S,A,ABS:	בדק	I-NP	O
+יחליט	:VERB-M,S,3,FUTURE:	החליט	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

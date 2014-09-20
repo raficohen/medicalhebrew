@@ -1,0 +1,20 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מקווה	:VERB-M,S,A,BEINONI:	קיווה	O	O
+שהוא	REL-SUBCONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+מסודר	:ADJECTIVE-M,S,ABS:	מסודר	I-NP	O
+בב"ח	PREPOSITION+DEF:NOUN-M,S,ABS:	הב"ח	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+המוליזה	:NOUN-F,S,ABS:	המוליזה	B-NP	hemolysis-C0019054
+ואני	CONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שהרופאים	REL-SUBCONJ+DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+משלימים	:VERB-M,P,A,BEINONI:	השלים	O	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	B-NP	O
+כראוי	:ADVERB:	כראוי	O	O
+!	:PUNCUATION:	!	O	O
+

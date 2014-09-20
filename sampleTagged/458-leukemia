@@ -1,0 +1,41 @@
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+המחשידים	DEF:PARTICIPLE-M,P,A,ABS:	החשיד	O	O
+בכוון	PREPOSITION:NOUN-M,S,CONST:	כוון	B-NP	O
+נוכחות	:NOUN-F,S,CONST:	נוכחות	I-NP	presence-C0392148
+קריש דם	:TERM:	קריש דם	O	blood clot-C0302148
+.	:PUNCUATION:	.	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	B-NP	O
+ונקווה	CONJ:VERB-M,S,A,BEINONI:	נקווה	O	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+.	:PUNCUATION:	.	O	O
+
+כמובן	:ADVERB:	כמובן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להמשיך	:VERB-TOINFINITIVE:	המשיך	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מונע	:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הקופה	DEF:NOUN-F,S,ABS:	קוף	B-NP	Monkeys-C0026447
+-	:PUNCUATION:	-	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	I-NP	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+מושג	:NOUN-M,S,ABS:	מושג	B-NP	Term (lexical)-C1705313
+לגבי	:PREPOSITION:	לגבי	O	O
+הנכות	DEF:NOUN-F,S,ABS:	נכות	B-NP	disability-C0231170
+-	:PUNCUATION:	-	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואין	CONJ:NEGATION:	אין	O	O
+סבוכים	:ADJECTIVE-M,P,ABS:	סבוך	O	O
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+שלילית	:ADJECTIVE-F,S,ABS:	שלילי	O	O
+.	:PUNCUATION:	.	O	O
+

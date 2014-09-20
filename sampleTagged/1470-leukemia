@@ -1,0 +1,31 @@
+לא	:NEGATION:	לא	O	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+ב	:PREPOSITION:	ב	B-NP	O
+לויקוציטים	:NOUN-F,S,ABS:	לויקוציטים	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+כן	:ADVERB:	כן	O	O
+יתכן	:MODAL:	ייתכן	O	O
+שזאת	REL-SUBCONJ:PRONOUN-F,S,3:	זאת	B-NP	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+לבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	O	problem-C0033213
+ריאתית	:ADJECTIVE-F,S,ABS:	ריאתית	O	O
+.	:PUNCUATION:	.	O	O
+
+אתה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+במעקב	PREPOSITION+DEF:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+וזה	CONJ:PRONOUN-M,S,3:	זה	O	O
+בסדר	:ADVERB:	בסדר	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	O	O
+.	:PUNCUATION:	.	O	O
+
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

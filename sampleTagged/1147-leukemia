@@ -1,0 +1,24 @@
+אלו	:PRONOUN-MF,P,3:	אלו	B-NP	O
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+ככליות	PREPOSITION:NOUN-F,P,ABS:	כליה	B-NP	kidney-C0022646
+!	:PUNCUATION:	!	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+למתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+למקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+ספציפי	:ADJECTIVE-M,S,ABS:	ספציפי	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ישאר	:VERB-M,S,3,FUTURE:	נשאר	O	O
+בידים	PREPOSITION:NOUN-M,S,ABS:	ידים	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+/	:PUNCUATION:	/	O	O
+יועץ	:NOUN-M,S,CONST:	יועץ	B-NP	O
+קרדיאולוגי	:NOUN-M,P,CONST:	קרדיאולוגי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

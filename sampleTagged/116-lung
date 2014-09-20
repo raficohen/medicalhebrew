@@ -1,0 +1,23 @@
+אם	:CONJUNCTION:	אם	O	O
+הטרנסלוקציה	:VERB-M,S,2,IMPERATIVE:	הטרנסלוקציה	O	O
+ל	:PREPOSITION:	ל	O	O
+ALK	:FOREIGN:	ALK	O	O
+חיובית	:ADJECTIVE-F,S,ABS:	חיובי	O	O
+צריך	:ADJECTIVE-M,S,ABS:	צריך	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+להשיג	:VERB-TOINFINITIVE:	השיג	O	O
+את	:AT_PREP:	את	B-NP	O
+המעקב	DEF:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+הספציפי	DEF:ADJECTIVE-M,S,ABS:	ספציפי	I-NP	O
+ל	:PREPOSITION:	ל	O	O
+(	:PUNCUATION:	(	O	O
+קריזוטיניב)ALK	:PROPERNAME:	קריזוטיניב)ALK	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+ארלוטיניב	:NOUN-F,P,ABS:	ארלוטיניבות	B-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

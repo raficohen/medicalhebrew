@@ -1,0 +1,27 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+שיפור	:NOUN-M,S,ABS:	שיפור	B-NP	improvement-C2986411
+במצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+הנשימתי	DEF:ADJECTIVE-M,S,ABS:	הנשימתי	I-NP	O
+ובמצב	PREPOSITION+CONJ+DEF:NOUN-M,S,ABS:	ב	O	O
+הכללי	DEF:ADJECTIVE-M,S,ABS:	כללי	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+שבועות	:NOUN-M,P,ABS:	שבוע	B-NP	week-C0439230
+ספורים	:ADJECTIVE-M,P,ABS:	ספור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לאור	:PREPOSITION:	לאור	O	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מתארת	:VERB-F,S,A,BEINONI:	תיאר	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להפנות	:VERB-TOINFINITIVE:	נפנה	O	O
+את	:AT_PREP:	את	B-NP	O
+אבא	:PROPERNAME:	אבא	I-NP	O
+לבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+חוזרת	:ADJECTIVE-F,S,ABS:	חוזר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

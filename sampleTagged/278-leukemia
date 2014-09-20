@@ -1,0 +1,26 @@
+מצטער	:VERB-M,S,A,BEINONI:	הצטער	O	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+אם	:CONJUNCTION:	אם	O	O
+הנתונים	DEF:NOUN-M,P,ABS:	נתון	B-NP	O
+האלא	:ADVERB:	האלא	O	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+או	:CONJUNCTION:	או	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+כדי	:CONJUNCTION:	כדי	O	O
+לנתח	PREPOSITION:NOUN-M,S,CONST:	נתח	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+כראוי	:ADVERB:	כראוי	O	O
+!	:PUNCUATION:	!	O	O
+

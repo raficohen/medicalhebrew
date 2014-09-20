@@ -1,0 +1,26 @@
+את	:AT_PREP:	את	B-NP	O
+מאזנת	:VERB-F,S,A,BEINONI:	איזן	O	O
+היטב	:ADVERB:	היטב	O	O
+את	:AT_PREP:	את	B-NP	O
+צריכת	:NOUN-F,S,CONST:	צריכה	I-NP	consumption-C0009830
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+!	:PUNCUATION:	!	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+צימחונית	:VERB-F,S,2,IMPERATIVE:	צימחונית	O	O
+אפשר	:VERB-M,S,3,PAST:	אפשר	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+כדור	:NOUN-M,S,CONST:	כדור	B-NP	Pills-C0994475
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+פעמים	:NOUN-F,P,ABS:	פעם	I-NP	once-C1948045
+בשבוע	PREPOSITION+DEF:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+או	:CONJUNCTION:	או	O	O
+בתקופת	PREPOSITION:NOUN-F,S,CONST:	תקופה	B-NP	Time periods-C0439582
+המחזור	DEF:NOUN-M,S,ABS:	מחזור	I-NP	reunion-C0035373
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

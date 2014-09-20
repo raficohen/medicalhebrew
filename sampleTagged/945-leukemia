@@ -1,0 +1,18 @@
+יחסית	:ADVERB:	יחסית	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+הם	:PRONOUN-M,P,3:	הוא	O	O
+בגדר	PREPOSITION:NOUN-F,S,CONST:	גדר	O	Restricted-C0443288
+סטייה	:NOUN-F,S,ABS:	סטייה	B-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+מהנורמה	PREPOSITION+DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+ואינם	CONJ:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+מחייבים	:VERB-M,P,A,BEINONI:	חייב	O	O
+התייחסות	:NOUN-F,S,ABS:	התייחסות	B-NP	treatment-C0039798
+מיוחדת	:ADJECTIVE-F,S,ABS:	מיוחד	I-NP	O
+בהנחה	PREPOSITION:NOUN-F,S,ABS:	הנחה	B-NP	Hypothesis-C1512571
+שכל	REL-SUBCONJ:QUANTIFIER-CONST:	כול	B-NP	O
+יתר	:NOUN-M,S,CONST:	יתר	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+

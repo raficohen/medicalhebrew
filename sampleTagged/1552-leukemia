@@ -1,0 +1,31 @@
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+ב	:PREPOSITION:	ב	O	O
+לויקופניה	:NOUN-F,P,ABS:	לויקופניות	B-NP	O
+,	:PUNCUATION:	,	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	PREPOSITION:NOUN-M,S,CONST:	היות	O	Exist-C2987476
+מיקראי	:PROPERNAME:	מיקראי	B-NP	O
+(	:PUNCUATION:	(	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+)	:PUNCUATION:	)	O	O
+או	:CONJUNCTION:	או	O	O
+קבוע	:ADJECTIVE-M,S,ABS:	קבוע	O	O
+ואז	CONJ:CONJUNCTION:	אז	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+דורש	:VERB-M,S,A,BEINONI:	דרש	O	O
+בירור	:NOUN-M,S,CONST:	בירור	B-NP	O
+המטולוגי	DEF:NOUN-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+,	:PUNCUATION:	,	O	O
+פרט	:VERB-M,S,3,PAST:	פרט	O	details-C1522508-ambigous
+למוצאי	PREPOSITION:NOUN-M,P,CONST:	מוצא	B-NP	origin-C0439659
+תימן	:PROPERNAME:	תימן	I-NP	O
+שהמצב	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+אטני	:PROPERNAME:	אטני	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

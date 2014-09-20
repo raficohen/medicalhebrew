@@ -1,0 +1,47 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בחום	PREPOSITION:NOUN-M,S,ABS:	חום	B-NP	heat-C0018837
+או	:CONJUNCTION:	או	O	O
+בגלי	PREPOSITION:NOUN-M,P,CONST:	גל	B-NP	wave-C0678544
+רדיו	:NOUN-M,S,ABS:	רדיו	I-NP	O
+שמור	:PARTICIPLE-M,S,A,ABS:	שמר	O	yeast-C0036025
+לחולים	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,P,3	חולי	B-NP	O
+שאינם	REL-SUBCONJ:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+לעמוד	:VERB-TOINFINITIVE:	עמד	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כירורגי	:ADJECTIVE-M,S,ABS:	כירורגי	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מבוצע	:VERB-M,S,A,BEINONI:	בוצע	O	O
+בכמה	PREPOSITION:QUANTIFIER-CONST:	כמה	B-NP	O
+מרכזים	:NOUN-M,P,ABS:	מרכז	I-NP	center-C0205099
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+אנחנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+מבצעים	:VERB-M,P,A,BEINONI:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בשערי	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-MF,S,1	שער	O	O
+צדק	:NOUN-M,S,ABS:	צדק	B-NP	O
+מזה	PREPOSITION:PRONOUN-M,S,3:	זה	O	O
+כ	:PREPOSITION:	כ	O	O
+שנתיים	:ADJECTIVE-M,P,ABS:	שנתי	B-NP	O
+,	:PUNCUATION:	,	O	O
+ביום	PREPOSITION:NOUN-M,S,ABS:	יום	B-NP	O
+רביעי	:NUMERAL-M,S,ABS:	ORD4	I-NP	O
+הקרוב	DEF:ADJECTIVE-M,S,ABS:	קרוב	I-NP	Near-C1706276
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לנו	:PREPOSITION:PRONOMIAL-MF,P,1	ל	B-NP	O
+שני	:NOUN-M,S,ABS:	שני	B-NP	second-C0205436-ambigous
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+שעוברים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עבר	O	past-C1444637
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+כאמוד	:VERB-TOINFINITIVE:	אמד	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+לגופו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	גוף	B-NP	body-C0460148
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+מעודדות	:ADJECTIVE-F,P,ABS:	מעודד	I-NP	O
+

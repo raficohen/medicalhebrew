@@ -1,0 +1,28 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+במעקב	PREPOSITION+DEF:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+!	:PUNCUATION:	!	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אובחנת	:VERB-F,S,2,PAST:	אובחן	O	O
+כסובלת	PREPOSITION+DEF:PARTICIPLE-F,S,A,ABS:	סבל	B-NP	suffering-C0683278
+ITP	:FOREIGN:	ITP	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+שדורש	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דרש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+,	:PUNCUATION:	,	O	O
+סטרוידים	:ADJECTIVE-F,S,ABS:	סטרוידים	O	O
+ניתנים	:VERB-M,P,A,BEINONI:	ניתן	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+הטרימסטר	:NOUN-F,S,ABS:	הטרימסטר	B-NP	O
+ה	:NUMERAL:	ה	I-NP	O
+1	:NUMERAL:	###NUMBER###	I-NP	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+עם	:PREPOSITION:	עם	O	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+.	:PUNCUATION:	.	O	O
+

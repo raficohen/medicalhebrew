@@ -1,0 +1,29 @@
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בפוליציטמיה	PREPOSITION:NOUN-F,S,ABS:	פוליציטמיה	B-NP	O
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתבדק	:VERB-TOINFINITIVE:	שתבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+להשלמת	PREPOSITION:NOUN-F,S,CONST:	השלמה	B-NP	O
+הברור	DEF:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מהם	:PREPOSITION:PRONOMIAL-M,P,3	מן	B-NP	O
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+הכדוריות	DEF:NOUN-F,S,ABS:	כדוריות	I-NP	O
+הלבנות	DEF:ADJECTIVE-F,P,ABS:	לבן	I-NP	O
+והטרומבוציטים	:VERB-M,S,2,IMPERATIVE:	והטרומבוציטים	O	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+בעיית	:NOUN-F,S,CONST:	בעיה	B-NP	problem-C0033213
+בריאות	:NOUN-F,S,ABS:	בריאות	I-NP	health-C0018684
+?	:PUNCUATION:	?	O	O
+

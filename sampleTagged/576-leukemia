@@ -1,0 +1,103 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+בת	:NOUN-F,S,ABS:	בת	B-NP	daughter-C0011011
+כמה	PREPOSITION:INTERROGATIVE:	מה	O	O
+את	:AT_PREP:	את	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מחלות	:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+רקע	:NOUN-M,S,ABS:	רקע	B-NP	background-C1706907
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+היתה	:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+נטייה	:NOUN-F,S,ABS:	נטייה	B-NP	O
+לדמם	:VERB-TOINFINITIVE:	דימם	O	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+באירוע	PREPOSITION:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+חוזר	:ADJECTIVE-M,S,ABS:	חוזר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ITP	:FOREIGN:	ITP	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+מתי	:ADVERB:	מתי	O	O
+?	:PUNCUATION:	?	O	O
+
+וכיצד	CONJ:ADVERB:	כיצד	O	O
+הסתיים	:VERB-M,S,3,PAST:	הסתיים	O	O
+?	:PUNCUATION:	?	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המידע	DEF:NOUN-M,S,ABS:	מידע	I-NP	Information-C1533716
+הזה	DEF:PRONOUN-M,S,3:	זה	I-NP	O
+חיוני	:ADJECTIVE-M,S,ABS:	חיוני	O	O
+לפני	:PREPOSITION:	לפני	O	O
+שמקבלים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	קיבל	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+.	:PUNCUATION:	.	O	O
+
+עקרונית	:ADVERB:	עקרונית	O	O
+-	:PUNCUATION:	-	O	O
+אם	:CONJUNCTION:	אם	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+באירוע	PREPOSITION:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+חוזר	:ADJECTIVE-M,S,ABS:	חוזר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ITP	:FOREIGN:	ITP	I-NP	O
+ואם	CONJ:CONJUNCTION:	אם	I-NP	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	I-NP	O
+תלות	:NOUN-F,S,ABS:	תלות	I-NP	dependence-C0011546
+של	:SHEL_PREP:	של	I-NP	O
+מ	:PREPOSITION:	מ	I-NP	O
+ס'	:PROPERNAME:	ס'	I-NP	O
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+בקורטיזון	PREPOSITION:NOUN-M,S,ABS:	קורטיזון	B-NP	cortisone-C0010137
+במינון	PREPOSITION+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+של	:SHEL_PREP:	של	I-NP	O
+30	:NUMERAL:	###NUMBER###	I-NP	O
+מ"ג	:NOUN-M,S,ABS:	מ"ג	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+למטה	:ADVERB:	למטה	O	O
+מזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+האופציה	DEF:NOUN-F,S,ABS:	אופציה	I-NP	option-C1518601
+של	:SHEL_PREP:	של	I-NP	O
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+סבירה	:ADJECTIVE-F,S,ABS:	סביר	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+2	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+פיצול	:NOUN-M,S,CONST:	פיצול	B-NP	splitting-C1444777
+המינון	DEF:NOUN-M,S,ABS:	מינון	I-NP	dosage-C0178602
+היומי	DEF:ADJECTIVE-M,S,ABS:	יומי	I-NP	O
+בהחלט	:ADVERB:	בהחלט	O	O
+בא	:VERB-M,S,3,PAST:	בא	O	O
+בחשבון	PREPOSITION:NOUN-M,S,CONST:	חשבון	B-NP	expense-C0680864
+-	:PUNCUATION:	-	I-NP	O
+רצוי	:PARTICIPLE-M,S,A,ABS:	רצה	I-NP	O
+לא	:NEGATION:	לא	O	O
+על	:PREPOSITION:	על	O	O
+בטן	:NOUN-F,S,ABS:	בטן	B-NP	abdomen-C0000726
+ריקה	:ADJECTIVE-F,S,ABS:	ריק	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+מאוחר	:ADVERB:	מאוחר	O	O
+בלילה	PREPOSITION+DEF:NOUN-M,S,ABS:	לילה	B-NP	night-C0240526
+-	:PUNCUATION:	-	I-NP	O
+עקב	:PREPOSITION:	עקב	I-NP	O
+הגדרת	:NOUN-F,S,CONST:	הגדרה	I-NP	O
+סימני	:NOUN-M,P,CONST:	סימן	I-NP	sign-C0311392
+הערנות	DEF:NOUN-F,S,ABS:	ערנות	I-NP	O
+

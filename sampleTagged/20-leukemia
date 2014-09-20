@@ -1,0 +1,25 @@
+ממצאים	:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+מעידים	:VERB-M,P,A,BEINONI:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+על	:PREPOSITION:	על	O	O
+רקע	:NOUN-M,S,CONST:	רקע	B-NP	background-C1706907
+תורשתי.יש	:PROPERNAME:	תורשתי.יש	I-NP	O
+לדווח	:VERB-TOINFINITIVE:	דיווח	O	O
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	O	O
+לפני	:PREPOSITION:	לפני	O	O
+לידות	:NOUN-F,P,ABS:	לידה	B-NP	birth-C0005615
+ניתוחים	:NOUN-M,P,ABS:	ניתוח	I-NP	surgery-C0038894
+וכו	:PREPOSITION:	וכו	O	O
+׳	:PUNCUATION:	׳	O	O
+אך	:CONJUNCTION:	אך	O	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+מחייבים	:VERB-M,P,A,BEINONI:	חייב	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מונע	:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+שוטף	:ADJECTIVE-M,S,ABS:	שוטף	O	O
+

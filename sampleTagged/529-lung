@@ -1,0 +1,27 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ברירה	:NOUN-F,S,ABS:	ברירה	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+להסיר	:VERB-TOINFINITIVE:	הסיר	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+צל	:NOUN-M,S,ABS:	צל	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ועל	CONJ:PREPOSITION:	על	I-NP	O
+מנת	:NOUN-F,S,CONST:	מנה	I-NP	dose-C0178602
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+במדויק	:ADVERB:	במדויק	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+כירורג	:PROPERNAME:	כירורג	I-NP	O
+חזה.יש	:PROPERNAME:	חזה.יש	I-NP	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+ואיתו	CONJ:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+.	:PUNCUATION:	.	O	O
+

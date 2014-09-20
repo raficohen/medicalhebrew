@@ -1,0 +1,48 @@
+האם	:INTERROGATIVE:	האם	O	O
+נעשתה	:VERB-F,S,3,PAST:	נעשה	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+I.T.P	:FOREIGN:	I.T.P	I-NP	O
+)	:PUNCUATION:	)	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+אתה	:PRONOUN-M,S,2:	הוא	I-NP	O
+מקבל	:VERB-M,S,A,BEINONI:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+נטייה	:NOUN-F,S,ABS:	נטייה	B-NP	O
+לדמם	:VERB-TOINFINITIVE:	דימם	O	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+אתה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+העובדות	DEF:NOUN-F,P,ABS:	עובד	I-NP	Employee-C0599987-ambigous
+הללו	:PRONOUN-M,P,3:	הללו	I-NP	O
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+לפני	:PREPOSITION:	לפני	O	O
+שמנסים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	ניסה	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+פנים	:NOUN-M,S,ABS:	פנים	I-NP	face-C0015450
+לא	:NEGATION:	לא	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+על	:PREPOSITION:	על	O	O
+קעקוע	:NOUN-M,S,ABS:	קעקוע	B-NP	O
+.	:PUNCUATION:	.	O	O
+

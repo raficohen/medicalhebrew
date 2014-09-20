@@ -1,0 +1,29 @@
+אנטי	:PREFIX:	אנטי	O	O
+קרדיאופילין	:ADJECTIVE-M,S,CONST:	קרדיאופילין	O	O
+IGM	:FOREIGN:	IGM	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+נוגדן	:NOUN-M,S,ABS:	נוגדן	B-NP	antibody-C0003241
+שבין	REL-SUBCONJ:PREPOSITION:	בין	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הנוגדנים	DEF:NOUN-M,P,ABS:	נוגדן	I-NP	antibody-C0003241
+הקשורים	DEF:PARTICIPLE-M,P,A,ABS:	קשר	O	connection-C0449379
+לאותה	PREPOSITION:QUANTIFIER:PRONOMIAL-F,S,3	אותו	B-NP	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+בעל	:NOUN-M,S,CONST:	בעל	B-NP	husband-C0242664
+החשיבות	DEF:NOUN-F,S,ABS:	חשיבות	I-NP	importance-C1705104
+הפחותה	DEF:ADJECTIVE-F,S,ABS:	פחות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+מעמיק	:VERB-M,S,A,BEINONI:	העמיק	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לבחון	:VERB-TOINFINITIVE:	בחן	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שנעשו	REL-SUBCONJ:VERB-MF,P,3,PAST:	נעשה	O	O
+.	:PUNCUATION:	.	O	O
+

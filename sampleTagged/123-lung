@@ -1,0 +1,147 @@
+ענבר	:PROPERNAME:	ענבר	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+מה	:INTERROGATIVE:	מה	O	O
+שאנו	REL-SUBCONJ:PRONOUN-MF,P,1:	הוא	B-NP	O
+מנסים	:VERB-M,P,A,BEINONI:	ניסה	O	O
+לומר	:VERB-TOINFINITIVE:	אמר	O	O
+פעמים	:NOUN-F,P,ABS:	פעם	B-NP	once-C1948045
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+שפורום	REL-SUBCONJ:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+תחליף	:NOUN-M,S,ABS:	תחליף	B-NP	substitute-c0814761-ambigous
+למרפאה	PREPOSITION:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+ולבדיקה	PREPOSITION+CONJ:NOUN-F,S,ABS:	ל	O	O
+של	:SHEL_PREP:	של	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+!	:PUNCUATION:	!	O	O
+
+רפואה	:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+ספרות	:NOUN-F,S,ABS:	ספרות	B-NP	literature-C0023866
+.	:PUNCUATION:	.	O	O
+
+לפני	:PREPOSITION:	לפני	O	O
+שעוברים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עבר	O	past-C1444637
+לקריאה	PREPOSITION:NOUN-F,S,ABS:	קריאה	B-NP	call-C0679006
+של	:SHEL_PREP:	של	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+האינסופיות	DEF:ADJECTIVE-F,P,ABS:	אינסופי	I-NP	O
+שעברת	REL-SUBCONJ:VERB-M,S,3,PAST:	עברת	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+קודם	:ADVERB:	קודם	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ולראות	CONJ:VERB-TOINFINITIVE:	ראה	O	O
+האם	:INTERROGATIVE:	האם	O	O
+באזור	PREPOSITION+DEF:NOUN-M,S,ABS:	אזור	B-NP	area-C0017446
+שמטריד	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הטריד	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+בבדיקה	PREPOSITION+DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+הפיסיקלית	DEF:ADJECTIVE-F,S,ABS:	פיסיקלי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוסף	:ADVERB:	בנוסף	O	O
+,	:PUNCUATION:	,	O	O
+כך	:ADVERB:	כך	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+נוהג	:VERB-M,S,A,BEINONI:	נהג	O	O
+-	:PUNCUATION:	-	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+קורא	:VERB-M,S,A,BEINONI:	קרא	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+של	:SHEL_PREP:	של	I-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+עובר	:VERB-M,S,A,BEINONI:	עבר	O	past-C1444637
+עליהן	:PREPOSITION:PRONOMIAL-F,P,3	על	B-NP	O
+ורואה	CONJ:VERB-M,S,A,BEINONI:	ראה	O	O
+אותן	:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+חוששת	:VERB-F,S,A,BEINONI:	חשש	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+ומפה	CONJ:ADVERB:	מפה	O	O
+החרדות	DEF:NOUN-F,P,ABS:	חרדה	B-NP	anxiety-C0003467
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+כאלו	PREPOSITION:PRONOUN-MF,P,3:	אלו	O	O
+מעל	:PREPOSITION:	מעל	O	O
+האינטרנט	DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+.	:PUNCUATION:	.	O	O
+
+CT	:FOREIGN:	CT	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+מאוד	:ADVERB:	מאוד	I-NP	O
+לגילוי	PREPOSITION:NOUN-M,S,CONST:	גילוי	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ממצאים	:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+כאלו	PREPOSITION:PRONOUN-MF,P,3:	אלו	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מובן	:NOUN-M,S,ABS:	מובן	B-NP	O
+שאבחנות	REL-SUBCONJ:NOUN-F,P,ABS:	אבחנה	B-NP	diagnosis-C0011900
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+שאינן	REL-SUBCONJ:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+באות	PREPOSITION:NOUN-M,S,ABS:	אות	B-NP	O
+בחשבון	PREPOSITION:NOUN-M,S,ABS:	חשבון	B-NP	expense-C0680864
+והן	CONJ:CONJUNCTION:	הן	O	O
+שכיחות	:NOUN-F,S,ABS:	שכיחות	B-NP	O
+יותר	:ADVERB:	יותר	O	O
+.	:PUNCUATION:	.	O	O
+
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לאחד	PREPOSITION:NUMERAL-M,S,ABS:	CARD1	B-NP	O
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	I-NP	doctor-C0031831
+המומחים	DEF:NOUN-M,P,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+שעוסקים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	עסק	O	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	O	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לסכם	:VERB-TOINFINITIVE:	סיכם	O	O
+את	:AT_PREP:	את	B-NP	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מציגה	:VERB-F,S,A,BEINONI:	הציג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+לפתור	:VERB-TOINFINITIVE:	פתר	O	O
+אותה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+בפורומים	PREPOSITION:NOUN-M,P,ABS:	פורום	B-NP	O
+מסוג	:PARTICIPLE-M,S,A,CONST:	סיווג	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

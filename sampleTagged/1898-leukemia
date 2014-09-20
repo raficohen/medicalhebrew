@@ -1,0 +1,63 @@
+דורון	:PROPERNAME:	דורון	B-NP	O
+רמות	:PROPERNAME:	רמות	I-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בדם	PREPOSITION+DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+הינם	:COPULA-MF,P,3,BEINONI,POSITIVE:	הוא	O	O
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+,	:PUNCUATION:	,	O	O
+נכון	:ADVERB:	נכון	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+כי	:CONJUNCTION:	כי	O	O
+רמות	:NOUN-F,P,CONST:	רמה	B-NP	O
+הפריטין	DEF:NOUN-M,S,ABS:	הפריטין	I-NP	O
+מוגברות	:ADJECTIVE-F,P,ABS:	מוגבר	O	O
+אך	:CONJUNCTION:	אך	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+לא	:NEGATION:	לא	O	O
+מצביע	:VERB-M,S,A,BEINONI:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+עודף	:NOUN-M,S,CONST:	עודף	B-NP	excess-C1979886
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בגוף	PREPOSITION+DEF:NOUN-M,S,ABS:	גוף	B-NP	body-C0460148
+,	:PUNCUATION:	,	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+לעלית	PREPOSITION:NOUN-F,S,CONST:	עלייה	B-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+,	:PUNCUATION:	,	O	O
+כגון	:PREPOSITION:	כגון	O	O
+מחלות	:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+חריפות	:ADJECTIVE-F,P,ABS:	חריף	I-NP	acute-C0205178
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רמות	:NOUN-F,P,CONST:	רמה	B-NP	O
+הכולסטרול	DEF:NOUN-M,S,ABS:	כולסטרול	I-NP	cholesterol-C0008377
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+בסדר	:ADVERB:	בסדר	O	O
+גמור	:ADJECTIVE-M,S,ABS:	גמור	O	O
+.	:PUNCUATION:	.	O	O
+
+לסיכום	PREPOSITION+DEF:NOUN-M,S,ABS:	סיכום	B-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+הקזות	:NOUN-F,P,ABS:	הקזה	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+,	:PUNCUATION:	,	O	O
+אלא	:CONJUNCTION:	אלא	O	O
+לחפש	:VERB-TOINFINITIVE:	חיפש	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+לעייפות	PREPOSITION:NOUN-F,S,ABS:	עייפות	B-NP	-Fatigue
+.	:PUNCUATION:	.	O	O
+
+פנה	:VERB-M,S,3,PAST:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+בברכה	PREPOSITION:NOUN-F,S,ABS:	בריכה	B-NP	subarachnoid space-C0038527
+

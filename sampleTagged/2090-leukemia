@@ -1,0 +1,23 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+את	:AT_PREP:	את	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	O	O
+בהקדם	:ADVERB:	בהקדם	O	O
+ולגבש	CONJ:VERB-TOINFINITIVE:	גיבש	O	O
+מדיניות	:NOUN-F,S,ABS:	מדיניות	B-NP	O
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+

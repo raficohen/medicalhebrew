@@ -1,0 +1,44 @@
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	O	heparin-C0019134
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+סיבוכי	:NOUN-M,P,CONST:	סיבוך	I-NP	complication-C0009566
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+נתון	:ADJECTIVE-M,S,ABS:	נתון	I-NP	O
+בויכוח	PREPOSITION:NOUN-M,S,ABS:	ויכוח	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+גם	:CONJUNCTION:	גם	B-NP	O
+המינון	DEF:NOUN-M,S,ABS:	מינון	I-NP	dosage-C0178602
+של	:SHEL_PREP:	של	I-NP	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+נתון	:ADJECTIVE-M,S,ABS:	נתון	I-NP	O
+בויכוח	PREPOSITION:NOUN-M,S,ABS:	ויכוח	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+הנשים	DEF:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+מקבלות	:VERB-F,P,A,BEINONI:	קיבל	O	O
+פחות	:ADVERB:	פחות	O	O
+,	:PUNCUATION:	,	O	O
+ובוודאי	CONJ:ADVERB:	בוודאי	O	O
+ככל	:CONJUNCTION:	ככל	O	O
+שעולים	REL-SUBCONJ:NOUN-M,P,ABS:	עולה	B-NP	O
+במינון	PREPOSITION+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+לתופעות	PREPOSITION:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+למומחה	PREPOSITION:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+הערכה	:NOUN-F,S,ABS:	הערכה	B-NP	O
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+.	:PUNCUATION:	.	O	O
+

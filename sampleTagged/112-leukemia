@@ -1,0 +1,24 @@
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+כללי	:ADJECTIVE-M,S,ABS:	כללי	I-NP	O
+החריגות	DEF:NOUN-F,P,ABS:	חריגה	O	O
+בספירה	PREPOSITION+DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+מדאיגות	:ADJECTIVE-F,P,ABS:	מדאיג	O	O
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+כדאי	:MODAL:	כדאי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+ערך	:NOUN-M,S,CONST:	ערך	B-NP	values-C0042295
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+וכן	CONJ:CONJUNCTION:	כן	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+וחומצה	CONJ:NOUN-F,S,ABS:	חומצה	B-NP	Acids-C0001128
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+

@@ -1,0 +1,28 @@
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+PROT	:FOREIGN:	PROT	O	O
+S	:FOREIGN:	S	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+להרין	PREPOSITION:NOUN-M,S,CONST:	הרין	O	O
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לארות	:VERB-TOINFINITIVE:	ארה	O	O
+את	:AT_PREP:	את	B-NP	O
+התשובות	DEF:NOUN-F,P,ABS:	תשובה	I-NP	answer-C1706817
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+ויעץ	CONJ:VERB-M,S,3,PAST:	יעץ	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+ולקבל	CONJ:VERB-TOINFINITIVE:	קיבל	O	O
+הנחיות	:NOUN-F,P,ABS:	הנחיה	B-NP	O
+מתאימות	:ADJECTIVE-F,P,ABS:	מתאים	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

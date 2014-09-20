@@ -1,0 +1,61 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+גורמי	:NOUN-M,P,CONST:	גורם	B-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+כי	:CONJUNCTION:	כי	O	O
+רמות	:NOUN-F,P,CONST:	רמה	B-NP	O
+פיברינוגן	:NOUN-M,S,ABS:	פיברינוגן	I-NP	fibrinogen-C0016006
+וחלבון	CONJ:NOUN-M,S,ABS:	חלבון	I-NP	protein-C0033684
+S	:FOREIGN:	S	I-NP	O
+משתנות	:ADJECTIVE-F,P,ABS:	משתנה	I-NP	variable-C0439828
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+(	:PUNCUATION:	(	O	O
+האם	:INTERROGATIVE:	האם	O	O
+נבדקו	:VERB-MF,P,3,PAST:	נבדק	O	O
+בעת	PREPOSITION:NOUN-F,S,CONST:	עת	B-NP	time-C0040223
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+?	:PUNCUATION:	?	O	O
+
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+מינון	:NOUN-M,S,CONST:	מינון	B-NP	dosage-C0178602
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+אף	:CONJUNCTION:	אף	I-NP	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+לא	:NEGATION:	לא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+וודאי	:ADJECTIVE-M,S,ABS:	ודאי	I-NP	O
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+אף	:CONJUNCTION:	אף	O	O
+פעם	:ADVERB:	פעם	O	once-C1948045
+לא	:NEGATION:	לא	O	O
+נבדק	:VERB-M,S,3,PAST:	נבדק	O	O
+מינון	:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+כנגד	:PREPOSITION:	כנגד	O	O
+השני	DEF:NUMERAL-M,S,ABS:	ORD2	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+בדר"כ	:ADVERB:	בדר"כ	O	O
+במצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+כמו	:CONJUNCTION:	כמו	O	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+במינון	PREPOSITION+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+של	:SHEL_PREP:	של	I-NP	O
+40	:NUMERAL:	###NUMBER###	I-NP	O
+מ	PREPOSITION::		O	O
+"	:PUNCUATION:	"	O	O
+ג	:NUMERAL:	ג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

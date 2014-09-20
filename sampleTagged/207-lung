@@ -1,0 +1,65 @@
+טל	:PROPERNAME:	טל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+רלוונטי	:ADJECTIVE-M,S,ABS:	רלוונטי	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+גיל מעבר	:TERM:	גיל מעבר	O	menopause-C0025320
+לגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+ההתבגרות	DEF:NOUN-F,S,ABS:	התבגרות	I-NP	teens-C1521910
+.	:PUNCUATION:	.	O	O
+
+ברוב	PREPOSITION:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לניתוח	PREPOSITION:NOUN-M,S,CONST:	ניתוח	O	surgery-C0038894
+הינה	:PROPERNAME:	הינה	B-NP	O
+אסטטית	:ADJECTIVE-F,S,ABS:	אסטטית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שתפנה	REL-SUBCONJ:VERB-F,S,3,FUTURE:	פנה	O	O
+למנתח	PREPOSITION+DEF:NOUN-M,S,ABS:	מנתח	B-NP	surgeon-C0582175
+חזה	:VERB-M,S,3,PAST:	חזה	O	chest-C0817096
+במקום	:PREPOSITION:	במקום	O	O
+מגוריך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	מגורים	B-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+שיעריך	REL-SUBCONJ:VERB-M,S,3,FUTURE:	העריך	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+ומה	CONJ:INTERROGATIVE:	מה	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להציע	:VERB-TOINFINITIVE:	הציע	O	O
+.	:PUNCUATION:	.	O	O
+
+לאנשים	PREPOSITION:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+דרגות	:NOUN-F,P,ABS:	דרגה	B-NP	rank-C0699794
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+חומרם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	חומר	I-NP	material-C0520510
+הפגם	DEF:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+וכמו	CONJ:CONJUNCTION:	כמו	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+פעולה	:NOUN-F,S,ABS:	פעולה	I-NP	action-C0441472
+שאנו	REL-SUBCONJ:PRONOUN-MF,P,1:	הוא	B-NP	O
+מבצעים	:VERB-M,P,A,BEINONI:	ביצע	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+תועלת	:NOUN-F,S,ABS:	תועלת	B-NP	O
+מול	:PREPOSITION:	מול	O	O
+נזק	:NOUN-M,S,ABS:	נזק	B-NP	damage-C1883709
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

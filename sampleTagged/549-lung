@@ -1,0 +1,30 @@
+עשית	:VERB-F,S,2,PAST:	עשה	O	O
+את	:AT_PREP:	את	B-NP	O
+המעשה	DEF:NOUN-M,S,ABS:	מעשה	I-NP	O
+הנכון	DEF:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+בהפסקת	PREPOSITION:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+עישון	:NOUN-M,S,ABS:	עישון	I-NP	smoking-C0037369
+.	:PUNCUATION:	.	O	O
+
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+על	:PREPOSITION:	על	O	O
+מצב	:NOUN-M,S,CONST:	מצב	B-NP	Condition-C0348080
+ריאותיך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	ריאה	I-NP	lung-C0024109
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שיבמע	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	יבם	B-NP	O
+צילום	:NOUN-M,S,CONST:	צילום	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+ותיפקודי	CONJ:NOUN-M,S,ABS:POSSESIVE-MF,S,1	תפקוד	I-NP	Function-C0542341
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+מלאים	:ADJECTIVE-M,P,ABS:	מלא	I-NP	O
+.	:PUNCUATION:	.	O	O
+

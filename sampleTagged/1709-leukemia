@@ -1,0 +1,55 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+קלסי	:ADJECTIVE-M,S,ABS:	קלאסי	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אנמיה	:PROPERNAME:	אנמיה	I-NP	anemia-C0002871
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+קשורה	:ADJECTIVE-F,S,ABS:	קשור	I-NP	O
+לצרכים	PREPOSITION:NOUN-M,S,ABS:	צרכים	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+העובר	DEF:NOUN-M,S,ABS:	עובר	I-NP	fetus-C0015965
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+להגדיל	:VERB-TOINFINITIVE:	הגדיל	O	O
+את	:AT_PREP:	את	B-NP	O
+הכנסות	:NOUN-F,P,CONST:	הכנסה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מרכיבי	:NOUN-M,P,CONST:	מרכיב	I-NP	component-C0449432
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+או	:CONJUNCTION:	או	O	O
+באוכל	PREPOSITION:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+-	:PUNCUATION:	-	I-NP	O
+בשר	:NOUN-M,S,ABS:	בשר	I-NP	O
+,	:PUNCUATION:	,	I-NP	O
+כבד	:ADJECTIVE-M,S,ABS:	כבד	I-NP	liver-C0023884
+,	:PUNCUATION:	,	O	O
+עדשים...-או	:VERB-F,S,2,IMPERATIVE:	עדשים...-או	O	O
+בכדורים	PREPOSITION:NOUN-M,P,ABS:	כדור	B-NP	Pills-C0994475
+שמכילים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	הכיל	O	O
+כמות	:NOUN-F,S,ABS:	כמות	B-NP	amount-C1265611
+יותר	:ADVERB:	יותר	I-NP	O
+גדולה	:ADJECTIVE-F,S,ABS:	גדול	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+כוס	:NOUN-F,S,CONST:	כוס	B-NP	cup-C0180231
+מיץ	:NOUN-M,S,ABS:	מיץ	I-NP	juice-C1268568
+לפני	:PREPOSITION:	לפני	O	O
+האוכל	DEF:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+.	:PUNCUATION:	.	O	O
+
+עירוי	:NOUN-M,S,CONST:	עירוי	B-NP	infusion-C0574032
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+לא	:NEGATION:	לא	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+!	:PUNCUATION:	!	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,48 @@
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+עם	:PREPOSITION:	עם	O	O
+דיקור	:NOUN-M,S,ABS:	דיקור	B-NP	acupuncture-C0001299
+תמיד	:ADVERB:	תמיד	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+החשש	DEF:NOUN-M,S,ABS:	חשש	B-NP	O
+שיביא	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הביא	O	O
+לזיהום	PREPOSITION:NOUN-M,S,ABS:	זיהום	B-NP	infection-C0009450
+אצל	:PREPOSITION:	אצל	O	O
+חולה	:ADJECTIVE-M,S,ABS:	חולה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+מערכת חיסון	:TERM:	מערכת חיסון	O	immune system-C0020962
+מוחלשת	:ADJECTIVE-F,S,ABS:	מוחלש	I-NP	O
+רפלקסלולוגיה	:PROPERNAME:	רפלקסלולוגיה	I-NP	O
+ושאיצו	REL-SUBCONJ+CONJ:NOUN-M,S,ABS:POSSESIVE-F,S,3	ש	B-NP	O
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+בעיתיים	:ADJECTIVE-M,P,ABS:	בעיתיים	O	O
+מבחינה	PREPOSITION:NOUN-F,S,ABS:	בחינה	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+אנשים	:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+לעיתים	:ADVERB:	לעתים	O	O
+מדוחים	:VERB-M,P,A,BEINONI:	דיווח	O	O
+על	:PREPOSITION:	על	O	O
+שיפור	:NOUN-M,S,ABS:	שיפור	B-NP	improvement-C2986411
+בהרגשתם	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-M,P,3	הרגשה	B-NP	Emotions-C0013987
+בעקבות	:PREPOSITION:	בעקבות	O	O
+הטיפולים	DEF:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+במצב	PREPOSITION+DEF:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+הלא	DEF:NEGATION:	לא	I-NP	O
+פשוט	:ADJECTIVE-M,S,ABS:	פשוט	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אביך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	אב	I-NP	father-C0015671
+איני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להתנגד	:VERB-TOINFINITIVE:	התנגד	O	O
+לטיפולים	PREPOSITION:NOUN-M,P,ABS:	טיפול	O	Therapeutic procedure-C0087111
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	O	O
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+בעית	:NOUN-F,S,CONST:	בעיה	B-NP	problem-C0033213
+אפשרית	:ADJECTIVE-F,S,ABS:	אפשרי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+זיהום	:NOUN-M,S,ABS:	זיהום	I-NP	infection-C0009450
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+בטיפולים	PREPOSITION:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

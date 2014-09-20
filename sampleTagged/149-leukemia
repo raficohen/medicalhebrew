@@ -1,0 +1,42 @@
+עד	:PREPOSITION:	עד	O	O
+120	:NUMERAL:	###NUMBER###	B-NP	O
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+קודם	:ADVERB:	קודם	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לבקש	:VERB-TOINFINITIVE:	ביקש	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+פקטורים	:NOUN-M,P,ABS:	פקטור	I-NP	O
+5,7,10	:NUMERAL:	###NUMBER###	I-NP	O
+ויתכן	CONJ:MODAL:	ייתכן	O	O
+שנמצא	REL-SUBCONJ:VERB-M,S,3,PAST:	נמצא	O	O
+חסר	:NOUN-M,S,ABS:	חסר	B-NP	O
+חלקי	:ADJECTIVE-M,S,ABS:	חלקי	I-NP	O
+באחד	PREPOSITION:NUMERAL-M,S,ABS:	CARD1	B-NP	O
+מהם	:INTERROGATIVE:PRONOMIAL-M,P,3	מה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+ש	:CONJUNCTION:	ש	O	O
+PT	:FOREIGN:	PT	O	specialistAcronym-E0635674-pt
+%	:NOUN-MF,S,ABS:	%	B-NP	O
+70	:NUMERAL:	###NUMBER###	I-NP	O
+לא	:NEGATION:	לא	O	O
+מונע	:VERB-M,S,A,BEINONI:	מנע	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+מינורי	:ADJECTIVE-M,S,ABS:	מינורי	I-NP	O
+אפשר	:ADVERB:	אפשר	I-NP	O
+בעזרת	:PREPOSITION:	בעזרת	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+פלזמה	:NOUN-F,S,ABS:	פלזמה	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+יופיעו	:VERB-MF,P,3,FUTURE:	הופיע	O	O
+סמני	:NOUN-M,P,CONST:	סמן	B-NP	Markers-C2745888
+דימום	:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+

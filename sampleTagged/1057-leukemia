@@ -1,0 +1,24 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+הסבר	:NOUN-M,S,ABS:	הסבר	B-NP	explanation-C0681841
+-	:PUNCUATION:	-	I-NP	O
+לפי	:PREPOSITION:	לפי	I-NP	O
+תיאור	:NOUN-M,S,CONST:	תיאור	I-NP	Description-C0678257
+התופעות	DEF:NOUN-F,P,ABS:	תופעה	I-NP	phenomenon-C1882365
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להיבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+(	:PUNCUATION:	(	I-NP	O
+רצוי	:PARTICIPLE-M,S,A,ABS:	רצה	I-NP	O
+במרפאות	PREPOSITION:NOUN-F,P,CONST:	מרפאה	B-NP	Clinic-C0442592
+קרישת דם	:TERM:	קרישת דם	O	blood clotting-C0005778
+הנמצאות	DEF:PARTICIPLE-F,P,A,ABS:	נמצא	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+בית	:NOUN-M,S,CONST:	בית	I-NP	house-C2003847
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+גדול	:ADJECTIVE-M,S,ABS:	גדול	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+

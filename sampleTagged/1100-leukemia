@@ -1,0 +1,32 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בווליום	PREPOSITION:NOUN-M,S,ABS:	ווליום	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+התסיות	DEF:ADJECTIVE-F,P,ABS:	התסיות	I-NP	O
+ואני	CONJ:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+בשינוי	PREPOSITION:NOUN-M,S,ABS:	שינוי	B-NP	difference-C1705241
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרט	:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+לזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+ה	DEF::	ה	B-NP	O
+מ'	:NOUN-M,S,ABS:	מ'	I-NP	O
+יחסית	:ADVERB:	יחסית	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+לאישה	PREPOSITION:NOUN-F,S,ABS:	איש	O	people-C0027361
+בת	:NOUN-F,S,CONST:	בת	B-NP	daughter-C0011011
+29	:NUMERAL:	###NUMBER###	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+לעשן	PREPOSITION:NOUN-M,S,ABS:	עשן	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

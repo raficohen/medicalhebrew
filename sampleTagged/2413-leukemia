@@ -1,0 +1,29 @@
+גרד	:NOUN-M,S,ABS:	גרד	B-NP	pruritus-C0033774
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לנבוע	:VERB-TOINFINITIVE:	נבע	O	O
+ממספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+הפרעה	:NOUN-F,S,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+בתפקוד	PREPOSITION:NOUN-M,S,CONST:	תפקוד	B-NP	Function-C0542341
+הכבד	DEF:NOUN-M,S,ABS:	כבד	I-NP	liver-C0023884
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+רק	:CONJUNCTION:	רק	B-NP	O
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+מהן	:INTERROGATIVE:PRONOMIAL-F,P,3	מה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+שצרפת	REL-SUBCONJ:PROPERNAME:	צרפת	B-NP	O
+נראות	:VERB-F,P,A,BEINONI:	נראה	O	O
+תקינות	:NOUN-F,P,ABS:	תקינה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

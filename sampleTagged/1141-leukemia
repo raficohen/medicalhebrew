@@ -1,0 +1,34 @@
+נכון	:ADVERB:	נכון	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+שיגרתי	:ADJECTIVE-M,S,ABS:	שגרתי	O	O
+....	:PUNCUATION:	....	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+החומר	DEF:NOUN-M,S,ABS:	חומר	B-NP	material-C0520510
+התהורטי	DEF:PARTICIPLE-M,P,A,ABS:	התהורטי	O	O
+אז	:CONJUNCTION:	אז	O	O
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+לשאלות	PREPOSITION:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לתרחיש	PREPOSITION:NOUN-M,S,ABS:	תרחיש	O	O
+אמיתי	:PROPERNAME:	אמיתי	B-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+למכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+של	:SHEL_PREP:	של	I-NP	O
+בית	:NOUN-M,S,CONST:	בית	I-NP	house-C2003847
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+ויעזרו	CONJ:VERB-MF,P,3,FUTURE:	עזר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

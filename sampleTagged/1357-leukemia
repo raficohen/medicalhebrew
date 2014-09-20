@@ -1,0 +1,23 @@
+בהעדר	PREPOSITION:NOUN-M,S,CONST:	העדר	O	O
+טחול	:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+במספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	I-NP	O
+ובמקרים	PREPOSITION+CONJ:NOUN-M,P,ABS:	ב	O	O
+מסויימים	:ADJECTIVE-M,P,ABS:	מסוים	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להתפתח	:VERB-TOINFINITIVE:	התפתח	O	O
+טרומבוזות	:NOUN-M,P,ABS:	טרומבוזות	B-NP	O
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+אלה	:PRONOUN-MF,P,3:	אלה	B-NP	O
+מקרים	:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+נדירים	:ADJECTIVE-M,P,ABS:	נדיר	I-NP	O
+וחשוב	CONJ:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+את	:AT_PREP:	את	B-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	I-NP	number-C0237753
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

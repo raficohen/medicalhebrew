@@ -1,0 +1,55 @@
+נכון	:ADVERB:	נכון	O	O
+הדבר	DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+למשל	:CONJUNCTION:	למשל	O	O
+בני	:NOUN-M,P,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+העדה	DEF:NOUN-F,S,ABS:	עד	I-NP	until-C1720302
+התימנית	DEF:ADJECTIVE-F,S,ABS:	תימני	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+למצוא	:VERB-TOINFINITIVE:	מצא	O	O
+ספירה	:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	I-NP	O
+לבנות	:VERB-TOINFINITIVE:	בנה	O	O
+.	:PUNCUATION:	.	O	O
+
+עד	:PREPOSITION:	עד	O	O
+כמה	:QUANTIFIER-CONST:	כמה	O	O
+שידוע	REL-SUBCONJ:ADJECTIVE-M,S,ABS:	ידוע	O	O
+אין	:NEGATION:	אין	O	O
+לעובדה	PREPOSITION:NOUN-F,S,ABS:	עובדה	B-NP	Evidence-C0332120
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+לגבי	:PREPOSITION:	לגבי	O	O
+נטייה	:NOUN-F,S,ABS:	נטייה	B-NP	O
+לפתח	:VERB-TOINFINITIVE:	פיתח	O	O
+מחלות	:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+ממאירות	:ADJECTIVE-F,P,ABS:	ממאיר	I-NP	malignant-C0205282
+של	:SHEL_PREP:	של	I-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:NOUN-M,S,CONST:	בדר"כ	B-NP	O
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	I-NP	count-C0750480
+הנמוכה	DEF:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+עדיין	:ADVERB:	עדיין	O	O
+מכילה	:VERB-F,S,A,BEINONI:	הכיל	O	O
+מספר	:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+סביר	:ADJECTIVE-M,S,ABS:	סביר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	I-NP	O
+לבנות	:VERB-TOINFINITIVE:	בנה	O	O
+ועל	CONJ:PREPOSITION:	על	O	O
+כן	:CONJUNCTION:	כן	O	O
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+על	:PREPOSITION:	על	O	O
+נטייה	:NOUN-F,S,ABS:	נטייה	B-NP	O
+למחלות	PREPOSITION:NOUN-F,P,ABS:	מחלה	O	disease-C0012634
+זיהומיות	:ADJECTIVE-F,P,ABS:	זיהומיות	O	O
+יותר	:ADVERB:	יותר	O	O
+מהרגיל	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	רגיל	B-NP	O
+.	:PUNCUATION:	.	O	O
+

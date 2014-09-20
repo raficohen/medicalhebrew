@@ -1,0 +1,25 @@
+דינה	:PROPERNAME:	דינה	B-NP	O
+בן	:PROPERNAME:	בן	I-NP	Son (person)-C0037683-ambigous
+או	:CONJUNCTION:	או	O	O
+בת	:NOUN-F,S,ABS:	בת	B-NP	daughter-C0011011
+?	:PUNCUATION:	?	O	O
+
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+באנמיה	PREPOSITION:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+כנראה	:ADVERB:	כנראה	I-NP	O
+לא	:NEGATION:	לא	O	O
+מחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+להשלים	:VERB-TOINFINITIVE:	השלים	O	O
+הבירוראצל	DEF:NOUN-F,P,ABS:	הבירוראצל	B-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ו/או	:PROPERNAME:	ו/או	I-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

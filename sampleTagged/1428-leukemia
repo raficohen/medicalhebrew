@@ -1,0 +1,26 @@
+כמובן	:ADVERB:	כמובן	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+בעיקר	:ADVERB:	בעיקר	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+האי	DEF:NOUN-M,S,ABS:	אי	B-NP	Islands-C0022130
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+ל	:PREPOSITION:	ל	O	O
+פרדניזון	:NOUN-M,S,ABS:	פרדניזון	B-NP	prednisone-C0032952
+.	:PUNCUATION:	.	O	O
+
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+יסביר	:VERB-M,S,3,FUTURE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+את	:AT_PREP:	את	B-NP	O
+המשך	:NOUN-M,S,CONST:	המשך	I-NP	continued-C0549178
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

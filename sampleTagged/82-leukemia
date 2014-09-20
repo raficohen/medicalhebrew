@@ -1,0 +1,26 @@
+פרט	:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+לאנמיה	PREPOSITION:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+חריגות	:ADJECTIVE-F,P,ABS:	חריג	I-NP	O
+.	:PUNCUATION:	.	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+כמובן	:ADVERB:	כמובן	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+הנורמות	DEF:NOUN-F,P,ABS:	נורמה	I-NP	Normal-C0205307
+של	:SHEL_PREP:	של	I-NP	O
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+!	:PUNCUATION:	!	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+רוי	:PROPERNAME:	רוי	I-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+

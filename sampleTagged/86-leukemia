@@ -1,0 +1,24 @@
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+של	:SHEL_PREP:	של	I-NP	O
+דימום	:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+תת	:PREFIX:	תת	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+עורי	:VERB-F,S,2,IMPERATIVE:	עיוור	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשורים	:ADJECTIVE-M,P,ABS:	קשור	O	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	O	O
+נראה	:VERB-M,S,A,BEINONI:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	O	O
+ורצוי	CONJ:MODAL-M,S,A:	רצוי	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	O	skin-C0444099
+

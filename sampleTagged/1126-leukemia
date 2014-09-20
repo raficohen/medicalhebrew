@@ -1,0 +1,32 @@
+המבחן	DEF:NOUN-M,S,ABS:	מבחן	B-NP	Testing-C0039593
+המשמעותי	DEF:ADJECTIVE-M,S,ABS:	משמעותי	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+מבחן	:NOUN-M,S,CONST:	מבחן	B-NP	Testing-C0039593
+התוצאה	DEF:NOUN-F,S,ABS:	תוצאה	I-NP	result-C1274040
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+ההריון	DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+מתפתח	:VERB-M,S,A,BEINONI:	התפתח	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+מרמז	:VERB-M,S,A,BEINONI:	רימז	O	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+קרה	:VERB-M,S,3,PAST:	קרה	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+נזק	:NOUN-M,S,ABS:	נזק	I-NP	damage-C1883709
+מהפסקת	PREPOSITION:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+הקלקסן	DEF:NOUN-M,S,ABS:	הקלקסן	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בשמחה	PREPOSITION:NOUN-F,S,ABS:	שמחה	B-NP	O
+רבה	:ADJECTIVE-F,S,ABS:	רב	I-NP	O
+הראה	:VERB-M,S,3,PAST:	הראה	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+במסגרת	PREPOSITION:NOUN-F,S,CONST:	מסגרת	O	O
+המרפאה	DEF:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+בוולפסון	PREPOSITION:PROPERNAME:	וולפסון	B-NP	O
+.	:PUNCUATION:	.	O	O
+

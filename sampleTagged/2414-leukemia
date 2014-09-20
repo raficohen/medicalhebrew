@@ -1,0 +1,36 @@
+שקיעת דם	:TERM:	שקיעת דם	O	erythrocyte sedimentation rate-C0086250
+היא	:PRONOUN-F,S,3:	הוא	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+לא	:NEGATION:	לא	I-NP	O
+ספציפית	:ADJECTIVE-F,S,ABS:	ספציפי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+השקיעה	DEF:NOUN-F,S,ABS:	שקיעה	B-NP	Sedimentation-C0597428
+נשארת	:VERB-F,S,A,BEINONI:	נשאר	O	O
+מוחשת	:ADJECTIVE-F,S,ABS:	מוחש	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	O	examination-C0031809
+מקיפה	:ADJECTIVE-F,S,ABS:	מקיף	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+הנתונים	DEF:NOUN-M,P,ABS:	נתון	I-NP	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+באיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+תחום	:NOUN-M,S,CONST:	תחום	I-NP	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+אם	:CONJUNCTION:	אם	O	O
+בכלל	:ADVERB:	בכלל	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

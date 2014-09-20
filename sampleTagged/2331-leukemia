@@ -1,0 +1,24 @@
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+ערך	:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+המציין	DEF:PARTICIPLE-M,S,A,ABS:	ציין	O	O
+את	:AT_PREP:	את	B-NP	O
+אחוז	:NOUN-M,S,CONST:	אחוז	I-NP	percent-C0439165
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+לימפוציטים	:NOUN-M,P,ABS:	לימפוציטים	I-NP	O
+מכלל	PREPOSITION:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+תאי	:NOUN-M,P,CONST:	תא	B-NP	cell-C0007634
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הלבנים	DEF:ADJECTIVE-M,P,ABS:	לבן	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+בערך	PREPOSITION:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

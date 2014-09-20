@@ -1,0 +1,38 @@
+כש	:CONJUNCTION:	כש	O	O
+INR	:FOREIGN:	INR	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+(	:PUNCUATION:	(	O	O
+מעל	:PREPOSITION:	מעל	O	O
+-	:PUNCUATION:	-	O	O
+5	:NUMERAL:	###NUMBER###	B-NP	O
+)	:PUNCUATION:	)	O	O
+4	:NUMERAL:	###NUMBER###	B-NP	O
+4	:NUMERAL:	###NUMBER###	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סכנה	:NOUN-F,S,ABS:	סכנה	B-NP	danger-C1428845
+של	:SHEL_PREP:	של	I-NP	O
+דימומים	:NOUN-M,P,ABS:	דימום	I-NP	hemorrhage-C0019080
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+במס	PREPOSITION:NOUN-M,S,ABS:	מס	B-NP	O
+בכדוריות	PREPOSITION:NOUN-F,S,ABS:	כדוריות	B-NP	O
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+כשיש	PREPOSITION:NOUN-M,S,CONST:	שיש	B-NP	O
+דימומים	:NOUN-M,P,ABS:	דימום	I-NP	hemorrhage-C0019080
+פונים	:VERB-M,P,A,BEINONI:	פנה	O	O
+למרפאה	PREPOSITION:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+או	:CONJUNCTION:	או	O	O
+לב"ח	:PROPERNAME:	לב"ח	B-NP	O
+ומקבלים	CONJ:VERB-M,P,A,BEINONI:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+לעצירת	PREPOSITION:NOUN-F,S,CONST:	עצירה	B-NP	O
+הדימום	DEF:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+!	:PUNCUATION:	!	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

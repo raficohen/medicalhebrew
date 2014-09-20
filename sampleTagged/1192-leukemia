@@ -1,0 +1,116 @@
+א	:NUMERAL:	א	O	O
+.	:PUNCUATION:	.	O	O
+
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+לשאלה	PREPOSITION+DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+הראשונה	DEF:NUMERAL-F,S,ABS:	ORD1	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+חיובית	:ADJECTIVE-F,S,ABS:	חיובי	B-NP	O
+.	:PUNCUATION:	.	I-NP	O
+הדרך	DEF:NOUN-F,S,ABS:	דרך	I-NP	Through-C0332273-ambigous
+היחידה	DEF:ADJECTIVE-F,S,ABS:	יחיד	I-NP	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+להוכיח	:VERB-TOINFINITIVE:	הוכיח	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+ע"י	:PREPOSITION:	ע"י	O	O
+הדמייה	:NOUN-F,S,ABS:	הדמייה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כלי	:NOUN-M,S,CONST:	כלי	I-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+בגפיים	PREPOSITION+DEF:NOUN-MF,P,ABS:	גפיים	B-NP	Limb structure-C0015385
+-	:PUNCUATION:	-	I-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+לא	:NEGATION:	לא	I-NP	O
+שגרתית	:ADJECTIVE-F,S,ABS:	שגרתי	I-NP	O
+ומבוצעת	CONJ:VERB-F,S,A,BEINONI:	בוצע	O	O
+רק	:CONJUNCTION:	רק	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אינדיקציה	:NOUN-F,S,ABS:	אינדיקציה	B-NP	indication-C0392360
+ברורה	:ADJECTIVE-F,S,ABS:	ברור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ב	:PREPOSITION:	ב	O	O
+.	:PUNCUATION:	.	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+כי	:CONJUNCTION:	כי	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+סיבתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	סיבה	I-NP	Causations-C0085978
+בין	:PREPOSITION:	בין	O	O
+התאונה	DEF:NOUN-F,S,ABS:	תאונה	B-NP	accidents-C0000924
+והופעת	CONJ:NOUN-F,S,CONST:	הופעה	B-NP	appearance-C0233426
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+PE	:FOREIGN:	PE	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+להוכיח	:VERB-TOINFINITIVE:	הוכיח	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+בוודאות	:ADVERB:	בוודאות	O	O
+לא	:NEGATION:	לא	O	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+.	:PUNCUATION:	.	O	O
+
+אגב	:PREPOSITION:	אגב	O	O
+,	:PUNCUATION:	,	O	O
+האם	:INTERROGATIVE:	האם	O	O
+נבדקו	:VERB-MF,P,3,PAST:	נבדק	O	O
+פקטורי	:NOUN-M,P,CONST:	פקטור	B-NP	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+שיכולים	REL-SUBCONJ:MODAL-M,P,A,BEINONI:	יכול	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+את	:AT_PREP:	את	B-NP	O
+הקשר	DEF:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+התאונה	DEF:NOUN-F,S,ABS:	תאונה	B-NP	accidents-C0000924
+ובין	CONJ:PREPOSITION:	בין	O	O
+ה	DEF::	ה	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+PE	:FOREIGN:	PE	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+לשלול	:VERB-TOINFINITIVE:	שלל	I-NP	O
+מצב	:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ג	:NUMERAL:	ג	O	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+למה	:INTERROGATIVE:	למה	O	O
+חזרו	:VERB-MF,P,3,PAST:	חזר	O	O
+מקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+לקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+.	:PUNCUATION:	.	O	O
+
+לאחרונה	:ADVERB:	לאחרונה	O	O
+פורסם	:VERB-M,S,3,PAST:	פורסם	O	O
+על	:PREPOSITION:	על	O	O
+תחליף	:NOUN-M,S,ABS:	תחליף	B-NP	substitute-c0814761-ambigous
+לקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+(	:PUNCUATION:	(	I-NP	O
+כדור	:NOUN-M,S,ABS:	כדור	I-NP	Pills-C0994475
+)	:PUNCUATION:	)	O	O
+העומד	DEF:PARTICIPLE-M,S,A,ABS:	עמד	O	O
+לפני	:PREPOSITION:	לפני	O	O
+רישום	:NOUN-M,S,ABS:	רישום	B-NP	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+.	:PUNCUATION:	.	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+רק	:CONJUNCTION:	רק	O	O
+למטרות	PREPOSITION:NOUN-F,P,ABS:	מטרה	O	goal-C0018017
+מוגדרות	:ADJECTIVE-F,P,ABS:	מוגדר	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+החלפת	:NOUN-F,S,CONST:	החלפה	I-NP	O
+פרק	:NOUN-M,S,CONST:	פארק	I-NP	chapter-C1552857
+הירך	DEF:NOUN-F,S,ABS:	ירך	I-NP	thighs-C0039866
+.	:PUNCUATION:	.	O	O
+

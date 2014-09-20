@@ -1,0 +1,40 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+קצת	:ADVERB:	קצת	B-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+מידע	:NOUN-M,S,ABS:	מידע	I-NP	Information-C1533716
+כדי	:CONJUNCTION:	כדי	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+(	:PUNCUATION:	(	O	O
+וכנראה	CONJ:ADVERB:	כנראה	O	O
+לאף	PREPOSITION:QUANTIFIER-CONST:	אף	B-NP	nose-C0028429
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+)	:PUNCUATION:	)	O	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+חד	:PREFIX:	חד	I-NP	O
+משמעית	:ADJECTIVE-F,S,ABS:	משמעי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+איתי	:AT_PREP:PRONOMIAL-MF,S,1	את	B-NP	O
+או	:CONJUNCTION:	או	O	O
+עם	:PREPOSITION:	עם	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+ועם	CONJ:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+המומחה	DEF:NOUN-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+בסיכון	PREPOSITION:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,25 @@
+תפנה	:VERB-F,S,3,FUTURE:	פנה	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+לבירור	PREPOSITION:NOUN-M,S,CONST:	בירור	B-NP	O
+הנשא	DEF:NOUN-M,S,ABS:	נשא	I-NP	carrier-C0560175
+סרטן	:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ראות	:NOUN-F,S,ABS:	ראות	I-NP	O
+בגילך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	גיל	B-NP	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	O	O
+מאד	:ADVERB:	מאוד	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+הכל	DEF:QUANTIFIER:	כול	B-NP	O
+כבר	:ADVERB:	כבר	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+לכן	:CONJUNCTION:	לכן	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+שתפנה	REL-SUBCONJ:VERB-F,S,3,FUTURE:	פנה	O	O
+לרפא	:VERB-TOINFINITIVE:	ריפא	O	O
+כמו	:PREPOSITION:	כמו	O	O
+כן	:NOUN-M,S,ABS:	כן	O	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	O	O
+שתנסה	REL-SUBCONJ:VERB-F,S,3,FUTURE:	ניסה	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+לעשן	PREPOSITION:NOUN-M,S,CONST:	עשן	B-NP	O
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

@@ -1,0 +1,35 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בפגם	PREPOSITION:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+גנתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	גינה	I-NP	O
+חלקי	:ADJECTIVE-M,S,ABS:	חלקי	I-NP	O
+,	:PUNCUATION:	,	O	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+ללא	:PREPOSITION:	ללא	O	O
+ממשמעות	PREPOSITION:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+.	:PUNCUATION:	.	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	B-NP	O
+המשפחתי	DEF:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+היית	:COPULA-F,S,2,PAST,POSITIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+זריקה	:NOUN-F,S,ABS:	זריקה	B-NP	injection-C1272883
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+40	:NUMERAL:	###NUMBER###	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+מג'	PREPOSITION:NOUN-M,S,ABS:	ג'	I-NP	O
+60	:NUMERAL:	###NUMBER###	I-NP	O
+60	:NUMERAL:	###NUMBER###	I-NP	O
+חד	:PREFIX:	חד	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+פעמי	:ADJECTIVE-M,S,ABS:	פעמי	I-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+טיסה	:NOUN-F,S,ABS:	טיסה	I-NP	flight-C2610507
+ארוכה	:ADJECTIVE-F,S,ABS:	ארוך	I-NP	O
+.	:PUNCUATION:	.	O	O
+

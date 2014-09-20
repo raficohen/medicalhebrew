@@ -1,0 +1,22 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+עם	:PREPOSITION:	עם	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+יחסית	:ADVERB:	יחסית	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להתאים	:VERB-TOINFINITIVE:	התאים	O	O
+למחלות	PREPOSITION:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+כרוניות	:ADJECTIVE-F,P,ABS:	כרוניות	I-NP	O
+או	:CONJUNCTION:	או	O	O
+למיאלודיספלזיה	PREPOSITION:ADJECTIVE-F,S,CONST:	מיאלודיספלזיה	O	O
+שמאבחנים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	אבחן	O	O
+בבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,20 @@
+אפשר	:MODAL:	אפשר	O	O
+קודם	:ADVERB:	קודם	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+הליכה	:NOUN-F,S,ABS:	הליכה	B-NP	O
+...	:PUNCUATION:	...	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הסימנים	DEF:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+ממשיכים	:VERB-M,P,A,BEINONI:	המשיך	O	O
+יתכן	:MODAL:	ייתכן	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+דיסקוס	:NOUN-M,S,ABS:	דיסקוס	I-NP	disk-C0993608
+בחוליות	PREPOSITION:NOUN-F,P,CONST:	חוליה	B-NP	vertebra-C0549207
+המותניות	DEF:NOUN-F,P,ABS:	מותנית	I-NP	O
+ורצוי	CONJ:MODAL-M,S,A:	רצוי	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+אורטופדי	:ADJECTIVE-M,S,ABS:	אורטופדי	O	orthopedic-C0029355
+

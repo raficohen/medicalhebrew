@@ -1,0 +1,47 @@
+בהחלט	:ADVERB:	בהחלט	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+.	:PUNCUATION:	.	O	O
+
+אנחנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+יודעים	:VERB-M,P,A,BEINONI:	ידע	O	O
+לגלות	:VERB-TOINFINITIVE:	גלה	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+לתרומבוזות	:VERB-M,S,3,PAST:	לתרומבוזות	O	O
+אצל	:PREPOSITION:	אצל	O	O
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+האנשים	DEF:NOUN-M,P,ABS:	איש	I-NP	people-C0027361
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+נשאר	:VERB-M,S,3,PAST:	נשאר	O	O
+נתח	:NOUN-M,S,ABS:	נתח	B-NP	O
+מכובד	:ADJECTIVE-M,S,ABS:	מכובד	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אנשים	:NOUN-M,P,ABS:	איש	I-NP	people-C0027361
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+מוצעים	:VERB-M,P,A,BEINONI:	הוצע	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+ברורה	:ADJECTIVE-F,S,ABS:	ברור	I-NP	O
+לתרומבוזה	PREPOSITION:NOUN-F,S,ABS:	תרומבוזה	B-NP	thrombosis-C0040053
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+שהמטולוג	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION+DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+יבדוק	:VERB-M,S,3,FUTURE:	בדק	O	O
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+נלקח	:VERB-M,S,3,PAST:	נלקח	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+ומלא	CONJ:ADJECTIVE-M,S,ABS:	מלא	O	O
+,	:PUNCUATION:	,	O	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+באמת	:ADVERB:	באמת	O	O
+לא	:NEGATION:	לא	O	O
+נמצאה	:VERB-F,S,3,PAST:	נמצא	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+.	:PUNCUATION:	.	O	O
+

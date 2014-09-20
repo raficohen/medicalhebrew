@@ -1,0 +1,21 @@
+ראשית	:ADVERB:	ראשית	O	O
+עושים	:VERB-M,P,A,BEINONI:	עשה	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+ואחכ	:PROPERNAME:	ואחך	I-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+את	:AT_PREP:	את	B-NP	O
+מידת	:NOUN-F,S,CONST:	מידה	I-NP	O
+התפשטות	:NOUN-F,S,CONST:	התפשטות	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+ואז	CONJ:CONJUNCTION:	אז	O	O
+נקבעת	:VERB-F,S,A,BEINONI:	נקבע	O	O
+מדיניות	:NOUN-F,S,CONST:	מדיניות	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+מחליפים	:VERB-M,P,A,BEINONI:	החליף	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+

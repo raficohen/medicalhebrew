@@ -1,0 +1,74 @@
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+טובות	:ADJECTIVE-F,P,ABS:	טוב	I-NP	good-C0205170
+!	:PUNCUATION:	!	O	O
+
+למזלינו	:ADVERB:	למזלינו	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הנחיות	:NOUN-F,P,ABS:	הנחיה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+משרד	:NOUN-M,S,CONST:	משרד	I-NP	O
+הבריאות	DEF:NOUN-F,S,ABS:	בריאות	I-NP	health-C0018684
+לגבי	:PREPOSITION:	לגבי	O	O
+WEAK	:FOREIGN:	WEAK	O	O
+D	:FOREIGN:	D	O	O
+אשר	:CONJUNCTION:	אשר	O	O
+הרופאים	DEF:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+העוסקים	DEF:PARTICIPLE-M,P,A,ABS:	עסק	O	O
+במילדות	PREPOSITION:PARTICIPLE-F,P,A,ABS:	יילד	B-NP	O
+מכירים	:VERB-M,P,A,BEINONI:	הכיר	O	O
+הכי	:ADVERB:	הכי	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+קבות	:NOUN-F,P,CONST:	קבות	B-NP	O
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+RH	:FOREIGN:	RH	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+D	:FOREIGN:	D	I-NP	O
+מכילה	:VERB-F,S,A,BEINONI:	הכיל	O	O
+בתוכה	:PREPOSITION:PRONOMIAL-F,S,3	בתוך	B-NP	O
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+קבוצות	:NOUN-F,P,ABS:	קבוצה	I-NP	groups-C0441833
+,	:PUNCUATION:	,	O	O
+והקומבינציה	CONJ+DEF:NOUN-F,S,ABS:	קומבינציה	B-NP	O
+שלהם	:SHEL_PREP:PRONOMIAL-M,P,3	של	I-NP	O
+מכונה	:VERB-M,S,A,BEINONI:	כונה	O	O
+D	:FOREIGN:	D	O	O
+או	:CONJUNCTION:	או	O	O
+RH	:FOREIGN:	RH	O	O
+.	:PUNCUATION:	.	O	O
+
+בהחלט	:ADVERB:	בהחלט	O	O
+יתכנו	:VERB-MF,P,3,FUTURE:	תיכן	O	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+כנגד	:PREPOSITION:	כנגד	O	O
+קבוצות דם	:TERM:	קבוצות דם	O	blood groups-C0005810
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+אישה	:NOUN-F,S,ABS:	איש	I-NP	people-C0027361
+עוברת	:VERB-F,S,A,BEINONI:	עבר	O	past-C1444637
+"	:PUNCUATION:	"	B-NP	O
+סקר	:NOUN-M,S,ABS:	סקר	I-NP	screening-C0199230
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	I-NP	antibody-C0003241
+"	:PUNCUATION:	"	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+ולגלות	CONJ:VERB-TOINFINITIVE:	גלה	O	O
+בעיות	:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+נפוצות	:ADJECTIVE-F,P,ABS:	נפוץ	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+שנגרמת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	נגרם	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+D	:FOREIGN:	D	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+הקשה	:NOUN-F,S,ABS:	הקשה	B-NP	percussion-C0030987
+והמשעותית	:NOUN-MF,S,ABS:	והמשעותית	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

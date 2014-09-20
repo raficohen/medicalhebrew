@@ -1,0 +1,75 @@
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+שאת	REL-SUBCONJ:AT_PREP:	את	O	O
+מבולבלת	:VERB-F,S,A,BEINONI:	בולבל	O	O
+.	:PUNCUATION:	.	O	O
+
+כשאין	TEMP-SUBCONJ:NEGATION:	אין	O	O
+עובדות	:NOUN-F,P,ABS:	עובד	B-NP	Employee-C0599987-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+המון	:QUANTIFIER-CONST:	המון	B-NP	O
+דעות	:NOUN-F,P,ABS:	דעה	I-NP	O
+,	:PUNCUATION:	,	O	O
+EXPERT	:FOREIGN:	EXPERT	O	O
+OPINION	:FOREIGN:	OPINION	O	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+-	:PUNCUATION:	-	I-NP	O
+מי	:INTERROGATIVE:	מי	I-NP	O
+המומחה	DEF:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+שנתן	REL-SUBCONJ:VERB-M,S,3,PAST:	נתן	O	O
+את	:AT_PREP:	את	B-NP	O
+הדעה	DEF:NOUN-F,S,ABS:	דעה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+המומחה	DEF:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+עדכנית	:ADJECTIVE-F,S,ABS:	עדכנית	I-NP	O
+שתתבסס	REL-SUBCONJ:VERB-F,S,3,FUTURE:	התבסס	O	O
+,	:PUNCUATION:	,	O	O
+לדוגמא	PREPOSITION:NOUN-F,S,ABS:	דוגמה	B-NP	example-C1707959
+,	:PUNCUATION:	,	O	O
+על	:PREPOSITION:	על	O	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+שבגללה	REL-SUBCONJ:PREPOSITION:PRONOMIAL-F,S,3	בגלל	B-NP	O
+נבדקה	:VERB-F,S,3,PAST:	נבדק	O	O
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+קרישיות	:NOUN-F,S,ABS:	קרישיות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+תתבסס	:VERB-F,S,3,FUTURE:	התבסס	O	O
+על	:PREPOSITION:	על	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+משפחתי	:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+.	:PUNCUATION:	.	O	O
+
+תתבסס	:VERB-F,S,3,FUTURE:	התבסס	O	O
+על	:PREPOSITION:	על	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+את	:AT_PREP:	את	B-NP	O
+נוטלת	:VERB-F,S,A,BEINONI:	נטל	I-NP	O
+גלולות	:NOUN-F,P,ABS:	גלולה	I-NP	pills-C0994475
+,	:PUNCUATION:	,	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+משקלך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	משקל	B-NP	weight-C0043100
+,	:PUNCUATION:	,	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+גבוהך	:ADJECTIVE-M,S,CONST:	גבוהך	I-NP	O
+וכד	CONJ:NOUN-M,S,ABS:	כד	I-NP	O
+.	:PUNCUATION:	.	O	O
+

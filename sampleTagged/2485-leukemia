@@ -1,0 +1,39 @@
+ראשית	:ADVERB:	ראשית	O	O
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+חוזרת	:ADJECTIVE-F,S,ABS:	חוזר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לזכור	:VERB-TOINFINITIVE:	זכר	O	O
+שהרמה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	רמה	B-NP	O
+מושפעת	:VERB-F,S,A,BEINONI:	הושפע	O	O
+מטיפולים	PREPOSITION:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הורמונליים	:ADJECTIVE-M,P,ABS:	הורמונליים	I-NP	O
+ומהריון	PREPOSITION+CONJ:NOUN-M,S,ABS:	מ	O	O
+.	:PUNCUATION:	.	O	O
+
+באם	PREPOSITION:NOUN-F,S,CONST:	אם	B-NP	Mother-C0026591-ambigous
+הרמה	DEF:NOUN-F,S,ABS:	רמה	I-NP	O
+שוב	:ADVERB:	שוב	O	O
+מתקבלת	:VERB-F,S,A,BEINONI:	התקבל	O	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	O	O
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION+DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+(	:PUNCUATION:	(	O	O
+ולהביא	CONJ:VERB-TOINFINITIVE:	הביא	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+בני	:NOUN-M,P,CONST:	בן	I-NP	Son (person)-C0037683-ambigous
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+

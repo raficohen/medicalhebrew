@@ -1,0 +1,72 @@
+רמי	:PROPERNAME:	רמי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קיימים	:ADJECTIVE-M,P,ABS:	קיים	B-NP	O
+טיפוליים	:ADJECTIVE-M,P,ABS:	טיפולי	I-NP	O
+מקומיים	:ADJECTIVE-M,P,ABS:	מקומי	I-NP	local-C0205276
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+כמו	:PREPOSITION:	כמו	O	O
+הקרנה	:NOUN-F,S,ABS:	הקרנה	B-NP	radiation-C0034519
+או	:CONJUNCTION:	או	O	O
+צריבה	:NOUN-F,S,ABS:	צריבה	B-NP	cautery-C0007471
+.	:PUNCUATION:	.	O	O
+
+כמובן	:ADVERB:	כמובן	O	O
+,	:PUNCUATION:	,	O	O
+חייבים	:MODAL-M,P,A:	חייב	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+מיהו	:INTERROGATIVE:PRONOMIAL-M,S,3	מי	B-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+,	:PUNCUATION:	,	O	O
+גילו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	גיל	B-NP	O
+,	:PUNCUATION:	,	O	O
+מחלות	:NOUN-F,P,CONST:	מחלה	B-NP	disease-C0012634
+הרקע	DEF:NOUN-M,S,ABS:	רקע	I-NP	background-C1706907
+והיכולת	CONJ+DEF:NOUN-F,S,ABS:	יכולת	I-NP	Ability-C0085732
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כלשהוא	:PRONOUN-M,S:	כלשהו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+כמובן	:ADVERB:	כמובן	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לאונקולוג	:PREPOSITION:	לאונקולוג	O	O
+המטפל	DEF:NOUN-M,S,ABS:	מטפל	B-NP	O
+אשר	:CONJUNCTION:	אשר	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+אימך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	I-NP	Mother-C0026591-ambigous
+ומניח	CONJ:VERB-M,S,A,BEINONI:	הניח	O	O
+שיציע	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הציע	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+המתאים	DEF:ADJECTIVE-M,S,ABS:	מתאים	O	O
+לה	:PREPOSITION:PRONOMIAL-F,S,3	ל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:NEGATION:	אין	O	O
+באפשרותינו	:VERB-M,P,A,BEINONI:	באפשרותינו	O	O
+לחזות	:VERB-TOINFINITIVE:	חזה	O	chest-C0817096
+את	:AT_PREP:	את	B-NP	O
+משך	:NOUN-M,S,CONST:	משך	I-NP	Duration-C0449238
+הזמן	DEF:NOUN-M,S,ABS:	זמן	I-NP	O
+והמהלך	CONJ+DEF:NOUN-M,S,ABS:	מהלך	I-NP	move-C2699029
+בעתיד	PREPOSITION+DEF:NOUN-M,S,ABS:	עתיד	B-NP	future-C0016884
+מבלי	:CONJUNCTION:	מבלי	O	O
+כמובן	:ADVERB:	כמובן	O	O
+להכיר	:VERB-TOINFINITIVE:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+ומידת	CONJ:NOUN-F,S,CONST:	מידה	B-NP	O
+מחלתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	מחלה	I-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

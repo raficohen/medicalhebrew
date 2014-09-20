@@ -1,0 +1,28 @@
+המוגיומה	:ADJECTIVE-M,S,CONST:	המוגיומה	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+גידול שפיר	:TERM:	גידול שפיר	O	benign tumor-C0086692
+של	:SHEL_PREP:	של	I-NP	O
+כלי	:NOUN-M,S,CONST:	כלי	I-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+שבדר"כ	REL-SUBCONJ:PROPERNAME:	בדר"כ	B-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+גדלה	:VERB-F,S,A,BEINONI:	גדל	O	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	DEF:NOUN-F,S,ABS:	אם	I-NP	Mother-C0026591-ambigous
+לוחצת	:VERB-F,S,A,BEINONI:	לחץ	O	pressure-C0033095
+על	:PREPOSITION:	על	O	O
+חוט	:NOUN-M,S,CONST:	חוט	B-NP	string-C1547402
+השדרה	DEF:NOUN-F,S,ABS:	שדרה	I-NP	spine-C0037949
+ועל	CONJ:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+אורטופד	:PROPERNAME:	אורטופד	B-NP	O
+וכמובן	CONJ:ADVERB:	כמובן	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+ביקורת	:NOUN-F,S,ABS:	ביקורת	B-NP	Criticism-C0870379
+.	:PUNCUATION:	.	O	O
+

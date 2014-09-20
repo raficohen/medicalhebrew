@@ -1,0 +1,64 @@
+ערך	:NOUN-M,S,CONST:	ערך	B-NP	values-C0042295
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+-	:PUNCUATION:	-	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+קודמת	:ADJECTIVE-F,S,ABS:	קודם	I-NP	O
+האם	:INTERROGATIVE:	האם	I-NP	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	I-NP	O
+בבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+רוטינית	:ADJECTIVE-F,S,ABS:	רוטינית	I-NP	O
+או	:CONJUNCTION:	או	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+הופעת	:NOUN-F,S,CONST:	הופעה	B-NP	appearance-C0233426
+סימנים	:NOUN-M,P,ABS:	סימן	I-NP	sign-C0311392
+קליניים	:ADJECTIVE-M,P,ABS:	קליני	I-NP	clinical-C0205210
+.	:PUNCUATION:	.	O	O
+
+שאלה	:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+באיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+שלב	:NOUN-M,S,ABS:	שלב	I-NP	stage-C0205390
+של	:SHEL_PREP:	של	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+.	:PUNCUATION:	.	O	O
+
+המידע	DEF:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+הנוסף	DEF:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+חיוני	:ADJECTIVE-M,S,ABS:	חיוני	O	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לחחות	PREPOSITION:NOUN-M,S,CONST:	חחות	O	O
+דעה	:NOUN-F,S,ABS:	דעה	B-NP	O
+על	:PREPOSITION:	על	O	O
+משמעות	:NOUN-F,S,CONST:	משמעות	B-NP	significance-C0237881
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+הנ"ל	DEF:ADJECTIVE-M,S,ABS:	הנ"ל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+התייחסות	:NOUN-F,S,ABS:	התייחסות	B-NP	treatment-C0039798
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+מאחר	:CONJUNCTION:	מאחר	O	O
+ומדובר	CONJ:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בנוכחות	PREPOSITION:NOUN-F,S,CONST:	נוכחות	B-NP	presence-C0392148
+עדות	:NOUN-F,S,ABS:	עדות	I-NP	testimony-C0680706
+לוירוס	PREPOSITION:NOUN-M,S,ABS:	וירוס	B-NP	virus-C0042776
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+להופעת	PREPOSITION:NOUN-F,S,CONST:	הופעה	O	appearance-C0233426
+סמנים	:NOUN-M,P,ABS:	סמן	B-NP	Markers-C2745888
+קליניים	:ADJECTIVE-M,P,ABS:	קליני	I-NP	clinical-C0205210
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,139 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+מדיאסטיניטיס	:PROPERNAME:	מדיאסטיניטיס	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+זיהום	:NOUN-M,S,ABS:	זיהום	B-NP	infection-C0009450
+של	:SHEL_PREP:	של	I-NP	O
+חלל	:NOUN-M,S,ABS:	חלל	I-NP	space-C1883067
+המייצר	DEF:PARTICIPLE-M,S,A,ABS:	ייצר	O	O
+(	:PUNCUATION:	(	O	O
+מדיאסטינום	:NOUN-M,S,ABS:	מדיאסטינום	B-NP	mediastinum-C0025066
+)	:PUNCUATION:	)	O	O
+מסיבות	:NOUN-F,P,ABS:	מסיבה	B-NP	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+חריפה	:ADJECTIVE-F,S,ABS:	חריף	I-NP	acute-C0205178
+וקשה	CONJ:ADJECTIVE-F,S,ABS:	קשה	I-NP	O
+שהגורם	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	גורם	B-NP	O
+לה	:PREPOSITION:PRONOMIAL-F,S,3	ל	B-NP	O
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+חיידקי	:NOUN-M,P,CONST:	חיידק	B-NP	bacterium-C0004611
+,	:PUNCUATION:	,	O	O
+ויכולה	CONJ:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+סיבוך	:NOUN-M,S,ABS:	סיבוך	B-NP	complication-C0009566
+בניתוחי	PREPOSITION:NOUN-M,P,CONST:	ניתוח	B-NP	surgery-C0038894
+לב	:NOUN-M,S,ABS:	לב	I-NP	heart-C0018787
+או	:CONJUNCTION:	או	O	O
+חזה	:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+המחייבת	DEF:PARTICIPLE-F,S,A,ABS:	חייב	O	O
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+התערבות	:NOUN-F,S,ABS:	התערבות	B-NP	intervention-C1273869
+ניתוחית	:ADJECTIVE-F,S,ABS:	ניתוחי	I-NP	O
+לניקוז	PREPOSITION+DEF:NOUN-M,S,ABS:	ניקוז	B-NP	drainage-C0012621
+וטיפול	CONJ:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+אנטיביוטי	:ADJECTIVE-M,S,ABS:	אנטיביוטי	I-NP	antibiotic-C0003232
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+נופל	:VERB-M,S,A,BEINONI:	נפל	O	stillbirth-C0595939
+לקטגוריה	PREPOSITION:NOUN-F,S,ABS:	קטגוריה	B-NP	O
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+זכור	:ADJECTIVE-M,S,ABS:	זכור	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+שבר	:NOUN-M,S,ABS:	שבר	I-NP	fracture-C0016658
+בסטרנום	PREPOSITION:NOUN-M,S,ABS:	סטרנום	B-NP	sternum-C0038293
+מחבלה	PREPOSITION:NOUN-F,S,ABS:	חבלה	O	trauma-C0043251
+שגרם	REL-SUBCONJ:VERB-M,S,3,PAST:	גרם	O	O
+למחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+זיהומית	:ADJECTIVE-F,S,ABS:	זיהומית	I-NP	O
+שכזו	PREPOSITION+REL-SUBCONJ:PRONOUN-F,S,3:	כ	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+יותר	:ADVERB:	יותר	O	O
+שהכאב	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+נובע	:VERB-M,S,A,BEINONI:	נבע	O	O
+מהחבלה	PREPOSITION+DEF:NOUN-F,S,ABS:	חבלה	B-NP	trauma-C0043251
+עצמה	:VERB-F,S,3,PAST:	עצם	I-NP	bone-C0262950
+בחזה	PREPOSITION+DEF:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+מחבלה	PREPOSITION:NOUN-F,S,ABS:	חבלה	B-NP	trauma-C0043251
+קהה	:ADJECTIVE-F,S,ABS:	קהה	I-NP	O
+נמשך	:VERB-M,S,3,PAST:	נמשך	O	O
+תקופה	:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+מאוד	:ADVERB:	מאוד	I-NP	O
+ארוכה	:ADJECTIVE-F,S,ABS:	ארוך	I-NP	O
+והופך	CONJ:VERB-M,S,A,BEINONI:	הפך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+כרוני	PREPOSITION:PROPERNAME-MF,S:	רוני	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+שבר	:NOUN-M,S,ABS:	שבר	B-NP	fracture-C0016658
+בסטרנום	PREPOSITION:NOUN-M,S,ABS:	סטרנום	B-NP	sternum-C0038293
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לכאוב	:VERB-TOINFINITIVE:	כאב	O	pain-C0030193
+חודשים	:NOUN-M,P,ABS:	חודש	B-NP	months-C0439231
+-	:PUNCUATION:	-	I-NP	O
+תלוי	:ADVERB:	תלוי	I-NP	O
+בגודל	PREPOSITION:NOUN-M,S,CONST:	גודל	B-NP	size-C0456389
+השבר	DEF:NOUN-M,S,ABS:	שבר	I-NP	fracture-C0016658
+ובתהליך	PREPOSITION+CONJ:NOUN-M,S,CONST:	ב	O	O
+הריפוי	DEF:NOUN-M,S,ABS:	ריפוי	B-NP	healing-C0043240
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להעריך	:VERB-TOINFINITIVE:	העריך	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+באמצעות	:PREPOSITION:	באמצעות	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	I-NP	O
+ובדיקות	CONJ:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הדמיה	:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+כירוג	:NOUN-F,P,CONST:	כירוג	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+ורופאים	CONJ:NOUN-M,P,ABS:	רופא	O	doctor-C0031831
+ממרפאת	PREPOSITION:NOUN-F,S,CONST:	מרפאה	B-NP	Clinic-C0442592
+כאב	:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

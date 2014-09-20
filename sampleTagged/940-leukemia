@@ -1,0 +1,38 @@
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+ההמלצה	DEF:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+הטובה	DEF:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+ביותר	:ADVERB:	ביותר	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+אצל	:PREPOSITION:	אצל	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מרפאות	:NOUN-F,P,ABS:	מרפאה	B-NP	Clinic-C0442592
+יחודיות	:ADJECTIVE-F,P,ABS:	ייחודי	I-NP	O
+לנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+נמצאות	:VERB-F,P,A,BEINONI:	נמצא	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+בי"ח	:NOUN-M,S,ABS:	בי"ח	I-NP	O
+מרכזי	:ADJECTIVE-M,S,ABS:	מרכזי	I-NP	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+.	:PUNCUATION:	.	O	O
+
+בין	:PREPOSITION:	בין	O	O
+היתר	DEF:NOUN-M,S,ABS:	יתר	B-NP	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+על	:PREPOSITION:	על	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+ולא	CONJ:NEGATION:	לא	O	O
+רק	:CONJUNCTION:	רק	O	O
+על	:PREPOSITION:	על	O	O
+חות	:NOUN-M,S,CONST:	חות	B-NP	O
+דעת	:NOUN-F,S,CONST:	דעה	I-NP	O
+חד	:PREFIX:	חד	I-NP	O
+פעמית	:ADJECTIVE-F,S,ABS:	פעמי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,113 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המתאים	DEF:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+אופציות	:NOUN-F,P,ABS:	אופציה	B-NP	option-C1518601
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+להריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+להתפתח	:VERB-TOINFINITIVE:	התפתח	O	O
+,	:PUNCUATION:	,	O	O
+פרט	:VERB-M,S,3,PAST:	פרט	O	details-C1522508-ambigous
+לעניינים	PREPOSITION+DEF:NOUN-M,P,ABS:	עניין	B-NP	O
+הקשורים	DEF:PARTICIPLE-M,P,A,ABS:	קשר	O	connection-C0449379
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בעניין	PREPOSITION:NOUN-M,S,CONST:	עניין	B-NP	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לזכור	:VERB-TOINFINITIVE:	זכר	O	O
+שהקשר	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+האם	DEF:NOUN-F,S,ABS:	אם	I-NP	Mother-C0026591-ambigous
+לבין	:PREPOSITION:	לבין	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+הריוניות	:ADJECTIVE-F,P,ABS:	הריוניות	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+מוכח	:VERB-M,S,A,BEINONI:	הוכח	O	O
+(	:PUNCUATION:	(	O	O
+פרט	:NOUN-M,S,ABS:	פרט	B-NP	details-C1522508-ambigous
+למספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+מצבים	:NOUN-M,P,ABS:	מצב	I-NP	Condition-C0348080
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+,	:PUNCUATION:	,	O	O
+זוהי	:PRONOUN-F,S,3:	זהו	B-NP	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+סבירה	:ADJECTIVE-F,S,ABS:	סביר	I-NP	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+לאור	:PREPOSITION:	לאור	O	O
+ההיסטוריה	DEF:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+המילדותית	:NOUN-MF,S,ABS:	המילדותית	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+אנחנו	:PRONOUN-MF,P,1:	הוא	O	O
+מתחילים	:VERB-M,P,A,BEINONI:	התחיל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+בשבוע	PREPOSITION:NOUN-M,S,ABS:	שבוע	O	week-C0439230
+10	:NUMERAL:	###NUMBER###	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+12	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כאמור	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	אמור	B-NP	O
+,	:PUNCUATION:	,	O	O
+הידע	DEF:NOUN-M,S,ABS:	ידע	B-NP	O
+שלנו	:SHEL_PREP:PRONOMIAL-MF,P,1	של	I-NP	O
+מוגבל	:ADJECTIVE-M,S,ABS:	מוגבל	I-NP	O
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+האם	:INTERROGATIVE:	האם	O	O
+התחלה	:NOUN-F,S,ABS:	התחלה	B-NP	Beginning-C0439659
+בשבוע	PREPOSITION:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+15	:NUMERAL:	###NUMBER###	I-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+מאוחר	:ADJECTIVE-M,S,ABS:	מאוחר	I-NP	O
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+
+מבחינת	PREPOSITION:NOUN-F,S,CONST:	בחינה	B-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+האופציה	DEF:NOUN-F,S,ABS:	אופציה	I-NP	option-C1518601
+הנוספת	DEF:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+באספירין	PREPOSITION:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+או	:CONJUNCTION:	או	I-NP	O
+שילוב	:NOUN-M,S,ABS:	שילוב	I-NP	integration-C1158478
+של	:SHEL_PREP:	של	I-NP	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	I-NP	heparin-C0019134
+עם	:PREPOSITION:	עם	O	O
+אספירין	:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+.	:PUNCUATION:	.	O	O
+
+כנראה	:ADVERB:	כנראה	O	O
+שהטיפול	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+במצבך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	מצב	B-NP	Condition-C0348080
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+.	:PUNCUATION:	.	O	O
+

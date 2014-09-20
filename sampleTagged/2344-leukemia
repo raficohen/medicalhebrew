@@ -1,0 +1,63 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הורמונלי	:PROPERNAME:	הורמונלי	I-NP	Hormonal-C0458083
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+גורם סיכון	:TERM:	גורם סיכון	O	risk factor-C0035648
+להתפתחות	PREPOSITION:NOUN-F,S,CONST:	התפתחות	B-NP	O
+קרישים	:NOUN-M,P,ABS:	קריש	I-NP	clot-C0009074
+.	:PUNCUATION:	.	O	O
+
+כך	:ADVERB:	כך	O	O
+גם	:CONJUNCTION:	גם	O	O
+טיסה	:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+ארוכה	:ADJECTIVE-F,S,ABS:	ארוך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+האם	:INTERROGATIVE:	האם	O	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+והאם	CONJ:INTERROGATIVE:	האם	O	O
+אי	:NOUN-M,S,CONST:	אי	B-NP	Islands-C0022130
+סדירות	:NOUN-F,S,ABS:	סדירות	I-NP	O
+במחזור	PREPOSITION+DEF:NOUN-M,S,ABS:	מחזור	B-NP	reunion-C0035373
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+סיבה	:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+מספקת	:VERB-F,S,A,BEINONI:	סיפק	O	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הורמונלי	:PROPERNAME:	הורמונלי	I-NP	Hormonal-C0458083
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+חד	:PREFIX:	חד	O	O
+משמעותיות	:ADJECTIVE-F,P,ABS:	משמעותי	O	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+כדאי	:MODAL:	כדאי	O	O
+להקפיד	:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+התנהגות	:NOUN-F,S,ABS:	התנהגות	B-NP	Behavior-C0004927
+נכונה	:ADJECTIVE-F,S,ABS:	נכון	I-NP	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	O	O
+טיסה	:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+:	:PUNCUATION:	:	O	O
+לשתות	:VERB-TOINFINITIVE:	שתה	O	O
+הרבה	:QUANTIFIER-CONST:	הרבה	B-NP	O
+מים	:NOUN-M,P,ABS:	מים	I-NP	water-C0043047
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+לשתות	:VERB-TOINFINITIVE:	שתה	O	O
+אלכוהול	:NOUN-M,S,ABS:	אלכוהול	B-NP	alcohol-C0001962
+ולהסתובב	CONJ:VERB-TOINFINITIVE:	הסתובב	O	O
+במטוס	PREPOSITION:NOUN-M,S,CONST:	מטוס	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+1	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+2	:NUMERAL:	###NUMBER###	I-NP	O
+שעות	:NOUN-F,P,ABS:	שעה	I-NP	hour-C0439227
+.	:PUNCUATION:	.	O	O
+

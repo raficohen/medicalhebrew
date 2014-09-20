@@ -1,0 +1,21 @@
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שעשית	REL-SUBCONJ:VERB-F,S,2,PAST:	עשה	O	O
+נועדו	:VERB-MF,P,3,PAST:	נועד	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+דלקת	:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+בשריר	PREPOSITION:NOUN-M,S,ABS:	שריר	B-NP	muscle-C0026845
+לגבי	:PREPOSITION:	לגבי	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+הנוספת	DEF:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+אינני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+תצורף	:VERB-F,S,3,FUTURE:	צורף	O	O
+בברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	O	O
+אם	:CONJUNCTION:	אם	O	O
+בכלל	:ADVERB:	בכלל	O	O
+עד	:PREPOSITION:	עד	O	O
+שתחזור	REL-SUBCONJ:VERB-F,S,3,FUTURE:	חזר	O	O
+בשלום	PREPOSITION:NOUN-M,S,ABS:	שלום	B-NP	O
+לארץ	PREPOSITION:NOUN-F,S,CONST:	ארץ	O	Country-C0454664-ambigous
+

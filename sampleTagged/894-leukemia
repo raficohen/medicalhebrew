@@ -1,0 +1,24 @@
+התשובה	DEF:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+של	:SHEL_PREP:	של	O	O
+ס.ד	:NOUN-M,S,ABS:POSSESIVE-M,S,3	ס.	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+של	:SHEL_PREP:	של	O	O
+רמות	:NOUN-F,P,CONST:	רמה	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+והיא	CONJ:PRONOUN-F,S,3:	הוא	B-NP	O
+מראה	:VERB-F,S,A,BEINONI:	הראה	O	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+שיכולה	REL-SUBCONJ:MODAL-F,S,A,BEINONI:	יכול	O	O
+להתאים	:VERB-TOINFINITIVE:	התאים	O	O
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+ילדים	:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+

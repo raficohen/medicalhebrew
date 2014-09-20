@@ -1,0 +1,55 @@
+קשה	:ADVERB:	קשה	O	O
+להגיד	:VERB-TOINFINITIVE:	הגיד	O	O
+את	:AT_PREP:	את	B-NP	O
+"	:PUNCUATION:	"	I-NP	O
+האמת	DEF:NOUN-F,S,ABS:	אמת	I-NP	O
+"	:PUNCUATION:	"	O	O
+בצורת	PREPOSITION:NOUN-F,S,CONST:	צורה	B-NP	O
+תקשורת	:NOUN-F,S,ABS:	תקשורת	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+את	:AT_PREP:	את	B-NP	O
+רוצה	:VERB-M,S,A,BEINONI:	רצה	O	O
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+מלא	:ADJECTIVE-M,S,ABS:	מלא	I-NP	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להפגש	:VERB-TOINFINITIVE:	נפגש	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+פנים	:NOUN-M,S,ABS:	פנים	I-NP	face-C0015450
+מול	:PREPOSITION:	מול	O	O
+פנים	:NOUN-M,S,ABS:	פנים	B-NP	face-C0015450
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+יתכן	:MODAL:	ייתכן	O	O
+ומדובר	CONJ:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בקריש	PREPOSITION:NOUN-M,S,CONST:	קריש	B-NP	clot-C0009074
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ישן	:ADJECTIVE-M,S,ABS:	ישן	I-NP	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+נספג	:VERB-M,S,3,PAST:	נספג	O	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+בלבד	:ADVERB:	בלבד	O	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	I-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+היתה	:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+

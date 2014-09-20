@@ -1,0 +1,91 @@
+שאול	:PROPERNAME:	שאול	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+בבטחון	PREPOSITION+DEF:NOUN-M,S,ABS:	ביטחון	B-NP	defense-C1880266
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+אנשים	:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+הנחשפים	DEF:PARTICIPLE-M,P,A,ABS:	נחשף	O	O
+לגורמים	PREPOSITION:NOUN-M,P,ABS:	גורם	B-NP	O
+מזהמים	:VERB-M,P,A,BEINONI:	זיהם	O	O
+שונים	:ADJECTIVE-M,P,ABS:	שונה	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+לפתח	:VERB-TOINFINITIVE:	פיתח	O	O
+מחלת	:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+הקשורה	DEF:PARTICIPLE-F,S,A,ABS:	קשר	O	connection-C0449379
+באותו	PREPOSITION:QUANTIFIER-CONST:	אותו	B-NP	O
+גורם	:NOUN-M,S,ABS:	גורם	I-NP	O
+(	:PUNCUATION:	(	O	O
+למשל	:CONJUNCTION:	למשל	O	O
+אסבסט	:PROPERNAME:	אסבסט	B-NP	O
+,	:PUNCUATION:	,	O	O
+סיליקון	:PROPERNAME:	סיליקון	B-NP	silicon-C0037107
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בחשיפה	PREPOSITION:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+ממושכת	:ADJECTIVE-F,S,ABS:	ממושך	I-NP	O
+לאותו	PREPOSITION:QUANTIFIER-CONST:	אותו	B-NP	O
+גורם	:NOUN-M,S,ABS:	גורם	I-NP	O
+הקשורה	DEF:PARTICIPLE-F,S,A,ABS:	קשר	O	connection-C0449379
+בעבודה	PREPOSITION+DEF:NOUN-F,S,ABS:	עבודה	B-NP	Work-C0043227
+או	:CONJUNCTION:	או	O	O
+מגורים	:NOUN-M,P,ABS:	מגורים	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+האנשים	DEF:NOUN-M,P,ABS:	איש	I-NP	people-C0027361
+.	:PUNCUATION:	.	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לאמוד	:VERB-TOINFINITIVE:	אמד	O	O
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+מהחומרים	PREPOSITION+DEF:NOUN-M,P,ABS:	חומר	I-NP	material-C0520510
+המזהמים	DEF:PARTICIPLE-M,P,A,ABS:	זיהם	O	O
+אכן	:ADVERB:	אכן	O	O
+נשאפים	:VERB-M,P,A,BEINONI:	נשאף	O	O
+לריאותיך	PREPOSITION:NOUN-F,P,ABS:POSSESIVE-F,S,2	ריאה	B-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+כיון	PREPOSITION:NOUN-M,S,ABS:	יון	O	O
+שהחשיפה	REL-SUBCONJ+DEF:NOUN-F,S,ABS:	חשיפה	B-NP	exposure-C0274281
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+נראית	:VERB-F,S,A,BEINONI:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+קצרה	:ADJECTIVE-F,S,ABS:	קצר	O	O
+אולי	:ADVERB:	אולי	O	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+בכך	:ADVERB:	בכך	O	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+רב	:ADJECTIVE-M,S,ABS:	רב	O	O
+.	:PUNCUATION:	.	O	O
+
+ואולי	CONJ:ADVERB:	אולי	O	O
+שווה	:CONJUNCTION:	שווה	O	O
+לנקות	:VERB-TOINFINITIVE:	ניקה	O	O
+את	:AT_PREP:	את	B-NP	O
+החניון	DEF:NOUN-M,S,ABS:	חניון	I-NP	O
+במקום	PREPOSITION:NOUN-M,S,ABS:	מקום	O	place-C0442504
+להתמודד	:VERB-TOINFINITIVE:	התמודד	O	O
+עם	:PREPOSITION:	עם	O	O
+החשש	DEF:NOUN-M,S,ABS:	חשש	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+סוף	:NOUN-M,S,CONST:	סוף	B-NP	O
+שבוע	:NOUN-M,S,ABS:	שבוע	I-NP	week-C0439230
+נקי	:ADJECTIVE-M,S,ABS:	נקי	I-NP	O
+ובריא	CONJ:ADJECTIVE-M,S,ABS:	בריא	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

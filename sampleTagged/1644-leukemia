@@ -1,0 +1,34 @@
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+דורש	:VERB-M,S,A,BEINONI:	דרש	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+.	:PUNCUATION:	.	O	O
+
+האים	:ADVERB:	האים	O	O
+אתה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+ממוצא	PREPOSITION:NOUN-M,S,ABS:	מוצא	B-NP	origin-C0439659
+תימני	:ADJECTIVE-M,S,ABS:	תימני	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+לציין	:VERB-TOINFINITIVE:	ציין	O	O
+שלתמנים	PREPOSITION+REL-SUBCONJ+DEF:NOUN-MF,P,ABS:	ל	B-NP	O
+מס	:NOUN-M,S,ABS:	מס	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הלויקוציטים	:NOUN-M,S,ABS:	הלויקוציטים	B-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+מהנורמה	PREPOSITION+DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	O	connection-C0449379
+ל	:PREPOSITION:	ל	O	O
+PLT	:FOREIGN:	PLT	O	O
+המספר	DEF:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+בגבול	PREPOSITION+DEF:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+התחתון	DEF:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

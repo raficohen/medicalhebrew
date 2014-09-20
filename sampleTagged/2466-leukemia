@@ -1,0 +1,23 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+בדחיפות	PREPOSITION:NOUN-F,S,ABS:	דחיפות	B-NP	urgency-C0085606
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+האשלגן	DEF:NOUN-M,S,ABS:	האשלגן	I-NP	O
+ורמת	CONJ:NOUN-F,S,CONST:	רמה	B-NP	O
+הנתרן	DEF:NOUN-M,S,ABS:	הנתרן	I-NP	O
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+וכדאי	CONJ:MODAL:	כדאי	O	O
+שרופא	REL-SUBCONJ:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+יבחן	:VERB-M,S,3,FUTURE:	בחן	O	O
+שוב	:ADVERB:	שוב	O	O
+את	:AT_PREP:	את	B-NP	O
+העניין	DEF:NOUN-M,S,ABS:	עניין	I-NP	O
+.	:PUNCUATION:	.	O	O
+

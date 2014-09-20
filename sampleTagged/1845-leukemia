@@ -1,0 +1,29 @@
+חיים	:PROPERNAME:	חיים	B-NP	life-C0376558
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+חסר	:NOUN-M,S,ABS:	חסר	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+50	:NUMERAL:	###NUMBER###	I-NP	O
+%	:NOUN-MF,S,ABS:	%	I-NP	O
+בגורמי	PREPOSITION:NOUN-M,P,CONST:	גורם	B-NP	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+הנ"ל	DEF:ADJECTIVE-M,S,ABS:	הנ"ל	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+בעל	:NOUN-M,S,CONST:	בעל	B-NP	husband-C0242664
+משמעות	:NOUN-F,S,ABS:	משמעות	I-NP	significance-C0237881
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+לא	:NEGATION:	לא	O	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+התיחסות	:NOUN-F,S,ABS:	התיחסות	B-NP	O
+מיוחדת	:ADJECTIVE-F,S,ABS:	מיוחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

@@ -1,0 +1,32 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המספרים	DEF:NOUN-M,P,ABS:	מספר	I-NP	number-C0237753
+אבל	:CONJUNCTION:	אבל	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהבדיקות	REL-SUBCONJ+DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אלא	:CONJUNCTION:	אלא	O	O
+לא	:NEGATION:	לא	O	O
+משקפות	:VERB-F,P,A,BEINONI:	שיקף	O	O
+את	:AT_PREP:	את	B-NP	O
+המצבים	DEF:NOUN-M,P,ABS:	מצב	I-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+ורצוי	CONJ:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+שישקול	REL-SUBCONJ:VERB-M,S,3,FUTURE:	שקל	O	O
+השלמת	:NOUN-F,S,CONST:	השלמה	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

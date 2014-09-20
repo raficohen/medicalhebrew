@@ -1,0 +1,21 @@
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+בהכרח	:ADVERB:	בהכרח	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+פעילה	:ADJECTIVE-F,S,ABS:	פעיל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אתה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+במכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+וגם	CONJ:CONJUNCTION:	גם	O	O
+pet	:FOREIGN:	pet	O	O
+חוזר	:ADJECTIVE-M,S,ABS:	חוזר	O	O
+יקבע	:VERB-M,S,3,FUTURE:	קבע	O	O
+את	:AT_PREP:	את	B-NP	O
+חשיבות	:NOUN-F,S,CONST:	חשיבות	I-NP	importance-C1705104
+הממצאים	DEF:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

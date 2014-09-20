@@ -1,0 +1,33 @@
+ללא	:PREPOSITION:	ללא	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+כדאי	:MODAL:	כדאי	O	O
+לחפש	:VERB-TOINFINITIVE:	חיפש	O	O
+אלטרנטיבה	:NOUN-F,S,ABS:	אלטרנטיבה	B-NP	O
+לאופטלגין	PREPOSITION:NOUN-M,P,ABS:	אופטלגינים	B-NP	O
+(	:PUNCUATION:	(	I-NP	O
+מרפאת	:NOUN-F,S,CONST:	מרפאה	I-NP	Clinic-C0442592
+כאב	:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+האופטלגין	DEF:NOUN-M,S,ABS:	האופטלגין	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הכדוריות	DEF:NOUN-F,S,ABS:	כדוריות	I-NP	O
+הלבנות	DEF:ADJECTIVE-F,P,ABS:	לבן	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+על	:PREPOSITION:	על	O	O
+פגיעה	:NOUN-F,S,ABS:	פגיעה	B-NP	O
+בערכים	PREPOSITION:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+אחראית	:ADJECTIVE-F,S,ABS:	אחראי	O	O
+על	:PREPOSITION:	על	O	O
+מעבדות	:NOUN-F,P,ABS:	מעבדה	B-NP	Laboratory-C0022877
+אבל	:CONJUNCTION:	אבל	O	O
+מניסיוני	PREPOSITION:ADJECTIVE-M,S,ABS:	ניסיוני	O	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+יכולות	:NOUN-F,P,ABS:	יכולת	B-NP	Ability-C0085732
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+שבועיים	:ADJECTIVE-M,P,ABS:	שבועי	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+נקווה	:VERB-M,S,A,BEINONI:	נקווה	O	O
+לתוצאות	PREPOSITION:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+טובות	:ADJECTIVE-F,P,ABS:	טוב	I-NP	good-C0205170
+!	:PUNCUATION:	!	O	O
+
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	B-NP	O
+

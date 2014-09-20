@@ -1,0 +1,30 @@
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+קבוצה	:NOUN-F,S,ABS:	קבוצה	B-NP	groups-C0441833
+הטרגונית	DEF:NOUN-F,P,ABS:	הטרגונית	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+גידולים	:NOUN-M,P,ABS:	גידול	I-NP	tumor-C0027651
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+המקובל	DEF:ADJECTIVE-M,S,ABS:	מקובל	I-NP	O
+כמוטרפאיה	:PROPERNAME:	כמוטרפאיה	I-NP	O
+והקרנה	CONJ:NOUN-F,S,ABS:	הקרנה	I-NP	radiation-C0034519
+אבל	:CONJUNCTION:	אבל	O	O
+תלוי	:ADVERB:	תלוי	O	O
+בגידול	PREPOSITION+DEF:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+הספציפי	DEF:ADJECTIVE-M,S,ABS:	ספציפי	I-NP	O
+לעתים	:ADVERB:	לעתים	I-NP	O
+יציעו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	יציע	I-NP	O
+כמוטרפיה	:PROPERNAME:	כמוטרפיה	B-NP	O
+ואז	CONJ:CONJUNCTION:	אז	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+איני	:ADJECTIVE-M,S,ABS:	איני	I-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+וקשה	CONJ:ADVERB:	קשה	O	O
+לרדת	:VERB-TOINFINITIVE:	ירד	O	O
+לפרטים	PREPOSITION:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+בטיפולים	PREPOSITION:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

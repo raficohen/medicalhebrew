@@ -1,0 +1,62 @@
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+עקרוני	:ADJECTIVE-M,S,ABS:	עקרוני	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ניתוחי	:ADJECTIVE-M,S,ABS:	ניתוחי	I-NP	O
+מבוצע	:VERB-M,S,A,BEINONI:	בוצע	O	O
+(	:PUNCUATION:	(	O	O
+כחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הכולל	DEF:PARTICIPLE-M,S,A,ABS:	כלל	O	Rule-C0870077-ambigous
+לעיתים	:ADVERB:	לעתים	O	O
+גם	:CONJUNCTION:	גם	O	O
+כימותרפיה	:PROPERNAME:	כימותרפיה	B-NP	O
+וקרינה	CONJ:NOUN-F,S,ABS:	קרינה	B-NP	radiation-C0034519
+)	:PUNCUATION:	)	O	O
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+תאים	:NOUN-M,P,ABS:	תא	I-NP	cell-C0007634
+לא	:NEGATION:	לא	I-NP	O
+קטנים	:ADJECTIVE-M,P,ABS:	קטן	I-NP	O
+(	:PUNCUATION:	(	O	O
+NON	:FOREIGN:	NON	O	O
+SMALL	:FOREIGN:	SMALL	O	O
+CELL	:FOREIGN:	CELL	O	O
+LUNG	:FOREIGN:	LUNG	O	O
+CARCINOMA	:FOREIGN:	CARCINOMA	O	O
+)	:PUNCUATION:	)	O	O
+בשלבים	PREPOSITION:NOUN-M,P,ABS:	שלב	B-NP	stage-C0205390
+מוקדמים	:ADJECTIVE-M,P,ABS:	מוקדם	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+I-IIIA	:FOREIGN:	I-IIIA	I-NP	O
+)	:PUNCUATION:	)	O	O
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+נדירים	:ADJECTIVE-M,P,ABS:	נדיר	I-NP	O
+מאד	:ADVERB:	מאוד	O	O
+מוצע	:VERB-M,S,A,BEINONI:	הוצע	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ניתוחי	:ADJECTIVE-M,S,ABS:	ניתוחי	I-NP	O
+גם	:CONJUNCTION:	גם	O	O
+לסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+תאים	:NOUN-M,P,ABS:	תא	I-NP	cell-C0007634
+קטנים	:ADJECTIVE-M,P,ABS:	קטן	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+עקרוני	:ADJECTIVE-M,S,ABS:	עקרוני	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בסוג	PREPOSITION:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+סרטן ריאה	:TERM:	סרטן ריאה	O	lung cancer-C0242379
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+ניתוחי	:ADJECTIVE-M,S,ABS:	ניתוחי	O	O
+אלא	:CONJUNCTION:	אלא	O	O
+כולל	:NOUN-M,S,CONST:	כולל	B-NP	including-C0332257
+כימותרפיה	:PROPERNAME:	כימותרפיה	I-NP	O
+והקרנות	CONJ:NOUN-F,P,ABS:	הקרנה	B-NP	radiation-C0034519
+בלבד	:ADVERB:	בלבד	O	O
+

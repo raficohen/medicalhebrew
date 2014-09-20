@@ -1,0 +1,25 @@
+לא	:NEGATION:	לא	O	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לסרטן	PREPOSITION:NOUN-M,S,ABS:	סרטן	O	malignancy-C0006826
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+המגבלה	DEF:NOUN-F,S,ABS:	מגבלה	B-NP	Limitation-C0449295
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+זמנית	:ADJECTIVE-F,S,ABS:	זמני	O	O
+אתא	:PROPERNAME:	אתא	B-NP	O
+מוזמן	:VERB-M,S,A,BEINONI:	הוזמן	O	O
+להיועץ	PREPOSITION+DEF:NOUN-M,S,ABS:	יועץ	B-NP	O
+ברופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+אישית	:ADJECTIVE-F,S,ABS:	אישי	I-NP	O
+שכן	REL-SUBCONJ:CONJUNCTION:	כן	O	O
+לא	:NEGATION:	לא	O	O
+נבדקתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	נבדק	O	O
+על	:PREPOSITION:	על	O	O
+ידנו	:NOUN-F,S,ABS:POSSESIVE-MF,P,1	יד	B-NP	hand-C0018563
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+בידי	:PREPOSITION:	בידי	O	O
+צלומים	:PARTICIPLE-M,P,A,ABS:	צלומים	B-NP	O
+ו	:CONJUNCTION:	ו	O	O
+כ'	:VERB-M,S,2,IMPERATIVE:	כ'	O	O
+

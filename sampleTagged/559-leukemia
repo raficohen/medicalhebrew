@@ -1,0 +1,27 @@
+כהמטולוג	:NOUN-M,S,CONST:	כהמטולוג	B-NP	O
+ותיק	:ADJECTIVE-M,S,ABS:	ותיק	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+משתמש	:VERB-M,S,A,BEINONI:	השתמש	O	O
+רק	:CONJUNCTION:	רק	O	O
+בתרופות	PREPOSITION:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+מקובלות	:ADJECTIVE-F,P,ABS:	מקובל	I-NP	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	O	O
+ITP	:FOREIGN:	ITP	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+אלטרנטיבי	:ADJECTIVE-M,S,ABS:	אלטרנטיבי	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+נגד	:PREPOSITION:	נגד	O	O
+קנדידה	:NOUN-F,S,ABS:	קנדידה	B-NP	candida-C0006836
+ו	:CONJUNCTION:	ו	O	O
+HP	:FOREIGN:	HP	O	O
+

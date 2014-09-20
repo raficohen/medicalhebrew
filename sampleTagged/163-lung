@@ -1,0 +1,98 @@
+דבי	:PROPERNAME:	דבי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לא	:NEGATION:	לא	O	O
+נכון	:VERB-M,S,A,BEINONI:	נכון	O	O
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+שלב	:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+מחלה	:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+הסיכויים	DEF:NOUN-M,P,ABS:	סיכוי	I-NP	chance-C0237506
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+מעריך	:VERB-M,S,A,BEINONI:	העריך	O	O
+האונקולוג	DEF:NOUN-M,S,ABS:	האונקולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הערכת	:NOUN-F,S,CONST:	הערכה	B-NP	O
+שלב	:NOUN-M,S,CONST:	שלב	I-NP	stage-C0205390
+מחלה	:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+,	:PUNCUATION:	,	O	O
+נעשית	:VERB-F,S,A,BEINONI:	נעשה	O	O
+בהסתמך	:VERB-TOINFINITIVE:ACC-NOM-M,S,2	נסתם	B-NP	O
+על	:PREPOSITION:	על	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+ורופא	CONJ:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מנוסה	:ADJECTIVE-M,S,ABS:	מנוסה	I-NP	O
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+בד"כ	:ADVERB:	בד"כ	I-NP	O
+כירורג	:PROPERNAME:	כירורג	I-NP	O
+חזה	:PROPERNAME:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לבלוטת	PREPOSITION:NOUN-F,S,CONST:	בלוטה	B-NP	gland-C1285092
+לימפה	:PROPERNAME:	לימפה	I-NP	lympha-C0024202
+-	:PUNCUATION:	-	I-NP	O
+תלוי	:ADVERB:	תלוי	I-NP	O
+המקום	DEF:NOUN-M,S,ABS:	מקום	I-NP	place-C0442504
+האנטומי	DEF:ADJECTIVE-M,S,ABS:	האנטומי	I-NP	O
+המדויק	DEF:ADJECTIVE-M,S,ABS:	מדויק	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הבלוטה	DEF:NOUN-F,S,ABS:	בלוטה	I-NP	gland-C1285092
+והיחס	CONJ+DEF:NOUN-M,S,ABS:	יחס	I-NP	relations-C0869014
+לגידול	PREPOSITION+DEF:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+הראשוני	DEF:ADJECTIVE-M,S,ABS:	ראשוני	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהמקרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+,	:PUNCUATION:	,	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מקדים	:VERB-M,S,A,BEINONI:	הקדים	O	O
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הניתוחי	DEF:ADJECTIVE-M,S,ABS:	ניתוחי	I-NP	O
+ואילו	CONJ:CONJUNCTION:	אילו	O	O
+בחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+,	:PUNCUATION:	,	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+אונקולוגי	:PROPERNAME:	אונקולוגי	I-NP	oncology-C0278627
+דפניטיבי	:PREPOSITION:	דפניטיבי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לכירורג	PREPOSITION:NOUN-M,S,ABS:	כירורג	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+מנוסה	:ADJECTIVE-M,S,ABS:	מנוסה	I-NP	O
+במטרה	PREPOSITION+DEF:NOUN-F,S,ABS:	מטרה	B-NP	goal-C0018017
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+את	:AT_PREP:	את	B-NP	O
+שלב	:NOUN-M,S,CONST:	שלב	I-NP	stage-C0205390
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+באופן	PREPOSITION+DEF:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+המדוייק	DEF:ADJECTIVE-M,S,ABS:	המדוייק	I-NP	O
+ככל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+הניתן	DEF:PARTICIPLE-M,S,A,ABS:	ניתן	O	O
+,	:PUNCUATION:	,	O	O
+בטרם	:CONJUNCTION:	בטרם	O	O
+מקבלים	:VERB-M,P,A,BEINONI:	קיבל	O	O
+החלטות	:NOUN-F,P,ABS:	החלטה	B-NP	decision-C0679006
+משמעותיות	:ADJECTIVE-F,P,ABS:	משמעותי	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+כך	:PRONOUN:	כך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

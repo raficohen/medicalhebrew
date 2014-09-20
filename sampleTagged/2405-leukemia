@@ -1,0 +1,41 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+.	:PUNCUATION:	.	O	O
+
+למרות	:CONJUNCTION:	למרות	O	O
+שבדרך	PREPOSITION+REL-SUBCONJ:NOUN-F,S,CONST:	ב	B-NP	O
+כלל	:NOUN-M,S,ABS:	כלל	I-NP	Rule-C0870077-ambigous
+מודדים	:VERB-M,P,A,BEINONI:	מדד	O	index-C0918012
+חלבון	:NOUN-M,S,ABS:	חלבון	B-NP	protein-C0033684
+S	:FOREIGN:	S	I-NP	O
+חופשי	:ADJECTIVE-M,S,ABS:	חופשי	I-NP	O
+שאמור	REL-SUBCONJ:MODAL-M,S,A:	אמור	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+פחות	:ADVERB:	פחות	O	O
+מושפע	:VERB-M,S,A,BEINONI:	הושפע	O	O
+מהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+,	:PUNCUATION:	,	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+מושפע	:VERB-M,S,A,BEINONI:	הושפע	O	O
+והערך	CONJ+DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+הנמוך	DEF:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+להריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להתייחס	:VERB-TOINFINITIVE:	התייחס	O	O
+לעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+ברצינות	:ADVERB:	ברצינות	O	O
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+שוב	:ADVERB:	שוב	O	O
+להמטולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+שטיפל	REL-SUBCONJ:VERB-M,S,3,PAST:	טיפל	O	O
+בך	:PREPOSITION:PRONOMIAL-M,S,2	ב	B-NP	O
+.	:PUNCUATION:	.	O	O
+

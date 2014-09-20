@@ -1,0 +1,22 @@
+היתה	:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+תקלה	:NOUN-F,S,ABS:	תקלה	B-NP	O
+בתשובתי	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-MF,S,1	תשובה	B-NP	answer-C1706817
+!	:PUNCUATION:	!	O	O
+
+התוצואות	DEF:ADJECTIVE-F,P,ABS:	התוצואות	B-NP	O
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+להתאים	:VERB-TOINFINITIVE:	התאים	O	O
+לתסםונת	:VERB-F,S,2,PAST:	לתסםונת	O	O
+APLA	:FOREIGN:	APLA	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	O	need-C0027552
+הדרכה	:NOUN-F,S,ABS:	הדרכה	B-NP	Educational process of instructing-C0039401
+ויעוץ	CONJ:VERB-M,S,3,FUTURE:	עץ	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

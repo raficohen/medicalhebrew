@@ -1,0 +1,33 @@
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+זמן	:NOUN-M,S,ABS:	זמן	I-NP	O
+עבר	:VERB-M,S,3,PAST:	עבר	O	past-C1444637
+מסוף	PREPOSITION:NOUN-M,S,CONST:	סוף	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הכימי	DEF:ADJECTIVE-M,S,ABS:	כימי	I-NP	O
+עד	:PREPOSITION:	עד	O	O
+לחזרת	PREPOSITION:NOUN-F,S,CONST:	חזרה	B-NP	back-C0004600
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+פחות	:ADVERB:	פחות	B-NP	O
+מ	PREPOSITION::		I-NP	O
+6	:NUMERAL:	###NUMBER###	I-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+אכן	:ADVERB:	אכן	I-NP	O
+לקו	PREPOSITION:NOUN-M,S,ABS:	קו	I-NP	line-C0205132
+שני	:NUMERAL-M,S,ABS:	ORD2	I-NP	O
+טופוטקן	:ADJECTIVE-M,S,CONST:	טופוטקן	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+מעל	:PREPOSITION:	מעל	O	O
+6	:NUMERAL:	###NUMBER###	B-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+אותו	:QUANTIFIER-CONST:	אותו	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+כימי	:ADJECTIVE-M,S,ABS:	כימי	O	O
+

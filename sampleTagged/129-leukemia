@@ -1,0 +1,24 @@
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+לא	:NEGATION:	לא	O	O
+נדיר	:ADJECTIVE-M,S,ABS:	נדיר	O	O
+ובדכך	CONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	בדך	B-NP	O
+כלל	:ADVERB:	כלל	O	Rule-C0870077-ambigous
+ללא	:PREPOSITION:	ללא	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לשאול	:VERB-TOINFINITIVE:	שאל	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+אם	:CONJUNCTION:	אם	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+שהתופעות	REL-SUBCONJ+DEF:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+הן	:PRONOUN-F,P,3:	הוא	B-NP	O
+תופעות	:NOUN-F,P,ABS:	תופעה	I-NP	phenomenon-C1882365
+של	:SHEL_PREP:	של	I-NP	O
+תרומבופיליה	:NOUN-F,S,ABS:	תרומבופיליה	I-NP	thrombophilia-C0398623
+.	:PUNCUATION:	.	O	O
+

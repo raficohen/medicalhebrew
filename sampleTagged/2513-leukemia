@@ -1,0 +1,45 @@
+ישל	:NOUN-M,S,ABS:POSSESIVE-M,S,3	יש	B-NP	O
+נאוטרופניה	:PROPERNAME:	נאוטרופניה	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+ירידה	:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+במספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לבנים	:ADJECTIVE-M,P,ABS:	לבן	I-NP	O
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+נויטרופילים	:NOUN-M,S,ABS:	נויטרופילים	I-NP	O
+)	:PUNCUATION:	)	O	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	O	O
+.	:PUNCUATION:	.	O	O
+
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+ללא	:PREPOSITION:	ללא	O	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	B-NP	importance-C1705104
+מעשית	:ADJECTIVE-F,S,ABS:	מעשי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+חוזרת	:ADJECTIVE-F,S,ABS:	חוזר	I-NP	O
+ולקבל	CONJ:VERB-TOINFINITIVE:	קיבל	O	O
+חוות	:NOUN-F,S,CONST:	חווה	B-NP	farm-C0557759
+דעת	:NOUN-F,S,ABS:	דעת	I-NP	O
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+"	:PUNCUATION:	"	O	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+"	:PUNCUATION:	"	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+תמיד	:ADVERB:	תמיד	O	O
+.	:PUNCUATION:	.	O	O
+

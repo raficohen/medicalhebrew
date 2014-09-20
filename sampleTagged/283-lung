@@ -1,0 +1,186 @@
+עינב	:PROPERNAME:	ענב	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+לצערי	:ADVERB:	לצערי	O	O
+,	:PUNCUATION:	,	O	O
+ולצערם	PREPOSITION+CONJ:NOUN-M,S,ABS:POSSESIVE-M,P,3	ל	O	O
+של	:SHEL_PREP:	של	O	O
+רופאים	:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+רבים	:ADJECTIVE-M,P,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+בפרסום	PREPOSITION+DEF:NOUN-M,S,ABS:	פרסום	B-NP	O
+,	:PUNCUATION:	,	O	O
+בצורה	PREPOSITION:NOUN-F,S,ABS:	צורה	B-NP	O
+שבוצע	REL-SUBCONJ:VERB-M,S,3,PAST:	בוצע	O	O
+,	:PUNCUATION:	,	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+דיוק	:NOUN-M,S,ABS:	דיוק	I-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+והדבר	CONJ+DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+יצר	:VERB-M,S,3,PAST:	יצר	O	O
+בלבול	:NOUN-M,S,ABS:	בלבול	B-NP	confusion-C0009676
+עצום	:ADJECTIVE-M,S,ABS:	עצום	I-NP	O
+בקרב	:PREPOSITION:	בקרב	O	O
+מטופלים	:NOUN-M,P,ABS:	מטופל	B-NP	patient-C0030705
+,	:PUNCUATION:	,	O	O
+אשליות	:NOUN-F,P,ABS:	אשליה	B-NP	illusion-C0020903
+מיותרות	:ADJECTIVE-F,P,ABS:	מיותר	I-NP	O
+,	:PUNCUATION:	,	O	O
+וחבל	CONJ:ADVERB:	חבל	O	O
+שכך	REL-SUBCONJ:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ככלל	PREPOSITION:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+-	:PUNCUATION:	-	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+ראשוני	:ADJECTIVE-M,S,ABS:	ראשוני	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+מוגבל	:ADJECTIVE-M,S,ABS:	מוגבל	O	O
+רק	:CONJUNCTION:	רק	O	O
+לריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לגרורות	PREPOSITION:NOUN-F,P,CONST:	גרורה	B-NP	metastasis-C0027627
+-	:PUNCUATION:	-	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הכירורגי	DEF:ADJECTIVE-M,S,ABS:	הכירורגי	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+טיפול	:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+הבחירה	DEF:NOUN-F,S,ABS:	בחיר	I-NP	O
+אלא	:CONJUNCTION:	אלא	O	O
+אם	:CONJUNCTION:	אם	O	O
+כן	:CONJUNCTION:	כן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+הוראת נגד	:TERM:	הוראת נגד	O	contraindication-C0522473
+לניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+כיון	PREPOSITION:NOUN-M,S,ABS:	יון	B-NP	O
+שהחולה	REL-SUBCONJ+DEF:ADJECTIVE-M,S,ABS:	חולה	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מסוגל	:MODAL-M,S,A:	מסוגל	O	O
+להנתח	PREPOSITION+DEF:NOUN-M,S,ABS:	נתח	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+הקרנה	:NOUN-F,S,ABS:	הקרנה	B-NP	radiation-C0034519
+-	:PUNCUATION:	-	I-NP	O
+היא	:PRONOUN-F,S,3:	הוא	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מקומי	:ADJECTIVE-M,S,ABS:	מקומי	I-NP	local-C0205276
+בגידולים	PREPOSITION:NOUN-M,P,ABS:	גידול	B-NP	tumor-C0027651
+.	:PUNCUATION:	.	O	O
+
+בריאה	:ADJECTIVE-F,S,ABS:	בריא	O	O
+או	:CONJUNCTION:	או	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+איבר	:NOUN-M,S,ABS:	איבר	I-NP	organ-C0029236
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במהלך	PREPOSITION:NOUN-M,S,CONST:	מהלך	O	move-C2699029
+השנים	DEF:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+חלו	:VERB-MF,P,3,PAST:	חל	O	O
+תמורות	:NOUN-F,P,ABS:	תמורה	B-NP	O
+טכנולוגיות	:ADJECTIVE-F,P,ABS:	טכנולוגי	I-NP	O
+המאפשרות	DEF:PARTICIPLE-F,P,A,ABS:	אפשר	O	O
+לייעל	:VERB-TOINFINITIVE:	ייעל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להקרנה	PREPOSITION:NOUN-F,S,ABS:	הקרנה	B-NP	radiation-C0034519
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+נכבד	:ADJECTIVE-M,S,ABS:	נכבד	I-NP	O
+ברפואה	PREPOSITION+DEF:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+,	:PUNCUATION:	,	O	O
+כמובן	:ADVERB:	כמובן	O	O
+במקרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+המתאימים	DEF:ADJECTIVE-M,P,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+באה	:VERB-F,S,A,BEINONI:	בא	O	O
+להחליף	:VERB-TOINFINITIVE:	החליף	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כירורגי	:PROPERNAME:	כירורגי	I-NP	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+אפשרות	:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+,	:PUNCUATION:	,	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ומוגבל	CONJ:ADJECTIVE-M,S,ABS:	מוגבל	I-NP	O
+לריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+,	:PUNCUATION:	,	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ניתוחי	:ADJECTIVE-M,S,ABS:	ניתוחי	I-NP	O
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+העדיף	DEF:ADJECTIVE-M,S,ABS:	עדיף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ההחלטה	DEF:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+על	:PREPOSITION:	על	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+המתאים	DEF:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+לחולה	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	חולה	B-NP	O
+נעשית	:VERB-F,S,A,BEINONI:	נעשה	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+צוות	:NOUN-F,S,ABS:	צוות	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופאים	:NOUN-M,P,ABS:	רופא	I-NP	doctor-C0031831
+והיא	CONJ:PRONOUN-F,S,3:	הוא	B-NP	O
+קשורה	:ADJECTIVE-F,S,ABS:	קשור	O	O
+בסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+,	:PUNCUATION:	,	O	O
+היקפה	:NOUN-M,S,ABS:POSSESIVE-F,S,3	היקף	B-NP	scope-C1710028
+,	:PUNCUATION:	,	O	O
+קיומם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	קיום	B-NP	Exist-C2987476
+של	:SHEL_PREP:	של	I-NP	O
+גרורות	:NOUN-F,P,ABS:	גרורה	I-NP	metastasis-C0027627
+,	:PUNCUATION:	,	O	O
+מחלות	:NOUN-F,P,CONST:	מחלה	B-NP	disease-C0012634
+הרקע	DEF:NOUN-M,S,ABS:	רקע	I-NP	background-C1706907
+של	:SHEL_PREP:	של	I-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+ויכולתו	CONJ:NOUN-F,S,ABS:POSSESIVE-M,S,3	יכולת	I-NP	Ability-C0085732
+לעמוד	:VERB-TOINFINITIVE:	עמד	O	O
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+המוצע	DEF:ADJECTIVE-M,S,ABS:	מוצע	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מכשירי	:NOUN-M,P,CONST:	מכשיר	B-NP	Instrument - device-C0348000
+הקרנה	:NOUN-F,S,ABS:	הקרנה	I-NP	radiation-C0034519
+מתקדמים	:ADJECTIVE-M,P,ABS:	מתקדם	I-NP	O
+נמצאים	:VERB-M,P,A,BEINONI:	נמצא	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+המכונים	DEF:NOUN-M,P,ABS:	מכון	I-NP	O
+האונקולוגים	DEF:NOUN-M,P,ABS:	האונקולוגים	I-NP	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+והם	CONJ:PRONOUN-M,P,3:	הוא	B-NP	O
+בשימוש	PREPOSITION:NOUN-M,S,ABS:	שימוש	O	Usage-C0457083
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

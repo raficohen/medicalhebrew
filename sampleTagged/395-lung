@@ -1,0 +1,94 @@
+חגית	:PROPERNAME:	חגית	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+ראשית	:NOUN-F,S,CONST:	ראשית	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+חובתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	חובה	I-NP	O
+לשאול	:VERB-TOINFINITIVE:	שאל	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+הנ	:PROPERNAME:	הן	I-NP	O
+'	:PUNCUATION:	'	O	O
+הנ''ל	:VERB-TOINFINITIVE:	הנ''ל	O	O
+את	:AT_PREP:	את	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+שניתח	REL-SUBCONJ:VERB-M,S,3,PAST:	ניתח	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ולקבל	CONJ:VERB-TOINFINITIVE:	קיבל	O	O
+ממנו	:PREPOSITION:PRONOMIAL-M,S,3	מן	B-NP	O
+תשובות	:NOUN-F,P,ABS:	תשובה	B-NP	answer-C1706817
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלותייך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+ההדמיה	DEF:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+שבוצעו	REL-SUBCONJ:VERB-MF,P,3,PAST:	בוצע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+ומבלי	CONJ:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+תשובת	:NOUN-F,S,CONST:	תשובה	I-NP	answer-C1706817
+הדו	DEF:PREFIX:	דו	I-NP	O
+'	:PUNCUATION:	'	I-NP	O
+הדו''ח	DEF:NOUN-M,S,ABS:	הדו''ח	I-NP	O
+הפתולוגי	DEF:ADJECTIVE-M,S,ABS:	הפתולוגי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גרנולומה	:NOUN-F,S,ABS:	גרנולומה	B-NP	granuloma-C0018188
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+תהליך	:NOUN-M,S,ABS:	תהליך	B-NP	process-C1184743
+שפיר	:PROPERNAME:	שפיר	I-NP	benign-C0205183
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מקומי	:ADJECTIVE-M,S,ABS:	מקומי	O	local-C0205276
+ויכול	CONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+חלק	:NOUN-M,S,ABS:	חלק	I-NP	part-C0449719
+ממחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+ססטמית	:NOUN-F,S,CONST:	ססטמית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בודאי	:ADVERB:	בוודאי	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+להסירן	:VERB-TOINFINITIVE:ACC-NOM-F,P,3	הסיר	O	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+שוב	:ADVERB:	שוב	O	O
+-	:PUNCUATION:	-	O	O
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+חלקית	:ADJECTIVE-F,S,ABS:	חלקי	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפורום	DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+לא	:NEGATION:	לא	O	O
+בא	:VERB-M,S,3,PAST:	בא	O	O
+להחליף	:VERB-TOINFINITIVE:	החליף	O	O
+את	:AT_PREP:	את	B-NP	O
+המרפאה	DEF:NOUN-F,S,ABS:	מרפאה	I-NP	Clinic-C0442592
+,	:PUNCUATION:	,	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+וכו	:PREPOSITION:	וכו	O	O
+'	:PUNCUATION:	'	O	O
+.	:PUNCUATION:	.	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:PROPERNAME:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+עוזי	:PROPERNAME:	עוזי	B-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

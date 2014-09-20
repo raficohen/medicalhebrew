@@ -1,0 +1,39 @@
+כדאי	:ADVERB:	כדאי	O	O
+מאוד	:ADVERB:	מאוד	O	O
+להיבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+לפני	:PREPOSITION:	לפני	O	O
+הטיסה	DEF:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+חזרה	:VERB-F,S,3,PAST:	חזר	O	O
+ובין	CONJ:PREPOSITION:	בין	O	O
+היתר	DEF:NOUN-M,S,ABS:	יתר	B-NP	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+צילום	:NOUN-M,S,CONST:	צילום	B-NP	O
+ריאות	:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אם	:CONJUNCTION:	אם	O	O
+חלילה	:INTERJECTION:	חלילה	O	O
+לא	:NEGATION:	לא	O	O
+התפתח	:VERB-M,S,3,PAST:	התפתח	O	O
+אוטם	:NOUN-M,S,CONST:	אוטם	B-NP	infarct-C0021308
+ריאתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+אפשרות	:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	I-NP	O
+כי	:CONJUNCTION:	כי	O	O
+הדמם	:VERB-M,S,2,IMPERATIVE:	הדמים	O	O
+בא	:VERB-M,S,3,PAST:	בא	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+שיעול	:NOUN-M,S,ABS:	שיעול	B-NP	cough-C0010200
+?	:PUNCUATION:	?	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וה	:NOUN-M,S,ABS:	וה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+INR	:FOREIGN:	INR	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+מאוזן	:ADJECTIVE-M,S,ABS:	מאוזן	I-NP	O
+.	:PUNCUATION:	.	O	O
+

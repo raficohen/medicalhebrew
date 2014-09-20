@@ -1,0 +1,33 @@
+יוליה	:PROPERNAME:	יוליה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+21.09	:NUMERAL:	###NUMBER###	B-NP	O
+עניתי	:VERB-MF,S,1,PAST:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	B-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+מאז	:ADVERB:	מאז	O	O
+פנית	:VERB-F,S,2,PAST:	פנה	O	O
+עוד	:ADVERB:	עוד	O	More-C0205172
+פעמיים	:ADVERB:	פעמיים	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+לא	:NEGATION:	לא	O	O
+קיבלת	:VERB-F,S,2,PAST:	קיבל	O	O
+את	:AT_PREP:	את	B-NP	O
+תשובתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	תשובה	I-NP	answer-C1706817
+?	:PUNCUATION:	?	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

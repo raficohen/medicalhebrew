@@ -1,0 +1,43 @@
+השם	DEF:NOUN-M,S,ABS:	שם	B-NP	Name-C0027365-ambigous
+המדעיזה	DEF:PARTICIPLE-F,S,A,ABS:	המדעיזה	O	O
+פקטוס	:NOUN-M,P,ABS:	פקטוסים	B-NP	O
+אקסקוואטום	:ADJECTIVE-M,S,CONST:	אקסקוואטום	I-NP	O
+
+pectus	:FOREIGN:	pectus	O	O
+excavatum	:FOREIGN:	excavatum	O	O
+
+אימון	:NOUN-M,S,ABS:	אימון	B-NP	O
+ופיתוח	CONJ:NOUN-M,S,CONST:	פיתוח	B-NP	O
+שרירים	:NOUN-M,P,ABS:	שריר	I-NP	muscle-C0026845
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+ההתערבות	DEF:NOUN-F,S,ABS:	התערבות	B-NP	intervention-C1273869
+אם	:CONJUNCTION:	אם	O	O
+כירורגית	:ADJECTIVE-F,S,ABS:	כירורגית	O	O
+או	:CONJUNCTION:	או	O	O
+ע:י	:VERB-F,S,2,IMPERATIVE:	ע:י	B-NP	O
+טיפולים	:NOUN-M,P,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+פחותפולשניים	:VERB-M,S,2,IMPERATIVE:	פחותפולשניים	O	O
+נקבעים	:VERB-M,P,A,BEINONI:	נקבע	O	O
+לפי	:PREPOSITION:	לפי	O	O
+חומרת	:NOUN-F,S,CONST:	חומרה	B-NP	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+ומידת	CONJ:NOUN-F,S,CONST:	מידה	B-NP	O
+סבלו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	סבל	I-NP	suffering-C0683278
+של	:SHEL_PREP:	של	I-NP	O
+החולה	:PROPERNAME:	החולה	I-NP	O
+תתחיל	:VERB-F,S,3,FUTURE:	התחיל	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+באינטרנט	PREPOSITION+DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+ונהיה	CONJ:VERB-M,S,3,PAST:	נהיה	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בהמך	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	מך	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+יועיל	:VERB-M,S,3,FUTURE:	הועיל	O	O
+אם	:CONJUNCTION:	אם	O	O
+תעלה	:VERB-F,S,3,PAST:	תיעל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+לא	:NEGATION:	לא	O	O
+מזהה	:VERB-M,S,A,BEINONI:	זיהה	O	O
+באתר	PREPOSITION:NOUN-M,S,CONST:	אתר	B-NP	 Ether-C0014994-ambigous
+

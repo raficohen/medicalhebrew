@@ -1,0 +1,22 @@
+LUC	:FOREIGN:	LUC	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+קיצור	:NOUN-M,S,ABS:	קיצור	B-NP	Shortened-C1282927
+של	:SHEL_PREP:	של	I-NP	O
+leucocyte	:FOREIGN:	leucocyte	I-NP	O
+of	:FOREIGN:	of	I-NP	O
+unknown	:FOREIGN:	unknown	I-NP	O
+significance	:FOREIGN:	significance	I-NP	O
+שהמכשיר	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+סופר	:VERB-M,S,A,BEINONI:	ספר	O	Books-C0006002
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	B-NP	need-C0027552
+הגדרה	:NOUN-F,S,ABS:	הגדרה	I-NP	O
+מדויקת	:ADJECTIVE-F,S,ABS:	מדויק	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+משטח	PREPOSITION:NOUN-M,S,ABS:	שטח	B-NP	O
+צבוע	:ADJECTIVE-M,S,ABS:	צבוע	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

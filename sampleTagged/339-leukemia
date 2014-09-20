@@ -1,0 +1,38 @@
+מירי	PREPOSITION:NOUN-M,S,CONST:	ירי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+קודם	:ADVERB:	קודם	I-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+!	:PUNCUATION:	!	O	O
+
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לתוצאות	PREPOSITION:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+אלא	:CONJUNCTION:	אלא	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+סבירה	:ADJECTIVE-F,S,ABS:	סביר	O	O
+עם	:PREPOSITION:	עם	O	O
+פריטין	:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+להתייחס	:VERB-TOINFINITIVE:	התייחס	O	O
+לרמת	PREPOSITION:NOUN-F,S,CONST:	רמה	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ולהמשיך	CONJ:VERB-TOINFINITIVE:	המשיך	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+על	:PREPOSITION:	על	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המ	:NOUN-M,S,ABS:	הם	I-NP	O
+'	:PUNCUATION:	'	O	O
+.	:PUNCUATION:	.	O	O
+
+אן	:PROPERNAME:	אן	B-NP	O
+משמעות	:NOUN-F,S,ABS:	משמעות	I-NP	significance-C0237881
+ללימפוציטים	PREPOSITION:NOUN-M,P,ABS:	לימפוציטים	B-NP	O
+נמוכים	:ADJECTIVE-M,P,ABS:	נמוך	O	O
+

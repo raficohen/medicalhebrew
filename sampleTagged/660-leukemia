@@ -1,0 +1,21 @@
+לא	:NEGATION:	לא	O	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+על	:PREPOSITION:	על	O	O
+אזה	:NOUN-F,S,ABS:	אזה	B-NP	O
+לוקימיה	:PROPERNAME:	לוקימיה	I-NP	O
+כרונית	PREPOSITION:PROPERNAME-F,S:	רונית	B-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+סבור	:ADJECTIVE-M,S,ABS:	סבור	O	O
+שהוא	REL-SUBCONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+וההמטולוגים	CONJ:NOUN-F,S,ABS:	ההמטולוגים	B-NP	O
+שמטפלים	REL-SUBCONJ:NOUN-M,P,ABS:	מטפל	B-NP	O
+יוכלו	:MODAL-MF,P,3,FUTURE:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+מתאימים	:ADJECTIVE-M,P,ABS:	מתאים	O	O
+

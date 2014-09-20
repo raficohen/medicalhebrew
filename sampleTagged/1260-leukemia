@@ -1,0 +1,104 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הלבנה	DEF:ADJECTIVE-F,S,ABS:	לבן	I-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	O	O
+במקצת	:ADVERB:	במקצת	O	O
+-	:PUNCUATION:	-	O	O
+האם	:INTERROGATIVE:	האם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+מבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+קודמות	:ADJECTIVE-F,P,ABS:	קודם	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+לא	:NEGATION:	לא	O	O
+ראיתי	:VERB-MF,S,1,PAST:	ראה	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+טרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	טרומבוציטים	I-NP	O
++	:PUNCUATION:	+	O	O
+PL	:FOREIGN:	PL	O	O
+?	:PUNCUATION:	?	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+ה	DEF::	ה	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+LAC	:FOREIGN:	LAC	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מהם	:PREPOSITION:PRONOMIAL-M,P,3	מן	B-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+התקינים	DEF:ADJECTIVE-M,P,ABS:	תקין	I-NP	O
+באותה	PREPOSITION:QUANTIFIER:PRONOMIAL-F,S,3	אותו	B-NP	O
+מעבדה	:NOUN-F,S,ABS:	מעבדה	O	Laboratory-C0022877
+,	:PUNCUATION:	,	O	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+כי	:CONJUNCTION:	כי	O	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+תקינים	:ADJECTIVE-M,P,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+אולי	:ADVERB:	אולי	O	O
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+לכלי	PREPOSITION:NOUN-M,S,CONST:	כלי	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+בנוסף	:ADVERB:	בנוסף	I-NP	O
+לראומטולוג	:PROPERNAME:	לראומטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מהו	:INTERROGATIVE:PRONOMIAL-M,S,3	מה	B-NP	O
+קצב	:NOUN-M,S,CONST:	קצב	B-NP	Rate-C1521828
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+של	:SHEL_PREP:	של	I-NP	O
+RBC	:FOREIGN:	RBC	I-NP	specialistAcronym-E0202972-rbc
+,	:PUNCUATION:	,	O	O
+HB	:FOREIGN:	HB	O	O
+,	:PUNCUATION:	,	O	O
+PC	:FOREIGN:	PC	O	specialistAcronym-E0688663-pc
++	:PUNCUATION:	+	O	O
+,	:PUNCUATION:	,	O	O
+WBC	:FOREIGN:	WBC	O	O
+או	:CONJUNCTION:	או	O	O
+האם	:INTERROGATIVE:	האם	O	O
+הירידה	DEF:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+HG	:FOREIGN:	HG	O	specialistAcronym-E0633200-hg
+ו	:CONJUNCTION:	ו	O	O
+-	:PUNCUATION:	-	O	O
+WBC	:FOREIGN:	WBC	O	O
+בלבד	:ADVERB:	בלבד	O	O
+לפי	:PREPOSITION:	לפי	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לכוון	:VERB-TOINFINITIVE:	כיוון	O	direction-C0449738
+את	:AT_PREP:	את	B-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+איבוד	:NOUN-M,S,CONST:	איבוד	B-NP	Loss-C1517945
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ממקור	PREPOSITION:NOUN-M,S,ABS:	מקור	O	Source-C0449416
+כלשהוא	:PRONOUN-M,S:	כלשהו	B-NP	O
+במערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+העיכול	DEF:NOUN-M,S,ABS:	עיכול	I-NP	digestion-C0012238
+או	:CONJUNCTION:	או	O	O
+האם	DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+פגם	:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+בייצור	PREPOSITION:NOUN-M,S,CONST:	ייצור	B-NP	production-C0033268
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+במח	PREPOSITION:NOUN-M,S,CONST:	מח	B-NP	O
+העצם	DEF:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+.	:PUNCUATION:	.	O	O
+

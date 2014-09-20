@@ -1,0 +1,30 @@
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+כחולים	:ADJECTIVE-M,P,ABS:	כחול	I-NP	O
+על	:PREPOSITION:	על	O	O
+העור	DEF:NOUN-M,S,ABS:	עור	B-NP	skin-C0444099
+(	:PUNCUATION:	(	I-NP	O
+אקימוזות	:PROPERNAME:	אקימוזות	I-NP	O
+)	:PUNCUATION:	)	O	O
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשורים	:ADJECTIVE-M,P,ABS:	קשור	O	O
+לבעית	PREPOSITION:NOUN-F,S,CONST:	בעיה	B-NP	problem-C0033213
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+להזמנת	PREPOSITION:NOUN-F,S,CONST:	הזמנה	O	O
+בדיקותוהפנייה	PREPOSITION+DEF:NOUN-F,P,ABS:	הדיקותוהפנייה	B-NP	O
+להמטולוג	:ADVERB:	להמטולוג	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+.	:PUNCUATION:	.	O	O
+
+פר	:NOUN-M,S,CONST:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

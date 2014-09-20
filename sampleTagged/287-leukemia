@@ -1,0 +1,23 @@
+בעצמו	PREPOSITION:PRONOUN:PRONOMIAL-M,S,3	עצמו	B-NP	O
+הסימן	DEF:NOUN-M,S,ABS:	סימן	B-NP	sign-C0311392
+של	:SHEL_PREP:	של	I-NP	O
+עליה	:NOUN-F,S,ABS:	עלייה	I-NP	O
+beta2-m	:FOREIGN:	beta2-m	O	O
+לא	:NEGATION:	לא	O	O
+אבחנתי	:VERB-MF,S,1,PAST:	אבחן	O	O
+למחלת	PREPOSITION:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+סרטן	:NOUN-M,S,ABS:	סרטן	I-NP	malignancy-C0006826
+.	:PUNCUATION:	.	O	O
+
+במקרה	:ADVERB:	במקרה	B-NP	O
+הנ"ל	:PROPERNAME:	הנ"ל	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+שמצדיקים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	הצדיק	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,CONST:	עצם	I-NP	bone-C0262950
+

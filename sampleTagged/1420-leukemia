@@ -1,0 +1,44 @@
+האפשרות	DEF:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+הסבירה	:VERB-F,S,3,PAST:	הסביר	O	O
+ביותר	:ADVERB:	ביותר	B-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+מהרגיל	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	רגיל	B-NP	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+המחזור	DEF:NOUN-M,S,ABS:	מחזור	I-NP	reunion-C0035373
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+כן	:ADVERB:	כן	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+למרפאה	PREPOSITION:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+סמוך	:PARTICIPLE-M,S,A,ABS:	סמך	O	Base-C1705938-ambigous
+למקום	PREPOSITION:NOUN-M,S,CONST:	מקום	B-NP	place-C0442504
+המגורים	DEF:NOUN-M,P,ABS:	מגורים	I-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+א	:NUMERAL:	א	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+לאתר	:VERB-TOINFINITIVE:	איתר	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	I-NP	Causations-C0085978
+ב	:PREPOSITION:	ב	O	O
+.	:PUNCUATION:	.	O	O
+
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+את	:AT_PREP:	את	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+המומלץ	DEF:ADJECTIVE-M,S,ABS:	מומלץ	I-NP	O
+בכדורי	PREPOSITION:NOUN-M,P,CONST:	כדור	B-NP	Pills-C0994475
+ברזל	:NOUN-M,S,ABS:	ברזל	O	iron-C0302583
+

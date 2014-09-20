@@ -1,0 +1,22 @@
+לצערי	:ADVERB:	לצערי	O	O
+הנושא	DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+לא	:NEGATION:	לא	O	O
+בתחומי	PREPOSITION:NOUN-M,P,CONST:	תחום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בסיסטה	:NOUN-M,S,ABS:POSSESIVE-MF,S,1	בסיסט	B-NP	O
+שמקורה	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-F,S,3	מקור	B-NP	Source-C0449416
+בלוטות	:NOUN-F,P,CONST:	בלוטה	B-NP	gland-C1285092
+הזיעה	DEF:NOUN-F,S,ABS:	זיעה	I-NP	perspiration-C0038984
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לכם	:PREPOSITION:PRONOMIAL-M,P,2	ל	B-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לכירורג	PREPOSITION:NOUN-M,S,ABS:	כירורג	B-NP	O
+כללי	:ADJECTIVE-M,S,ABS:	כללי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+פלסטי	:ADJECTIVE-M,S,ABS:	פלסטי	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

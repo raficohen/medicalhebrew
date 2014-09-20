@@ -1,0 +1,28 @@
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+כדאי	:MODAL:	כדאי	O	O
+לחשוב	:VERB-TOINFINITIVE:	חשב	O	O
+על	:PREPOSITION:	על	O	O
+אפשרויות	:NOUN-F,P,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+גרועות	:ADJECTIVE-F,P,ABS:	גרוע	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+הספירות	DEF:NOUN-F,P,ABS:	ספירה	B-NP	count-C0750480
+ובמידה	PREPOSITION+CONJ:NOUN-F,S,ABS:	ב	O	O
+והנטייה	CONJ+DEF:NOUN-F,S,ABS:	נטייה	B-NP	O
+לירידת	PREPOSITION:NOUN-F,S,CONST:	ירידה	B-NP	Downward-C0205104
+טרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	טרומבוציטים	O	O
+ונויטרופילים	CONJ:PREPOSITION:	נויטרופילים	O	O
+-	:PUNCUATION:	-	O	O
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,24 @@
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	B-NP	anamnesis-C0021055
+רפואית	:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מלאה	:ADJECTIVE-M,S,ABS:	מלאה	O	O
+!	:PUNCUATION:	!	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+שהאירוע	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+של	:SHEL_PREP:	של	I-NP	O
+הסבתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	הסבה	I-NP	O
+לא	:NEGATION:	לא	O	O
+משמעותי	:ADJECTIVE-M,S,ABS:	משמעותי	O	O
+להחלטה	PREPOSITION:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הבת	DEF:NOUN-F,S,ABS:	בת	I-NP	daughter-C0011011
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+

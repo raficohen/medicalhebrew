@@ -1,0 +1,35 @@
+איכות	:NOUN-F,S,CONST:	איכות	B-NP	quality-C0332306
+עברת	:NOUN-F,S,CONST:	עברה	I-NP	O
+הנתונים	DEF:NOUN-M,P,ABS:	נתון	I-NP	O
+אינה	:COPULA-F,S,3,BEINONI,NEGATIVE:	הוא	O	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	O	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+עד	:PREPOSITION:	עד	O	O
+כמה	:QUANTIFIER-CONST:	כמה	O	O
+שהצלחתי	REL-SUBCONJ:VERB-MF,S,1,PAST:	הצליח	O	O
+לקרוא	:VERB-TOINFINITIVE:	קרא	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+נראות	:VERB-F,P,A,BEINONI:	נראה	O	O
+בגדר	PREPOSITION:NOUN-F,S,CONST:	גדר	O	Restricted-C0443288
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפגש	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	פג	B-NP	premature birth-C0151526
+שוב	:ADVERB:	שוב	O	O
+עם	:PREPOSITION:	עם	O	O
+היוץ	DEF:NOUN-M,S,ABS:	היוץ	B-NP	O
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	B-NP	need-C0027552
+השלמה	:NOUN-F,S,ABS:	השלמה	I-NP	O
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+PCR	:FOREIGN:	PCR	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

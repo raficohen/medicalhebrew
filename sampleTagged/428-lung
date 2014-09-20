@@ -1,0 +1,42 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+כפי	:CONJUNCTION:	כפי	O	O
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+-	:PUNCUATION:	-	O	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+אינן	:COPULA-F,P,3,BEINONI,NEGATIVE:	הוא	O	O
+רלוונטיות	:ADJECTIVE-F,P,ABS:	רלוונטי	O	O
+לפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	O	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+הראשונה	DEF:NUMERAL-F,S,ABS:	ORD1	I-NP	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מיועדת	:VERB-F,S,A,BEINONI:	יועד	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+ולגבי	CONJ:PREPOSITION:	לגבי	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+השניה	DEF:NOUN-F,S,ABS:	שנייה	I-NP	seconds-C0457385
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+המלצות	:NOUN-F,P,ABS:	המלצה	B-NP	recommendation-C0034866
+כאלו	PREPOSITION:PRONOUN-MF,P,3:	אלו	B-NP	O
+חורגות	:VERB-F,P,A,BEINONI:	חרג	O	O
+מסמכותינו	PREPOSITION:NOUN-F,P,ABS:POSSESIVE-M,P,3	סמכות	B-NP	O
+בפורום	PREPOSITION:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

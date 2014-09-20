@@ -1,0 +1,28 @@
+אנחנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+בפורום	PREPOSITION:NOUN-M,S,ABS:	פורום	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מבוגרים	:NOUN-M,P,ABS:	מבוגר	I-NP	adults-C0001675
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+והצעות	CONJ:NOUN-F,P,ABS:	הצעה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מנהל	:NOUN-M,S,CONST:	מנהל	I-NP	O
+המחלקה	DEF:NOUN-F,S,ABS:	מחלקה	I-NP	O
+בתה"ש	:PROPERNAME:	בתה"ש	I-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+ילדים	:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+,	:PUNCUATION:	,	O	O
+לאחר	:CONJUNCTION:	לאחר	O	O
+מכן	:VERB-M,S,2,IMPERATIVE:	מיכן	O	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION+DEF:NOUN-M,S,ABS:	רבי	B-NP	O
+

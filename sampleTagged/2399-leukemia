@@ -1,0 +1,47 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+.	:PUNCUATION:	.	O	O
+
+להתקפי	PREPOSITION:NOUN-M,P,CONST:	התקף	B-NP	seizure-C0036572
+חום	:NOUN-M,S,ABS:	חום	I-NP	heat-C0018837
+וזיעה	CONJ:NOUN-F,S,ABS:	זיעה	I-NP	perspiration-C0038984
+יכולים	:MODAL-M,P,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+גם	:CONJUNCTION:	גם	B-NP	O
+מחלות	:NOUN-F,P,ABS:	מחלה	I-NP	disease-C0012634
+המטולוגיות	:ADJECTIVE-F,P,ABS:	המטולוגיות	I-NP	O
+,	:PUNCUATION:	,	O	O
+כלומר	:CONJUNCTION:	כלומר	O	O
+,	:PUNCUATION:	,	O	O
+מחלות	:NOUN-F,P,CONST:	מחלה	B-NP	disease-C0012634
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+,	:PUNCUATION:	,	O	O
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+להתקפי	PREPOSITION:NOUN-M,P,CONST:	התקף	B-NP	seizure-C0036572
+חום	:NOUN-M,S,ABS:	חום	I-NP	heat-C0018837
+וזיעה	CONJ:NOUN-F,S,ABS:	זיעה	I-NP	perspiration-C0038984
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+המידע	DEF:NOUN-M,S,ABS:	מידע	I-NP	Information-C1533716
+שכתבת	REL-SUBCONJ:VERB-F,S,2,PAST:	כתב	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להגיד	:VERB-TOINFINITIVE:	הגיד	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+באם	:CONJUNCTION:	באם	O	O
+את	:AT_PREP:	את	B-NP	O
+צריכה	:MODAL-F,S,A:	צריך	I-NP	O
+או	:CONJUNCTION:	או	O	O
+לא	:NEGATION:	לא	O	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,29 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+החלק	DEF:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+המוסר	DEF:NOUN-M,S,ABS:	מוסר	I-NP	O
+מהריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+גודל	:NOUN-M,S,ABS:	גודל	B-NP	size-C0456389
+.	:PUNCUATION:	.	O	O
+
+לאחר	:PREPOSITION:	לאחר	O	O
+כריתה	:NOUN-F,S,ABS:	כריתה	B-NP	amputation-C0002688
+של	:SHEL_PREP:	של	I-NP	O
+חלק	:NOUN-M,S,ABS:	חלק	I-NP	part-C0449719
+מהריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+נשאר	:VERB-M,S,3,PAST:	נשאר	O	O
+פחות	:ADVERB:	פחות	O	O
+נפח	:NOUN-M,S,CONST:	נפח	B-NP	Volume-C0449468
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

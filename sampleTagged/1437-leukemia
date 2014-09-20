@@ -1,0 +1,30 @@
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הכבוד	DEF:NOUN-M,S,ABS:	כבוד	I-NP	O
+שהגעת	REL-SUBCONJ:VERB-F,S,2,PAST:	הגיע	O	O
+לאנמנזה	PREPOSITION:NOUN-F,S,ABS:	אנמנזה	B-NP	anamnesis-C0021055
+כא	:ADVERB:	כא	I-NP	O
+רחוקה	:ADJECTIVE-F,S,ABS:	רחוק	I-NP	O
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+אפשר	:MODAL:	אפשר	O	O
+להשתמש	:VERB-TOINFINITIVE:	השתמש	O	O
+בחי	PREPOSITION:NOUN-M,S,ABS:	חי	B-NP	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	I-NP	Folic Acid-C0016410
+בלבד	:ADVERB:	בלבד	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+בטריקרדיה	PREPOSITION:NOUN-F,S,ABS:	טריקרדיה	O	tricardia-C1033666
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+למתן	PREPOSITION:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+אספירין	:NOUN-M,S,ABS:	אספירין	I-NP	aspirin-C0004057
+לאביך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	אב	B-NP	father-C0015671
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+דרך	:PREPOSITION:	דרך	O	O
+הרופה	DEF:PARTICIPLE-M,S,A,ABS:	רפה	O	O
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

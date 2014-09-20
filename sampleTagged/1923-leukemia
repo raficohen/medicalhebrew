@@ -1,0 +1,60 @@
+עינת	:PROPERNAME:	עינת	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואת	CONJ:AT_PREP:	את	O	O
+עצמך	:PRONOUN:PRONOMIAL-M,S,2	עצמו	B-NP	O
+לא	:NEGATION:	לא	O	O
+סובלת	:VERB-F,S,A,BEINONI:	סבל	O	suffering-C0683278
+מ	:PREPOSITION:	מ	O	O
+-	:PUNCUATION:	-	O	O
+ITP	:FOREIGN:	ITP	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סכנה	:NOUN-F,S,ABS:	סכנה	B-NP	danger-C1428845
+בנטילת	PREPOSITION:NOUN-F,S,CONST:	נטילה	B-NP	O
+אספירין	:NOUN-M,S,ABS:	אספירין	I-NP	aspirin-C0004057
+.	:PUNCUATION:	.	O	O
+
+ITP	:FOREIGN:	ITP	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+נרכשת	:VERB-F,S,A,BEINONI:	נרכש	I-NP	acquired-C0439661
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+המקרה	DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+ביתך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	בית	I-NP	house-C2003847
+להריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הנוכחי	DEF:ADJECTIVE-M,S,ABS:	נוכחי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ללא	:PREPOSITION:	ללא	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	I-NP	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	I-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+לא	:NEGATION:	לא	O	O
+עדיף	:MODAL-M,S,PAST:	עדיף	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+CLEXAN	:FOREIGN:	CLEXAN	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לדיון	PREPOSITION:NOUN-M,S,ABS:	דיון	B-NP	O
+בינן	:PREPOSITION:PRONOMIAL-F,P,3	בין	B-NP	O
+ובין	CONJ:PREPOSITION:	בין	O	O
+ההמטולוג	DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+והגניקולוג	CONJ+DEF:NOUN-M,S,ABS:	גינקולוג	B-NP	gynecologist-C0237419
+המטפלים	DEF:PARTICIPLE-M,P,A,ABS:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

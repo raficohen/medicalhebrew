@@ -1,0 +1,29 @@
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+המנתח	DEF:NOUN-M,S,ABS:	מנתח	B-NP	surgeon-C0582175
+תלוי	:ADVERB:	תלוי	O	O
+בסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+סהכ	:PREPOSITION:	סהך	O	O
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+מתאוששים	:VERB-M,P,A,BEINONI:	התאושש	O	O
+היטב	:ADVERB:	היטב	O	O
+תוך	:PREPOSITION:	תוך	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+אבל	:CONJUNCTION:	אבל	O	O
+לחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+נשארים	:VERB-M,P,A,BEINONI:	נשאר	O	O
+כאבים	:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+די	:ADVERB:	די	I-NP	O
+קשים	:ADJECTIVE-M,P,ABS:	קשה	I-NP	O
+שדורשים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	דרש	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+יותר	:ADVERB:	יותר	I-NP	O
+ממושך	:ADJECTIVE-M,S,ABS:	ממושך	I-NP	O
+נוגד	:VERB-M,S,A,BEINONI:	נגד	O	O
+כאב	:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+חובב	:NOUN-M,S,ABS:	חובב	I-NP	O
+

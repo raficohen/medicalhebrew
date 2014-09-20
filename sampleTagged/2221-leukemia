@@ -1,0 +1,37 @@
+2	:NUMERAL:	###NUMBER###	B-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	I-NP	values-C0042295
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+המצביעות	DEF:PARTICIPLE-F,P,A,ABS:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+מערכת	:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+המכונה	DEF:NOUN-F,S,ABS:	מכונה	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+משלים	:VERB-M,S,A,BEINONI:	השלים	I-NP	O
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+
+המערכת	DEF:NOUN-F,S,ABS:	מערכת	B-NP	system-C0449913
+משתתפת	:VERB-F,S,A,BEINONI:	השתתף	O	O
+בפעילויות	PREPOSITION:NOUN-F,P,ABS:	פעילות	B-NP	activity-C0441655
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+בגוף	PREPOSITION+DEF:NOUN-M,S,ABS:	גוף	B-NP	body-C0460148
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מדוע	:ADVERB:	מדוע	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נלקחו	:VERB-MF,P,3,PAST:	נלקח	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שהפנה	REL-SUBCONJ:VERB-M,S,3,PAST:	הפנה	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+

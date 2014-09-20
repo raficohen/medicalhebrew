@@ -1,0 +1,35 @@
+אם	:CONJUNCTION:	אם	O	O
+ישנה	:EXISTENTIAL-POSITIVE:PRONOMIAL-F,S,3	יש	B-NP	O
+תגובה	:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+לטיפול	PREPOSITION:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+ההמלצה	DEF:NOUN-F,S,ABS:	המלצה	I-NP	recommendation-C0034866
+להקרין	:VERB-TOINFINITIVE:	הקרין	O	O
+את	:AT_PREP:	את	B-NP	O
+המח	DEF:NOUN-M,S,ABS:	מח	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+מניעה	:NOUN-F,S,ABS:	מניעה	I-NP	prevention-C0199176
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+נתונים	:NOUN-M,P,ABS:	נתון	B-NP	O
+שמראים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	הראה	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בשכיחות	PREPOSITION:NOUN-F,S,CONST:	שכיחות	B-NP	O
+פיזור	:NOUN-M,S,ABS:	פיזור	I-NP	O
+מוחי	:ADJECTIVE-M,S,ABS:	מוחי	I-NP	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+השפעה	:NOUN-F,S,ABS:	השפעה	B-NP	O
+חיובית	:ADJECTIVE-F,S,ABS:	חיובי	I-NP	O
+על	:PREPOSITION:	על	O	O
+אורך	:NOUN-M,S,CONST:	אורך	B-NP	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+תופעות	:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+לואי	:PROPERNAME-M,S:	לואי	I-NP	O
+נא	:INTERJECTION:	נא	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+האונקולוג	DEF:NOUN-M,S,ABS:	האונקולוג	B-NP	O
+

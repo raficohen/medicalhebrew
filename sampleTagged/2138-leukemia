@@ -1,0 +1,42 @@
+לאור	:PREPOSITION:	לאור	B-NP	O
+הסיפור	DEF:NOUN-M,S,ABS:	סיפור	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אחותיך	:PROPERNAME:	אחותיך	I-NP	O
+כדאי	:ADVERB:	כדאי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+נמצאה	:VERB-F,S,3,PAST:	נמצא	O	O
+בבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+של	:SHEL_PREP:	של	I-NP	O
+אחותיך	:PROPERNAME:	אחותיך	I-NP	O
+ולבצע	CONJ:VERB-TOINFINITIVE:	ביצע	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בעקבות	:PREPOSITION:	בעקבות	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+להמליץ	:VERB-TOINFINITIVE:	המליץ	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+נטילת	:NOUN-F,S,CONST:	נטילה	B-NP	O
+גלולות	:NOUN-F,P,ABS:	גלולה	I-NP	pills-C0994475
+.	:PUNCUATION:	.	O	O
+
+תוכלי	:MODAL-F,S,2,FUTURE:	יכול	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להתיעצות	PREPOSITION:NOUN-ABS:	התייעצות	B-NP	consultations-C0009818
+מקיפה	:ADJECTIVE-F,S,ABS:	מקיף	I-NP	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישת	PREPOSITION:NOUN-F,S,CONST:	קרישה	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+

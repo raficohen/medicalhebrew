@@ -1,0 +1,23 @@
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הפיברינוגן	DEF:NOUN-M,S,ABS:	הפיברינוגן	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+מהנורמה	PREPOSITION+DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+לטוס	:VERB-TOINFINITIVE:	טס	O	O
+אך	:CONJUNCTION:	אך	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להציג	:VERB-TOINFINITIVE:	הציג	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+התמונה	DEF:NOUN-F,S,ABS:	תמונה	I-NP	Picture-C0441469
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ורופא	CONJ:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

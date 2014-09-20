@@ -1,0 +1,24 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+נתונים	:NOUN-M,P,ABS:	נתון	B-NP	O
+קלינים	:ADJECTIVE-M,P,ABS:	קלינים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+א.א.ג	:PROPERNAME:	א.א.ג	I-NP	O
+בנוגע	:ADVERB:	בנוגע	I-NP	O
+לבלוטות	PREPOSITION:NOUN-F,P,ABS:	בלוטה	B-NP	gland-C1285092
+צואריות	:ADJECTIVE-F,P,ABS:	צואריות	I-NP	O
+ותתלסתיות	:NOUN-MF,S,ABS:	ותתלסתיות	B-NP	O
+אולי	:ADVERB:	אולי	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לביופסיה	PREPOSITION:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+?	:PUNCUATION:	?	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

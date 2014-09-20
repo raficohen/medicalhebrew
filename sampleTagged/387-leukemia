@@ -1,0 +1,28 @@
+טוב	:ADVERB:	טוב	O	good-C0205170
+שאת	:NOUN-F,S,ABS:	שאת	B-NP	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+של	:SHEL_PREP:	של	I-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+לו	:CONJUNCTION:	לו	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+ולשאול	CONJ:VERB-TOINFINITIVE:	שאל	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+השאלות	DEF:NOUN-F,P,ABS:	שאלה	I-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+ש	:CONJUNCTION:	ש	B-NP	O
+ה	DEF::	ה	I-NP	O
+APTT	:FOREIGN:	APTT	I-NP	O
+מאורך	PREPOSITION:NOUN-M,S,CONST:	אורך	B-NP	O
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+ביקורת	:NOUN-F,S,ABS:	ביקורת	B-NP	Criticism-C0870379
+

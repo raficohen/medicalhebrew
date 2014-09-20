@@ -1,0 +1,43 @@
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+WBC	:FOREIGN:	WBC	I-NP	O
+מעט	:ADVERB:	מעט	I-NP	O
+מוגברת	:ADJECTIVE-F,S,ABS:	מוגבר	I-NP	O
+,	:PUNCUATION:	,	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	I-NP	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+,	:PUNCUATION:	,	O	O
+אולם	:CONJUNCTION:	אולם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+מטפל	:NOUN-M,S,ABS:	מטפל	I-NP	O
+ולשלול	CONJ:VERB-TOINFINITIVE:	שלל	O	O
+מצבים	:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כמו	:CONJUNCTION:	כמו	O	O
+כן	:CONJUNCTION:	כן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+,	:PUNCUATION:	,	O	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+להקפיד	:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+נטילת	:NOUN-F,S,CONST:	נטילה	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+וחומצה	CONJ:NOUN-F,S,ABS:	חומצה	O	Acids-C0001128
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	I-NP	values-C0042295
+אינם	:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+דורשים	:VERB-M,P,A,BEINONI:	דרש	O	O
+התיחסות	:NOUN-F,S,ABS:	התיחסות	B-NP	O
+.	:PUNCUATION:	.	O	O
+

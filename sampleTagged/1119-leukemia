@@ -1,0 +1,40 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+בכמה	PREPOSITION:QUANTIFIER-CONST:	כמה	B-NP	O
+העליה	DEF:NOUN-F,S,ABS:	עלייה	I-NP	O
+בספירה	PREPOSITION:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+אדומה	:ADJECTIVE-F,S,ABS:	אדום	I-NP	O
+והירידה	CONJ+DEF:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בכדוריות	PREPOSITION:NOUN-F,S,CONST:	כדוריות	B-NP	O
+הלבנות	:NOUN-F,P,ABS:	הלבנה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שמינון	REL-SUBCONJ:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+ההדריאה	DEF:PARTICIPLE-F,S,A,ABS:	ההדריאה	O	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מספיק	:VERB-M,S,A,BEINONI:	הספיק	O	O
+כי	:CONJUNCTION:	כי	O	O
+המטרה	DEF:NOUN-F,S,ABS:	מטרה	B-NP	goal-C0018017
+בעיקר	:ADVERB:	בעיקר	O	O
+להוריד	:VERB-TOINFINITIVE:	הוריד	O	O
+ספירה	:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+אדומה	:PROPERNAME:	אדום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+טסיות	:NOUN-F,P,ABS:	טסיותות	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+PLATLETS	:FOREIGN:	PLATLETS	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+ההמטולוג	DEF:NOUN-M,S,ABS:	ההמטולוג	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,29 @@
+ראשית	:ADVERB:	ראשית	O	O
+,	:PUNCUATION:	,	O	O
+חלק	:ADVERB:	חלק	B-NP	part-C0449719
+מהבדיקות	PREPOSITION+DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+לא	:NEGATION:	לא	O	O
+מוכנות	:ADJECTIVE-F,P,ABS:	מוכן	O	O
+.	:PUNCUATION:	.	O	O
+
+שנית	:ADVERB:	שנית	O	scarlet fever-C0036285
+-	:PUNCUATION:	-	O	O
+לא	:NEGATION:	לא	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+ששלח	REL-SUBCONJ:VERB-M,S,3,PAST:	שלח	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+

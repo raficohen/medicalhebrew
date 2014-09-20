@@ -1,0 +1,28 @@
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+אצלך	:PREPOSITION:PRONOMIAL-M,S,2	אצל	B-NP	O
+ב	:PREPOSITION:	ב	O	O
+chronic	:FOREIGN:	chronic	O	O
+itp	:FOREIGN:	itp	O	O
+כעת	:ADVERB:	כעת	O	O
+בהתקף	PREPOSITION:NOUN-M,S,ABS:	התקף	B-NP	seizure-C0036572
+חריף	:ADJECTIVE-M,S,ABS:	חריף	I-NP	acute-C0205178
+שטיפולו	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	טיפול	B-NP	Therapeutic procedure-C0087111
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+סטרואידים	:NOUN-M,P,ABS:	סטרואיד	B-NP	Steroids-C0038317
+.	:PUNCUATION:	.	O	O
+
+לפעמים	:ADVERB:	לפעמים	O	O
+התגובה	DEF:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+איטית	:ADJECTIVE-F,S,ABS:	איטי	O	O
+.	:PUNCUATION:	.	O	O
+
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+שעשוי	REL-SUBCONJ:MODAL-M,S,A:	עשוי	O	O
+למנוע	:VERB-TOINFINITIVE:	מנע	O	O
+התקפים	:NOUN-M,P,ABS:	התקף	B-NP	seizure-C0036572
+חוזרים	:ADJECTIVE-M,P,ABS:	חוזר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+.	:PUNCUATION:	.	O	O
+

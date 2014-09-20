@@ -1,0 +1,93 @@
+הרין	:PROPERNAME:	הרין	B-NP	O
+מעלה	:VERB-M,S,A,BEINONI:	העלה	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+לקרישיות	:PREPOSITION:	לקרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+עקב	:PREPOSITION:	עקב	O	O
+שינוים	:NOUN-M,S,ABS:POSSESIVE-M,P,3	שינוי	B-NP	difference-C1705241
+בגורמי	PREPOSITION:NOUN-M,P,CONST:	גורם	B-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+ונוגדי	CONJ:PARTICIPLE-M,P,A,CONST:	נגד	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+ובגלל	CONJ:PREPOSITION:	בגלל	O	O
+שינוים	:NOUN-M,S,ABS:POSSESIVE-M,P,3	שינוי	B-NP	difference-C1705241
+פיזיולוגים	:NOUN-F,S,ABS:	פיזיולוגים	B-NP	O
+ואנאטומים	:ADJECTIVE-F,S,ABS:	ואנאטומים	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+לחץ	:NOUN-M,S,ABS:	לחץ	I-NP	pressure-C0033095
+על	:PREPOSITION:	על	O	O
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+באגן	PREPOSITION+DEF:NOUN-M,S,ABS:	אגן	B-NP	pelvic-C0030797
+,	:PUNCUATION:	,	O	O
+עליה	:PREPOSITION:PRONOMIAL-F,S,3	על	B-NP	O
+במשקל	PREPOSITION:NOUN-M,S,ABS:	משקל	B-NP	weight-C0043100
+,	:PUNCUATION:	,	O	O
+בצקות	:NOUN-F,P,ABS:	בצקת	B-NP	edema-C0013604
+ו	:CONJUNCTION:	ו	O	O
+...	:PUNCUATION:	...	O	O
+
+שינוי	:NOUN-M,S,ABS:	שינוי	B-NP	difference-C1705241
+בעקומה	PREPOSITION+DEF:NOUN-F,S,ABS:	עקומה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+גדילת	:NOUN-F,S,CONST:	גדילה	I-NP	O
+העובר	DEF:NOUN-M,S,ABS:	עובר	I-NP	fetus-C0015965
+דורש	:VERB-M,S,A,BEINONI:	דרש	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+עם	:PREPOSITION:	עם	O	O
+אקו	:NOUN-M,S,ABS:	אקו	B-NP	echo-C0058928
+ובדיקות	CONJ:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+מעמיקות	:VERB-F,P,A,BEINONI:	העמיק	O	O
+.	:PUNCUATION:	.	O	O
+
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+קרישת	:NOUN-F,S,CONST:	קרישה	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+אחת	:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+מהסיבות	PREPOSITION+DEF:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+עשית	:NOUN-F,S,CONST:	עשייה	B-NP	O
+בירור	:NOUN-M,S,ABS:	בירור	I-NP	O
+שהיה	REL-SUBCONJ:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+אולי	:ADVERB:	אולי	O	O
+בבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+חדשה	:ADJECTIVE-F,S,ABS:	חדש	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+טרומבופיליה	:NOUN-F,P,ABS:	טרומבופיליות	I-NP	O
+נרכשת	:VERB-F,S,A,BEINONI:	נרכש	I-NP	acquired-C0439661
+)	:PUNCUATION:	)	O	O
+או	:CONJUNCTION:	או	O	O
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בסיבה	PREPOSITION:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+את	:AT_PREP:	את	B-NP	O
+חייבת	:NOUN-F,S,CONST:	חייב	I-NP	O
+מעקב	:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+צמוד	:ADJECTIVE-M,S,ABS:	צמוד	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+למעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

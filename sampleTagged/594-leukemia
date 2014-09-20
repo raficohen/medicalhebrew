@@ -1,0 +1,63 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+צריך	:MODAL-M,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המתעסק	DEF:PARTICIPLE-M,S,A,ABS:	התעסק	O	O
+בבעיות	PREPOSITION:NOUN-F,P,CONST:	בעיה	B-NP	problem-C0033213
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+,	:PUNCUATION:	,	O	O
+נכון	:ADVERB:	נכון	O	O
+להיום	:ADVERB:	להיום	O	O
+המינון	DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מספיק	:VERB-M,S,A,BEINONI:	הספיק	O	O
+מאחר	:CONJUNCTION:	מאחר	O	O
+והמטרה	CONJ+DEF:NOUN-F,S,ABS:	מטרה	B-NP	goal-C0018017
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+IWR	:FOREIGN:	IWR	O	O
+בין	:PREPOSITION:	בין	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+3	:NUMERAL:	###NUMBER###	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+ממשיכים	:VERB-M,P,A,BEINONI:	המשיך	O	O
+עדיין	:ADVERB:	עדיין	O	O
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+תופעות	:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+לקומדין	PREPOSITION:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+ולוקחים	CONJ:VERB-M,P,A,BEINONI:	לקח	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+במשך	:PREPOSITION:	במשך	O	O
+שנים	:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+ללא	:PREPOSITION:	ללא	O	O
+בעיות	:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+
+הפסקת	:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+עישון	:NOUN-M,S,CONST:	עישון	I-NP	smoking-C0037369
+-	:PUNCUATION:	-	I-NP	O
+רק	:ADVERB:	רק	I-NP	O
+לטובה	PREPOSITION:NOUN-F,S,ABS:	טובה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הפסקת	:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+גלולות	:NOUN-F,P,ABS:	גלולה	I-NP	pills-C0994475
+-	:PUNCUATION:	-	I-NP	O
+רצויה	:PARTICIPLE-F,S,A,ABS:	רצה	I-NP	O
+בעיקר	:ADVERB:	בעיקר	O	O
+לנוכח	:PREPOSITION:	לנוכח	O	O
+העובדה	DEF:NOUN-F,S,ABS:	עובדה	B-NP	Evidence-C0332120
+שהיה	REL-SUBCONJ:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+קריש	:NOUN-M,S,ABS:	קריש	B-NP	clot-C0009074
+.	:PUNCUATION:	.	O	O
+

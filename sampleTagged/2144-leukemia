@@ -1,0 +1,32 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+בפקטורי	PREPOSITION:NOUN-M,P,CONST:	פקטור	B-NP	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:ADVERB:	בדר"כ	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+חסר	:VERB-M,S,3,PAST:	חסר	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+מעשית	:ADJECTIVE-F,S,ABS:	מעשי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+מכיוון	:CONJUNCTION:	מכיוון	O	O
+שהניתוחים	REL-SUBCONJ+DEF:NOUN-M,P,ABS:	ניתוח	B-NP	surgery-C0038894
+מזוג	PREPOSITION:NOUN-M,S,ABS:	זוג	B-NP	pair-C1709450
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+עשויים	:MODAL-M,P,A:	עשוי	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לדמן	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,P,3	דם	B-NP	blood-C0005767
+ניכר	:ADJECTIVE-M,S,ABS:	ניכר	I-NP	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:PREPOSITION:	להמטולוג	O	O
+ילדים	:NOUN-M,P,ABS:	ילד	B-NP	children-C0008059
+.	:PUNCUATION:	.	O	O
+

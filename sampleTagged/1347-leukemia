@@ -1,0 +1,30 @@
+לפי	:PREPOSITION:	לפי	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הללו	:VERB-MF,P,3,PAST:	הילל	I-NP	O
+ייתכן	:ADVERB:	ייתכן	I-NP	O
+ומדובר	CONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+בחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לדעת	PREPOSITION:NOUN-F,S,CONST:	דעה	O	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	B-NP	hemoglobin-C0019046
+,	:PUNCUATION:	,	O	O
+RBC	:FOREIGN:	RBC	O	specialistAcronym-E0202972-rbc
+,	:PUNCUATION:	,	O	O
+MCH	:FOREIGN:	MCH	O	O
+,	:PUNCUATION:	,	O	O
+ורמת	CONJ:NOUN-F,S,CONST:	רמה	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בדם	PREPOSITION+DEF:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+יתר	:NOUN-M,S,CONST:	יתר	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+בגדר	PREPOSITION+DEF:NOUN-F,S,ABS:	גדר	B-NP	Restricted-C0443288
+הרגיל	DEF:ADJECTIVE-M,S,ABS:	רגיל	I-NP	O
+.	:PUNCUATION:	.	O	O
+

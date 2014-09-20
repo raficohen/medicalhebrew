@@ -1,0 +1,41 @@
+הסיבות	DEF:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+לרעלת	PREPOSITION:NOUN-F,S,CONST:	רעלה	B-NP	O
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+הן	:CONJUNCTION:	הן	O	O
+רבות	:ADJECTIVE-F,P,ABS:	רב	O	O
+וכלל	CONJ:ADVERB:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לבעייה	PREPOSITION:NOUN-F,S,ABS:	בעיה	O	problem-C0033213
+בקרישת	PREPOSITION:NOUN-F,S,CONST:	קרישה	B-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+שיעשה	REL-SUBCONJ:VERB-M,S,3,FUTURE:	עשה	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+מעמיק	:VERB-M,S,A,BEINONI:	העמיק	B-NP	O
+מדוע	:ADVERB:	מדוע	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+ערכי	:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+לחץ דם	:TERM:	לחץ דם	O	blood pressure-C0005823
+מוגברים	:ADJECTIVE-M,P,ABS:	מוגבר	I-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+החידה	DEF:NOUN-F,S,ABS:	חידה	B-NP	O
+,	:PUNCUATION:	,	O	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+יתאים	:VERB-M,S,3,FUTURE:	התאים	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+נכון	:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+.	:PUNCUATION:	.	O	O
+

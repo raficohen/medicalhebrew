@@ -1,0 +1,36 @@
+צח	:PROPERNAME:	צח	B-NP	O
+שלום	:PROPERNAME:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לפענח	:VERB-TOINFINITIVE:	פענח	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חזה	:VERB-M,S,3,PAST:	חזה	O	chest-C0817096
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+את	:AT_PREP:	את	B-NP	O
+צילום	:NOUN-M,S,CONST:	צילום	I-NP	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+מטפל	:NOUN-M,S,ABS:	מטפל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+צר	:VERB-M,S,3,PAST:	צר	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+יותר	:ADVERB:	יותר	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

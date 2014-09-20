@@ -1,0 +1,31 @@
+כדאי	:MODAL:	כדאי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+והפריטין	CONJ+DEF:NOUN-M,S,ABS:	הפריטין	I-NP	O
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+ובודאי	CONJ:ADVERB:	בוודאי	O	O
+לא	:NEGATION:	לא	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+בנוסף	:ADVERB:	בנוסף	O	O
+לתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ורמת	CONJ:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+סבירה	:ADJECTIVE-F,S,ABS:	סביר	O	O
+-	:PUNCUATION:	-	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+התנגדות	:NOUN-F,S,ABS:	התנגדות	I-NP	O
+לפעילות	PREPOSITION:NOUN-F,S,ABS:	פעילות	B-NP	activity-C0441655
+גופנית	:ADJECTIVE-F,S,ABS:	גופני	O	O
+

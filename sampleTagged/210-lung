@@ -1,0 +1,69 @@
+אנסטסיה	:PROPERNAME:	אנסטסיה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+חזה	:NOUN-M,S,CONST:	חזה	B-NP	chest-C0817096
+סנדלרים	:NOUN-M,P,ABS:	סנדלר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+שם	:NOUN-M,S,CONST:	שם	B-NP	Name-C0027365-ambigous
+המתאר	DEF:NOUN-M,S,ABS:	מתאר	I-NP	O
+עיוות	:VERB-M,S,3,PAST:	עיוות	O	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+הקדמי	DEF:ADJECTIVE-M,S,ABS:	קדמי	I-NP	O
+שביטויו	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	ביטוי	B-NP	expression-C0017262
+העיקרי	DEF:ADJECTIVE-M,S,ABS:	עיקרי	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+שקע	:NOUN-M,S,ABS:	שקע	I-NP	O
+בקדמת	PREPOSITION:NOUN-F,S,CONST:	קדמה	B-NP	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+ישנן	:EXISTENTIAL-POSITIVE:PRONOMIAL-F,P,3	יש	O	O
+דרגות	:NOUN-F,P,ABS:	דרגה	B-NP	rank-C0699794
+חומר	:NOUN-M,S,ABS:	חומר	B-NP	material-C0520510
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+חזה	:NOUN-M,S,CONST:	חזה	I-NP	chest-C0817096
+סנדלרים	:NOUN-M,P,ABS:	סנדלר	I-NP	O
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+
+בחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+ניכר	:ADJECTIVE-M,S,ABS:	ניכר	I-NP	O
+מהמקרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בבעיה	PREPOSITION+DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+אסטטית	:ADJECTIVE-F,S,ABS:	אסטטית	O	O
+,	:PUNCUATION:	,	O	O
+ללא	:PREPOSITION:	ללא	O	O
+פגיעה	:NOUN-F,S,ABS:	פגיעה	B-NP	O
+באיברי	PREPOSITION:NOUN-M,P,CONST:	איבר	B-NP	organ-C0029236
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+הפנימיים	DEF:ADJECTIVE-M,P,ABS:	פנימי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לתקן	:VERB-TOINFINITIVE:	תיקן	O	O
+את	:AT_PREP:	את	B-NP	O
+הפגם	DEF:NOUN-M,S,ABS:	פגם	I-NP	Defect-C1457869
+בניתוח	PREPOSITION:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+ההפרעה	DEF:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+חמורה	:ADJECTIVE-F,S,ABS:	חמור	O	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+כמובן	:ADVERB:	כמובן	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+בתחום	PREPOSITION+DEF:NOUN-M,S,ABS:	תחום	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+

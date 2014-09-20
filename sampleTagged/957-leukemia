@@ -1,0 +1,43 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	I-NP	result-C1274040
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+2	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מהי	:INTERROGATIVE:PRONOMIAL-F,S,3	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+בעלך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	בעל	B-NP	husband-C0242664
+?	:PUNCUATION:	?	O	O
+
+3.הערך	:VERB-F,S,A,BEINONI:	3.הערך	O	O
+של	:SHEL_PREP:	של	O	O
+פיברינוגן	:NOUN-M,S,ABS:	פיברינוגן	B-NP	fibrinogen-C0016006
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+.	:PUNCUATION:	.	O	O
+
+בהנחה	PREPOSITION:NOUN-F,S,ABS:	הנחה	B-NP	Hypothesis-C1512571
+שכל	REL-SUBCONJ:QUANTIFIER-CONST:	כול	B-NP	O
+יתר	:NOUN-M,S,CONST:	יתר	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+ולוודא	CONJ:VERB-TOINFINITIVE:	וידא	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

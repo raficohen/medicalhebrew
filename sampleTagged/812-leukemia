@@ -1,0 +1,61 @@
+בד"כ	:PROPERNAME:	בד"כ	B-NP	O
+כמניעה	PREPOSITION:NOUN-F,S,ABS:	מניעה	O	prevention-C0199176
+ליצירת	PREPOSITION:NOUN-F,S,CONST:	יצירה	B-NP	creation-C0441513
+טרומבוזות	:PROPERNAME:	טרומבוזות	I-NP	O
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+על	:PREPOSITION:	על	O	O
+אספרין	:PROPERNAME:	אספרין	B-NP	O
+במינון	PREPOSITION:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+75	:NUMERAL:	###NUMBER###	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+100	:NUMERAL:	###NUMBER###	I-NP	O
+מ"ג	:NOUN-M,S,ABS:	מ"ג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+למה	:INTERROGATIVE:	למה	O	O
+את	:AT_PREP:	את	B-NP	O
+מקבלת	:VERB-F,S,A,BEINONI:	קיבל	O	O
+ACETOEL	:FOREIGN:	ACETOEL	O	O
+-	:PUNCUATION:	-	O	O
+ג"כ	:PREPOSITION:	ג"כ	O	O
+אספירין	:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+אך	:CONJUNCTION:	אך	O	O
+במינון	PREPOSITION+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+יותר	:ADVERB:	יותר	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+שניתן	REL-SUBCONJ:VERB-M,S,3,PAST:	ניתן	I-NP	O
+בד"כ	:ADVERB:	בד"כ	I-NP	O
+נגד	:PREPOSITION:	נגד	O	O
+כאבים	:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+ו/או	:VERB-MF,P,3,PAST:	ו/או	O	O
+הורדת	:NOUN-F,S,CONST:	הורדה	B-NP	Lower (action)-C2003888
+חום	:NOUN-M,S,ABS:	חום	I-NP	heat-C0018837
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הטיסה	DEF:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+-	:PUNCUATION:	-	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+מספק	:VERB-M,S,A,BEINONI:	סיפק	O	O
+לחלוטין	:ADVERB:	לחלוטין	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לקום	:VERB-TOINFINITIVE:	קם	O	O
+פעם	:NOUN-F,S,ABS:	פעם	B-NP	once-C1948045
+/	:PUNCUATION:	/	O	O
+פעמיים	:ADVERB:	פעמיים	O	O
+במשך	:PREPOSITION:	במשך	O	O
+הטיסה	DEF:NOUN-F,S,ABS:	טיסה	B-NP	flight-C2610507
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+להזיז	:VERB-TOINFINITIVE:	הזיז	O	O
+את	:AT_PREP:	את	B-NP	O
+הגפיים	DEF:NOUN-MF,P,ABS:	גפיים	I-NP	Limb structure-C0015385
+.	:PUNCUATION:	.	O	O
+

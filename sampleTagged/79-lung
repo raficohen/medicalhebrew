@@ -1,0 +1,52 @@
+ערן	:PROPERNAME:	ערן	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+צר	:VERB-M,S,3,PAST:	צר	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+המקום	DEF:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+מלענות	PREPOSITION:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+שאלותיך	:NOUN-F,P,ABS:POSSESIVE-F,S,2	שאלה	I-NP	Question-C1522634
+.	:PUNCUATION:	.	O	O
+
+קיימות	:NOUN-F,S,ABS:	קיימות	B-NP	O
+קמה	:VERB-F,S,A,BEINONI:	קם	O	O
+צורות	:NOUN-F,P,ABS:	צורה	B-NP	O
+לניתוח	PREPOSITION:NOUN-M,S,CONST:	ניתוח	B-NP	surgery-C0038894
+מתקן	:NOUN-M,S,ABS:	מתקן	I-NP	O
+,	:PUNCUATION:	,	O	O
+תלוי	:ADVERB:	תלוי	O	O
+בחולה	PREPOSITION:ADJECTIVE-M,S,ABS:	חולה	O	O
+ובגודל	PREPOSITION+CONJ:NOUN-M,S,CONST:	ב	O	O
+הפגם	DEF:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לאחת	PREPOSITION:NUMERAL-F,S,ABS:	CARD1	B-NP	O
+ממרפאות	PREPOSITION:NOUN-F,P,ABS:	מרפאה	I-NP	Clinic-C0442592
+של	:SHEL_PREP:	של	I-NP	O
+ניתוחי	:NOUN-M,P,CONST:	ניתוח	I-NP	surgery-C0038894
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+המבצעים	DEF:PARTICIPLE-M,P,A,ABS:	ביצע	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+להבדק	:VERB-TOINFINITIVE:	נבדק	O	O
+ולשמוע	CONJ:VERB-TOINFINITIVE:	שמע	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+מהרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המנתח	DEF:PARTICIPLE-M,S,A,ABS:	ניתח	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

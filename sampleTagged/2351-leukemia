@@ -1,0 +1,51 @@
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+רושם	:NOUN-M,S,ABS:	רושם	B-NP	O
+לרמה	PREPOSITION:NOUN-F,S,ABS:	רמה	B-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+לא	:NEGATION:	לא	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+התלוייה	DEF:ADJECTIVE-F,S,ABS:	תלוי	I-NP	O
+בעצמה	PREPOSITION:NOUN-F,S,ABS:	עוצמה	B-NP	Power-C0031205
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+מדדים	:NOUN-M,P,ABS:	מדד	B-NP	index-C0918012
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+משק	:NOUN-M,S,CONST:	משק	I-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+אמיתית	:ADJECTIVE-F,S,ABS:	אמיתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+ערך	:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+של	:SHEL_PREP:	של	I-NP	O
+WBC	:FOREIGN:	WBC	I-NP	O
+=	:PUNCUATION:	=	I-NP	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	I-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לבנות	:VERB-TOINFINITIVE:	בנה	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+35	:NUMERAL:	###NUMBER###	B-NP	O
+או	:CONJUNCTION:	או	O	O
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+3.5	:NUMERAL:	###NUMBER###	B-NP	O
+?	:PUNCUATION:	?	O	O
+

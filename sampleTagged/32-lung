@@ -1,0 +1,19 @@
+קשרית	:NOUN-F,S,ABS:	קשר	B-NP	connection-C0449379
+קטנה	:ADJECTIVE-F,S,ABS:	קטן	I-NP	O
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+בדכ	:NOUN-F,S,ABS:	בדך	B-NP	O
+דורשת	:VERB-F,S,A,BEINONI:	דרש	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+לא	:NEGATION:	לא	I-NP	O
+תמיד	:ADVERB:	תמיד	I-NP	O
+אבל	:CONJUNCTION:	אבל	I-NP	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	I-NP	O
+שיראה	REL-SUBCONJ:VERB-M,S,3,FUTURE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+הקשרית	DEF:NOUN-F,S,ABS:	קשר	I-NP	connection-C0449379
+רנטגנולוג	:VERB-F,S,3,PAST:	רנטגנולוג	O	O
+מוסמך	:NOUN-M,S,ABS:	מוסמך	B-NP	O
+וימסור	CONJ:VERB-M,S,3,FUTURE:	מסר	O	O
+את	:AT_PREP:	את	B-NP	O
+דעתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	דעה	I-NP	O
+

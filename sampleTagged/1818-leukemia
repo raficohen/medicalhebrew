@@ -1,0 +1,40 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בקבוצת	PREPOSITION:NOUN-F,S,CONST:	קבוצה	B-NP	groups-C0441833
+מחלות	:NOUN-F,P,ABS:	מחלה	I-NP	disease-C0012634
+אוטואימוניות	:NOUN-F,P,ABS:	אוטואימוניותות	I-NP	O
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+פעילות	:NOUN-F,S,CONST:	פעילות	B-NP	activity-C0441655
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מערכת	:NOUN-F,S,CONST:	מערכה	I-NP	Array-C1510941
+החיסון	DEF:NOUN-M,S,ABS:	חיסון	I-NP	vaccine-C0042210
+כלפי	:PREPOSITION:	כלפי	O	O
+מרכיבים	:NOUN-M,P,ABS:	מרכיב	B-NP	component-C0449432
+עצמיים	:ADJECTIVE-M,P,ABS:	עצמי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לפעמים	:ADVERB:	לפעמים	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בממצאים	PREPOSITION:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+מעבדתיים	:ADJECTIVE-M,P,ABS:	מעבדתיים	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+חסרי	:NOUN-M,P,CONST:	חסר	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	I-NP	importance-C1705104
+קלינית	:ADJECTIVE-F,S,ABS:	קליני	I-NP	clinical-C0205210
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+כמובן	:ADVERB:	כמובן	O	O
+שקיים	REL-SUBCONJ:VERB-M,S,3,PAST:	קיים	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הספקטרום	DEF:NOUN-M,S,ABS:	ספקטרום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

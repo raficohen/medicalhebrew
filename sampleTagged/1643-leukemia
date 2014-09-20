@@ -1,0 +1,20 @@
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	O	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+לצורך	PREPOSITION:NOUN-M,S,CONST:	צורך	B-NP	need-C0027552
+לקיחת	:NOUN-F,S,CONST:	לקיחה	I-NP	Take-C1515187
+אנמנזה	:NOUN-F,S,ABS:	אנמנזה	I-NP	anamnesis-C0021055
+מסודרת	:ADJECTIVE-F,S,ABS:	מסודר	I-NP	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+אישי	:ADJECTIVE-M,S,ABS:	אישי	I-NP	O
+ובמשפחה	PREPOSITION+CONJ:NOUN-F,S,ABS:	ב	O	O
+בכד'	PREPOSITION+ADVERB:NOUN-M,S,ABS:	כ	O	O
+לעריך	PREPOSITION:NOUN-F,P,ABS:POSSESIVE-F,S,2	עיר	B-NP	O
+גורמי	:NOUN-M,P,CONST:	גורם	I-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

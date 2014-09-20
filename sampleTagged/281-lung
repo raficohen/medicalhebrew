@@ -1,0 +1,50 @@
+בלוטת התריס	:TERM:	בלוטת התריס	O	thyroid gland-C0040132
+משפיע	:VERB-M,S,A,BEINONI:	השפיע	O	O
+על	:PREPOSITION:	על	O	O
+אתרים	:NOUN-M,P,ABS:	אתר	B-NP	 Ether-C0014994-ambigous
+מרובים	:ADJECTIVE-M,P,ABS:	מרובה	I-NP	O
+לאמר	:ADVERB:	לאמר	I-NP	O
+שדוקא	REL-SUBCONJ:ADVERB:	דווקא	O	O
+על	:PREPOSITION:	על	O	O
+החיסון	DEF:NOUN-M,S,ABS:	חיסון	B-NP	vaccine-C0042210
+-	:PUNCUATION:	-	I-NP	O
+פחות	:ADVERB:	פחות	I-NP	O
+מאשר	:CONJUNCTION:	מאשר	O	O
+גורמים	:NOUN-M,P,ABS:	גורם	B-NP	O
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+כאמור	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	אמור	B-NP	O
+הקשר	DEF:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+למערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+החיסון	DEF:NOUN-M,S,ABS:	חיסון	I-NP	vaccine-C0042210
+וסרטן	CONJ:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+קים	:PROPERNAME-F,S:	קים	I-NP	O
+אבל	:CONJUNCTION:	אבל	I-NP	O
+מורכב	:ADJECTIVE-M,S,ABS:	מורכב	I-NP	O
+ולמרבה	PREPOSITION+CONJ:PARTICIPLE-M,S,A,CONST:	ל	O	O
+הצער	DEF:NOUN-M,S,ABS:	צער	B-NP	O
+למרות	:PREPOSITION:	למרות	O	O
+שפע	:NOUN-M,S,ABS:	שפע	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+טיפולים	:NOUN-M,P,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+אלטרנטיבים	:ADJECTIVE-M,P,ABS:	אלטרנטיבים	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+לנו	:VERB-MF,P,1,PAST:	לן	O	O
+תרופה	:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+פשוטה	:ADJECTIVE-F,S,ABS:	פשוט	I-NP	O
+מוכחת	:VERB-F,S,A,BEINONI:	הוכח	O	O
+!	:PUNCUATION:	!	O	O
+
+!	:PUNCUATION:	!	O	O
+
+!	:PUNCUATION:	!	O	O
+
+שיכולה	REL-SUBCONJ:MODAL-F,S,A,BEINONI:	יכול	O	O
+לשפר	:VERB-TOINFINITIVE:	שיפר	O	O
+את	:AT_PREP:	את	B-NP	O
+המצב	DEF:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בה	:PREPOSITION:PRONOMIAL-F,S,3	ב	B-NP	O
+

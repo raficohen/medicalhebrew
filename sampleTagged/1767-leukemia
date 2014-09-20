@@ -1,0 +1,74 @@
+תלסמינ	:PROPERNAME:	תלסמין	B-NP	O
+מיינור	:NOUN-M,S,ABS:	מיינור	I-NP	minor-C0026193
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+קל	:ADJECTIVE-M,S,ABS:	קל	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	I-NP	anemia-C0002871
+תורשתית	:ADJECTIVE-F,S,ABS:	תורשתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+ילדות	:NOUN-F,S,ABS:	ילדות	I-NP	childhood-C0231335
+ובמצבים	PREPOSITION+CONJ:NOUN-M,P,ABS:	ב	O	O
+שבהם	REL-SUBCONJ:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+מוגדל	:ADJECTIVE-M,S,ABS:	מוגדל	I-NP	O
+בברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+לפעמים	:ADVERB:	לפעמים	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+הנשאים	DEF:NOUN-M,P,ABS:	נשא	I-NP	carrier-C0560175
+לתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	O	thalassemia-C0039730
+כן	:CONJUNCTION:	כן	O	O
+צריכים	:MODAL-M,P,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תוספת	:NOUN-F,S,CONST:	תוספת	B-NP	additional-C1524062
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+.	:PUNCUATION:	.	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקת דם	:TERM:	בדיקת דם	O	blood test-C0018941
+לברזל	PREPOSITION:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+טרנספרין	:NOUN-M,S,ABS:	טרנספרין	B-NP	transferrin-C0040679
+ופריטין	CONJ:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+אם	:CONJUNCTION:	אם	O	O
+הנתונים	DEF:NOUN-M,P,ABS:	נתון	B-NP	O
+תומכים	:VERB-M,P,A,BEINONI:	תמך	O	O
+בחוסר	PREPOSITION:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+אז	:CONJUNCTION:	אז	O	O
+בטח	:ADVERB:	בטח	O	O
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בתכשירי	PREPOSITION:NOUN-M,P,CONST:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+פומיים	:NOUN-M,D,ABS:	פומיים	I-NP	O
+בתוספת	PREPOSITION:NOUN-F,S,ABS:	תוספת	O	additional-C1524062
+לחומצה	PREPOSITION:NOUN-F,S,ABS:	חומצה	O	Acids-C0001128
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+עוד	:ADVERB:	עוד	O	More-C0205172
+דרך	:NOUN-F,S,ABS:	דרך	B-NP	Through-C0332273-ambigous
+לעלות	:VERB-TOINFINITIVE:	עלה	O	O
+את	:AT_PREP:	את	B-NP	O
+הברזל	DEF:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+לאכול	:VERB-TOINFINITIVE:	אכל	O	O
+בשר	PREPOSITION:NOUN-M,S,CONST:	שר	B-NP	Singing-C0234857
+אדום	:PROPERNAME:	אדום	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+בקר	:PROPERNAME:	בקר	I-NP	O
+,	:PUNCUATION:	,	O	O
+הודו	:PROPERNAME:	הודו	B-NP	O
+אדום	:PROPERNAME:	אדום	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

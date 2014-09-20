@@ -1,0 +1,49 @@
+רוני	:PROPERNAME:	רון	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פעמים	:NOUN-F,P,ABS:	פעם	B-NP	once-C1948045
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+נותרת	:VERB-F,S,A,BEINONI:	נותר	O	O
+שארית	:NOUN-F,S,CONST:	שארית	B-NP	Drug Residues-C0013202-ambigous
+רקמה	:NOUN-F,S,ABS:	רקמה	I-NP	tissue-C0040300
+צלקתית	:ADJECTIVE-F,S,ABS:	צלקתית	I-NP	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+בתוכה	:PREPOSITION:PRONOMIAL-F,S,3	בתוך	B-NP	O
+תאי	:NOUN-M,P,CONST:	תא	B-NP	cell-C0007634
+מחלה	:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+פעילים	:ADJECTIVE-M,P,ABS:	פעיל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רקמה	:NOUN-F,S,ABS:	רקמה	B-NP	tissue-C0040300
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להישאר	:VERB-TOINFINITIVE:	נשאר	O	O
+תקופה	:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+ממושכת	:ADJECTIVE-F,S,ABS:	ממושך	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וה	:NOUN-M,S,ABS:	וה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+PET	:FOREIGN:	PET	I-NP	O
+לא	:NEGATION:	לא	O	O
+קולט	:VERB-M,S,A,BEINONI:	קלט	O	O
+בסבירות	PREPOSITION:NOUN-F,S,ABS:	סבירות	B-NP	Probability-C0033204
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+פעילה	:ADJECTIVE-F,S,ABS:	פעיל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+בהמשך	PREPOSITION+DEF:NOUN-M,S,ABS:	המשך	B-NP	continued-C0549178
+.	:PUNCUATION:	.	O	O
+
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

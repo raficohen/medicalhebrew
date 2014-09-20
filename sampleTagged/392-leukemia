@@ -1,0 +1,30 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+.	:PUNCUATION:	.	O	O
+
+מחלת	:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+המוסידרוזיס	:NOUN-F,P,ABS:	המוסידרוזיסות	I-NP	O
+יחסית	:ADJECTIVE-F,S,ABS:	יחסי	I-NP	O
+נדירה	:ADJECTIVE-F,S,ABS:	נדיר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבחנה	:NOUN-F,S,ABS:	הבחנה	B-NP	O
+נעשת	:VERB-F,S,3,PAST:	נעשת	O	O
+עם	:PREPOSITION:	עם	O	O
+גילוי	:NOUN-M,S,CONST:	גילוי	B-NP	O
+עודף	:NOUN-M,S,CONST:	עודף	I-NP	excess-C1979886
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+ברקמות	PREPOSITION:NOUN-F,P,ABS:	רקמה	B-NP	tissue-C0040300
+כגון	:PREPOSITION:	כגון	O	O
+כבד	:NOUN-M,S,ABS:	כבד	B-NP	liver-C0023884
+ומח	CONJ:NOUN-M,S,CONST:	מח	B-NP	O
+עצם	:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+בביופסיה	PREPOSITION:NOUN-F,S,ABS:	ביופסיה	B-NP	biopsy-C0005558
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+מוקדם	:ADVERB:	מוקדם	O	O
+.	:PUNCUATION:	.	O	O
+

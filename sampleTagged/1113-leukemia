@@ -1,0 +1,43 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+לא	:NEGATION:	לא	O	O
+אוספים	:VERB-M,P,A,BEINONI:	אסף	O	O
+מח	:NOUN-M,S,CONST:	מח	B-NP	O
+עצם	:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+מאדם	PREPOSITION:NOUN-M,S,ABS:	אדם	B-NP	human-C0086418
+בריא	:ADJECTIVE-M,S,ABS:	בריא	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+אלא	:CONJUNCTION:	אלא	I-NP	O
+רק	:CONJUNCTION:	רק	I-NP	O
+מחבל	:NOUN-M,S,CONST:	מחבל	I-NP	O
+הטבור	DEF:NOUN-M,S,ABS:	טבור	I-NP	Umbilicus-C0041638
+.	:PUNCUATION:	.	O	O
+
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+להצטרף	:VERB-TOINFINITIVE:	הצטרף	O	O
+למאגר	PREPOSITION:NOUN-M,S,CONST:	מאגר	B-NP	O
+תורמים	:NOUN-M,P,ABS:	תורם	I-NP	donor-C0013018
+פוטנציאלים	:NOUN-M,P,ABS:	פוטנציאל	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+היקפי	:ADJECTIVE-M,S,ABS:	היקפי	I-NP	O
+ע"י	:PREPOSITION:	ע"י	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+סיווג רקמות	:TERM:	סיווג רקמות	O	tissue typing-C0019633
+וע"י	CONJ:PREPOSITION:	ע"י	O	O
+כך	:PRONOUN:	כך	O	O
+לתרום	:VERB-TOINFINITIVE:	תרם	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+לרכוש	:VERB-TOINFINITIVE:	רכש	O	O
+את	:AT_PREP:	את	B-NP	O
+המידע	DEF:NOUN-M,S,ABS:	מידע	I-NP	Information-C1533716
+חלילה	:INTERJECTION:	חלילה	O	O
+אם	:CONJUNCTION:	אם	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+

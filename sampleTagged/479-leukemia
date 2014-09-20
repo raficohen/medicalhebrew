@@ -1,0 +1,29 @@
+כריתת טחול	:TERM:	כריתת טחול	O	splenectomy-C0037995
+מומלצת	:VERB-F,S,A,BEINONI:	הומלץ	O	O
+כאשר	:CONJUNCTION:	כאשר	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בסטרואידים	PREPOSITION:NOUN-M,P,ABS:	סטרואיד	B-NP	Steroids-C0038317
+נכשל	:VERB-M,S,3,PAST:	נכשל	O	O
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לחיות	:VERB-TOINFINITIVE:	חי	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+גם	:CONJUNCTION:	גם	O	O
+בלי	:PREPOSITION:	בלי	O	O
+טחול	:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+.	:PUNCUATION:	.	O	O
+
+להקפיד	:VERB-TOINFINITIVE:	הקפיד	O	O
+על	:PREPOSITION:	על	O	O
+חיסונים	:NOUN-M,P,ABS:	חיסון	B-NP	vaccine-C0042210
+לפני	:PREPOSITION:	לפני	O	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+ולקבל	CONJ:VERB-TOINFINITIVE:	קיבל	O	O
+הנחיות	:NOUN-F,P,ABS:	הנחיה	B-NP	O
+מהמטולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+בנוגע	:ADVERB:	בנוגע	O	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בזיהומים	PREPOSITION:NOUN-M,P,ABS:	זיהום	B-NP	infection-C0009450
+.	:PUNCUATION:	.	O	O
+

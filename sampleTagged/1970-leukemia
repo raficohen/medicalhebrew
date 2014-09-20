@@ -1,0 +1,40 @@
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שעשית	REL-SUBCONJ:VERB-F,S,2,PAST:	עשה	O	O
+בעצם	:ADVERB:	בעצם	O	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+אמורות	:MODAL-F,P,A:	אמור	O	O
+לגלות	:VERB-TOINFINITIVE:	גלה	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+,	:PUNCUATION:	,	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+את	:AT_PREP:	את	B-NP	O
+הדמם	:VERB-M,S,2,IMPERATIVE:	הדמים	I-NP	O
+המוגבר	DEF:ADJECTIVE-M,S,ABS:	מוגבר	I-NP	O
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	B-NP	O
+הוסת	DEF:NOUN-F,S,ABS:	וסת	I-NP	menstruation-C0025344
+.	:PUNCUATION:	.	O	O
+
+ממלץ	:ADJECTIVE-M,S,ABS:	ממלץ	O	O
+לגשת	PREPOSITION:NOUN-F,S,CONST:	גשת	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	I-NP	O
+בקופ"ח	PREPOSITION:NOUN-F,S,ABS:	קופ"ח	B-NP	O
+להשחמת	PREPOSITION:NOUN-F,S,CONST:	השחמה	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+כסיבה	PREPOSITION:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לדימום	PREPOSITION+DEF:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+.	:PUNCUATION:	.	O	O
+
+צריכה	:MODAL-F,S,A:	צריך	O	O
+לחפש	:VERB-TOINFINITIVE:	חיפש	O	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

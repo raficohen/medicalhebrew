@@ -1,0 +1,65 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+זקוקה	:ADJECTIVE-F,S,ABS:	זקוק	I-NP	O
+למכשיר	PREPOSITION+DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+שמודד	REL-SUBCONJ:VERB-M,S,A,BEINONI:	מדד	O	index-C0918012
+PT/INR	:FOREIGN:	PT/INR	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לנטר	:VERB-TOINFINITIVE:	ניטר	O	O
+מטופל	:NOUN-M,S,ABS:	מטופל	B-NP	patient-C0030705
+שנוטל	REL-SUBCONJ:VERB-M,S,A,BEINONI:	נטל	O	O
+תכשיר	:NOUN-M,S,ABS:	תכשיר	B-NP	Pharmaceutical Preparations-C0013227
+נוגד קרישה	:TERM:	נוגד קרישה	O	anticoagulant-C0003280
+כגון	:PREPOSITION:	כגון	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+המכשיר	DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+הנדרש	DEF:ADJECTIVE-M,S,ABS:	נדרש	I-NP	O
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מייעץ	:VERB-M,S,A,BEINONI:	ייעץ	O	O
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+קנייה	:NOUN-F,S,ABS:	קנייה	B-NP	O
+ושימוש	CONJ:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+דחופים	:ADJECTIVE-M,P,ABS:	דחוף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+שהמכשיר	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	O	O
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+שיודעים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	ידע	O	O
+לתפעל	:VERB-TOINFINITIVE:	תפעל	O	O
+,	:PUNCUATION:	,	O	O
+ורק	CONJ:CONJUNCTION:	רק	O	O
+אז	:CONJUNCTION:	אז	O	O
+להשתמש	:VERB-TOINFINITIVE:	השתמש	O	O
+במכשיר	PREPOSITION+DEF:NOUN-M,S,ABS:	מכשיר	B-NP	Instrument - device-C0348000
+.	:PUNCUATION:	.	O	O
+
+למיטב	PREPOSITION:NOUN-M,S,CONST:	מיטב	O	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+כעת	:ADVERB:	כעת	O	O
+2	:NUMERAL:	###NUMBER###	B-NP	O
+מכשירים	:NOUN-M,P,ABS:	מכשיר	I-NP	Instrument - device-C0348000
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+,	:PUNCUATION:	,	O	O
+האחד	:VERB-M,S,2,IMPERATIVE:	האחיד	O	O
+של	:SHEL_PREP:	של	O	O
+חברת	:NOUN-F,S,CONST:	חבר	B-NP	O
+מדטכניקה	:PROPERNAME:	מדטכניקה	I-NP	O
+והשני	CONJ+DEF:NOUN-M,S,ABS:	שני	B-NP	second-C0205436-ambigous
+של	:SHEL_PREP:	של	I-NP	O
+חברת	:NOUN-F,S,CONST:	חבר	I-NP	O
+דין	:NOUN-M,S,ABS:	דין	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,44 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+סבור	:ADJECTIVE-M,S,ABS:	סבור	O	O
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+נמצאת	:VERB-F,S,A,BEINONI:	נמצא	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מסור	:ADJECTIVE-M,S,ABS:	מסור	I-NP	O
+במכון	PREPOSITION+DEF:NOUN-M,S,ABS:	מיכון	B-NP	Industrial machine-C0337076
+המטולוגי	DEF:ADJECTIVE-M,S,ABS:	המטולוגי	I-NP	hematology-C0018943
+ישראלי	:ADJECTIVE-M,S,ABS:	ישראלי	O	O
+ושקבלת	REL-SUBCONJ+CONJ:NOUN-F,S,CONST:	ש	O	O
+את	:AT_PREP:	את	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+הפרטים	DEF:NOUN-M,P,ABS:	פרט	I-NP	details-C1522508-ambigous
+על	:PREPOSITION:	על	O	O
+מחלת	:NOUN-F,S,CONST:	מחלה	B-NP	disease-C0012634
+CLL	:FOREIGN:	CLL	I-NP	O
+והטיפול	CONJ+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+!	:PUNCUATION:	!	O	O
+
+נכון	:ADVERB:	נכון	O	O
+שתסנין	REL-SUBCONJ:NOUN-M,S,ABS:	תסנין	B-NP	O
+קשה	:ADJECTIVE-M,S,ABS:	קשה	I-NP	O
+במח	PREPOSITION:NOUN-M,S,CONST:	מח	O	O
+עצם	:NOUN-F,S,ABS:	עצם	B-NP	bone-C0262950
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+פרמטרים	:NOUN-M,P,ABS:	פרמטר	B-NP	parameter-C0549193
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+מבטאים	:VERB-M,P,A,BEINONI:	ביטא	O	O
+את	:AT_PREP:	את	B-NP	O
+חומרת	:NOUN-F,S,CONST:	חומרה	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+ולעיתים	CONJ:ADVERB:	לעתים	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לעלות	:VERB-TOINFINITIVE:	עלה	O	O
+על	:PREPOSITION:	על	O	O
+אתר	:NOUN-M,S,CONST:	אתר	B-NP	 Ether-C0014994-ambigous
+העמותה	DEF:NOUN-F,S,ABS:	עמותה	I-NP	O
+

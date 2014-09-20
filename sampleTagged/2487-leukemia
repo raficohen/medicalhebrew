@@ -1,0 +1,25 @@
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+בהחלט	:ADVERB:	בהחלט	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להגביר	:VERB-TOINFINITIVE:	הגביר	O	O
+את	:AT_PREP:	את	B-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	I-NP	number-C0237753
+כדוריות	:NOUN-F,S,CONST:	כדוריות	I-NP	O
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+הלבנות	DEF:ADJECTIVE-F,P,ABS:	לבן	I-NP	O
+ואת	CONJ:AT_PREP:	את	B-NP	O
+מספר	:NOUN-M,S,CONST:	מספר	I-NP	number-C0237753
+הכדוריות	DEF:NOUN-F,S,ABS:	כדוריות	I-NP	O
+האדומות	DEF:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+שגורמת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	גרם	O	O
+לעלייה	PREPOSITION:NOUN-F,S,ABS:	עלייה	B-NP	O
+בספירות	PREPOSITION:NOUN-F,P,ABS:	ספירה	B-NP	count-C0750480
+.	:PUNCUATION:	.	O	O
+

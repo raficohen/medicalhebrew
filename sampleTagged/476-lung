@@ -1,0 +1,49 @@
+עומרי	:PROPERNAME:	עומרי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+לטחוך	PREPOSITION:NOUN-M,P,ABS:POSSESIVE-MF,S,1	טחו	B-NP	O
+הקטן	DEF:ADJECTIVE-M,S,ABS:	קטן	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+וזה	CONJ:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להדאיג	:VERB-TOINFINITIVE:	הדאיג	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+בכלל	:ADVERB:	בכלל	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+בליטת	:NOUN-F,S,CONST:	בליטה	B-NP	O
+דופן	:NOUN-MF,S,CONST:	דופן	I-NP	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לכירורג	:ADVERB:	לכירורג	O	O
+חזה	:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+לבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+והערכה	CONJ:NOUN-F,S,ABS:	הערכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שיבקש	REL-SUBCONJ:VERB-M,S,3,FUTURE:	ביקש	O	O
+סיטי	:NOUN-F,S,ABS:	סיטי	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+לשלילת	PREPOSITION:NOUN-F,S,CONST:	שלילה	O	Negation-C1518422
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+פנימית	:ADJECTIVE-F,S,ABS:	פנימי	I-NP	O
+,	:PUNCUATION:	,	O	O
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+רובם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	רוב	I-NP	majority-C0680220
+של	:SHEL_PREP:	של	I-NP	O
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+לא	:NEGATION:	לא	O	O
+יודעים	:VERB-M,P,A,BEINONI:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לבליטה	PREPOSITION:NOUN-F,S,ABS:	בליטה	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+מוצאים	:VERB-M,P,A,BEINONI:	מצא	O	O
+גורם	:NOUN-M,S,ABS:	גורם	B-NP	O
+למרות	:CONJUNCTION:	למרות	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+

@@ -1,0 +1,40 @@
+שלום	:NOUN-M,S,CONST:	שלום	B-NP	O
+גלית	:ADJECTIVE-F,S,ABS:	גלי	I-NP	O
+,	:PUNCUATION:	,	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+לבין	:PREPOSITION:	לבין	O	O
+סיבוכי	:NOUN-M,P,CONST:	סיבוך	B-NP	complication-C0009566
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שבצעת	REL-SUBCONJ:VERB-F,S,2,PAST:	בצע	O	O
+הן	:CONJUNCTION:	הן	B-NP	O
+רק	:CONJUNCTION:	רק	B-NP	O
+חלק	:NOUN-M,S,ABS:	חלק	I-NP	part-C0449719
+קטן	:ADJECTIVE-M,S,ABS:	קטן	I-NP	O
+מבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שניתן	REL-SUBCONJ:MODAL-M,S,A:	ניתן	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+ללמוד	:VERB-TOINFINITIVE:	למד	O	O
+על	:PREPOSITION:	על	O	O
+מערכת	:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+בבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+הריוניות	:ADJECTIVE-F,P,ABS:	הריוניות	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+אופן	:NOUN-M,S,ABS:	אופן	I-NP	Mode-C1513371-ambigous
+,	:PUNCUATION:	,	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שבצעת	REL-SUBCONJ:VERB-F,S,2,PAST:	בצע	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+

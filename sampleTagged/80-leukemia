@@ -1,0 +1,27 @@
+במצבים	PREPOSITION:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+דימומים	:NOUN-M,P,ABS:	דימום	I-NP	hemorrhage-C0019080
+עוריים	:ADJECTIVE-M,P,ABS:	עוריים	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+מ	:PREPOSITION:	מ	O	O
+ס'	:PROPERNAME:	ס'	B-NP	O
+התרומבוציטים	DEF:NOUN-F,S,ABS:	התרומבוציטים	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+platelets	:FOREIGN:	platelets	I-NP	O
+)	:PUNCUATION:	)	O	O
+ו	:CONJUNCTION:	ו	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+של	:SHEL_PREP:	של	I-NP	O
+PT	:FOREIGN:	PT	I-NP	specialistAcronym-E0635674-pt
+PTT	:FOREIGN:	PTT	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אמ	:NOUN-F,S,CONST:	אם	B-NP	Mother-C0026591-ambigous
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+אלא	:CONJUNCTION:	אלא	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	O	skin-C0444099
+

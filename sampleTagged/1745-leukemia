@@ -1,0 +1,29 @@
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בגוגל	PREPOSITION:NOUN-M,S,ABS:	גוגל	B-NP	O
+התסיות	DEF:ADJECTIVE-F,P,ABS:	התסיות	I-NP	O
+שנע	:VERB-M,S,3,PAST:	שינע	O	O
+בן	:PREPOSITION:PRONOMIAL-F,P,3	ב	B-NP	O
+7	:NUMERAL:	###NUMBER###	B-NP	O
+ל	:PREPOSITION:	ל	I-NP	O
+11	:NUMERAL:	###NUMBER###	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	I-NP	count-C0750480
+ומשטח	PREPOSITION+CONJ:NOUN-M,S,ABS:	מ	O	O
+דח	:PROPERNAME:	דח	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חריגות	:NOUN-F,P,ABS:	חריגה	B-NP	O
+בולטות	:ADJECTIVE-F,P,ABS:	בולט	I-NP	O
+לבקש	:VERB-TOINFINITIVE:	ביקש	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+של	:SHEL_PREP:	של	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

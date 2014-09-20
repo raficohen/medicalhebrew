@@ -1,0 +1,40 @@
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+המבדלת	DEF:PARTICIPLE-F,S,A,ABS:	בידל	O	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+רחבה	:ADJECTIVE-F,S,ABS:	רחב	O	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שממצא	REL-SUBCONJ:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+חסר	:VERB-M,S,3,PAST:	חסר	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	I-NP	importance-C1705104
+,	:PUNCUATION:	,	O	O
+יתכן	:MODAL:	ייתכן	O	O
+שהדימומים	REL-SUBCONJ+DEF:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+קשורים	:ADJECTIVE-M,P,ABS:	קשור	O	O
+לתרופה	PREPOSITION+DEF:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+,	:PUNCUATION:	,	O	O
+אפילו	:CONJUNCTION:	אפילו	O	O
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+כנגד	:PREPOSITION:	כנגד	O	O
+כאב ראש	:TERM:	כאב ראש	O	headache-C0018681
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+יתכן	:MODAL:	ייתכן	O	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+מצביע	:VERB-M,S,A,BEINONI:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+יותר	:ADVERB:	יותר	I-NP	O
+משמעותי	:ADJECTIVE-M,S,ABS:	משמעותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+ולהבדק	CONJ:VERB-TOINFINITIVE:	נבדק	O	O
+.	:PUNCUATION:	.	O	O
+

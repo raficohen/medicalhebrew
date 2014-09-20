@@ -1,0 +1,25 @@
+יהודה	:PROPERNAME:	יהודה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+שבשלב	PREPOSITION+REL-SUBCONJ:NOUN-M,S,ABS:	ב	B-NP	O
+ראשון	:NUMERAL-M,S,ABS:	ORD1	I-NP	O
+תבצע	:VERB-F,S,3,FUTURE:	בצע	O	O
+ס.ד	:NOUN-M,S,ABS:POSSESIVE-M,S,3	ס.	B-NP	O
+ותפקודי	CONJ:NOUN-M,P,CONST:	תפקוד	B-NP	Function-C0542341
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+תוצאות	:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+מבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	O	examination-C0031809
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להחליט	:VERB-TOINFINITIVE:	החליט	O	O
+על	:PREPOSITION:	על	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בהמשך	PREPOSITION:NOUN-M,S,ABS:	המשך	O	continued-C0549178
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+

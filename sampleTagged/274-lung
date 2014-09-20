@@ -1,0 +1,58 @@
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+כמותראפיה	:PROPERNAME:	כמותראפיה	I-NP	O
+אינה	:VERB-M,S,3,PAST:	אינה	O	O
+רפלקס	:PROPERNAME:	רפלקס	B-NP	reflex-C0034929
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+רווח	:NOUN-M,S,ABS:	רווח	B-NP	O
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+מול	:PREPOSITION:	מול	O	O
+הפסד	:NOUN-M,S,ABS:	הפסד	B-NP	O
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כמוטראפי	:PROPERNAME:	כמוטראפי	I-NP	O
+במיוחד	:ADVERB:	במיוחד	O	O
+עם	:PREPOSITION:	עם	O	O
+תרופה	:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+בודדת	:ADJECTIVE-F,S,ABS:	בודד	I-NP	O
+(	:PUNCUATION:	(	O	O
+כגון	:PREPOSITION:	כגון	O	O
+נוולבין	:ADJECTIVE-M,S,CONST:	נוולבין	O	O
+שבועי	:ADJECTIVE-M,S,ABS:	שבועי	O	O
+)	:PUNCUATION:	)	O	O
+גם	:CONJUNCTION:	גם	O	O
+אצל	:PREPOSITION:	אצל	O	O
+מבוגרים	:NOUN-M,P,ABS:	מבוגר	B-NP	adults-C0001675
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+כמוטרפי	PREPOSITION:ADJECTIVE-M,P,CONST:	מוטרף	O	O
+לעיתים	:ADVERB:	לעתים	O	O
+מודיף	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	ודי	B-NP	O
+!	:PUNCUATION:	!	O	O
+
+לאיכות	PREPOSITION:NOUN-F,S,CONST:	איכות	B-NP	quality-C0332306
+החים	DEF:NOUN-M,P,ABS:	החים	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+הו	:INTERJECTION:	הו	O	O
+דוחה	:VERB-M,S,A,BEINONI:	דחה	O	O
+הופעת	:NOUN-F,S,CONST:	הופעה	B-NP	appearance-C0233426
+סימפטומים	:NOUN-M,P,ABS:	סימפטום	I-NP	symptom-C1457887
+של	:SHEL_PREP:	של	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+שוב	:ADVERB:	שוב	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להזהר	:VERB-TOINFINITIVE:	נזהר	O	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+המבוגר	DEF:NOUN-M,S,ABS:	מבוגר	I-NP	adults-C0001675
+ולשקול	CONJ:VERB-TOINFINITIVE:	שקל	O	O
+שינוי	:NOUN-M,S,ABS:	שינוי	B-NP	difference-C1705241
+במינונים	PREPOSITION:NOUN-M,P,ABS:	מינון	B-NP	dosage-C0178602
+אם	:CONJUNCTION:	אם	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+קשה	:ADVERB:	קשה	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

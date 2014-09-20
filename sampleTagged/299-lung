@@ -1,0 +1,70 @@
+גמזר	:NOUN-M,S,ABS:POSSESIVE-M,S,3	גמז	B-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+כמוטרפאיה	:PARTICIPLE-F,P,A,CONST:	כמוטרפאיה	O	O
+למרות	PREPOSITION:NOUN-F,S,CONST:	מרות	B-NP	O
+שיחזית	:VERB-F,S,2,PAST:	שיחזית	O	O
+תופעות	:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+הלוואי	DEF:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+קלות	:ADVERB:	קלות	O	Easy-C0332219
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מספר	:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+לא	:NEGATION:	לא	I-NP	O
+קטן	:ADJECTIVE-M,S,ABS:	קטן	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+שמפתחים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	פיתח	O	O
+חום	:NOUN-M,S,ABS:	חום	B-NP	heat-C0018837
+די	:ADVERB:	די	I-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+אחרי	:PREPOSITION:PRONOMIAL-MF,S,1	אחרי	B-NP	O
+הגמזר	:VERB-M,S,2,FUTURE:	הגמזר	O	O
+וחלק	CONJ:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהחולים	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+סובלים	:VERB-M,P,A,BEINONI:	סבל	O	suffering-C0683278
+מעיפות	:VERB-F,P,A,BEINONI:	העיף	O	O
+מטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+נותן	:VERB-M,S,A,BEINONI:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לחולים	PREPOSITION:ADJECTIVE-M,P,ABS:	חולה	O	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מאד	:ADVERB:	מאוד	O	O
+בזהירות	PREPOSITION:NOUN-F,S,ABS:	זהירות	O	O
+תוך	:PREPOSITION:	תוך	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+אחר	:PREPOSITION:	אחר	O	O
+מצבם	:NOUN-M,S,ABS:POSSESIVE-M,P,3	מצב	B-NP	Condition-C0348080
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+וחלה	CONJ:VERB-F,S,3,PAST:	חל	O	O
+החמרה	:NOUN-F,S,ABS:	החמרה	B-NP	O
+לאחר	:PREPOSITION:	לאחר	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הרי	:CONJUNCTION:	הרי	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+הורדת	:NOUN-F,S,CONST:	הורדה	B-NP	Lower (action)-C2003888
+מינון	:NOUN-M,S,ABS:	מינון	I-NP	dosage-C0178602
+או	:CONJUNCTION:	או	O	O
+הפסקת	:NOUN-F,S,CONST:	הפסקה	B-NP	Interval-C1272706
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+נוהג	:VERB-M,S,A,BEINONI:	נהג	O	O
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+לפחות	:ADVERB:	לפחות	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ראשון	:NUMERAL-M,S,ABS:	ORD1	I-NP	O
+במינון	PREPOSITION+DEF:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+מופחת	:VERB-M,S,A,BEINONI:	הופחת	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+למצבו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	מצב	B-NP	Condition-C0348080
+הפיזי	DEF:ADJECTIVE-M,S,ABS:	פיסי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+החולה	DEF:ADJECTIVE-M,S,ABS:	חולה	I-NP	O
+ולהמשיך	CONJ:VERB-TOINFINITIVE:	המשיך	O	O
+בהמשך	PREPOSITION:NOUN-M,S,ABS:	המשך	O	continued-C0549178
+לפי	PREPOSITION:NOUN-M,S,CONST:	פה	O	Oral cavity-C0226896
+התגובה	DEF:NOUN-F,S,ABS:	תגובה	B-NP	reaction-C0443286
+

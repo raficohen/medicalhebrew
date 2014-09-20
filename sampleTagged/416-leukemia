@@ -1,0 +1,36 @@
+אצל	:PREPOSITION:	אצל	O	O
+תימנים	:ADJECTIVE-M,P,ABS:	תימני	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לוקופניה	:PROPERNAME:	לוקופניה	B-NP	O
+ז.א	:NOUN-M,S,CONST:	ז.א	I-NP	O
+ירידה	:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+ב	:PREPOSITION:	ב	O	O
+WBC	:FOREIGN:	WBC	O	O
+וכאן	CONJ:ADVERB:	כאן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+עליה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+לציין	:VERB-TOINFINITIVE:	ציין	O	O
+גם	:CONJUNCTION:	גם	O	O
+נוטרופניה	:PROPERNAME:	נוטרופניה	B-NP	O
+ז.א	:NOUN-M,S,CONST:	ז.א	I-NP	O
+ירידה	:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+ממס	PREPOSITION:NOUN-M,S,ABS:	מס	I-NP	O
+'	:PUNCUATION:	'	O	O
+הנוטרופילים	:PREPOSITION:	הנוטרופילים	O	O
+הפורום	DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+שלנו	:SHEL_PREP:PRONOMIAL-MF,P,1	של	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+המטולוגיה	:NOUN-F,S,ABS:	המטולוגיה	B-NP	hematology-C0018943
+של	:SHEL_PREP:	של	I-NP	O
+מבוגרים	:NOUN-M,P,ABS:	מבוגר	I-NP	adults-C0001675
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לפגוש	:VERB-TOINFINITIVE:	פגש	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ילדים	:NOUN-M,P,ABS:	ילד	I-NP	children-C0008059
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+לו	:CONJUNCTION:	לו	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+

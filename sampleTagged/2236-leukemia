@@ -1,0 +1,27 @@
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+הן	:PRONOUN-F,P,3:	הוא	B-NP	O
+גבוליות	:ADJECTIVE-F,P,ABS:	גבולי	I-NP	borderline-C0205189
+(	:PUNCUATION:	(	O	O
+ואפילו	CONJ:CONJUNCTION:	אפילו	O	O
+לא	:NEGATION:	לא	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+מכלול	:NOUN-M,S,CONST:	מכלול	I-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,100 @@
+אדווה	:PROPERNAME:	אדווה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+בדיקת דם	:TERM:	בדיקת דם	O	blood test-C0018941
+אשר	:VERB-M,S,3,PAST:	אישר	O	O
+באמצעותה	:PREPOSITION:PRONOMIAL-F,S,3	באמצעות	B-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לאבחן	:VERB-TOINFINITIVE:	אבחן	O	O
+"	:PUNCUATION:	"	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+בריאות	:NOUN-F,S,ABS:	בריאות	I-NP	health-C0018684
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+בדיקת דם	:TERM:	בדיקת דם	O	blood test-C0018941
+(	:PUNCUATION:	(	I-NP	O
+עורקית	:PROPERNAME:	עורקית	I-NP	O
+)	:PUNCUATION:	)	O	O
+אשר	:VERB-M,S,3,PAST:	אישר	O	O
+מטרתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	מטרה	B-NP	goal-C0018017
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+החמצן	DEF:NOUN-M,S,ABS:	חמצן	I-NP	oxygen-C0030054
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+ורמת	CONJ:NOUN-F,S,CONST:	רמה	O	O
+CO2	:FOREIGN:	CO2	O	O
+בדם	PREPOSITION:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+התכוונת	:VERB-F,S,2,PAST:	התכוון	O	O
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	O	examination-C0031809
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לאבחן	:VERB-TOINFINITIVE:	אבחן	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+בריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+או	:CONJUNCTION:	או	O	O
+סרטן	:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+,	:PUNCUATION:	,	O	O
+אין	:NEGATION:	אין	O	O
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+הבחירה	DEF:NOUN-F,S,ABS:	בחיר	I-NP	O
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+ביצוע	:NOUN-M,S,CONST:	ביצוע	B-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+הדמיה	:NOUN-F,S,ABS:	הדמיה	I-NP	imaging-C0011923
+לריאות	PREPOSITION:NOUN-F,P,ABS:	ריאה	B-NP	lung-C0024109
+כמו	:PREPOSITION:	כמו	O	O
+CT	:FOREIGN:	CT	O	O
+של	:SHEL_PREP:	של	O	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+קיימות	:NOUN-F,S,CONST:	קיימות	B-NP	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+אשר	:CONJUNCTION:	אשר	O	O
+מטרתן	:NOUN-F,S,ABS:POSSESIVE-F,P,3	מטרה	B-NP	goal-C0018017
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+תפקוד	:NOUN-M,S,CONST:	תפקוד	I-NP	Function-C0542341
+הריאות	DEF:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+,	:PUNCUATION:	,	O	O
+בחולים	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	חולה	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+להם	:PREPOSITION:PRONOMIAL-M,P,3	ל	B-NP	O
+מחלות	:NOUN-F,P,ABS:	מחלה	B-NP	disease-C0012634
+ריאה	:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+כרוניות	:ADJECTIVE-F,P,ABS:	כרוניות	I-NP	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+בודקות	:VERB-F,P,A,BEINONI:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+יכולת	:NOUN-F,S,CONST:	יכולת	I-NP	Ability-C0085732
+החמצון	DEF:NOUN-M,S,ABS:	חמצון	I-NP	O
+והאיוורור	CONJ+DEF:NOUN-M,S,ABS:	האיוורור	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הריאות	DEF:NOUN-F,P,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

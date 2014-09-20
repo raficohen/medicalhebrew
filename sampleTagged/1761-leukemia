@@ -1,0 +1,24 @@
+בתוצאות	PREPOSITION:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+אחוז	:NOUN-M,S,ABS:	אחוז	I-NP	percent-C0439165
+הנויטרופילים	:ADVERB:	הנויטרופילים	I-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+במקצת	:ADVERB:	במקצת	O	O
+אך	:CONJUNCTION:	אך	O	O
+המספר	DEF:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+האבסולותי	:NOUN-M,P,ABS:POSSESIVE-M,P,3	האבסולו	B-NP	O
+בגבול	PREPOSITION:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+תחתון	:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+ולדון	CONJ:VERB-TOINFINITIVE:	דן	O	O
+שוב	:ADVERB:	שוב	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

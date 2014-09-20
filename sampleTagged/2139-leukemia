@@ -1,0 +1,57 @@
+זהירות	:NOUN-F,S,ABS:	זהירות	B-NP	O
+!	:PUNCUATION:	!	O	O
+
+לתרופה	PREPOSITION+DEF:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אינטראקציה	:NOUN-F,S,ABS:	אינטראקציה	B-NP	O
+בסבירות	PREPOSITION:NOUN-F,S,ABS:	סבירות	B-NP	Probability-C0033204
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+קומדין	:NOUN-M,S,ABS:	קומדין	B-NP	warfarin-C0043031
+(	:PUNCUATION:	(	O	O
+אם	:CONJUNCTION:	אם	O	O
+כי	:CONJUNCTION:	כי	O	O
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,CONST:	כלל	O	Rule-C0870077-ambigous
+האפקט	DEF:NOUN-M,S,ABS:	אפקט	B-NP	affect-C0001721
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+דרמתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	דרמה	B-NP	fluocinolone-C0060507
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+מי	:INTERROGATIVE:	מי	B-NP	O
+שרשם	REL-SUBCONJ:VERB-M,S,3,PAST:	רשם	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+את	:AT_PREP:	את	B-NP	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+באם	PREPOSITION+DEF:NOUN-F,S,ABS:	אם	B-NP	Mother-C0026591-ambigous
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+תרופה	:NOUN-F,S,ABS:	תרופה	B-NP	medicine-C0013227
+חלופית	:ADJECTIVE-F,S,ABS:	חלופי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לחליפין	PREPOSITION+DEF:NOUN-M,P,ABS:	חליפין	B-NP	O
+,	:PUNCUATION:	,	O	O
+בעת	:NOUN-M,S,CONST:	בעת	B-NP	phobia-C0349231
+לקיחת	:NOUN-F,S,CONST:	לקיחה	I-NP	Take-C1515187
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+ולאחריה	CONJ:ADVERB:	לאחריה	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+תכוף	:ADJECTIVE-M,S,ABS:	תכוף	I-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+PT/INR	:FOREIGN:	PT/INR	O	O
+ולשנות	CONJ:VERB-TOINFINITIVE:	שנה	O	year-C0439234
+מינון	:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+קומדין	:NOUN-M,S,ABS:	קומדין	I-NP	warfarin-C0043031
+בהתאם	:ADVERB:	בהתאם	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זהירות	:NOUN-F,S,ABS:	זהירות	B-NP	O
+!	:PUNCUATION:	!	O	O
+

@@ -1,0 +1,33 @@
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהבירור	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	בירור	B-NP	O
+מתבצע	:VERB-M,S,A,BEINONI:	התבצע	O	O
+בהתאם	:ADVERB:	בהתאם	O	O
+לבקשות	PREPOSITION:NOUN-F,P,ABS:	בקשה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+/	:PUNCUATION:	/	I-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לחקות	:VERB-TOINFINITIVE:	חיקה	O	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	O	Acceptance-C0000899-ambigous
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+,	:PUNCUATION:	,	O	O
+לביקורת	PREPOSITION:NOUN-F,S,ABS:	ביקורת	B-NP	Criticism-C0870379
+והנחיות	CONJ:NOUN-F,P,ABS:	הנחיה	B-NP	O
+מתאימות	:ADJECTIVE-F,P,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

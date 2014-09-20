@@ -1,0 +1,27 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+להזמין	:VERB-TOINFINITIVE:	הזמין	O	O
+תור	:NOUN-M,S,ABS:	תור	B-NP	turn-C1709743
+למרפאת	PREPOSITION:NOUN-F,S,CONST:	מרפאה	B-NP	Clinic-C0442592
+FMF	:FOREIGN:	FMF	I-NP	O
+תה"ש	:PROPERNAME:	תה"ש	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שפ	:PROPERNAME:	שף	B-NP	O
+יכלו	:VERB-MF,P,3,FUTURE:	כלה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+הקשר	:NOUN-M,S,CONST:	הקשר	B-NP	context-C0449255
+בן	:NOUN-M,S,CONST:	בן	I-NP	Son (person)-C0037683-ambigous
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+והופעת	CONJ:NOUN-F,S,CONST:	הופעה	I-NP	appearance-C0233426
+והעלמות	CONJ:NOUN-F,P,CONST:	העלמה	I-NP	O
+הבלוטות	DEF:NOUN-F,P,ABS:	בלוטה	I-NP	gland-C1285092
+,	:PUNCUATION:	,	O	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+בקשר	PREPOSITION:NOUN-M,S,ABS:	קשר	O	connection-C0449379
+להפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	O	arrhythmia-C0003811
+ב	:PREPOSITION:	ב	O	O
+ת.כבד	:PROPERNAME:	ת.כבד	B-NP	O
+פרופ	:VERB-M,S,2,IMPERATIVE:	פרוף	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

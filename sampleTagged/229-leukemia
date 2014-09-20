@@ -1,0 +1,32 @@
+צריך	:MODAL-M,S,A:	צריך	O	O
+להראות	:VERB-TOINFINITIVE:	נראה	O	O
+הכתמים	DEF:NOUN-M,P,ABS:	כתם	B-NP	macule-C0332573
+לרופה	PREPOSITION:PARTICIPLE-M,S,A,CONST:	רפה	O	O
+משפחה	:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+או	:CONJUNCTION:	או	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+יחליטו	:VERB-MF,P,3,FUTURE:	החליט	O	O
+שצריך	REL-SUBCONJ:MODAL-M,S,A:	צריך	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+המטולוגי	DEF:NOUN-M,S,ABS:	המטולוגי	B-NP	hematology-C0018943
+אז	:CONJUNCTION:	אז	O	O
+ללכת	:VERB-TOINFINITIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+עם	:PREPOSITION:	עם	O	O
+ס'	:NOUN-M,S,ABS:	ס'	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+טסיות	:NOUN-M,P,ABS:	טסיותים	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+לא	:NEGATION:	לא	O	O
+חושב	:VERB-M,S,A,BEINONI:	חשב	O	O
+שזו	REL-SUBCONJ:PRONOUN-F,S,3:	זו	B-NP	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	O	O
+

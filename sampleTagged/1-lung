@@ -1,0 +1,25 @@
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+עוזר	:VERB-M,S,A,BEINONI:	עזר	O	O
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+רבים	:ADJECTIVE-M,P,ABS:	רב	I-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+הסיכויים	DEF:NOUN-M,P,ABS:	סיכוי	B-NP	chance-C0237506
+של	:SHEL_PREP:	של	I-NP	O
+אביך	:NOUN-M,S,ABS:POSSESIVE-F,S,2	אב	I-NP	father-C0015671
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+הרבה	:ADVERB:	הרבה	O	O
+יותר	:ADVERB:	יותר	O	O
+נכון	:ADVERB:	נכון	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	I-NP	O
+שמכיר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הכיר	O	O
+הרבה	:ADVERB:	הרבה	O	O
+יותר	:ADVERB:	יותר	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+את	:AT_PREP:	את	B-NP	O
+מצבו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	מצב	I-NP	Condition-C0348080
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

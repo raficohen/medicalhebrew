@@ -1,0 +1,23 @@
+לא	:NEGATION:	לא	O	O
+שלחת	:VERB-F,S,2,PAST:	שלח	O	O
+הפרמטרים	DEF:NOUN-M,P,ABS:	פרמטר	B-NP	parameter-C0549193
+נורמלים	:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+.	:PUNCUATION:	.	O	O
+
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+בסדר	:ADVERB:	בסדר	O	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+מקרה	:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לסיכום	PREPOSITION+DEF:NOUN-M,S,ABS:	סיכום	B-NP	O
+והנחיות	CONJ:NOUN-F,P,ABS:	הנחיה	I-NP	O
+

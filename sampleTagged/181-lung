@@ -1,0 +1,41 @@
+לסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	O	malignancy-C0006826
+ריאות	:NOUN-F,P,CONST:	ריאה	B-NP	lung-C0024109
+גרורתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	גרורה	I-NP	metastasis-C0027627
+אופציה	:NOUN-F,S,ABS:	אופציה	B-NP	option-C1518601
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+כימי	:ADJECTIVE-M,S,ABS:	כימי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ביולוגי	:ADJECTIVE-M,S,ABS:	ביולוגי	I-NP	O
+ואו	CONJ:CONJUNCTION:	או	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מחקרי	:ADJECTIVE-M,S,ABS:	מחקרי	I-NP	O
+אם	:CONJUNCTION:	אם	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+באותו	PREPOSITION:QUANTIFIER-CONST:	אותו	O	O
+מרכז	:NOUN-M,S,ABS:	מרכז	B-NP	center-C0205099
+.	:PUNCUATION:	.	O	O
+
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בהיפרטרמיה	:PROPERNAME:	בהיפרטרמיה	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+יעיל	:ADJECTIVE-M,S,ABS:	יעיל	O	O
+בסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+הריאה	DEF:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+אין	:NEGATION:	אין	O	O
+ביח	:NOUN-M,S,ABS:	ביח	B-NP	O
+המתמחה	DEF:NOUN-M,S,ABS:	מתמחה	I-NP	O
+בסרטן	PREPOSITION:NOUN-M,S,ABS:	סרטן	B-NP	malignancy-C0006826
+ריאה	:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+בעולם	PREPOSITION:NOUN-M,S,ABS:	עולם	O	world-C2700280
+אלא	:CONJUNCTION:	אלא	O	O
+כחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+ממחלקה	PREPOSITION:NOUN-F,S,ABS:	מחלקה	I-NP	O
+ומערך	CONJ:NOUN-M,S,ABS:	מערך	I-NP	O
+אונקולוגי	:PROPERNAME:	אונקולוגי	I-NP	oncology-C0278627
+.	:PUNCUATION:	.	O	O
+

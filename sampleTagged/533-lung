@@ -1,0 +1,25 @@
+על	:PREPOSITION:	על	O	O
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+ידעתי	:VERB-MF,S,1,PAST:	ידע	I-NP	O
+להסיר	:VERB-TOINFINITIVE:	הסיר	O	O
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+מוחלט	:ADJECTIVE-M,S,ABS:	מוחלט	I-NP	O
+לא	:NEGATION:	לא	O	O
+,	:PUNCUATION:	,	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+לטשטש	:VERB-TOINFINITIVE:	טשטש	O	O
+אותה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+ישנם	:EXISTENTIAL-POSITIVE:PRONOMIAL-M,P,3	יש	B-NP	O
+מספר	:QUANTIFIER-CONST:	מספר	B-NP	number-C0237753
+תכשירים	:NOUN-M,P,ABS:	תכשיר	I-NP	Pharmaceutical Preparations-C0013227
+שכל	REL-SUBCONJ:QUANTIFIER-CONST:	כול	B-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+או	:CONJUNCTION:	או	I-NP	O
+כירורג	:PROPERNAME:	כירורג	I-NP	O
+פלסטי	:ADJECTIVE-M,S,ABS:	פלסטי	I-NP	O
+ישמח	:VERB-M,S,3,FUTURE:	שמח	O	O
+ליעץ	:VERB-TOINFINITIVE:	ייעץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+

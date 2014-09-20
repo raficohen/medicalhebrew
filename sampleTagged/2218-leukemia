@@ -1,0 +1,24 @@
+שקיעת דם	:TERM:	שקיעת דם	O	erythrocyte sedimentation rate-C0086250
+,	:PUNCUATION:	,	O	O
+ESR	:FOREIGN:	ESR	O	O
+,	:PUNCUATION:	,	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+מדד	:NOUN-M,S,ABS:	מדד	B-NP	index-C0918012
+לא	:NEGATION:	לא	I-NP	O
+ספציפי	:ADJECTIVE-M,S,ABS:	ספציפי	I-NP	O
+שיכול	REL-SUBCONJ:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+מוגבר	:ADJECTIVE-M,S,ABS:	מוגבר	O	O
+במגוון	PREPOSITION:NOUN-M,S,ABS:	מגוון	B-NP	Diversity-C1880371
+רחב	:ADJECTIVE-M,S,ABS:	רחב	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+בעיות	:NOUN-F,P,ABS:	בעיה	I-NP	problem-C0033213
+.	:PUNCUATION:	.	O	O
+
+קשה	:ADVERB:	קשה	O	O
+לפי	:PREPOSITION:	לפי	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+אבחנות	:NOUN-F,P,ABS:	אבחנה	B-NP	diagnosis-C0011900
+.	:PUNCUATION:	.	O	O
+

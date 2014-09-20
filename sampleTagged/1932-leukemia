@@ -1,0 +1,45 @@
+שוש	:PROPERNAME:	שוש	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+לחלוטין	:ADVERB:	לחלוטין	O	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+הדימומים	DEF:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+והקרישיות	CONJ:NOUN-F,S,CONST:	הקרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+שעברת	REL-SUBCONJ:VERB-M,S,3,PAST:	עברת	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+נובעת	:VERB-F,S,A,BEINONI:	נבע	O	O
+מההפלה	PREPOSITION+DEF:NOUN-F,S,ABS:	הפלה	B-NP	abortion-C0156543
+.	:PUNCUATION:	.	O	O
+
+לפעמים	:ADVERB:	לפעמים	O	O
+הפלות	:NOUN-F,P,ABS:	הפלה	B-NP	abortion-C0156543
+נגרמות	:VERB-F,P,A,BEINONI:	נגרם	O	O
+כתוצאה	PREPOSITION:NOUN-F,S,ABS:	תוצאה	B-NP	result-C1274040
+מקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+עקב	:PREPOSITION:	עקב	O	O
+אספקת	:NOUN-F,S,CONST:	אספקה	B-NP	supplies-C0038848
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לקויה	:ADJECTIVE-F,S,ABS:	לקוי	I-NP	O
+לשליה	PREPOSITION+DEF:NOUN-F,S,ABS:	שליה	B-NP	placenta-C0032043
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

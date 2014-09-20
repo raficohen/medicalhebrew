@@ -1,0 +1,29 @@
+קודם	:ADVERB:	קודם	O	O
+לעביר	PREPOSITION:ADJECTIVE-M,S,ABS:	עביר	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+למי	PREPOSITION:INTERROGATIVE:	מי	B-NP	O
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+...	:PUNCUATION:	...	O	O
+
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שהממצאים	REL-SUBCONJ+DEF:NOUN-M,P,ABS:	ממצא	B-NP	Finding-C0243095
+תגובתיים	:VERB-M,S,2,FUTURE:	תגובתיים	O	O
+אבל	:ADJECTIVE-M,S,ABS:	אבל	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לשים	:VERB-TOINFINITIVE:	שם	O	Name-C0027365-ambigous
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+בקנטקסט	:ADJECTIVE-M,S,CONST:	בקנטקסט	O	O
+הכללי	DEF:ADJECTIVE-M,S,ABS:	כללי	O	O
+.	:PUNCUATION:	.	O	O
+
+סינוס	:PROPERNAME:	סינוס	B-NP	sinus-C0016169
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+אנטומי.לא	:ADJECTIVE-F,P,ABS:	אנטומי.לא	I-NP	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+ממשעות	PREPOSITION:PARTICIPLE-F,P,A,ABS:	השעה	O	O
+הצביעה	:VERB-F,S,3,PAST:	הצביע	O	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

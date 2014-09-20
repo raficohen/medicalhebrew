@@ -1,0 +1,35 @@
+קשה	:ADVERB:	קשה	O	O
+לבנות	:VERB-TOINFINITIVE:	בנה	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+מפרטים	PREPOSITION:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+חלקיים	:ADJECTIVE-M,P,ABS:	חלקי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מתקבל	:VERB-M,S,A,BEINONI:	התקבל	O	O
+רושם	:NOUN-M,S,ABS:	רושם	B-NP	O
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+עם	:PREPOSITION:	עם	O	O
+אנמיה	:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+שכיחה	:ADJECTIVE-F,S,ABS:	שכיח	I-NP	O
+בקרב	:PREPOSITION:	בקרב	O	O
+בנות	:NOUN-F,P,ABS:	בת	B-NP	daughter-C0011011
+צעירות	:ADJECTIVE-F,P,ABS:	צעיר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+תמונה	:NOUN-F,S,ABS:	תמונה	I-NP	Picture-C0441469
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+.	:PUNCUATION:	.	O	O
+

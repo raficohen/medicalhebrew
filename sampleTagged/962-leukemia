@@ -1,0 +1,58 @@
+בדר"כ	:ADVERB:	בדר"כ	O	O
+חום	:NOUN-M,S,ABS:	חום	B-NP	heat-C0018837
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+סמן	:NOUN-M,S,ABS:	סמן	B-NP	Markers-C2745888
+למעבר	PREPOSITION:NOUN-M,S,ABS:	מעבר	O	Transition-C2700061-ambigous
+ללוקמיה	:PROPERNAME:	ללוקמיה	B-NP	O
+אך	:CONJUNCTION:	אך	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+שינוי	:NOUN-M,S,ABS:	שינוי	B-NP	difference-C1705241
+ובמידה	PREPOSITION+CONJ:NOUN-F,S,ABS:	ב	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לסיבת	PREPOSITION:NOUN-F,S,CONST:	סיבה	B-NP	Causations-C0085978
+החום	DEF:NOUN-M,S,ABS:	חום	I-NP	heat-C0018837
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כללים	:NOUN-M,P,ABS:	כלל	B-NP	Rule-C0870077-ambigous
+האם	DEF:NOUN-F,S,ABS:	אם	I-NP	Mother-C0026591-ambigous
+ומתי	CONJ:ADVERB:	מתי	O	O
+עוברת	:VERB-F,S,A,BEINONI:	עבר	O	past-C1444637
+פוליציטמיה	:PROPERNAME:	פוליציטמיה	B-NP	O
+ורה	CONJ:PROPERNAME:	רה	B-NP	O
+ללקומיה	PREPOSITION+DEF:ADJECTIVE-F,S,ABS:	הלקומיה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקרים	:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+בכלל	:ADVERB:	בכלל	O	O
+מעבר	:NOUN-M,S,ABS:	מעבר	O	Transition-C2700061-ambigous
+ללוקמיה	:PROPERNAME:	ללוקמיה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+גם	:CONJUNCTION:	גם	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+חדיש	:ADJECTIVE-M,S,ABS:	חדיש	I-NP	O
+ב	:PREPOSITION:	ב	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+ANTI	:FOREIGN:	ANTI	I-NP	O
+JAK2	:FOREIGN:	JAK2	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+עדין	:ADJECTIVE-M,S,ABS:	עדין	O	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+זמין	:ADJECTIVE-M,S,ABS:	זמין	O	O
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+.	:PUNCUATION:	.	O	O
+

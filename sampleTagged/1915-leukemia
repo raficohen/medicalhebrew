@@ -1,0 +1,27 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+כרגע	:ADVERB:	כרגע	O	O
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+קלקסן	:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+,	:PUNCUATION:	,	O	O
+ביחוד	:ADVERB:	ביחוד	O	O
+אם	:CONJUNCTION:	אם	O	O
+ההריונות	DEF:NOUN-M,P,ABS:	הריון	B-NP	pregnancy-C0032961
+הקודמים	DEF:ADJECTIVE-M,P,ABS:	קודם	I-NP	O
+IUGR	:FOREIGN:	IUGR	O	O
+הופיע	:VERB-M,S,3,PAST:	הופיע	O	O
+בטרימסטר	PREPOSITION:PROPERNAME:	טרימסטר	B-NP	trimester-C0032982
+שלישי	:NUMERAL-M,S,ABS:	ORD3	I-NP	O
+,	:PUNCUATION:	,	O	O
+עובדה	:NOUN-F,S,ABS:	עובדה	B-NP	Evidence-C0332120
+המעידה	DEF:PARTICIPLE-F,S,A,ABS:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+חוסר	:NOUN-M,S,CONST:	חוסר	B-NP	O
+התאמה	:NOUN-F,S,ABS:	התאמה	I-NP	compatibility-C0237519
+בין	:PREPOSITION:	בין	O	O
+צרכי	:NOUN-M,P,CONST:	צורך	B-NP	need-C0027552
+העובר	DEF:NOUN-M,S,ABS:	עובר	I-NP	fetus-C0015965
+והספקת	CONJ:NOUN-F,S,CONST:	הספקה	B-NP	O
+השליה	DEF:NOUN-F,S,ABS:	שליה	I-NP	placenta-C0032043
+.	:PUNCUATION:	.	O	O
+

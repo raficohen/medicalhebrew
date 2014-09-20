@@ -1,0 +1,23 @@
+כדאי	:ADVERB:	כדאי	O	O
+מאוד	:ADVERB:	מאוד	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+זאת	:PRONOUN-F,S,3:	זאת	B-NP	O
+ואז	CONJ:CONJUNCTION:	אז	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+לאותו	PREPOSITION:QUANTIFIER-CONST:	אותו	O	O
+פקטור	:NOUN-M,S,ABS:	פקטור	B-NP	O
+שנמצא	REL-SUBCONJ:VERB-M,S,3,PAST:	נמצא	O	O
+פגום	:ADJECTIVE-M,S,ABS:	פגום	O	O
+בבני	PREPOSITION:NOUN-M,P,CONST:	בן	B-NP	Son (person)-C0037683-ambigous
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+אחרים	:ADJECTIVE-M,P,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+המצ"ב	DEF:ADJECTIVE-M,S,ABS:	המצ"ב	I-NP	O
+הן	:ADVERB:	הן	I-NP	O
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+

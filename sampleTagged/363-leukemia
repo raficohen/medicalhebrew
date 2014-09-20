@@ -1,0 +1,22 @@
+קודם	:ADVERB:	קודם	B-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+את	:AT_PREP:	את	B-NP	O
+תוצאות	:NOUN-F,P,CONST:	תוצאה	I-NP	result-C1274040
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+פקטורי	:NOUN-M,P,CONST:	פקטור	I-NP	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+שאותן	REL-SUBCONJ:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+מציינת	:VERB-F,S,A,BEINONI:	ציין	I-NP	O
+בסוף	:ADVERB:	בסוף	O	O
+ולפנות	CONJ:VERB-TOINFINITIVE:	פנה	O	O
+לייעוץ	PREPOSITION:NOUN-M,S,ABS:	ייעוץ	B-NP	counselling-C0010210
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+המתמחה	DEF:PARTICIPLE-M,S,A,ABS:	התמחה	O	O
+בהפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+במנגנון	PREPOSITION:NOUN-M,S,CONST:	מנגנון	O	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

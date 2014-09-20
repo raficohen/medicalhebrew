@@ -1,0 +1,34 @@
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+הן	:PRONOUN-F,P,3:	הוא	B-NP	O
+גבוליות	:ADJECTIVE-F,P,ABS:	גבולי	O	borderline-C0205189
+.	:PUNCUATION:	.	O	O
+
+סיכוי	:NOUN-M,S,ABS:	סיכוי	B-NP	chance-C0237506
+סביר	:ADJECTIVE-M,S,ABS:	סביר	I-NP	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:PRONOMIAL-MF,S,1	אל	B-NP	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+שלמה	:ADJECTIVE-F,S,ABS:	שלם	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+ובדיקות	CONJ:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+שיכולות	REL-SUBCONJ:MODAL-F,P,A,BEINONI:	יכול	O	O
+להבהיר	:VERB-TOINFINITIVE:	הבהיר	O	O
+התמונה	DEF:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+.	:PUNCUATION:	.	O	O
+

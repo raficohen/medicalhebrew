@@ -1,0 +1,46 @@
+ממצאי	:NOUN-M,P,CONST:	ממצא	B-NP	Finding-C0243095
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+מעידים	:VERB-M,P,A,BEINONI:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+נטייה	:NOUN-F,S,ABS:	נטייה	B-NP	O
+לקרישיות	:PREPOSITION:	לקרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+הוכחה	:NOUN-F,S,ABS:	הוכחה	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מונע	:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+בנוגדי	PREPOSITION:PARTICIPLE-M,P,A,CONST:	נגד	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+מונע	:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+הפעלות	:NOUN-F,P,ABS:	הפעלה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+אך	:CONJUNCTION:	אך	I-NP	O
+הדעות	DEF:NOUN-F,P,ABS:	דעה	B-NP	O
+לא	:NEGATION:	לא	O	O
+חד	:PREFIX:	חד	O	O
+משמעיות	:ADJECTIVE-F,P,ABS:	משמעי	O	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בויטמין	PREPOSITION:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+B6	:FOREIGN:	B6	I-NP	O
+ו	:CONJUNCTION:	ו	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+12	:NUMERAL:	###NUMBER###	I-NP	O
+B	:FOREIGN:	B	O	O
+ו	:CONJUNCTION:	ו	O	O
+ח'	:ADVERB:	ח'	O	O
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+תקופת	:NOUN-F,S,CONST:	תקופה	I-NP	Time periods-C0439582
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+

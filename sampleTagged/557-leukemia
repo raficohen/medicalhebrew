@@ -1,0 +1,46 @@
+HO	:FOREIGN:	HO	O	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לפריחה	PREPOSITION:NOUN-F,S,ABS:	פריחה	B-NP	skin rash-C0015230
+בעור	PREPOSITION+DEF:NOUN-M,S,ABS:	עור	B-NP	skin-C0444099
+אך	:CONJUNCTION:	אך	O	O
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+על	:PREPOSITION:	על	O	O
+כאבים	:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+בכפות	PREPOSITION:NOUN-F,P,CONST:	כף	B-NP	O
+הרגליים	DEF:NOUN-F,P,ABS:	רגל	I-NP	foot-C0016504
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	O	dose-C0178602
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בטוח	:ADJECTIVE-M,S,ABS:	בטוח	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לתרופה	PREPOSITION:NOUN-F,S,ABS:	תרופה	O	medicine-C0013227
+במידת	PREPOSITION:NOUN-F,S,CONST:	מידה	B-NP	O
+האפשר	:NOUN-M,S,ABS:	האפשר	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+את	:AT_PREP:	את	B-NP	O
+התרופה	DEF:NOUN-F,S,ABS:	תרופה	I-NP	medicine-C0013227
+(	:PUNCUATION:	(	I-NP	O
+המינון	DEF:NOUN-M,S,ABS:	מינון	I-NP	dosage-C0178602
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+!	:PUNCUATION:	!	O	O
+)	:PUNCUATION:	)	O	O
+לשבועיים	PREPOSITION:ADJECTIVE-M,P,ABS:	שבועי	O	O
+לפחות	:ADVERB:	לפחות	O	O
+ולראות	CONJ:VERB-TOINFINITIVE:	ראה	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+אחרת	:ADVERB:	אחרת	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לחפש	:VERB-TOINFINITIVE:	חיפש	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

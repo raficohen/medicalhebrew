@@ -1,0 +1,47 @@
+המושג	DEF:NOUN-M,S,ABS:	מושג	B-NP	Term (lexical)-C1705313
+דם	:NOUN-M,S,ABS:	דם	B-NP	blood-C0005767
+סמיך	:ADJECTIVE-M,S,ABS:	סמיך	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+ייתכן	:ADVERB:	ייתכן	O	O
+והכוונה	CONJ+DEF:NOUN-F,S,ABS:	כוונה	B-NP	intentions-C0162425
+לערכים	PREPOSITION:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+גבוהים	:ADJECTIVE-M,P,ABS:	גבוה	I-NP	O
+מהרגיל	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	רגיל	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מ	:PREPOSITION:	מ	O	O
+ס'	:NOUN-M,S,ABS:	ס'	B-NP	O
+כדוריות	:ADJECTIVE-F,P,ABS:	כדורי	I-NP	O
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+,	:PUNCUATION:	,	O	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	B-NP	hemoglobin-C0019046
+,	:PUNCUATION:	,	O	O
+מ	:PREPOSITION:	מ	O	O
+ס'	:NOUN-M,S,ABS:	ס'	B-NP	O
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+.	:PUNCUATION:	.	O	O
+
+מידע	:NOUN-M,S,ABS:	מידע	B-NP	Information-C1533716
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+ע"י	:PREPOSITION:	ע"י	O	O
+ביצוע	:NOUN-M,S,CONST:	ביצוע	B-NP	O
+ספירת	:NOUN-F,S,CONST:	ספירה	I-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+רגילה	:ADJECTIVE-F,S,ABS:	רגיל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לפי	:PREPOSITION:	לפי	O	O
+הנתונים	DEF:NOUN-M,P,ABS:	נתון	B-NP	O
+שנתת	REL-SUBCONJ:VERB-F,S,2,PAST:	נתן	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לקרישיות	:PREPOSITION:	לקרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+.	:PUNCUATION:	.	O	O
+

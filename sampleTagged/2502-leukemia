@@ -1,0 +1,45 @@
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+מהאף	PREPOSITION+DEF:NOUN-M,S,ABS:	אף	B-NP	nose-C0028429
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+שבהחלט	REL-SUBCONJ:ADVERB:	בהחלט	O	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להתרחש	:VERB-TOINFINITIVE:	התרחש	O	O
+.	:PUNCUATION:	.	O	O
+
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+שהוא	REL-SUBCONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+נגרם	:VERB-M,S,3,PAST:	נגרם	O	O
+עקב	:PREPOSITION:	עקב	O	O
+שימוש	:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+או	:CONJUNCTION:	או	O	O
+באספירין	PREPOSITION:NOUN-M,S,ABS:	אספירין	B-NP	aspirin-C0004057
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+מדיניות	:NOUN-F,S,CONST:	מדיניות	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+לאור	:PREPOSITION:	לאור	O	O
+האבחנה	DEF:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+-	:PUNCUATION:	-	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	I-NP	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+כדי	:CONJUNCTION:	כדי	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+המלצה	:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+נבונה	:ADJECTIVE-F,S,ABS:	נבון	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+המומחה	DEF:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION+DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

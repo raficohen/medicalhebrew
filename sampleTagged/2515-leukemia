@@ -1,0 +1,47 @@
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+ה	:NUMERAL:	ה	I-NP	O
+"	:PUNCUATION:	"	I-NP	O
+הפרעות	:NOUN-F,P,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+"	:PUNCUATION:	"	O	O
+שציינת	REL-SUBCONJ:VERB-F,S,2,PAST:	ציין	O	O
+אופיניות	:ADJECTIVE-F,P,ABS:	אופייני	B-NP	O
+להריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+ואינם	CONJ:COPULA-M,P,3,BEINONI,NEGATIVE:	הוא	O	O
+יכולות	:NOUN-F,P,ABS:	יכולת	B-NP	Ability-C0085732
+להצביע	:VERB-TOINFINITIVE:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+לא	:NEGATION:	לא	I-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+המלצה	:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+מושכלת	:ADJECTIVE-F,S,ABS:	מושכל	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לשמוע	:VERB-TOINFINITIVE:	שמע	O	O
+ולהבין	CONJ:VERB-TOINFINITIVE:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+וגורמי	CONJ:NOUN-M,P,CONST:	גורם	B-NP	O
+רקע	:NOUN-M,S,ABS:	רקע	I-NP	background-C1706907
+באופן	PREPOSITION:NOUN-M,S,ABS:	אופן	B-NP	Mode-C1513371-ambigous
+יותר	:ADVERB:	יותר	I-NP	O
+נרחב	:ADJECTIVE-M,S,ABS:	נרחב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+פנייה	:NOUN-F,S,ABS:	פנייה	B-NP	O
+לקרישולוג	PREPOSITION:NOUN-F,P,ABS:	קרישולוג	B-NP	O
+(	:PUNCUATION:	(	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+המומחה	DEF:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION+DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+)	:PUNCUATION:	)	O	O
+מתאים	:VERB-M,S,A,BEINONI:	התאים	O	O
+

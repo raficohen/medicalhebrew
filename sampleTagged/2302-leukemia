@@ -1,0 +1,35 @@
+לחסר	PREPOSITION:NOUN-M,S,ABS:	חסר	O	O
+בפרוטאין	PREPOSITION:NOUN-M,S,ABS:	פרוטאין	B-NP	protein-C0033684
+C	:FOREIGN:	C	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	B-NP	importance-C1705104
+.	:PUNCUATION:	.	O	O
+
+לערך	PREPOSITION:NOUN-M,S,ABS:	ערך	O	values-C0042295
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+,	:PUNCUATION:	,	O	O
+כנראה	:ADVERB:	כנראה	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	B-NP	importance-C1705104
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+מכיוון	:CONJUNCTION:	מכיוון	O	O
+שבדיקות	REL-SUBCONJ:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+מעבדה	:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+רק	:ADVERB:	רק	O	O
+פאן	:PREFIX:	פאן	O	O
+אחד	:VERB-M,S,3,PAST:	איחד	O	O
+של	:SHEL_PREP:	של	O	O
+התמונה	DEF:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+,	:PUNCUATION:	,	O	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+קבלת	:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+ממומחה	PREPOSITION:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

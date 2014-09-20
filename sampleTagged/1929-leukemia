@@ -1,0 +1,88 @@
+לא	:NEGATION:	לא	O	O
+הסברת	:VERB-F,S,2,PAST:	הסביר	O	O
+מדוע	:ADVERB:	מדוע	O	O
+נבדק	:VERB-M,S,3,PAST:	נבדק	O	O
+MTHFR	:FOREIGN:	MTHFR	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+אירוע	:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+ההריונות	DEF:NOUN-M,P,ABS:	הריון	B-NP	pregnancy-C0032961
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+תקינים	:ADJECTIVE-M,P,ABS:	תקין	O	O
+?	:PUNCUATION:	?	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+היתה	:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+בעיה	:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+מיוחדת	:ADJECTIVE-F,S,ABS:	מיוחד	I-NP	O
+ועברת	CONJ:VERB-M,S,3,PAST:	עברת	O	O
+4	:NUMERAL:	###NUMBER###	B-NP	O
+הריונות	:NOUN-M,P,ABS:	הריון	I-NP	pregnancy-C0032961
+ולידות	CONJ:NOUN-F,P,ABS:	לידה	B-NP	birth-C0005615
+תקינים	:ADJECTIVE-M,P,ABS:	תקין	I-NP	O
+לא	:NEGATION:	לא	O	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+בעיה	:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+עם	:PREPOSITION:	עם	O	O
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+או	:CONJUNCTION:	או	O	O
+התקן	DEF:NOUN-M,S,ABS:	תקן	B-NP	O
+המכיל	DEF:PARTICIPLE-M,S,A,ABS:	הכיל	O	O
+הורמונים	:NOUN-M,P,ABS:	הורמון	B-NP	hormones-C0019932
+.	:PUNCUATION:	.	O	O
+
+ליתר	PREPOSITION:NOUN-M,S,CONST:	יתר	O	O
+בטחון	:NOUN-M,S,ABS:	ביטחון	B-NP	defense-C1880266
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הומוציסטאין	:NOUN-M,S,ABS:	הומוציסטאין	I-NP	homocysteine-C0019878
+(	:PUNCUATION:	(	O	O
+כשאת	PREPOSITION:NOUN-F,S,ABS:	שאת	O	O
+לא	:NEGATION:	לא	O	O
+נוטלת	:VERB-F,S,A,BEINONI:	נטל	O	O
+ח	:NUMERAL:	ח	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+ככל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סכנת	:NOUN-F,S,CONST:	סכנה	B-NP	danger-C1428845
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+לקרישיות	PREPOSITION:NOUN-F,S,ABS:	קרישיות	B-NP	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+הכרח	:NOUN-M,S,ABS:	הכרח	B-NP	O
+בנטילת	PREPOSITION:NOUN-F,S,CONST:	נטילה	B-NP	O
+ח	:NUMERAL:	ח	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פולית	:ADJECTIVE-F,S,ABS:	פולית	O	Folic Acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

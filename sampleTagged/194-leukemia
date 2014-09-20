@@ -1,0 +1,33 @@
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+ארוך	:ADJECTIVE-M,S,ABS:	ארוך	I-NP	O
+ועצוב	CONJ:ADJECTIVE-M,S,ABS:	עצוב	I-NP	O
+1	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	I-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+בודד	:ADJECTIVE-M,S,ABS:	בודד	I-NP	O
+במשפחה	PREPOSITION+DEF:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+כולה	:QUANTIFIER:PRONOMIAL-F,S,3	כול	I-NP	O
+חשופה	:ADJECTIVE-F,S,ABS:	חשוף	O	O
+.	:PUNCUATION:	.	O	O
+
+2	:NUMERAL:	###NUMBER###	B-NP	O
+-	:PUNCUATION:	-	O	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+עושים	:VERB-M,P,A,BEINONI:	עשה	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+שיגרתיות	:ADJECTIVE-F,P,ABS:	שגרתי	I-NP	O
+ואפשר	CONJ:MODAL:	אפשר	O	O
+לאבחן	:VERB-TOINFINITIVE:	אבחן	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+שינוי	:NOUN-M,S,ABS:	שינוי	I-NP	difference-C1705241
+בס.ד	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	ס.	B-NP	O
+3	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+לוקמיה	:PROPERNAME:	לוקמיה	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להתפרץ	:VERB-TOINFINITIVE:	התפרץ	O	O
+בלי	:PREPOSITION:	בלי	O	O
+סימנים	:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+מקדימים	:VERB-M,P,A,BEINONI:	הקדים	O	O
+

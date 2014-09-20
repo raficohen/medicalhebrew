@@ -1,0 +1,26 @@
+לפי	:PREPOSITION:	לפי	O	O
+מיטב	:NOUN-M,S,CONST:	מיטב	B-NP	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+ITP	:FOREIGN:	ITP	B-NP	O
+ובין	CONJ:PREPOSITION:	בין	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בויטמין	PREPOSITION:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+D	:FOREIGN:	D	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	I-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+מטפל	:NOUN-M,S,ABS:	מטפל	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+אנדוקרינולוג	:NOUN-M,S,ABS:	אנדוקרינולוג	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+ויטמין	:NOUN-M,S,ABS:	ויטמין	B-NP	vitamin-C0042890
+D	:FOREIGN:	D	O	O
+

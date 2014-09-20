@@ -1,0 +1,31 @@
+מה	:INTERROGATIVE:	מה	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+יתר	:NOUN-M,S,CONST:	יתר	B-NP	O
+הספידות	DEF:NOUN-F,P,ABS:	ספידה	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+זמן	:NOUN-M,S,ABS:	זמן	I-NP	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	I-NP	O
+על	:PREPOSITION:	על	O	O
+600000	:NUMERAL:	###NUMBER###	B-NP	O
+?	:PUNCUATION:	?	O	O
+
+במדה	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,3	מד	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+אינדיקציה	:NOUN-F,S,ABS:	אינדיקציה	B-NP	indication-C0392360
+לביצוע	PREPOSITION:NOUN-M,S,CONST:	ביצוע	B-NP	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+את	:AT_PREP:	את	B-NP	O
+האספירין	DEF:NOUN-M,S,ABS:	אספירין	I-NP	aspirin-C0004057
+יומיים	:ADJECTIVE-M,P,ABS:	יומי	O	O
+שלשה	:NOUN-F,S,ABS:	שלשה	B-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+הביצוע	DEF:NOUN-M,S,ABS:	ביצוע	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+צריכה	:NOUN-F,S,ABS:	צריכה	B-NP	consumption-C0009830
+להיןת	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,3	הין	B-NP	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+

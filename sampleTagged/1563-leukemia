@@ -1,0 +1,36 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מצבים	:NOUN-M,P,ABS:	מצב	B-NP	Condition-C0348080
+אטניים	:PARTICIPLE-M,P,A,ABS:	אטניים	I-NP	O
+ומשפחתים	TEMP-SUBCONJ+CONJ:NOUN-M,P,ABS:	מש	O	O
+של	:SHEL_PREP:	של	O	O
+לויקופניה	:NOUN-F,P,ABS:	לויקופניות	B-NP	O
+(	:PUNCUATION:	(	I-NP	O
+ירידה	:NOUN-F,S,ABS:	ירידה	I-NP	Downward-C0205104
+בכדוריות	PREPOSITION:NOUN-F,S,ABS:	כדוריות	I-NP	O
+לבנות	PREPOSITION:NOUN-F,P,ABS:	בת	B-NP	daughter-C0011011
+)	:PUNCUATION:	)	O	O
+ויתכן	CONJ:MODAL:	ייתכן	O	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+שייך	:ADJECTIVE-M,S,ABS:	שייך	O	O
+לסוג	PREPOSITION:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+צריך	:MODAL-M,S,A:	צריך	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+.	:PUNCUATION:	.	O	O
+
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+הבסולוטי	DEF:ADJECTIVE-M,S,ABS:	הבסולוטי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+נויטרופילים	:PROPERNAME:	נויטרופילים	I-NP	O
+בתוך	:PREPOSITION:	בתוך	O	O
+הכ.ל	:VERB-F,S,2,PAST:	הכ.ל	O	O
+.	:PUNCUATION:	.	O	O
+
+קובע	:VERB-M,S,A,BEINONI:	קבע	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

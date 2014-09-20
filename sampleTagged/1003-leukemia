@@ -1,0 +1,26 @@
+בדר"כ	:ADVERB:	בדר"כ	O	O
+לנשאים	PREPOSITION:NOUN-M,P,ABS:	נשא	B-NP	carrier-C0560175
+בתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+נורמלית	:ADJECTIVE-F,S,ABS:	נורמלי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+גבוהה	:ADJECTIVE-F,S,ABS:	גבוה	I-NP	O
+מן	:PREPOSITION:	מן	O	O
+הרגיל	DEF:ADJECTIVE-M,S,ABS:	רגיל	B-NP	O
+אך	:CONJUNCTION:	אך	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בתזונה	PREPOSITION:NOUN-F,S,ABS:	תזונה	B-NP	nutrition-C0028707
+מיוחדת	:ADJECTIVE-F,S,ABS:	מיוחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+על	:PREPOSITION:	על	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+כדור	:NOUN-M,S,ABS:	כדור	I-NP	Pills-C0994475
+ביום	PREPOSITION:NOUN-M,S,ABS:	יום	B-NP	O
+.	:PUNCUATION:	.	O	O
+

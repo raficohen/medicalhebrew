@@ -1,0 +1,50 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+לפי	:PREPOSITION:	לפי	O	O
+מיטב	:NOUN-M,S,CONST:	מיטב	B-NP	O
+ידיעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	ידיעה	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+תופעות	:NOUN-F,P,ABS:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+למינון	PREPOSITION:NOUN-M,S,ABS:	מינון	B-NP	dosage-C0178602
+עודף	:ADJECTIVE-M,S,ABS:	עודף	I-NP	excess-C1979886
+של	:SHEL_PREP:	של	I-NP	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+.	:PUNCUATION:	.	O	O
+
+2	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+TSH	:FOREIGN:	TSH	O	O
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	I-NP	values-C0042295
+התקינים	DEF:ADJECTIVE-M,P,ABS:	תקין	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+3	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+מהי	:INTERROGATIVE:PRONOMIAL-F,S,3	מה	B-NP	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הטסיות	DEF:NOUN-F,S,ABS:	הטסיות	I-NP	O
+4	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ספירה	:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+של	:SHEL_PREP:	של	I-NP	O
+3.1	:NUMERAL:	###NUMBER###	I-NP	O
+כדוריות	:NOUN-F,S,ABS:	כדוריות	I-NP	O
+לבנות	:VERB-TOINFINITIVE:	בנה	O	O
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+מקבל	:VERB-M,S,A,BEINONI:	קיבל	O	O
+תרופות	:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+כלשהם	:PRONOUN-M,P:	כלשהו	I-NP	O
+?	:PUNCUATION:	?	O	O
+

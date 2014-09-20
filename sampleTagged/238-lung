@@ -1,0 +1,42 @@
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+האם	:INTERROGATIVE:	האם	O	O
+אימך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	B-NP	Mother-C0026591-ambigous
+קיבלה	:VERB-F,S,3,PAST:	קיבל	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+ארדיה	:NOUN-F,S,ABS:	ארדיה	I-NP	pamidronate-C0043603
+שאולי	REL-SUBCONJ:ADVERB:	אולי	O	O
+גרמה	:VERB-F,S,3,PAST:	גרם	O	O
+לתופעות	PREPOSITION:NOUN-F,P,CONST:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+קשות	:ADJECTIVE-F,P,ABS:	קשה	I-NP	O
+אלו	:PRONOUN-MF,P,3:	אלו	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בנוולבין	:PROPERNAME:	בנוולבין	I-NP	O
+אהיה	:COPULA-MF,S,1,FUTURE,POSITIVE:	הוא	O	O
+בחול	PREPOSITION:NOUN-M,S,ABS:	חול	B-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+אנה	:INTERROGATIVE:	אנה	O	O
+עכשיו	:ADVERB:	עכשיו	O	O
+על	:PREPOSITION:	על	O	O
+שאלות	:NOUN-F,P,CONST:	שאלה	B-NP	Question-C1522634
+מספר	:NOUN-M,S,CONST:	מספר	I-NP	number-C0237753
+ימים	:NOUN-M,P,ABS:	יום	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+בודק	:VERB-M,S,A,BEINONI:	בדק	O	O
+היטב	:ADVERB:	היטב	O	O
+עם	:PREPOSITION:	עם	O	O
+רופאיה	:NOUN-M,P,ABS:POSSESIVE-F,S,3	רופא	B-NP	doctor-C0031831
+אם	:CONJUNCTION:	אם	O	O
+לא	:NEGATION:	לא	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בתופעת	PREPOSITION:NOUN-F,S,CONST:	תופעה	B-NP	phenomenon-C1882365
+לוואי	:NOUN-M,S,ABS:	לוואי	I-NP	Effect-C1280500
+של	:SHEL_PREP:	של	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+נוולבין	:PROPERNAME:	נוולבין	B-NP	O
+חובב	:PROPERNAME-M,S:	חובב	O	O
+

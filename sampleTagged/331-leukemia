@@ -1,0 +1,21 @@
+בזמן	PREPOSITION:NOUN-M,S,CONST:	זמן	O	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+עלייה	:NOUN-F,S,ABS:	עלייה	B-NP	O
+בספירה	PREPOSITION+DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+הלבנה	DEF:ADJECTIVE-F,S,ABS:	לבן	I-NP	O
+ובאחוז	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	O	O
+יחסי	:ADJECTIVE-M,S,ABS:	יחסי	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+נויטרופילים	:PROPERNAME:	נויטרופילים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+היתר	:NOUN-M,S,ABS:	היתר	I-NP	License-C0023636
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+לדאוג	:VERB-TOINFINITIVE:	דאג	O	O
+.	:PUNCUATION:	.	O	O
+

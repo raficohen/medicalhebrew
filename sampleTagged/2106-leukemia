@@ -1,0 +1,27 @@
+ספירה	:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+טסיות	:NOUN-F,P,ABS:	טסיותות	I-NP	O
+,	:PUNCUATION:	,	O	O
+תרומבוציטופניה	:NOUN-F,S,ABS:	תרומבוציטופניה	B-NP	thrombocytopenia-C0040034
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+שיש	REL-SUBCONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+לברר	:VERB-TOINFINITIVE:	בירר	O	O
+את	:AT_PREP:	את	B-NP	O
+סיבתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	סיבה	I-NP	Causations-C0085978
+.	:PUNCUATION:	.	O	O
+
+רק	:CONJUNCTION:	רק	O	O
+אחרי	:PREPOSITION:	אחרי	O	O
+שיודעים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אפשר	:MODAL:	אפשר	O	O
+להציע	:VERB-TOINFINITIVE:	הציע	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+.	:PUNCUATION:	.	O	O
+

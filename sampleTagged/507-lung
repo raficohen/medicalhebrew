@@ -1,0 +1,24 @@
+מה	:INTERROGATIVE:	מה	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אומר	:VERB-M,S,A,BEINONI:	אמר	O	O
+?	:PUNCUATION:	?	O	O
+
+בין	:PREPOSITION:	בין	O	O
+מימצא	:NOUN-M,S,CONST:	מימצא	B-NP	O
+חסר	:NOUN-M,S,CONST:	חסר	I-NP	O
+משמעות	:NOUN-F,S,ABS:	משמעות	I-NP	significance-C0237881
+לבין	:PREPOSITION:	לבין	O	O
+מימצא	:NOUN-M,S,ABS:	מימצא	B-NP	O
+הדורש	DEF:PARTICIPLE-M,S,A,ABS:	דרש	O	O
+התיחסות	:NOUN-F,S,ABS:	התיחסות	B-NP	O
+והמשך	CONJ:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+בירור	:NOUN-M,S,ABS:	בירור	I-NP	O
+.	:PUNCUATION:	.	I-NP	O
+אנא	:INTERJECTION:	אנא	I-NP	O
+התיעצי	:VERB-F,S,2,IMPERATIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+הגורם	DEF:NOUN-M,S,ABS:	גורם	B-NP	O
+שאבחן	REL-SUBCONJ:VERB-M,S,3,PAST:	אבחן	O	O
+את	:AT_PREP:	את	B-NP	O
+המימצע	DEF:PARTICIPLE-F,S,A,ABS:	המימצע	I-NP	O
+

@@ -1,0 +1,54 @@
+לא	:NEGATION:	לא	O	O
+ראיתי	:VERB-MF,S,1,PAST:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+התוכנית	DEF:NOUN-F,S,ABS:	תוכנית	I-NP	O
+,	:PUNCUATION:	,	O	O
+אך	:CONJUNCTION:	אך	O	O
+לא	:NEGATION:	לא	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בשיטה	PREPOSITION:NOUN-F,S,ABS:	שיטה	B-NP	system-C0449913
+טיפולית	:ADJECTIVE-F,S,ABS:	טיפולי	I-NP	O
+ישומית	:PARTICIPLE-M,P,A,CONST:	ישומית	O	O
+אלא	:CONJUNCTION:	אלא	O	O
+על	:PREPOSITION:	על	O	O
+מחקר	:NOUN-M,S,ABS:	מחקר	B-NP	research-C0035168
+בלבד	:ADVERB:	בלבד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+כמה	:QUANTIFIER-CONST:	כמה	B-NP	O
+זמן	:NOUN-M,S,ABS:	זמן	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+CLL	:FOREIGN:	CLL	O	O
+,	:PUNCUATION:	,	O	O
+האם	:INTERROGATIVE:	האם	O	O
+את	:AT_PREP:	את	B-NP	O
+מקבלת	:VERB-F,S,A,BEINONI:	קיבל	I-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ואיזה	CONJ:QUANTIFIER-CONST:	איזה	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+הספירה	DEF:NOUN-F,S,ABS:	ספירה	B-NP	count-C0750480
+הלבנה	DEF:ADJECTIVE-F,S,ABS:	לבן	I-NP	O
+יחסית	:ADVERB:	יחסית	I-NP	O
+סבירה	:ADJECTIVE-F,S,ABS:	סביר	I-NP	O
+אך	:CONJUNCTION:	אך	I-NP	O
+ההמוגלובין	:ADVERB:	ההמוגלובין	I-NP	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+יחסית	:ADVERB:	יחסית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מה	:INTERROGATIVE:	מה	O	O
+עם	:PREPOSITION:	עם	O	O
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+?	:PUNCUATION:	?	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+נקודות	:NOUN-F,P,ABS:	נקודה	B-NP	point-C1552961
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+אפשר	:MODAL:	אפשר	O	O
+להתייחס	:VERB-TOINFINITIVE:	התייחס	O	O
+

@@ -1,0 +1,51 @@
+אם	:CONJUNCTION:	אם	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לעקוב	:VERB-TOINFINITIVE:	עקב	O	O
+ולבדוק	CONJ:VERB-TOINFINITIVE:	בדק	O	O
+שוב	:ADVERB:	שוב	O	O
+רמות	:NOUN-F,P,CONST:	רמה	B-NP	O
+ה	DEF::	ה	I-NP	O
+מ'	:NOUN-M,S,ABS:	מ'	I-NP	O
+וויט.ב	:PROPERNAME:	וויט.ב	B-NP	O
+12	:NUMERAL:	###NUMBER###	I-NP	O
+ופריטין	CONJ:NOUN-M,S,ABS:	פריטין	O	ferritin-C0015879
+.	:PUNCUATION:	.	O	O
+
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+של	:SHEL_PREP:	של	I-NP	O
+פריטין	:NOUN-M,S,ABS:	פריטין	I-NP	ferritin-C0015879
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+ללא	:PREPOSITION:	ללא	O	O
+לקיחת	:NOUN-F,S,CONST:	לקיחה	B-NP	Take-C1515187
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+דורש	:VERB-M,S,A,BEINONI:	דרש	O	O
+מעקב	:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לוויט.ב	:VERB-MF,P,2,IMPERATIVE:	לוויט.ב	O	O
+12	:NUMERAL:	###NUMBER###	B-NP	O
+הערך	DEF:NOUN-M,S,ABS:	ערך	I-NP	values-C0042295
+בגבול	PREPOSITION:NOUN-M,S,ABS:	גבול	B-NP	border-C0205284
+תחתון	:ADJECTIVE-M,S,ABS:	תחתון	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אפשר	:MODAL:	אפשר	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+כדור	:NOUN-M,S,ABS:	כדור	B-NP	Pills-C0994475
+אחד	:VERB-M,S,3,PAST:	איחד	I-NP	O
+תתלשוני	:VERB-F,P,3,FUTURE:	תתלשוני	O	O
+בשבוע	PREPOSITION+DEF:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפתוח	:VERB-TOINFINITIVE:	פתח	O	Opening-C1882151
+תיק	:NOUN-M,S,CONST:	תיק	B-NP	O
+מעקה	:NOUN-M,S,ABS:	מעקה	I-NP	O
+במרפאה	PREPOSITION:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+המטולוגית	:ADJECTIVE-F,S,ABS:	המטולוגית	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,41 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שבירור	REL-SUBCONJ:NOUN-M,S,CONST:	בירור	O	O
+כל	:QUANTIFIER-CONST:	כול	O	O
+כך	:PRONOUN:	כך	O	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	O	O
+נעשה	:VERB-M,S,3,PAST:	נעשה	O	O
+ע	:PROPERNAME:	ע	B-NP	O
+"	:PUNCUATION:	"	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+שמכיר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הכיר	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+היטב	:ADVERB:	היטב	O	O
+!	:PUNCUATION:	!	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לדון	:VERB-TOINFINITIVE:	דן	O	O
+איתו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+שוב	:ADVERB:	שוב	O	O
+.	:PUNCUATION:	.	O	O
+
+יתכן	:MODAL:	ייתכן	O	O
+שמדובר	REL-SUBCONJ:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בתסמונת	PREPOSITION:NOUN-F,S,CONST:	תסמונת	B-NP	syndrome-C0039082
+גילברט	:NOUN-M,S,ABS:	גילברט	I-NP	gilbert-C1551090
+ולא	CONJ:NEGATION:	לא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+הבעיה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+קרדיווסקולרית	:PROPERNAME:	קרדיווסקולרית	I-NP	O
+ו	:CONJUNCTION:	ו	O	O
+APTT	:FOREIGN:	APTT	O	O
+ratio	:FOREIGN:	ratio	O	O
+פר	:NOUN-M,S,ABS:	פר	B-NP	O
+'	:PUNCUATION:	'	O	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	O	O
+

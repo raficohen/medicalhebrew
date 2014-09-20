@@ -1,0 +1,25 @@
+קשה	:ADVERB:	קשה	O	O
+לזהות	:VERB-TOINFINITIVE:	זיהה	O	O
+סימפטומים	:NOUN-M,P,ABS:	סימפטום	B-NP	symptom-C1457887
+של	:SHEL_PREP:	של	I-NP	O
+סרטן	:NOUN-M,S,CONST:	סרטן	I-NP	malignancy-C0006826
+ערמונית	:NOUN-F,S,CONST:	ערמונית	I-NP	prostate-C0033572
+הסימפטומים	DEF:NOUN-M,P,ABS:	סימפטום	I-NP	symptom-C1457887
+לא	:NEGATION:	לא	O	O
+ספציפים	:ADJECTIVE-M,P,ABS:	ספציפים	O	O
+אפשר	:MODAL:	אפשר	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+PSA	:FOREIGN:	PSA	O	O
+זו	:PRONOUN-F,S,3:	זו	B-NP	O
+תשובה	:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+שטחית	:ADJECTIVE-F,S,ABS:	שטחי	I-NP	O
+שכן	:CONJUNCTION:	שכן	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+לפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+אורולוגים	:NOUN-M,P,ABS:	אורולוג	B-NP	O
+לא	:NEGATION:	לא	O	O
+עם	:PREPOSITION:	עם	O	O
+אונקולוג	:NOUN-M,S,ABS:	אונקולוג	B-NP	O
+

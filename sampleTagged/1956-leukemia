@@ -1,0 +1,52 @@
+את	:AT_PREP:	את	B-NP	O
+נשאית	:NOUN-F,S,ABS:	נשאית	I-NP	O
+למוטציה	PREPOSITION:NOUN-F,S,ABS:	מוטציה	O	mutation-C0026882
+בפקטור	PREPOSITION:NOUN-M,S,ABS:	פקטור	B-NP	O
+,	:PUNCUATION:	,	O	O
+הגורם	DEF:NOUN-M,S,ABS:	גורם	B-NP	O
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+ומעלה	CONJ:NOUN-M,S,CONST:	מעלה	B-NP	Upward-C1282911
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+לסיבוכי	PREPOSITION:NOUN-M,P,CONST:	סיבוך	B-NP	complication-C0009566
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+למנוע	:VERB-TOINFINITIVE:	מנע	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+תצטרכי	:VERB-F,S,2,FUTURE:	הצטרך	O	O
+לטול	PREPOSITION:NOUN-M,S,CONST:	טול	O	O
+קלקסו	:PROPERNAME:	קלקסו	B-NP	O
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+גבי	:NOUN-M,P,CONST:	גב	B-NP	back-C0004600
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+שחייבים	REL-SUBCONJ:ADJECTIVE-M,P,ABS:	חייב	O	O
+לטול	PREPOSITION:NOUN-M,S,CONST:	טול	O	O
+לפני	:PREPOSITION:	לפני	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+ובמהלכו	PREPOSITION+CONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	ב	O	O
+,	:PUNCUATION:	,	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ממושך	:ADJECTIVE-M,S,ABS:	ממושך	I-NP	O
+רק	:CONJUNCTION:	רק	O	O
+אם	:CONJUNCTION:	אם	O	O
+הומוציסטאין	:NOUN-M,S,ABS:	הומוציסטאין	B-NP	homocysteine-C0019878
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הטרוזיגוטיות	:NOUN-F,S,ABS:	הטרוזיגוטיות	B-NP	O
+למוטציה	PREPOSITION:NOUN-F,S,ABS:	מוטציה	O	mutation-C0026882
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+MTHFR	:FOREIGN:	MTHFR	O	O
+לא	:NEGATION:	לא	O	O
+מעלה	:VERB-M,S,A,BEINONI:	העלה	O	O
+סיכון	:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+לקרישיות	:PREPOSITION:	לקרישיות	O	O
+יתר	:NOUN-M,S,ABS:	יתר	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,43 @@
+לא	:NEGATION:	לא	O	O
+תמיד	:ADVERB:	תמיד	O	O
+אנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+מוצעים	:VERB-M,P,A,BEINONI:	הוצע	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+להפרעות	PREPOSITION:NOUN-F,P,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+קלות	:ADJECTIVE-F,P,ABS:	קל	I-NP	O
+בספירת	PREPOSITION:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+.	:PUNCUATION:	.	O	O
+
+בוודאי	:ADVERB:	בוודאי	O	O
+שללא	REL-SUBCONJ:PREPOSITION:	ללא	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ולקבל	CONJ:VERB-TOINFINITIVE:	קיבל	O	O
+תמונה	:NOUN-F,S,ABS:	תמונה	B-NP	Picture-C0441469
+מלאה	:ADJECTIVE-F,S,ABS:	מלא	I-NP	O
+לא	:NEGATION:	לא	O	O
+אוכל	:VERB-M,S,A,BEINONI:	אכל	O	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לאבחנה	PREPOSITION+DEF:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+.	:PUNCUATION:	.	O	O
+
+העובדה	DEF:NOUN-F,S,ABS:	עובדה	B-NP	Evidence-C0332120
+שמדובר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+הן	:ADVERB:	הן	B-NP	O
+בהפרעה	PREPOSITION:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+קלה	:ADJECTIVE-F,S,ABS:	קל	I-NP	O
+והן	CONJ:CONJUNCTION:	הן	O	O
+בהפרעה	PREPOSITION:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+שנמשכת	REL-SUBCONJ:VERB-F,S,A,BEINONI:	נמשך	O	O
+זמן	:NOUN-M,S,ABS:	זמן	B-NP	O
+ממושך	:ADJECTIVE-M,S,ABS:	ממושך	I-NP	O
+מעידה	:VERB-F,S,A,BEINONI:	העיד	O	O
+שקיימת	REL-SUBCONJ:ADJECTIVE-F,S,ABS:	קיים	O	O
+סבירות	:NOUN-F,S,ABS:	סבירות	O	Probability-C0033204
+שלא	REL-SUBCONJ:NEGATION:	לא	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בהפרעה	PREPOSITION:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

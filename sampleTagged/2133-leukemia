@@ -1,0 +1,29 @@
+מקובל	:NOUN-M,S,ABS:	מקובל	B-NP	O
+ש	:CONJUNCTION:	ש	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+IGG	:FOREIGN:	IGG	I-NP	O
+חשוב	:ADJECTIVE-M,S,ABS:	חשוב	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+מ	:PREPOSITION:	מ	O	O
+-	:PUNCUATION:	-	O	O
+IGM	:FOREIGN:	IGM	O	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+,	:PUNCUATION:	,	O	O
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+שאת	REL-SUBCONJ:AT_PREP:	את	B-NP	O
+מציינת	:VERB-F,S,A,BEINONI:	ציין	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+יחסית	:ADVERB:	יחסית	O	O
+נמוך	:ADJECTIVE-M,S,ABS:	נמוך	O	O
+,	:PUNCUATION:	,	O	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+שאין	REL-SUBCONJ:NEGATION:	אין	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+חשיבות	:NOUN-F,S,ABS:	חשיבות	B-NP	importance-C1705104
+מעשית	:ADJECTIVE-F,S,ABS:	מעשי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

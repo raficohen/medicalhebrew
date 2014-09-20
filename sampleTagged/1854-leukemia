@@ -1,0 +1,47 @@
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לאיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+ערך	:NOUN-M,S,ABS:	ערך	I-NP	values-C0042295
+את	:AT_PREP:	את	B-NP	O
+מתכוונת	:VERB-F,S,A,BEINONI:	התכוון	I-NP	O
+שאת	REL-SUBCONJ:AT_PREP:	את	I-NP	O
+אומרת	:VERB-F,S,A,BEINONI:	אמר	O	O
+המטולוגיה	:NOUN-F,S,ABS:	המטולוגיה	B-NP	hematology-C0018943
+?	:PUNCUATION:	?	O	O
+
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+ההמטולוגיה	DEF:NOUN-F,S,ABS:	ההמטולוגיה	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+רבות	:ADJECTIVE-F,P,ABS:	רב	I-NP	O
+ולא	CONJ:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+באיזה	PREPOSITION:QUANTIFIER-CONST:	איזה	B-NP	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+יצא	:VERB-M,S,3,PAST:	יצא	O	O
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+"	:PUNCUATION:	"	O	O
+.	:PUNCUATION:	.	O	O
+12	:NUMERAL:	###NUMBER###	B-NP	O
+האם	:INTERROGATIVE:	האם	O	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	B-NP	hemoglobin-C0019046
+.	:PUNCUATION:	.	O	O
+
+אנא	:INTERJECTION:	אנא	B-NP	O
+תבדקי	:VERB-F,S,2,FUTURE:	בדק	O	O
+והשלימי	CONJ:VERB-F,S,2,IMPERATIVE:	השלים	O	O
+את	:AT_PREP:	את	B-NP	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	I-NP	Question-C1522634
+בהתאם	:ADVERB:	בהתאם	O	O
+לכך	PREPOSITION:PRONOUN:	כך	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

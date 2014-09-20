@@ -1,0 +1,24 @@
+שילוב	:NOUN-M,S,ABS:	שילוב	B-NP	integration-C1158478
+של	:SHEL_PREP:	של	I-NP	O
+פרוגסטרון	:NOUN-M,S,ABS:	פרוגסטרון	I-NP	progesterone-C0033308
+,	:PUNCUATION:	,	O	O
+עישון	:NOUN-M,S,ABS:	עישון	B-NP	smoking-C0037369
+וגיל	CONJ:NOUN-M,S,ABS:	גיל	B-NP	O
+בהחלט	:ADVERB:	בהחלט	O	O
+מהווה	:VERB-M,S,A,BEINONI:	היווה	O	O
+גורם סיכון	:TERM:	גורם סיכון	O	risk factor-C0035648
+לקרישיות	PREPOSITION+DEF:NOUN-F,S,ABS:	הקרישיות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+מלא	:ADJECTIVE-M,S,ABS:	מלא	O	O
+כדי	:CONJUNCTION:	כדי	O	O
+להבין	:VERB-TOINFINITIVE:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+התועלת	DEF:NOUN-F,S,ABS:	תועלת	I-NP	O
+מול	:PREPOSITION:	מול	O	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+.	:PUNCUATION:	.	O	O
+

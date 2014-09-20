@@ -1,0 +1,34 @@
+תלסמיה	:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+לדאגה	PREPOSITION:NOUN-F,S,ABS:	דאגה	B-NP	concern-C2699424
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+משתי	PREPOSITION:NUMERAL-F,D,CONST:	CARD2	B-NP	O
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+.	:PUNCUATION:	.	O	O
+
+שערכי	REL-SUBCONJ:NOUN-M,P,CONST:	ערך	B-NP	values-C0042295
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+של	:SHEL_PREP:	של	I-NP	O
+האם	DEF:NOUN-F,S,ABS:	אם	I-NP	Mother-C0026591-ambigous
+נמוכים	:ADJECTIVE-M,P,ABS:	נמוך	O	O
+מדאי	:ADVERB:	מדאי	O	O
+ו/או	:VERB-MF,P,3,PAST:	ו/או	O	O
+שגם	REL-SUBCONJ:CONJUNCTION:	גם	O	O
+האב	DEF:NOUN-M,S,ABS:	אב	B-NP	father-C0015671
+תלסמי	:PROPERNAME:	תלסמי	I-NP	O
+וקיימת	CONJ:VERB-F,S,2,PAST:	קיים	O	O
+אפשרות	:NOUN-F,S,ABS:	אפשרות	B-NP	Ability-C0085732-ambigous
+שלילוד	PREPOSITION+REL-SUBCONJ+DEF:PARTICIPLE-M,S,A,ABS:	ל	B-NP	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+תלסמיה	:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+מסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+מיגור	:NOUN-M,S,CONST:	מיגור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סיבות	:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+לדאגה	PREPOSITION:NOUN-F,S,ABS:	דאגה	B-NP	concern-C2699424
+.	:PUNCUATION:	.	O	O
+

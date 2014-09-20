@@ -1,0 +1,45 @@
+רוני	:PROPERNAME:	רון	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הדבר	DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+מצביע	:VERB-M,S,A,BEINONI:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+מילופרוליפרטיבית	PREPOSITION:NOUN-F,P,ABS:	ילופרוליפרטיבית	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מח	:NOUN-M,S,CONST:	מח	I-NP	O
+עצם	:NOUN-M,S,ABS:	עצם	I-NP	bone-C0262950
+.	:PUNCUATION:	.	O	O
+
+המוטציה	DEF:NOUN-F,S,ABS:	מוטציה	B-NP	mutation-C0026882
+מופיעה	:VERB-F,S,A,BEINONI:	הופיע	O	O
+במספר	PREPOSITION:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+מחלות	:NOUN-F,P,ABS:	מחלה	I-NP	disease-C0012634
+מילופרוליפרטיביות	:PROPERNAME:	מילופרוליפרטיביות	I-NP	O
+ובמיוחד	CONJ:ADVERB:	במיוחד	O	O
+במקרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+פוליציטמיה	:PROPERNAME:	פוליציטמיה	I-NP	O
+ורה	CONJ:PROPERNAME:	רה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהתאם	:ADVERB:	בהתאם	O	O
+לסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+ובדיקות	CONJ:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+הדם	DEF:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+נדרשת	:VERB-F,S,A,BEINONI:	נדרש	O	O
+החלטה	:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+על	:PREPOSITION:	על	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

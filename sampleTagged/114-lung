@@ -1,0 +1,80 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קצת	:ADVERB:	קצת	O	O
+מוזר	:ADJECTIVE-M,S,ABS:	מוזר	O	O
+שכבר	REL-SUBCONJ:ADVERB:	כבר	O	O
+שלושה	:NUMERAL-M,P,ABS:	CARD3	B-NP	O
+שבועות	:NOUN-M,P,ABS:	שבוע	I-NP	week-C0439230
+אתה	:PRONOUN-M,S,2:	הוא	I-NP	O
+סובל	:VERB-M,S,A,BEINONI:	סבל	O	suffering-C0683278
+מבעיה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+שמאוד	REL-SUBCONJ:ADVERB:	מאוד	O	O
+מטרידה	:VERB-F,S,A,BEINONI:	הטריד	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+וטרם	CONJ:ADVERB:	טרם	O	O
+נבדקת	:VERB-F,S,A,BEINONI:	נבדק	O	O
+.	:PUNCUATION:	.	O	O
+
+הפורום	DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+מטרתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	מטרה	B-NP	goal-C0018017
+להבהיר	:VERB-TOINFINITIVE:	הבהיר	O	O
+דברים	:NOUN-M,P,ABS:	דבר	B-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+תחליף	:NOUN-M,S,ABS:	תחליף	B-NP	substitute-c0814761-ambigous
+לבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+או	:CONJUNCTION:	או	O	O
+מרפאה	:NOUN-F,S,ABS:	מרפאה	B-NP	Clinic-C0442592
+.	:PUNCUATION:	.	O	O
+
+סביר	:ADJECTIVE-M,S,ABS:	סביר	O	O
+להניח	:VERB-TOINFINITIVE:	הניח	O	O
+שמדובר	REL-SUBCONJ:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בכאב	PREPOSITION:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+שמקורו	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,S,3	מקור	B-NP	Source-C0449416
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	B-NP	Wall structure-C0442069
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+-	:PUNCUATION:	-	I-NP	O
+כלומר	:CONJUNCTION:	כלומר	I-NP	O
+שרירים	:NOUN-M,P,ABS:	שריר	I-NP	muscle-C0026845
+ו/או	:PROPERNAME:	ו/או	I-NP	O
+עצמות	:NOUN-F,P,ABS:	עוצמה	I-NP	Power-C0031205
+,	:PUNCUATION:	,	O	O
+על	:PREPOSITION:	על	O	O
+רקע	:NOUN-M,S,CONST:	רקע	B-NP	background-C1706907
+פעילות גופנית	:TERM:	פעילות גופנית	O	physical exercise-C0015259
+או	:CONJUNCTION:	או	I-NP	O
+תנוחה	:NOUN-F,S,ABS:	תנוחה	I-NP	posture-C1262869
+לא	:NEGATION:	לא	I-NP	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	I-NP	O
+וכד'	PREPOSITION+CONJ:NOUN-M,S,ABS:	כ	O	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+אופן	:NOUN-M,S,ABS:	אופן	I-NP	Mode-C1513371-ambigous
+שווה	:CONJUNCTION:	שווה	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+ולהפסיק	CONJ:VERB-TOINFINITIVE:	הפסיק	O	O
+לעשן	:VERB-TOINFINITIVE:	עישן	O	O
+מיד	:ADVERB:	מייד	O	O
+כבר	:ADVERB:	כבר	O	O
+אמרתי	:VERB-MF,S,1,PAST:	אמר	O	O
+?	:PUNCUATION:	?	O	O
+
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+שבוע	:NOUN-M,S,ABS:	שבוע	I-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

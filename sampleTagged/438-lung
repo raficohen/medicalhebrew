@@ -1,0 +1,128 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+,	:PUNCUATION:	,	O	O
+לאחר	:CONJUNCTION:	לאחר	O	O
+האבחנה	DEF:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+של	:SHEL_PREP:	של	I-NP	O
+גידול	:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+ממאיר	:ADJECTIVE-M,S,ABS:	ממאיר	I-NP	malignant-C0205282
+בריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להעריך	:VERB-TOINFINITIVE:	העריך	O	O
+את	:AT_PREP:	את	B-NP	O
+מידת	:NOUN-F,S,CONST:	מידה	I-NP	O
+התפשטותו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	התפשטות	I-NP	O
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+במילים	PREPOSITION:NOUN-F,P,ABS:	מילה	B-NP	circumcision-C0008819
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+את	:AT_PREP:	את	B-NP	O
+דרוג	:ADJECTIVE-M,S,ABS:	דרוג	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+רק	:CONJUNCTION:	רק	O	O
+לאותם	PREPOSITION:QUANTIFIER:PRONOMIAL-M,P,3	אותו	B-NP	O
+חולים	:ADJECTIVE-M,P,ABS:	חולה	O	O
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+מוגבל	:ADJECTIVE-M,S,ABS:	מוגבל	O	O
+לריאה	PREPOSITION+DEF:NOUN-F,S,ABS:	ריאה	B-NP	lung-C0024109
+עצמה	:VERB-F,S,3,PAST:	עצם	O	bone-C0262950
+ללא	:PREPOSITION:	ללא	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+לגרורות	PREPOSITION:NOUN-F,P,ABS:	גרורה	B-NP	metastasis-C0027627
+.	:PUNCUATION:	.	O	O
+
+הופעת	:NOUN-F,S,CONST:	הופעה	B-NP	appearance-C0233426
+גרורות	:NOUN-F,P,ABS:	גרורה	I-NP	metastasis-C0027627
+מעידה	:VERB-F,S,A,BEINONI:	העיד	O	O
+על	:PREPOSITION:	על	O	O
+שלב	:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+מתקדם	:ADJECTIVE-M,S,ABS:	מתקדם	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+,	:PUNCUATION:	,	O	O
+וכמובן	CONJ:ADVERB:	כמובן	O	O
+פרוגנוזה	:NOUN-F,S,ABS:	פרוגנוזה	B-NP	prognosis-C0033325
+פחות	:ADVERB:	פחות	I-NP	O
+טובה	:ADJECTIVE-F,S,ABS:	טוב	I-NP	good-C0205170
+.	:PUNCUATION:	.	O	O
+
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+טיפול	:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+הבחירה	DEF:NOUN-F,S,ABS:	בחיר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כימי	:ADJECTIVE-M,S,ABS:	כימי	I-NP	O
+,	:PUNCUATION:	,	O	O
+דוגמת	:NOUN-F,S,CONST:	דוגמה	B-NP	example-C1707959
+מה	:INTERROGATIVE:	מה	I-NP	O
+שאביך	REL-SUBCONJ:VERB-MF,S,1,FUTURE:	הביך	O	O
+מקבל	:VERB-M,S,A,BEINONI:	קיבל	O	O
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+בשילוב	PREPOSITION:NOUN-M,S,ABS:	שילוב	O	integration-C1158478
+עם	:PREPOSITION:	עם	O	O
+טיפול	:NOUN-M,S,CONST:	טיפול	B-NP	Therapeutic procedure-C0087111
+הקרנתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	הקרנה	I-NP	radiation-C0034519
+,	:PUNCUATION:	,	O	O
+מטרתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	מטרה	B-NP	goal-C0018017
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+בגידול	PREPOSITION+DEF:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+.	:PUNCUATION:	.	O	O
+
+במרבית	PREPOSITION:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+קשה	:ADVERB:	קשה	O	O
+למגר	:VERB-TOINFINITIVE:	מיגר	O	O
+את	:AT_PREP:	את	B-NP	O
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+עם	:PREPOSITION:	עם	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+בלבד	:ADVERB:	בלבד	O	O
+.	:PUNCUATION:	.	O	O
+
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להאריך	:VERB-TOINFINITIVE:	האריך	O	O
+חיים	:NOUN-M,P,ABS:	חיים	B-NP	life-C0376558
+או	:CONJUNCTION:	או	O	O
+לשפר	:VERB-TOINFINITIVE:	שיפר	O	O
+את	:AT_PREP:	את	B-NP	O
+איכותם	:NOUN-F,S,ABS:POSSESIVE-M,P,3	איכות	I-NP	quality-C0332306
+עד	:PREPOSITION:	עד	O	O
+שלב	:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+מסוים	:ADJECTIVE-M,S,ABS:	מסוים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+וכדאי	CONJ:MODAL:	כדאי	O	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	I-NP	O
+שיסביר	REL-SUBCONJ:VERB-M,S,3,FUTURE:	הסביר	O	O
+על	:PREPOSITION:	על	O	O
+מידת	:NOUN-F,S,CONST:	מידה	B-NP	O
+התפשטות	:NOUN-F,S,CONST:	התפשטות	I-NP	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+,	:PUNCUATION:	,	O	O
+ועל	CONJ:PREPOSITION:	על	O	O
+המטרות	DEF:NOUN-F,P,ABS:	מטרה	B-NP	goal-C0018017
+הטיפוליות	DEF:ADJECTIVE-F,P,ABS:	טיפולי	I-NP	O
+אותן	:AT_PREP:PRONOMIAL-F,P,3	את	B-NP	O
+רוצים	:VERB-M,P,A,BEINONI:	רצה	O	O
+להשיג	:VERB-TOINFINITIVE:	השיג	O	O
+.	:PUNCUATION:	.	O	O
+

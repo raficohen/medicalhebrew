@@ -1,0 +1,25 @@
+בהחלט	:ADVERB:	בהחלט	O	O
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+,	:PUNCUATION:	,	O	O
+קרוב	:NOUN-M,S,ABS:	קרוב	O	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+,	:PUNCUATION:	,	O	O
+יפנה	:VERB-M,S,3,FUTURE:	פנה	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לביצוע	PREPOSITION:NOUN-M,S,CONST:	ביצוע	B-NP	O
+ס"ד	:PROPERNAME:	ס"ד	I-NP	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+-	:PUNCUATION:	-	I-NP	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	I-NP	O
+המטולוגי	:PREPOSITION:	המטולוגי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

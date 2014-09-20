@@ -1,0 +1,80 @@
+הדבר	DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+החשוב	DEF:ADJECTIVE-M,S,ABS:	חשוב	I-NP	O
+ביותר	:ADVERB:	ביותר	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+לנסות	:VERB-TOINFINITIVE:	ניסה	O	O
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+אבחנה	:NOUN-F,S,ABS:	אבחנה	B-NP	diagnosis-C0011900
+מה	:INTERROGATIVE:	מה	B-NP	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+הסימנים	DEF:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+הנוירולוגים	DEF:NOUN-M,P,ABS:	נוירולוג	I-NP	Neurologist-C0237426
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+משמעותיים	:ADJECTIVE-M,P,ABS:	משמעותי	O	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+כך	:PRONOUN:	כך	B-NP	O
+תצטרך	:VERB-F,S,3,FUTURE:	הצטרך	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+נוירולוג	:NOUN-M,S,ABS:	נוירולוג	B-NP	Neurologist-C0237426
+.	:PUNCUATION:	.	O	O
+
+קיום	:NOUN-M,S,CONST:	קיום	B-NP	Exist-C2987476
+CT	:FOREIGN:	CT	I-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	I-NP	O
+לא	:NEGATION:	לא	O	O
+שולל	:VERB-M,S,A,BEINONI:	שלל	O	O
+שהיתה	REL-SUBCONJ:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+נוירולוגית	:NOUN-F,S,ABS:	נוירולוג	I-NP	Neurologist-C0237426
+.	:PUNCUATION:	.	O	O
+
+לעיתים	:ADVERB:	לעתים	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+באמצעי	PREPOSITION:NOUN-M,P,CONST:	אמצע	B-NP	Middle-C0444598
+הדמייה	:NOUN-F,S,ABS:	הדמייה	I-NP	O
+נוספים	:ADJECTIVE-M,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הקרדיוליפין	DEF:NOUN-M,S,ABS:	הקרדיוליפין	B-NP	O
+-	:PUNCUATION:	-	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	I-NP	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+חיובי	:ADJECTIVE-M,S,ABS:	חיובי	O	O
+.	:PUNCUATION:	.	O	O
+
+ערך	:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+שחורג	REL-SUBCONJ:VERB-M,S,A,BEINONI:	חרג	O	O
+מהנורמה	PREPOSITION+DEF:NOUN-F,S,ABS:	נורמה	B-NP	Normal-C0205307
+עדיין	:ADVERB:	עדיין	O	O
+לא	:NEGATION:	לא	O	O
+מצביעה	:VERB-F,S,A,BEINONI:	הצביע	O	O
+על	:PREPOSITION:	על	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+אמיתית	:ADJECTIVE-F,S,ABS:	אמיתי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מתנצל	:VERB-M,S,A,BEINONI:	התנצל	O	O
+על	:PREPOSITION:	על	O	O
+תשובתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	תשובה	B-NP	answer-C1706817
+המאוחרת	DEF:ADJECTIVE-F,S,ABS:	מאוחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ראיתי	:VERB-MF,S,1,PAST:	ראה	O	O
+את	:AT_PREP:	את	B-NP	O
+שאלתך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	שאלה	I-NP	Question-C1522634
+עד	:PREPOSITION:	עד	I-NP	O
+כה	:ADVERB:	כה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

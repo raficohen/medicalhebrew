@@ -1,0 +1,44 @@
+1	:NUMERAL:	###NUMBER###	O	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להתכתב	:VERB-TOINFINITIVE:	התכתב	O	O
+בצרפתית	PREPOSITION:PROPERNAME-F,S:	צרפתית	B-NP	O
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	O	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+נתונים	:NOUN-M,P,ABS:	נתון	B-NP	O
+כי	:CONJUNCTION:	כי	O	O
+נוכחות	:NOUN-F,S,CONST:	נוכחות	B-NP	presence-C0392148
+המוטציה	DEF:NOUN-F,S,ABS:	מוטציה	I-NP	mutation-C0026882
+משנה	:VERB-M,S,A,BEINONI:	שינה	O	sleep-C0037313
+את	:AT_PREP:	את	B-NP	O
+אורך	:NOUN-M,S,CONST:	אורך	I-NP	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+הממוצע	DEF:ADJECTIVE-M,S,ABS:	ממוצע	I-NP	O
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+MPD	:FOREIGN:	MPD	O	O
+.	:PUNCUATION:	.	O	O
+
+כרגע	:ADVERB:	כרגע	O	O
+מנסים	:VERB-M,P,A,BEINONI:	ניסה	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+האם	:INTERROGATIVE:	האם	O	O
+מתן	:NOUN-M,S,CONST:	מתן	B-NP	negotiations-C0680727
+ANTI	:FOREIGN:	ANTI	I-NP	O
+JAK	:FOREIGN:	JAK	I-NP	O
+2	:NUMERAL:	###NUMBER###	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לעזור	:VERB-TOINFINITIVE:	עזר	O	O
+בהקלת	PREPOSITION:NOUN-F,S,CONST:	הקלה	B-NP	relieved-C1301771
+השימנים	DEF:PARTICIPLE-M,P,A,ABS:	השימנים	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+עדיין	:ADVERB:	עדיין	O	O
+לא	:NEGATION:	לא	O	O
+בהארכת	PREPOSITION:NOUN-F,S,CONST:	הארכה	O	O
+אורך	:NOUN-M,S,CONST:	אורך	B-NP	O
+החיים	DEF:NOUN-M,P,ABS:	חיים	I-NP	life-C0376558
+.	:PUNCUATION:	.	O	O
+

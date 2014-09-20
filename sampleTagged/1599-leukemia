@@ -1,0 +1,19 @@
+תוצאות	:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	I-NP	examination-C0031809
+מחיבות	PREPOSITION:NOUN-F,P,CONST:	חיבה	B-NP	O
+השלמת	:NOUN-F,S,CONST:	השלמה	I-NP	O
+הבירור	DEF:NOUN-M,S,ABS:	בירור	I-NP	O
+אצל	:PREPOSITION:	אצל	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+ויעוץ	CONJ:VERB-M,S,3,FUTURE:	עץ	O	O
+של	:SHEL_PREP:	של	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+/	:PUNCUATION:	/	O	O
+אימונולוג	:PROPERNAME:	אימונולוג	B-NP	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+תסמונת	:NOUN-F,S,CONST:	תסמונת	B-NP	syndrome-C0039082
+APLA	:FOREIGN:	APLA	I-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,39 @@
+אי	:PREFIX:	אי	O	Islands-C0022130
+אפשר	:MODAL:	אפשר	O	O
+לאבחן	:VERB-TOINFINITIVE:	אבחן	O	O
+דבר	:NOUN-M,S,ABS:	דבר	B-NP	O
+עם	:PREPOSITION:	עם	O	O
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+אלא	:CONJUNCTION:	אלא	O	O
+.	:PUNCUATION:	.	O	O
+
+אך	:CONJUNCTION:	אך	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+ב	:PREPOSITION:	ב	O	O
+wbc	:FOREIGN:	wbc	O	O
+,	:PUNCUATION:	,	O	O
+כדוריות	:NOUN-F,S,CONST:	כדוריות	B-NP	O
+לבנות	:VERB-TOINFINITIVE:	בנה	O	O
+,	:PUNCUATION:	,	O	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשורה	:ADJECTIVE-F,S,ABS:	קשור	O	O
+ל	:PREPOSITION:	ל	O	O
+מוצא	:NOUN-M,S,ABS:	מוצא	B-NP	origin-C0439659
+תימני	:ADJECTIVE-M,S,ABS:	תימני	I-NP	O
+או	:CONJUNCTION:	או	O	O
+למחלה	PREPOSITION:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+וירלית	:ADJECTIVE-F,S,ABS:	וירלית	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+ביקורת	:NOUN-F,S,ABS:	ביקורת	B-NP	Criticism-C0870379
+וכבובן	:ADJECTIVE-M,P,CONST:	וכבובן	I-NP	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	I-NP	examination-C0031809
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+אצל	:PREPOSITION:	אצל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+

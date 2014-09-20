@@ -1,0 +1,24 @@
+על	:PREPOSITION:	על	O	O
+פניו	:NOUN-MF,P,ABS:POSSESIVE-M,S,3	פנים	B-NP	face-C0015450
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+כי	:CONJUNCTION:	כי	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+כאן	:ADVERB:	כאן	O	O
+מצב	:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+סרטן	:NOUN-M,S,CONST:	סרטן	I-NP	malignancy-C0006826
+מעי גס	:TERM:	מעי גס	O	large intestine-C0021851
+מפושט	:VERB-M,S,A,BEINONI:	פושט	O	O
+שדורש	REL-SUBCONJ:VERB-M,S,A,BEINONI:	דרש	O	O
+קו	:NOUN-M,S,ABS:	קו	B-NP	line-C0205132
+טיפולי	:ADJECTIVE-M,S,ABS:	טיפולי	I-NP	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+על	:PREPOSITION:	על	O	O
+הכמו	DEF:NOUN-M,P,ABS:	הכמו	B-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לדון	:VERB-TOINFINITIVE:	דן	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+מטפל	:VERB-M,S,A,BEINONI:	טיפל	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

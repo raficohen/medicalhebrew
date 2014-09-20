@@ -1,0 +1,106 @@
+אפרת	:PROPERNAME:	אפרת	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קיימות	:NOUN-F,S,CONST:	קיימות	B-NP	O
+סיבות	:NOUN-F,P,ABS:	סיבה	I-NP	Causations-C0085978
+אחדות	:ADJECTIVE-F,P,ABS:	אחדים	I-NP	O
+הגורמות	DEF:PARTICIPLE-F,P,A,ABS:	גרם	O	O
+לכאב	PREPOSITION:NOUN-M,S,CONST:	כאב	B-NP	pain-C0030193
+בצלע/ות	:PARTICIPLE-F,P,A,CONST:	בצלע/ות	O	O
+והסיבות	CONJ+DEF:NOUN-F,P,ABS:	סיבה	B-NP	Causations-C0085978
+השכיחות	DEF:ADJECTIVE-F,P,ABS:	שכיח	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+הן	:CONJUNCTION:	הן	I-NP	O
+חבלה	:NOUN-F,S,ABS:	חבלה	I-NP	trauma-C0043251
+(	:PUNCUATION:	(	O	O
+לא	:NEGATION:	לא	O	O
+תמיד	:ADVERB:	תמיד	O	O
+מודעים	:ADJECTIVE-M,P,ABS:	מודע	O	O
+לה	:PREPOSITION:PRONOMIAL-F,S,3	ל	B-NP	O
+)	:PUNCUATION:	)	O	O
+,	:PUNCUATION:	,	O	O
+דלקת	:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+והשכיחות	CONJ+DEF:NOUN-F,S,ABS:	שכיחות	B-NP	O
+פחות	:ADVERB:	פחות	I-NP	O
+קשורות	:ADJECTIVE-F,P,ABS:	קשור	I-NP	O
+לתהליכים	PREPOSITION:NOUN-M,P,ABS:	תהליך	B-NP	process-C1184743
+גידוליים	:ADJECTIVE-M,P,ABS:	גידוליים	I-NP	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	O	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+מפרטי	PREPOSITION:NOUN-M,P,CONST:	פרט	B-NP	details-C1522508-ambigous
+המקרה	DEF:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+אם	:CONJUNCTION:	אם	O	O
+מקור	:NOUN-M,S,CONST:	מקור	B-NP	Source-C0449416
+הכאב	DEF:NOUN-M,S,ABS:	כאב	I-NP	pain-C0030193
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+בצלע	PREPOSITION+DEF:NOUN-F,S,ABS:	צלע	B-NP	ribs-C0035561
+או	:CONJUNCTION:	או	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אחרת	:ADJECTIVE-F,S,ABS:	אחר	I-NP	O
+בדופן	PREPOSITION:NOUN-MF,S,CONST:	דופן	O	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+אכן	:ADVERB:	אכן	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+באזור	PREPOSITION:NOUN-M,S,CONST:	אזור	B-NP	area-C0017446
+דופן	:NOUN-MF,S,CONST:	דופן	I-NP	Wall structure-C0442069
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+(	:PUNCUATION:	(	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+הבטן	DEF:NOUN-F,S,ABS:	בטן	B-NP	abdomen-C0000726
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+קיימים	:ADJECTIVE-M,P,ABS:	קיים	O	O
+אזורי	:NOUN-M,P,CONST:	אזור	B-NP	area-C0017446
+חפיפה	:NOUN-F,S,ABS:	חפיפה	I-NP	O
+בין	:PREPOSITION:	בין	O	O
+החזה	DEF:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+לבין	:PREPOSITION:	לבין	O	O
+הבטן	DEF:NOUN-F,S,ABS:	בטן	B-NP	abdomen-C0000726
+)	:PUNCUATION:	)	O	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לכירוג	PREPOSITION:NOUN-M,S,CONST:	כירוג	B-NP	O
+חזה	:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+במקום	:PREPOSITION:	במקום	O	O
+מגוריך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	מגורים	B-NP	O
+לבדיקה	PREPOSITION:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+ממצאי	:NOUN-M,P,CONST:	ממצא	I-NP	Finding-C0243095
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	I-NP	examination-C0031809
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בברור	PREPOSITION:ADJECTIVE-M,S,ABS:	ברור	O	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	O	O
+שעיקרו	REL-SUBCONJ:VERB-MF,P,3,PAST:	עיקר	O	O
+הדמיה	:NOUN-F,S,ABS:	הדמיה	B-NP	imaging-C0011923
+,	:PUNCUATION:	,	O	O
+וכאמור	PREPOSITION+CONJ+DEF:ADJECTIVE-M,S,ABS:	כ	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+ניסיון	:NOUN-M,S,ABS:	ניסיון	B-NP	Experience-C0596545-ambigous
+להקטין	:VERB-TOINFINITIVE:	הקטין	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+לנשים	PREPOSITION:NOUN-F,P,ABS:	איש	O	people-C0027361
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+שבוע	:NOUN-M,S,ABS:	שבוע	B-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,39 @@
+בגלל	:CONJUNCTION:	בגלל	O	O
+שהארוע	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	אירוע	B-NP	event-C0441471
+התרחש	:VERB-M,S,3,PAST:	התרחש	O	O
+בגיל	PREPOSITION:NOUN-M,S,ABS:	גיל	B-NP	O
+צעיר	:ADJECTIVE-M,S,ABS:	צעיר	I-NP	O
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+נרחב	:ADJECTIVE-M,S,ABS:	נרחב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+להמליץ	:VERB-TOINFINITIVE:	המליץ	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+.	:PUNCUATION:	.	O	O
+
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+צריך	:MODAL-M,S,A:	צריך	O	O
+להמליץ	:VERB-TOINFINITIVE:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+לא	:NEGATION:	לא	O	O
+מצוי	:ADJECTIVE-M,S,ABS:	מצוי	O	O
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+,	:PUNCUATION:	,	O	O
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+להמטולוג	:NOUN-M,S,ABS:	להמטולוג	B-NP	O
+מומחה	:ADJECTIVE-M,S,ABS:	מומחה	I-NP	Specialist Physician-C2348234
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

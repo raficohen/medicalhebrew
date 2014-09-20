@@ -1,0 +1,50 @@
+המיקרופירין	DEF:NOUN-M,S,ABS:	המיקרופירין	B-NP	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+כטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	O	prevention-C0199176
+חסימת	:NOUN-F,S,CONST:	חסימה	B-NP	blocking-C0233660
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+ולא	CONJ:NEGATION:	לא	O	O
+נגד	:PREPOSITION:	נגד	O	O
+כאבים	:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+.	:PUNCUATION:	.	O	O
+
+בדר"כ	:PROPERNAME:	בדר"כ	B-NP	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+את	:AT_PREP:	את	B-NP	O
+הכדור	DEF:NOUN-M,S,ABS:	כדור	I-NP	Pills-C0994475
+אחרי	:PREPOSITION:	אחרי	O	O
+אוכל	:NOUN-M,S,ABS:	אוכל	B-NP	food-C0016452
+ללא	:PREPOSITION:	ללא	O	O
+קשרמ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	קשר	B-NP	connection-C0449379
+לכמות	PREPOSITION:NOUN-F,S,CONST:	כמות	B-NP	amount-C1265611
+האוכל	DEF:NOUN-M,S,ABS:	אוכל	I-NP	food-C0016452
+,	:PUNCUATION:	,	O	O
+וגם	CONJ:CONJUNCTION:	גם	O	O
+סנדביץ	:PROPERNAME:	סנדביץ	B-NP	O
+מספיק	:ADVERB:	מספיק	O	O
+בבוקר	PREPOSITION+DEF:NOUN-M,S,ABS:	בוקר	B-NP	morning-C0332170
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואח"כ	CONJ:CONJUNCTION:	אח"כ	O	O
+נזקק	:VERB-M,S,3,PAST:	נזקק	O	O
+לתרופות	PREPOSITION:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+נגד	:PREPOSITION:	נגד	O	O
+כאבים	:NOUN-M,P,ABS:	כאב	B-NP	pain-C0030193
+-	:PUNCUATION:	-	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	I-NP	O
+צורך	:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+בתרופות	PREPOSITION:NOUN-F,P,ABS:	תרופה	B-NP	medicine-C0013227
+אחרות	:ADJECTIVE-F,P,ABS:	אחר	I-NP	O
+אומפרדיקס	:PROPERNAME:	אומפרדיקס	B-NP	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+ג"כ	:PROPERNAME:	ג"כ	B-NP	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+או	:CONJUNCTION:	או	O	O
+בבוקר	PREPOSITION:NOUN-M,S,ABS:	בוקר	O	morning-C0332170
+או	:CONJUNCTION:	או	O	O
+בערב	PREPOSITION:NOUN-M,S,ABS:	ערב	B-NP	Evening-C0587117
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,26 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+ברמה	PREPOSITION:NOUN-F,S,ABS:	רמה	B-NP	O
+כזו	PREPOSITION:PRONOUN-F,S,3:	זו	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+פקטור	:NOUN-M,S,ABS:	פקטור	I-NP	O
+VII	:FOREIGN:	VII	O	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	B-NP	risk-C0035647
+לדימומים	PREPOSITION:NOUN-M,P,ABS:	דימום	B-NP	hemorrhage-C0019080
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+קטן	:ADJECTIVE-M,S,ABS:	קטן	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ליעוץ	:VERB-TOINFINITIVE:	יעץ	O	O
+מסודר	:ADJECTIVE-M,S,ABS:	מסודר	B-NP	O
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+/	:PUNCUATION:	/	I-NP	O
+לידה	:NOUN-F,S,ABS:	לידה	I-NP	birth-C0005615
+/	:PUNCUATION:	/	I-NP	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+.	:PUNCUATION:	.	O	O
+

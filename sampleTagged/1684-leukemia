@@ -1,0 +1,24 @@
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+שרושם	REL-SUBCONJ:NOUN-M,S,CONST:	רושם	B-NP	O
+הגלולות	DEF:NOUN-F,P,ABS:	גלולה	I-NP	pills-C0994475
+,	:PUNCUATION:	,	O	O
+שישקול	REL-SUBCONJ:VERB-M,S,3,FUTURE:	שקל	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	O	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+בהתאם	:ADVERB:	בהתאם	O	O
+להיסטוריה	PREPOSITION+DEF:NOUN-F,S,ABS:	היסטוריה	B-NP	history-C0019664
+הרפואית	DEF:ADJECTIVE-F,S,ABS:	רפואי	I-NP	O
+והמשפחתית	CONJ+DEF:ADJECTIVE-F,S,ABS:	משפחתי	I-NP	familial-C0015576
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,43 @@
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+עליו	:PREPOSITION:PRONOMIAL-M,S,3	על	B-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+השמדה	:NOUN-F,S,ABS:	השמדה	B-NP	O
+ממקודת	PREPOSITION:NOUN-F,S,ABS:	מקודת	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+גידולים	:NOUN-M,P,ABS:	גידול	I-NP	tumor-C0027651
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+שימוש	:NOUN-M,S,ABS:	שימוש	I-NP	Usage-C0457083
+ב	:PREPOSITION:	ב	I-NP	O
+RF	:FOREIGN:	RF	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+סוג	:NOUN-M,S,ABS:	סוג	I-NP	kind-C0332307
+של	:SHEL_PREP:	של	I-NP	O
+חימום	:NOUN-M,S,ABS:	חימום	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+הכנסת	:NOUN-F,S,CONST:	הכנסה	B-NP	O
+מחט	:NOUN-F,S,ABS:	מחט	I-NP	needle-C0027551
+לגידול	PREPOSITION:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+)	:PUNCUATION:	)	O	O
+אם	:CONJUNCTION:	אם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מחלה	:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+גרורתית	:ADJECTIVE-F,S,ABS:	גרורתית	I-NP	O
+מפושטת	:VERB-F,S,A,BEINONI:	פושט	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	B-NP	O
+לא	:NEGATION:	לא	O	O
+מתאים	:VERB-M,S,A,BEINONI:	התאים	O	O
+במצב	PREPOSITION:NOUN-M,S,ABS:	מצב	B-NP	Condition-C0348080
+קשה	:ADJECTIVE-M,S,ABS:	קשה	I-NP	O
+בדכ	PREPOSITION:NOUN-M,S,CONST:	דך	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+לא	:NEGATION:	לא	O	O
+מתאים	:VERB-M,S,A,BEINONI:	התאים	O	O
+בהצלחה	PREPOSITION:NOUN-F,S,ABS:	הצלחה	B-NP	success-C0597535
+בטיפולים	PREPOSITION:NOUN-M,P,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+שניתן	REL-SUBCONJ:MODAL-M,S,A:	ניתן	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

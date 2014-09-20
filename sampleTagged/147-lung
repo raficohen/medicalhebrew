@@ -1,0 +1,24 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+עבודה	:NOUN-F,S,ABS:	עבודה	B-NP	Work-C0043227
+המשווה	DEF:PARTICIPLE-F,S,A,ABS:	השווה	O	O
+את	:AT_PREP:	את	B-NP	O
+שתי	:NUMERAL-F,D,CONST:	CARD2	I-NP	O
+התרופות	DEF:NOUN-F,P,ABS:	תרופה	I-NP	medicine-C0013227
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+מול	:PREPOSITION:	מול	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+סה"כ	:ADVERB:	סה"כ	O	O
+הן	:CONJUNCTION:	הן	O	O
+עובדות	:NOUN-F,P,ABS:	עובד	B-NP	Employee-C0599987-ambigous
+באותו	PREPOSITION:QUANTIFIER-CONST:	אותו	B-NP	O
+מנגנון	:NOUN-M,S,ABS:	מנגנון	I-NP	mechanism-C0441712
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+העדפה	:NOUN-F,S,ABS:	העדפה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+מול	:PREPOSITION:	מול	O	O
+השנייה	DEF:NUMERAL-F,S,ABS:	ORD2	B-NP	O
+.	:PUNCUATION:	.	O	O
+

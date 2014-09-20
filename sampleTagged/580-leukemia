@@ -1,0 +1,28 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מניעה	:NOUN-F,S,ABS:	מניעה	I-NP	prevention-C0199176
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+יום	:NOUN-M,S,ABS:	יום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+היא	:PRONOUN-F,S,3:	הוא	O	O
+קרוב	:NOUN-M,S,ABS:	קרוב	B-NP	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+בעקבות	:PREPOSITION:	בעקבות	O	O
+הרס	:NOUN-M,S,ABS:	הרס	B-NP	O
+אפשרי	:ADJECTIVE-M,S,ABS:	אפשרי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+כדוריות	:NOUN-F,S,ABS:	כדוריות	I-NP	O
+אדומות	:ADJECTIVE-F,P,ABS:	אדום	I-NP	O
+על	:PREPOSITION:	על	O	O
+סטינט	:PROPERNAME:	סטינט	B-NP	O
+ולשם	PREPOSITION+CONJ+DEF:NOUN-M,S,ABS:	ל	O	O
+וצריך	CONJ:MODAL-M,S,A:	צריך	O	O
+חומצה פולית	:TERM:	חומצה פולית	O	folic acid-C0016410
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,47 @@
+הפתרון	DEF:NOUN-M,S,ABS:	פתרון	B-NP	solution-C0037633
+של	:SHEL_PREP:	של	I-NP	O
+אספירין+גלולות	:PROPERNAME:	אספירין+גלולות	I-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+לא	:NEGATION:	לא	B-NP	O
+פיתרון	:NOUN-M,S,CONST:	פתרון	I-NP	solution-C0037633
+מוצלח	:ADJECTIVE-M,S,ABS:	מוצלח	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אבל	:CONJUNCTION:	אבל	O	O
+,	:PUNCUATION:	,	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+נשים	:NOUN-F,P,ABS:	איש	B-NP	people-C0027361
+לא	:NEGATION:	לא	I-NP	O
+מעטות	:ADJECTIVE-F,P,ABS:	מעט	I-NP	O
+עם	:PREPOSITION:	עם	O	O
+"	:PUNCUATION:	"	B-NP	O
+בעייה	:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+"	:PUNCUATION:	"	O	O
+נוטלות	:VERB-F,P,A,BEINONI:	נטל	O	O
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+איזו	:INTERROGATIVE:PRONOMIAL-F,S,3	איזה	B-NP	O
+הפרעה	:NOUN-F,S,ABS:	הפרעה	B-NP	arrhythmia-C0003811
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,ABS:	קרישיות	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+אלי	:PREPOSITION:	אל	O	O
+או	:CONJUNCTION:	או	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	O	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+בעניין	PREPOSITION+DEF:NOUN-M,S,ABS:	עניין	B-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,31 @@
+תלוי	:ADVERB:	תלוי	O	O
+בסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+הלימפומה	DEF:NOUN-F,S,ABS:	הלימפומה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אין	:NEGATION:	אין	O	O
+עדיין	:ADVERB:	עדיין	O	O
+עדות	:NOUN-F,S,ABS:	עדות	B-NP	testimony-C0680706
+חד	:PREFIX:	חד	I-NP	O
+משמעית	:ADJECTIVE-F,S,ABS:	משמעי	I-NP	O
+כי	:CONJUNCTION:	כי	O	O
+CHOP	:FOREIGN:	CHOP	O	O
+14	:NUMERAL:	###NUMBER###	B-NP	O
+עדיף	:ADJECTIVE-M,S,ABS:	עדיף	I-NP	O
+על	:PREPOSITION:	על	O	O
+CHOP	:FOREIGN:	CHOP	B-NP	O
+21	:NUMERAL:	###NUMBER###	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+העובדה	DEF:NOUN-F,S,ABS:	עובדה	B-NP	Evidence-C0332120
+שהטיפול	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+במבטרה	PREPOSITION:NOUN-F,S,ABS:	מבטרה	B-NP	rituximab-C0393022
+יתחיל	:VERB-M,S,3,FUTURE:	התחיל	O	O
+רק	:CONJUNCTION:	רק	O	O
+בטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+השני	DEF:NUMERAL-M,S,ABS:	ORD2	I-NP	O
+לא	:NEGATION:	לא	O	O
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להדאיג	:VERB-TOINFINITIVE:	הדאיג	O	O
+.	:PUNCUATION:	.	O	O
+

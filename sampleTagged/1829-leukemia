@@ -1,0 +1,154 @@
+גלית	:PROPERNAME:	גלית	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+רק	:CONJUNCTION:	רק	B-NP	O
+מיעוט	:NOUN-M,S,ABS:	מיעוט	I-NP	minority-C0026192
+מהנשים	PREPOSITION+DEF:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+הנשאיות	DEF:NOUN-F,P,ABS:	נשאית	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הגן	DEF:NOUN-M,S,ABS:	גן	I-NP	gene-C0017337
+פקטור	:NOUN-M,S,ABS:	פקטור	B-NP	O
+5	:NUMERAL:	###NUMBER###	I-NP	O
+ליידן	:PROPERNAME-M,S:	ליידן	I-NP	leyden-c0082536
+מפתחות	:NOUN-M,P,CONST:	מפתח	I-NP	O
+אירוע	:NOUN-M,S,ABS:	אירוע	I-NP	event-C0441471
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,CONST:	קרישיות	I-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פי	:NOUN-M,S,CONST:	פה	B-NP	Oral cavity-C0226896
+4	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+5	:NUMERAL:	###NUMBER###	I-NP	O
+מהאוכלוסייה	PREPOSITION+DEF:NOUN-F,S,ABS:	אוכלוסייה	B-NP	population-C0032659
+הרגילה	DEF:ADJECTIVE-F,S,ABS:	רגיל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שימוש	:NOUN-M,S,ABS:	שימוש	B-NP	Usage-C0457083
+בגלולות	PREPOSITION:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+עלול	:MODAL-M,S,A:	עלול	O	O
+להעלות	:VERB-TOINFINITIVE:	העלה	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+עוד	:ADVERB:	עוד	O	More-C0205172
+יותר	:ADVERB:	יותר	O	O
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+רוב	:NOUN-M,S,CONST:	רוב	B-NP	majority-C0680220
+המקרים	DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+אירוע	:NOUN-M,S,CONST:	אירוע	I-NP	event-C0441471
+טרומבוטי	:PROPERNAME:	טרומבוטי	I-NP	O
+קורים	:VERB-M,P,A,BEINONI:	קרה	O	O
+בשנה	PREPOSITION:NOUN-F,S,ABS:	שנה	B-NP	year-C0439234
+הראשונה	DEF:NUMERAL-F,S,ABS:	ORD1	I-NP	O
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+בגלולות	PREPOSITION:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+לקחת	:VERB-TOINFINITIVE:	לקח	O	O
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+3	:NUMERAL:	###NUMBER###	I-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+הסיכוי	DEF:NOUN-M,S,ABS:	סיכוי	I-NP	chance-C0237506
+קטן	:ADJECTIVE-M,S,ABS:	קטן	O	O
+יותר	:ADVERB:	יותר	O	O
+משמעותית	:ADJECTIVE-F,S,ABS:	משמעותי	O	O
+.	:PUNCUATION:	.	O	O
+
+יחד	:ADVERB:	יחד	O	O
+עם	:PREPOSITION:	עם	O	O
+זה	:PRONOUN-M,S,3:	זה	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סינרגיזם	:NOUN-F,P,ABS:	סינרגיזמות	B-NP	O
+בין	:PREPOSITION:	בין	O	O
+הגלולות	DEF:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+ופקטור	CONJ:NOUN-M,S,ABS:	פקטור	O	O
+5	:NUMERAL:	###NUMBER###	B-NP	O
+ליידן	:PROPERNAME:	ליידן	I-NP	leyden-c0082536
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+כתבת	:VERB-F,S,2,PAST:	כתב	O	O
+מדוע	:ADVERB:	מדוע	O	O
+בוצעה	:VERB-F,S,3,PAST:	בוצע	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+היה	:COPULA-M,S,3,PAST,POSITIVE:	הוא	O	O
+אירוע	:NOUN-M,S,CONST:	אירוע	B-NP	event-C0441471
+טרומבוטי	:ADJECTIVE-M,P,CONST:	טרומבוטי	I-NP	O
+במשפחה	PREPOSITION+DEF:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+כן	:CONJUNCTION:	כן	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+מחזק	:VERB-M,S,A,BEINONI:	חיזק	O	O
+את	:AT_PREP:	את	B-NP	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	I-NP	need-C0027552
+להימנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מגלולות	PREPOSITION:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+למניעת	PREPOSITION:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+הריון	:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+עלייך	:PREPOSITION:PRONOMIAL-F,S,2	על	B-NP	O
+להיוועץ	:VERB-TOINFINITIVE:	נועץ	O	O
+בגניקולוג	PREPOSITION:NOUN-M,S,ABS:	גינקולוג	B-NP	gynecologist-C0237419
+.	:PUNCUATION:	.	O	O
+
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מיוחד	:ADJECTIVE-M,S,ABS:	מיוחד	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+שתהיי	REL-SUBCONJ:COPULA-F,S,2,FUTURE,POSITIVE:	הוא	O	O
+בהריון	PREPOSITION:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+את	:AT_PREP:	את	B-NP	O
+הסוגייה	DEF:NOUN-F,S,ABS:	סוגיה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+המונע	DEF:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+על	:PREPOSITION:	על	O	O
+סמך	:NOUN-M,S,CONST:	סמך	B-NP	Base-C1705938-ambigous
+ההיסטוריה	DEF:NOUN-F,S,ABS:	היסטוריה	I-NP	history-C0019664
+האישית	DEF:ADJECTIVE-F,S,ABS:	אישי	I-NP	O
+והמשפחתית	CONJ+DEF:ADJECTIVE-F,S,ABS:	משפחתי	I-NP	familial-C0015576
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+הפקטור	DEF:NOUN-M,S,ABS:	פקטור	B-NP	O
+הנוסף	DEF:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+במצב	PREPOSITION:NOUN-M,S,ABS:	מצב	I-NP	Condition-C0348080
+של	:SHEL_PREP:	של	I-NP	O
+הטרוזיגוטיות	:NOUN-F,S,ABS:	הטרוזיגוטיות	I-NP	O
+אין	:NEGATION:	אין	O	O
+לו	:CONJUNCTION:	לו	B-NP	O
+כלל	:NOUN-M,S,CONST:	כלל	I-NP	Rule-C0870077-ambigous
+משמעות	:NOUN-F,S,ABS:	משמעות	I-NP	significance-C0237881
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	I-NP	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,116 @@
+מירה	:PROPERNAME:	מירה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+תודה	:INTERJECTION:	תודה	O	O
+על	:PREPOSITION:	על	O	O
+ההודעה	DEF:NOUN-F,S,ABS:	הודעה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מטרת	:NOUN-F,S,CONST:	מטרה	B-NP	goal-C0018017
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+הנוכחי	DEF:ADJECTIVE-M,S,ABS:	נוכחי	I-NP	O
+,	:PUNCUATION:	,	O	O
+כמו	:CONJUNCTION:	כמו	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+פורומים	:NOUN-M,P,ABS:	פורום	I-NP	O
+דומים	:ADJECTIVE-M,P,ABS:	דומה	I-NP	O
+,	:PUNCUATION:	,	O	O
+הינה	:VERB-M,S,3,PAST:	הינה	O	O
+להבהיר	:VERB-TOINFINITIVE:	הבהיר	O	O
+נושאים	:NOUN-M,P,ABS:	נושא	B-NP	Subject-C1706203
+או	:CONJUNCTION:	או	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+שאלות	:NOUN-F,P,ABS:	שאלה	B-NP	Question-C1522634
+בנושאים	PREPOSITION:NOUN-M,P,ABS:	נושא	B-NP	Subject-C1706203
+הקשורים	DEF:PARTICIPLE-M,P,A,ABS:	קשר	O	connection-C0449379
+לכירורגיה	PREPOSITION:NOUN-F,S,ABS:	כירורגיה	B-NP	surgery-C0038894
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+מתוקף	PREPOSITION:NOUN-M,S,CONST:	תוקף	B-NP	O
+ההגדרה	DEF:NOUN-F,S,ABS:	הגדרה	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+תפקידנו	:NOUN-M,S,ABS:POSSESIVE-MF,P,1	תפקיד	I-NP	role-C0035820
+,	:PUNCUATION:	,	O	O
+שלי	:SHEL_PREP:PRONOMIAL-MF,S,1	של	B-NP	O
+ושל	CONJ:SHEL_PREP:	של	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	O	O
+קרמר	:NOUN-M,S,ABS:	קרמר	B-NP	kremer-C1441631
+המנהלים	DEF:NOUN-M,P,ABS:	מנהל	I-NP	O
+את	:AT_PREP:	את	B-NP	O
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+,	:PUNCUATION:	,	O	O
+אנו	:PRONOUN-MF,P,1:	הוא	B-NP	O
+מנועים	:ADJECTIVE-M,P,ABS:	מנוע	O	O
+להמליץ	:VERB-TOINFINITIVE:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+רופאים	:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+מסוימים	:ADJECTIVE-M,P,ABS:	מסוים	I-NP	O
+או	:CONJUNCTION:	או	O	O
+מחלקות	:NOUN-F,P,ABS:	מחלק	B-NP	O
+מסוימות	:ADJECTIVE-F,P,ABS:	מסוים	I-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כזה	PREPOSITION:PRONOUN-M,S,3:	זה	B-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+יותר	:ADVERB:	יותר	O	O
+מכך	PREPOSITION:PRONOUN:	כך	O	O
+-	:PUNCUATION:	-	O	O
+אסור	:MODAL:	אסור	O	O
+לפרסם	:VERB-TOINFINITIVE:	פרסם	O	O
+מספרי	:NOUN-M,P,CONST:	מספר	B-NP	number-C0237753
+טלפון	:NOUN-M,S,ABS:	טלפון	I-NP	O
+או	:CONJUNCTION:	או	O	O
+דרכי	:NOUN-F,P,CONST:	דרך	B-NP	Through-C0332273-ambigous
+התקשרות	:NOUN-F,S,ABS:	התקשרות	I-NP	attachment-C0185023
+לרופאים	PREPOSITION:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+,	:PUNCUATION:	,	O	O
+כיון	PREPOSITION:NOUN-M,S,ABS:	יון	O	O
+שזהו	REL-SUBCONJ:PRONOUN-M,S,3:	זהו	B-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+פורום	:NOUN-M,S,CONST:	פורום	B-NP	O
+פרסומי	:NOUN-M,P,CONST:	פרסום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+בדעה	PREPOSITION:NOUN-F,S,ABS:	דעה	B-NP	O
+,	:PUNCUATION:	,	O	O
+כי	:CONJUNCTION:	כי	O	O
+המלצה	:NOUN-F,S,ABS:	המלצה	B-NP	recommendation-C0034866
+על	:PREPOSITION:	על	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+או	:CONJUNCTION:	או	O	O
+רופא	:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לקבל	:VERB-TOINFINITIVE:	קיבל	O	O
+מהרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+.	:PUNCUATION:	.	O	O
+
+לו	:CONJUNCTION:	לו	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+את	:AT_PREP:	את	B-NP	O
+הכלים	DEF:NOUN-M,P,ABS:	כלי	I-NP	O
+והידע	CONJ+DEF:NOUN-M,S,ABS:	ידע	I-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לכוון	:VERB-TOINFINITIVE:	כיוון	O	direction-C0449738
+את	:AT_PREP:	את	B-NP	O
+החולה	:PROPERNAME:	החולה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

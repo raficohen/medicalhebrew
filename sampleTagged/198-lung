@@ -1,0 +1,27 @@
+הקשדיות	DEF:PARTICIPLE-F,P,A,ABS:	הקשדיות	B-NP	O
+קטנות	:ADJECTIVE-F,P,ABS:	קטן	O	O
+מאד	:ADVERB:	מאוד	O	O
+והבלוטות	CONJ+DEF:NOUN-F,P,ABS:	בלוטה	B-NP	gland-C1285092
+גדוךות	:ADJECTIVE-F,P,CONST:	גדוךות	O	O
+רק	:CONJUNCTION:	רק	O	O
+במעט	:ADVERB:	במעט	O	O
+מהמקובל	PREPOSITION+DEF:NOUN-M,S,ABS:	מקובל	O	O
+כתקין	PREPOSITION:ADJECTIVE-M,S,ABS:	תקין	O	O
+-	:PUNCUATION:	-	O	O
+עד	:PREPOSITION:	עד	O	O
+1	:NUMERAL:	###NUMBER###	B-NP	O
+שנ	:ADJECTIVE-M,S,ABS:	שן	I-NP	tooth-C0040426
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ראות	:NOUN-F,S,ABS:	ראות	I-NP	O
+להחלטה	PREPOSITION:NOUN-F,S,ABS:	החלטה	B-NP	decision-C0679006
+על	:PREPOSITION:	על	O	O
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+מעקב	:NOUN-M,S,ABS:	מעקב	I-NP	surveillance-C0220920
+או	:CONJUNCTION:	או	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+נוסף	:ADJECTIVE-M,S,ABS:	נוסף	I-NP	O
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

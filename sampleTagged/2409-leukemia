@@ -1,0 +1,51 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+בהחלט	:ADVERB:	בהחלט	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מיקרים	PREPOSITION:ADJECTIVE-M,P,ABS:	יקר	B-NP	O
+רבים	:ADJECTIVE-M,P,ABS:	רב	I-NP	O
+בהם	:PREPOSITION:PRONOMIAL-M,P,3	ב	B-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לסיבת	PREPOSITION:NOUN-F,S,CONST:	סיבה	O	Causations-C0085978
+התפתחות	:NOUN-F,S,CONST:	התפתחות	B-NP	O
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+DVT	:FOREIGN:	DVT	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במיוחד	:ADVERB:	במיוחד	O	O
+כשזה	TEMP-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+מתרחש	:VERB-M,S,A,BEINONI:	התרחש	O	O
+בגיל	PREPOSITION:NOUN-M,S,CONST:	גיל	B-NP	O
+47	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לייעוץ	PREPOSITION:NOUN-M,S,ABS:	ייעוץ	B-NP	counselling-C0010210
+הן	:CONJUNCTION:	הן	O	O
+בנושא	PREPOSITION:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+ברור	:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+הסיבה	DEF:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+והן	CONJ:CONJUNCTION:	הן	O	O
+לגבי	:PREPOSITION:	לגבי	O	O
+המדיניות	DEF:NOUN-F,S,ABS:	מדיניות	B-NP	O
+המתאימה	DEF:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+DVT	:FOREIGN:	DVT	O	O
+ומניעת	CONJ:NOUN-F,S,CONST:	מניעה	B-NP	prevention-C0199176
+סיבוכים	:NOUN-M,P,ABS:	סיבוך	I-NP	complication-C0009566
+אלי	:PROPERNAME:	אל	I-NP	deity-C0681169-ambigous
+או	:CONJUNCTION:	או	I-NP	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	B-NP	O
+.	:PUNCUATION:	.	O	O
+

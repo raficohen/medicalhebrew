@@ -1,0 +1,34 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+נותנים	:VERB-M,P,A,BEINONI:	נתן	O	O
+עירויי	:PROPERNAME:	עירויי	B-NP	O
+טרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	טרומבוציטים	O	O
+רק	:CONJUNCTION:	רק	O	O
+במצבי	PREPOSITION:NOUN-M,P,CONST:	מצב	B-NP	Condition-C0348080
+חרום	:NOUN-M,S,ABS:	חירום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+עלייך	:PREPOSITION:PRONOMIAL-F,S,2	על	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+את	:AT_PREP:	את	B-NP	O
+בדיקות	:NOUN-F,P,CONST:	בדיקה	I-NP	examination-C0031809
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+ולהיות	CONJ:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	O	surveillance-C0220920
+מרפאת	:NOUN-F,S,CONST:	מרפאה	B-NP	Clinic-C0442592
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+אם	:CONJUNCTION:	אם	O	O
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+יורדים	:VERB-M,P,A,BEINONI:	ירד	O	O
+מתחת	:PREPOSITION:	מתחת	O	O
+50,000	:NUMERAL:	###NUMBER###	B-NP	O
+מקובל	:NOUN-M,S,ABS:	מקובל	I-NP	O
+להתחיל	:VERB-TOINFINITIVE:	התחיל	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקריטנין	PREPOSITION+DEF:ADJECTIVE-M,P,ABS:	הקריטנין	B-NP	O
+.	:PUNCUATION:	.	O	O
+

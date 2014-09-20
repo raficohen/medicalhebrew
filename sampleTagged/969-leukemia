@@ -1,0 +1,39 @@
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מהו	:INTERROGATIVE:PRONOMIAL-M,S,3	מה	B-NP	O
+המוצא	DEF:NOUN-M,S,ABS:	מוצא	B-NP	origin-C0439659
+המשפחתי	DEF:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+?	:PUNCUATION:	?	O	O
+
+ביוצאי	PREPOSITION:NOUN-M,P,CONST:	יוצא	B-NP	O
+ארצות	:NOUN-F,P,CONST:	ארץ	I-NP	Country-C0454664-ambigous
+הים	:PROPERNAME:	ים	I-NP	sea-C0036493
+התיכון	:PROPERNAME:	תיכון	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+נשאות	:VERB-F,P,A,BEINONI:	נישא	O	O
+לאנמיה	PREPOSITION:NOUN-F,S,ABS:	אנמיה	B-NP	anemia-C0002871
+תורשתית	:ADJECTIVE-F,S,ABS:	תורשתי	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+תלסמיה	:NOUN-F,S,ABS:	תלסמיה	I-NP	thalassemia-C0039730
+ולבקש	CONJ:VERB-TOINFINITIVE:	ביקש	O	O
+מהרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+-	:PUNCUATION:	-	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+על	:PREPOSITION:	על	O	O
+איזה	:QUANTIFIER-CONST:	איזה	B-NP	O
+כדורי	:NOUN-M,P,CONST:	כדור	I-NP	Pills-C0994475
+ברזל	:NOUN-M,S,ABS:	ברזל	I-NP	iron-C0302583
+להמליץ	:VERB-TOINFINITIVE:	המליץ	O	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,84 @@
+לאה	:PROPERNAME:	לאה	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+קיימים	:ADJECTIVE-M,P,ABS:	קיים	O	O
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+פרוטוקולים	:NOUN-M,P,ABS:	פרוטוקול	I-NP	O
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+משלים	:VERB-M,S,A,BEINONI:	השלים	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+כימי	:ADJECTIVE-M,S,ABS:	כימי	I-NP	O
+והקרנתי	CONJ:VERB-MF,S,1,PAST:	הקרין	O	O
+.	:PUNCUATION:	.	O	O
+
+הקו	DEF:NOUN-M,S,ABS:	קו	B-NP	line-C0205132
+המנחה	DEF:PARTICIPLE-M,S,A,ABS:	הנחה	O	Hypothesis-C1512571
+היום	:ADVERB:	היום	O	O
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+פרסונליזציה	:NOUN-F,S,ABS:	פרסונליזציה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+ולהתאים	CONJ:VERB-TOINFINITIVE:	התאים	O	O
+לכל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+חולה	:VERB-M,S,A,BEINONI:	חלה	O	O
+את	:AT_PREP:	את	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+הנכון	DEF:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+עבור	:PREPOSITION:	עבור	O	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+שלו	:SHEL_PREP:PRONOMIAL-M,S,3	של	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהפרוטוקולים	PREPOSITION+DEF:NOUN-M,P,ABS:	פרוטוקול	I-NP	O
+ניתן	:VERB-M,S,3,PAST:	ניתן	O	O
+אכן	:ADVERB:	אכן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+כימי	:ADJECTIVE-M,S,ABS:	כימי	I-NP	O
+במקביל	:ADVERB:	במקביל	I-NP	O
+לטיפול	PREPOSITION+DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ההקרנתי	:VERB-MF,S,1,PAST:	ההקרנתי	O	O
+מתוך	:PREPOSITION:	מתוך	O	O
+מטרה	:NOUN-F,S,ABS:	מטרה	B-NP	goal-C0018017
+לשפר	:VERB-TOINFINITIVE:	שיפר	O	O
+את	:AT_PREP:	את	B-NP	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+ולא	CONJ:NEGATION:	לא	O	O
+להפחיתן	:VERB-TOINFINITIVE:ACC-NOM-F,P,3	הפחית	O	O
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+להסתמך	:VERB-TOINFINITIVE:	הסתמך	O	O
+על	:PREPOSITION:	על	O	O
+הנאמר	DEF:PARTICIPLE-M,S,A,ABS:	נאמר	B-NP	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+האונקולוג	DEF:NOUN-M,S,ABS:	האונקולוג	I-NP	O
+המטפל	DEF:PARTICIPLE-M,S,A,ABS:	טיפל	O	O
+ולא	CONJ:NEGATION:	לא	O	O
+מקריאה	PREPOSITION:NOUN-F,S,ABS:	קריאה	O	call-C0679006
+חופשית	:ADJECTIVE-F,S,ABS:	חופשי	O	O
+שלעיתים	REL-SUBCONJ:ADVERB:	לעתים	O	O
+יותר	:ADVERB:	יותר	O	O
+מבלבלת	:VERB-F,S,A,BEINONI:	בלבל	O	O
+מאשר	:CONJUNCTION:	מאשר	O	O
+עוזרת	:VERB-F,S,A,BEINONI:	עזר	O	O
+לאנשים	PREPOSITION:NOUN-M,P,ABS:	איש	B-NP	people-C0027361
+שעיסוקם	REL-SUBCONJ:NOUN-M,S,ABS:POSSESIVE-M,P,3	עיסוק	B-NP	O
+אינו	:VERB-MF,P,3,PAST:	אינה	O	O
+רפואה	:NOUN-F,S,ABS:	רפואה	B-NP	medicine-C0013227
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

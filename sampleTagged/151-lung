@@ -1,0 +1,75 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+קצת	:ADVERB:	קצת	O	O
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+כיון	PREPOSITION:NOUN-M,S,ABS:	יון	B-NP	O
+שהמקרה	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	מקרה	B-NP	case-C0868928
+לא	:NEGATION:	לא	I-NP	O
+שגרתי	:ADJECTIVE-M,S,ABS:	שגרתי	I-NP	O
+(	:PUNCUATION:	(	O	O
+לא	:NEGATION:	לא	O	O
+כריתת	:NOUN-F,S,CONST:	כריתה	B-NP	amputation-C0002688
+העצם	DEF:NOUN-F,S,ABS:	עצם	I-NP	bone-C0262950
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+על	:PREPOSITION:	על	O	O
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+מבלי	:CONJUNCTION:	מבלי	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+צילומים	:NOUN-M,P,ABS:	צילום	B-NP	O
+,	:PUNCUATION:	,	O	O
+לוודא	:VERB-TOINFINITIVE:	וידא	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+היקף	:NOUN-M,S,CONST:	היקף	B-NP	scope-C1710028
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+וכו	:PREPOSITION:	וכו	O	O
+'	:PUNCUATION:	'	O	O
+.	:PUNCUATION:	.	O	O
+
+על	:PREPOSITION:	על	O	O
+מטרות	:NOUN-F,P,CONST:	מטרה	B-NP	goal-C0018017
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+וכדאיות	CONJ:NOUN-F,S,CONST:	כדאיות	B-NP	O
+חייבים	:NOUN-M,P,ABS:	חייב	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+!	:PUNCUATION:	!	I-NP	O
+!	:PUNCUATION:	!	I-NP	O
+)	:PUNCUATION:	)	I-NP	O
+לדבר	:VERB-TOINFINITIVE:	דיבר	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+האונקולוג	DEF:NOUN-M,S,ABS:	האונקולוג	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	:CONJUNCTION:	במידה	O	O
+ותצתרכי	:VERB-F,S,2,FUTURE:	ותצתרכי	O	O
+ניתוח	:NOUN-M,S,CONST:	ניתוח	B-NP	surgery-C0038894
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+המנתח	DEF:NOUN-M,S,ABS:	מנתח	I-NP	surgeon-C0582175
+יבדוק	:VERB-M,S,3,FUTURE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+ויעריך	CONJ:VERB-M,S,3,FUTURE:	העריך	O	O
+את	:AT_PREP:	את	B-NP	O
+הסיכון	DEF:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+הניתוחי	DEF:ADJECTIVE-M,S,ABS:	ניתוחי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

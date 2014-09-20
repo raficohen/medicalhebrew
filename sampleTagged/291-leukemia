@@ -1,0 +1,60 @@
+בדרך	PREPOSITION:NOUN-F,S,CONST:	דרך	O	Through-C0332273-ambigous
+כלל	:NOUN-M,S,ABS:	כלל	O	Rule-C0870077-ambigous
+בתלסמיה	PREPOSITION:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+לא	:NEGATION:	לא	O	O
+מקובל	:ADJECTIVE-M,S,ABS:	מקובל	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+ברזל	:NOUN-M,S,ABS:	ברזל	B-NP	iron-C0302583
+אלא	:CONJUNCTION:	אלא	O	O
+אם	:CONJUNCTION:	אם	O	O
+רמתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	רמה	B-NP	O
+בנסיוב	:ADVERB:	בנסיוב	I-NP	O
+נמוכה	:ADJECTIVE-F,S,ABS:	נמוך	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+רבה	:ADJECTIVE-F,S,ABS:	רב	I-NP	O
+לירידה	PREPOSITION:NOUN-F,S,ABS:	ירידה	O	Downward-C0205104
+בחצי	PREPOSITION:NOUN-M,P,CONST:	חץ	B-NP	Arrow-C0336721
+גרם	:NOUN-M,S,CONST:	גרם	I-NP	O
+המוגלובין	DEF:NOUN-M,S,ABS:	המוגלובין	I-NP	hemoglobin-C0019046
+.	:PUNCUATION:	.	O	O
+
+האם	:INTERROGATIVE:	האם	O	O
+הטחול	DEF:NOUN-M,S,ABS:	טחול	B-NP	spleen-C0037993
+מוגדל	:ADJECTIVE-M,S,ABS:	מוגדל	O	O
+?	:PUNCUATION:	?	O	O
+
+מאחר	:CONJUNCTION:	מאחר	O	O
+וזה	CONJ:PRONOUN-M,S,3:	זה	B-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+ירידה	:NOUN-F,S,ABS:	ירידה	B-NP	Downward-C0205104
+בטסיות	PREPOSITION:NOUN-F,P,ABS:	טסיותות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+המספר	DEF:NOUN-M,S,ABS:	מספר	B-NP	number-C0237753
+125000	:NUMERAL:	###NUMBER###	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+מדאיג	:VERB-M,S,A,BEINONI:	הדאיג	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והוא	CONJ:PRONOUN-M,S,3:	הוא	B-NP	O
+יציב	:ADJECTIVE-M,S,ABS:	יציב	O	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+דימום	:NOUN-M,S,ABS:	דימום	B-NP	hemorrhage-C0019080
+מוגבר	:ADJECTIVE-M,S,ABS:	מוגבר	I-NP	O
+בנסיוב	:ADVERB:	בנסיוב	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+,	:PUNCUATION:	,	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	O	O
+בגלל	:PREPOSITION:	בגלל	O	O
+הטרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	הטרומבוציטים	O	O
+.	:PUNCUATION:	.	O	O
+

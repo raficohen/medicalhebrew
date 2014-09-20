@@ -1,0 +1,55 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+רב	:ADJECTIVE-M,S,ABS:	רב	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+עשית	:NOUN-F,S,CONST:	עשייה	B-NP	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+מקיף	:ADJECTIVE-M,S,ABS:	מקיף	I-NP	O
+והבדיקות	CONJ+DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+תקינות	:ADJECTIVE-F,P,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+הומוזיגוטית	DEF:NOUN-F,S,ABS:	הומוזיגוטית	I-NP	O
+ל	:PREPOSITION:	ל	O	O
+-	:PUNCUATION:	-	O	O
+MTHFR	:FOREIGN:	MTHFR	O	O
+.	:PUNCUATION:	.	O	O
+
+לפעמים	:ADVERB:	לפעמים	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+משפיע	:VERB-M,S,A,BEINONI:	השפיע	O	O
+על	:PREPOSITION:	על	O	O
+רמת	:NOUN-F,S,CONST:	רמה	B-NP	O
+הומוציסטאין	:NOUN-M,S,ABS:	הומוציסטאין	I-NP	homocysteine-C0019878
+אך	:CONJUNCTION:	אך	O	O
+בנוכחות	PREPOSITION:NOUN-F,S,CONST:	נוכחות	B-NP	presence-C0392148
+רמה	:NOUN-F,S,ABS:	רמה	B-NP	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+הומוציסטאין	:NOUN-M,P,ABS:	הומוציסטאינים	I-NP	O
+ככל	PREPOSITION:QUANTIFIER-CONST:	כול	O	O
+הנראה	DEF:PARTICIPLE-M,S,A,ABS:	נראה	B-NP	O
+הממצא	DEF:NOUN-M,S,ABS:	ממצא	I-NP	Finding-C0243095
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+חסר	:VERB-M,S,3,PAST:	חסר	O	O
+משמעות	:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+.	:PUNCUATION:	.	O	O
+
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+מקרה	:NOUN-M,S,ABS:	מקרה	I-NP	case-C0868928
+נדרש	:VERB-M,S,3,PAST:	נדרש	O	O
+המשך	:NOUN-M,S,ABS:	המשך	B-NP	continued-C0549178
+ברור	:ADJECTIVE-M,S,ABS:	ברור	I-NP	O
+לגבי	:PREPOSITION:	לגבי	O	O
+ההפלות	DEF:NOUN-F,P,ABS:	הפלה	B-NP	abortion-C0156543
+החוזרות	DEF:ADJECTIVE-F,P,ABS:	חוזר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

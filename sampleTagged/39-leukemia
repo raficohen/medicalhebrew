@@ -1,0 +1,25 @@
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+לא	:NEGATION:	לא	B-NP	O
+סימן	:NOUN-M,S,ABS:	סימן	I-NP	sign-C0311392
+של	:SHEL_PREP:	של	I-NP	O
+לויקמיה	:NOUN-F,S,ABS:	לויקמיה	I-NP	leukemia-C0023418
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+!	:PUNCUATION:	!	O	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+עור	:NOUN-M,S,ABS:	עור	I-NP	skin-C0444099
+לשלול	:VERB-TOINFINITIVE:	שלל	O	O
+אריטמה	:PROPERNAME:	אריטמה	B-NP	O
+נודוזום	:NOUN-M,S,ABS:	נודוזום	I-NP	Erythema Nodosum-C0014743
+.	:PUNCUATION:	.	O	O
+
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+לבדיקת	PREPOSITION:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+ס.ד	:NOUN-M,S,ABS:POSSESIVE-M,S,3	ס.	I-NP	O
+PT	:FOREIGN:	PT	O	specialistAcronym-E0635674-pt
+PTT	:FOREIGN:	PTT	O	O
+

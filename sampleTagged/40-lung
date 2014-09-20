@@ -1,0 +1,45 @@
+שלום	:NOUN-M,S,ABS:	שלום	B-NP	O
+יעל	:PROPERNAME:	יעל	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+מניח	:VERB-M,S,A,BEINONI:	הניח	O	O
+שהכל	REL-SUBCONJ+DEF:QUANTIFIER:	כול	B-NP	O
+בסדר	:ADVERB:	בסדר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	B-NP	Question-C1522634
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+מתאימה	:ADJECTIVE-F,S,ABS:	מתאים	O	O
+יותר	:ADVERB:	יותר	O	O
+לפורום	PREPOSITION+DEF:NOUN-M,S,ABS:	פורום	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופאי	:NOUN-M,P,CONST:	רופא	I-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+,	:PUNCUATION:	,	O	O
+או	:CONJUNCTION:	או	O	O
+אולי	:ADVERB:	אולי	O	O
+מחייבת	:VERB-F,S,A,BEINONI:	חייב	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+אם	:CONJUNCTION:	אם	O	O
+הדבר	DEF:NOUN-M,S,ABS:	דבר	B-NP	O
+מטריד	:VERB-M,S,A,BEINONI:	הטריד	O	O
+.	:PUNCUATION:	.	O	O
+
+פורום	:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+בכירורגיה	PREPOSITION:NOUN-F,S,ABS:	כירורגיה	B-NP	surgery-C0038894
+של	:SHEL_PREP:	של	I-NP	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+וגידולי	CONJ:NOUN-M,P,CONST:	גידול	B-NP	tumor-C0027651
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

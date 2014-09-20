@@ -1,0 +1,29 @@
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נראות	:VERB-F,P,A,BEINONI:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+בסדר	:ADVERB:	בסדר	O	O
+,	:PUNCUATION:	,	O	O
+אם	:CONJUNCTION:	אם	O	O
+כי	:CONJUNCTION:	כי	O	O
+לא	:NEGATION:	לא	O	O
+צוינו	:VERB-MF,P,3,PAST:	צוין	O	O
+הערכים	DEF:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+נורמלים	:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+.	:PUNCUATION:	.	O	O
+
+כמובן	:ADVERB:	כמובן	O	O
+עליך	:PREPOSITION:PRONOMIAL-M,S,2	על	B-NP	O
+להגיע	:VERB-TOINFINITIVE:	הגיע	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+אותם	:AT_PREP:PRONOMIAL-M,P,3	את	B-NP	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+הנחיות	:NOUN-F,P,ABS:	הנחיה	I-NP	O
+נוספות	:ADJECTIVE-F,P,ABS:	נוסף	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

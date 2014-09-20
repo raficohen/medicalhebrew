@@ -1,0 +1,30 @@
+אם	:CONJUNCTION:	אם	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+נלקחו	:VERB-MF,P,3,PAST:	נלקח	O	O
+לא	:NEGATION:	לא	O	O
+בתקופת	PREPOSITION:NOUN-F,S,CONST:	תקופה	O	Time periods-C0439582
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+(	:PUNCUATION:	(	O	O
+רצוי	:MODAL-M,S,A:	רצוי	O	O
+לפחות	:VERB-TOINFINITIVE:	פחת	O	O
+פעמיים	:ADVERB:	פעמיים	B-NP	O
+)	:PUNCUATION:	)	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+אינדיקציה	:NOUN-F,S,ABS:	אינדיקציה	B-NP	indication-C0392360
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בקלקסן	PREPOSITION:NOUN-M,S,ABS:	קלקסן	B-NP	heparin-C0019134
+בהריון	PREPOSITION+DEF:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+לגבי	:PREPOSITION:	לגבי	O	O
+מינונים	:NOUN-M,P,ABS:	מינון	B-NP	dosage-C0178602
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המתמחה	DEF:NOUN-M,S,ABS:	מתמחה	I-NP	O
+בבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+

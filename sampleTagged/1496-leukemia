@@ -1,0 +1,22 @@
+אם	:CONJUNCTION:	אם	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סיפור	:NOUN-M,S,ABS:	סיפור	B-NP	O
+אישי	:ADJECTIVE-M,S,ABS:	אישי	I-NP	O
+או	:CONJUNCTION:	או	I-NP	O
+משפחתי	:ADJECTIVE-M,S,ABS:	משפחתי	I-NP	familial-C0015576
+אין	:NEGATION:	אין	O	O
+צורך	:VERB-M,S,A,BEINONI:	צרך	O	O
+בבדיקות	PREPOSITION:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+לפני	:PREPOSITION:	לפני	O	O
+נטילת	:NOUN-F,S,CONST:	נטילה	B-NP	O
+גלולה	:NOUN-F,S,ABS:	גלולה	I-NP	pills-C0994475
+.	:PUNCUATION:	.	O	O
+
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+לאיפורמציה	PREPOSITION+DEF:NOUN-F,S,ABS:	האיפורמציה	B-NP	O
+נוספת	:ADJECTIVE-F,S,ABS:	נוסף	O	O
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

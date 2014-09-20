@@ -1,0 +1,36 @@
+ראשית	:ADVERB:	ראשית	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+אפשרית	:ADJECTIVE-F,S,ABS:	אפשרי	I-NP	O
+לפריטין	PREPOSITION:NOUN-M,S,ABS:	פריטין	B-NP	ferritin-C0015879
+הנמוך	DEF:ADJECTIVE-M,S,ABS:	נמוך	I-NP	O
+ורצוי	CONJ:MODAL-M,S,A:	רצוי	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+בה	:PREPOSITION:PRONOMIAL-F,S,3	ב	B-NP	O
+-	:PUNCUATION:	-	O	O
+להפחית	:VERB-TOINFINITIVE:	הפחית	O	O
+את	:AT_PREP:	את	B-NP	O
+הדימום	DEF:NOUN-M,S,ABS:	דימום	I-NP	hemorrhage-C0019080
+במחזור	PREPOSITION+DEF:NOUN-M,S,ABS:	מחזור	B-NP	reunion-C0035373
+ולחזור	CONJ:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקה	DEF:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מבין	:VERB-M,S,A,BEINONI:	הבין	O	O
+את	:AT_PREP:	את	B-NP	O
+חששותיך	:NOUN-M,P,ABS:POSSESIVE-F,S,2	חשש	I-NP	O
+אך	:CONJUNCTION:	אך	O	O
+לפי	PREPOSITION:NOUN-M,S,CONST:	פה	O	Oral cavity-C0226896
+הנתונים	DEF:NOUN-M,P,ABS:	נתון	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+קשר	:NOUN-M,S,ABS:	קשר	I-NP	connection-C0449379
+בין	:PREPOSITION:	בין	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+שקרה	REL-SUBCONJ:VERB-M,S,3,PAST:	קרה	O	O
+לאחותך	PREPOSITION:NOUN-F,S,ABS:POSSESIVE-F,S,2	אח	B-NP	Brothers-C0337527-ambigous
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לראגה	:ADJECTIVE-M,S,ABS:	לראגה	O	O
+

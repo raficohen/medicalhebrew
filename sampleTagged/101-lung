@@ -1,0 +1,24 @@
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+הסברתי	:VERB-MF,S,1,PAST:	הסביר	O	O
+שפורום	REL-SUBCONJ:NOUN-M,S,ABS:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אינו	:COPULA-M,S,3,BEINONI,NEGATIVE:	הוא	O	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+בבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+שדיים	:ADJECTIVE-M,P,ABS:	שדי	I-NP	O
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+עלייך	:PREPOSITION:PRONOMIAL-F,S,2	על	B-NP	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לפורום	PREPOSITION:NOUN-M,S,ABS:	פורום	B-NP	O
+אחר	:ADJECTIVE-M,S,ABS:	אחר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

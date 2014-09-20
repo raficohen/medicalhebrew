@@ -1,0 +1,29 @@
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+ספק	:NOUN-M,S,ABS:	ספק	B-NP	doubt-C0870444
+שהשילוב	REL-SUBCONJ+DEF:NOUN-M,S,ABS:	שילוב	B-NP	integration-C1158478
+של	:SHEL_PREP:	של	I-NP	O
+שתי	:NUMERAL-F,D,CONST:	CARD2	I-NP	O
+ההפרעות	DEF:NOUN-F,P,ABS:	הפרעה	I-NP	arrhythmia-C0003811
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+לגרום	:VERB-TOINFINITIVE:	גרם	O	O
+להפלות	PREPOSITION:NOUN-F,P,ABS:	הפלה	O	abortion-C0156543
+חוזרות	:ADJECTIVE-F,P,ABS:	חוזר	O	O
+.	:PUNCUATION:	.	O	O
+
+במרבית	PREPOSITION:NOUN-F,S,CONST:	מרבית	B-NP	most-C0205393
+בתי	:NOUN-M,P,CONST:	בית	I-NP	house-C2003847
+החולים	DEF:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+המרכזיים	DEF:ADJECTIVE-M,P,ABS:	מרכזי	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+רופאים	:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+העוסקים	DEF:PARTICIPLE-M,P,A,ABS:	עסק	O	O
+בבעיות	PREPOSITION:NOUN-F,P,ABS:	בעיה	B-NP	problem-C0033213
+קרישה	:NOUN-F,S,ABS:	קרישה	B-NP	O
+ברפואת	PREPOSITION:NOUN-F,S,CONST:	רפואה	B-NP	medicine-C0013227
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+תלוי	:ADVERB:	תלוי	O	O
+היכן	:INTERROGATIVE:	היכן	O	O
+את	:AT_PREP:	את	B-NP	O
+מתגוררת	:VERB-F,S,A,BEINONI:	התגורר	I-NP	O
+.	:PUNCUATION:	.	O	O
+

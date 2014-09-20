@@ -1,0 +1,38 @@
+הסיפמטומים	DEF:ADJECTIVE-F,S,ABS:	הסיפמטומים	B-NP	O
+מתאימים	:VERB-M,P,A,BEINONI:	התאים	O	O
+לדלקת	PREPOSITION:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+מקומית	:ADJECTIVE-F,S,ABS:	מקומי	I-NP	local-C0205276
+של	:SHEL_PREP:	של	I-NP	O
+בלוטות	:NOUN-F,P,CONST:	בלוטה	I-NP	gland-C1285092
+הזעה	:NOUN-F,S,ABS:	הזעה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+ל	:PREPOSITION:	ל	O	O
+ש.ד	:NOUN-M,S,ABS:	ש.ד	B-NP	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	I-NP	O
+רצוי	:PARTICIPLE-M,S,A,ABS:	רצה	O	O
+לחפס	PREPOSITION:NOUN-M,S,CONST:	חפס	O	O
+מקור	:NOUN-M,S,CONST:	מקור	B-NP	Source-C0449416
+זיהום	:NOUN-M,S,ABS:	זיהום	I-NP	infection-C0009450
+(	:PUNCUATION:	(	I-NP	O
+שתן,שיניים,חניכיים,ווגינה	:PROPERNAME:	שתן,שיניים,חניכיים,ווגינה	I-NP	O
+)	:PUNCUATION:	)	O	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לדאגה	PREPOSITION:NOUN-F,S,ABS:	דאגה	B-NP	concern-C2699424
+אך	:CONJUNCTION:	אך	O	O
+תשארי	:VERB-TOINFINITIVE:	תשארי	O	O
+במעקב	PREPOSITION:NOUN-M,S,ABS:	מעקב	B-NP	surveillance-C0220920
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

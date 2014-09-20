@@ -1,0 +1,43 @@
+צודק	:VERB-M,S,A,BEINONI:	צדק	O	O
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+בעייה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+בנושא	PREPOSITION+DEF:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+,	:PUNCUATION:	,	O	O
+במיוחד	:ADVERB:	במיוחד	O	O
+כשעוברים	TEMP-SUBCONJ:NOUN-M,P,ABS:	עובר	B-NP	fetus-C0015965
+ממעבדה	PREPOSITION:NOUN-F,S,ABS:	מעבדה	B-NP	Laboratory-C0022877
+אחת	:NUMERAL-F,S,ABS:	CARD1	I-NP	O
+לשנייה	PREPOSITION+DEF:NOUN-F,S,ABS:	שנייה	B-NP	seconds-C0457385
+או	:CONJUNCTION:	או	O	O
+כשהמעבדה	TEMP-SUBCONJ+DEF:NOUN-F,S,ABS:	מעבדה	B-NP	Laboratory-C0022877
+משנה	:VERB-F,S,A,BEINONI:	שינה	O	sleep-C0037313
+את	:AT_PREP:	את	B-NP	O
+החומרים	DEF:NOUN-M,P,ABS:	חומר	I-NP	material-C0520510
+/	:PUNCUATION:	/	O	O
+המכשירים	DEF:NOUN-M,P,ABS:	מכשיר	O	Instrument - device-C0348000
+איתה	:AT_PREP:PRONOMIAL-F,S,3	את	B-NP	O
+היא	:PRONOUN-F,S,3:	הוא	B-NP	O
+עובדת	:VERB-F,S,A,BEINONI:	עבד	O	O
+.	:PUNCUATION:	.	O	O
+
+לכן	:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+הציאו	:NOUN-F,S,ABS:	הציאו	B-NP	O
+את	:AT_PREP:	את	B-NP	O
+ערך	:NOUN-M,S,CONST:	ערך	I-NP	values-C0042295
+ה	DEF::	ה	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+INR	:FOREIGN:	INR	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+הקובע	DEF:PARTICIPLE-M,S,A,ABS:	קבע	I-NP	O
+ורק	CONJ:CONJUNCTION:	רק	O	O
+איתו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לעבוד	:VERB-TOINFINITIVE:	עבד	O	O
+.	:PUNCUATION:	.	O	O
+

@@ -1,0 +1,20 @@
+פשוט	:ADVERB:	פשוט	O	O
+לא	:NEGATION:	לא	O	O
+מכיר	:VERB-M,S,A,BEINONI:	הכיר	O	O
+מחקרים	:NOUN-M,P,ABS:	מחקר	B-NP	research-C0035168
+מעמיקים	:VERB-M,P,A,BEINONI:	העמיק	O	O
+של	:SHEL_PREP:	של	O	O
+היפרתרמיה	:NOUN-F,S,ABS:	היפרתרמיה	B-NP	hyperthermia-C0015967
+עם	:PREPOSITION:	עם	O	O
+טרסיבה	:PROPERNAME:	טרסיבה	B-NP	O
+יתכן	:MODAL:	ייתכן	O	O
+שזה	REL-SUBCONJ:PRONOUN-M,S,3:	זה	B-NP	O
+רעיון	:NOUN-M,S,ABS:	רעיון	B-NP	O
+טוב	:ADJECTIVE-M,S,ABS:	טוב	I-NP	good-C0205170
+השאלה	DEF:NOUN-F,S,ABS:	שאלה	I-NP	Question-C1522634
+על	:PREPOSITION:	על	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	B-NP	O
+מסתמך	:VERB-M,S,A,BEINONI:	הסתמך	O	O
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+

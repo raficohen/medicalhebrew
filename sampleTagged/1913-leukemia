@@ -1,0 +1,62 @@
+מיכל	:PROPERNAME:	מיכל	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בחצי	PREPOSITION:NOUN-M,P,CONST:	חץ	B-NP	Arrow-C0336721
+השנה	DEF:NOUN-F,S,ABS:	שנה	I-NP	year-C0439234
+הקרובה	DEF:ADJECTIVE-F,S,ABS:	קרוב	I-NP	Near-C1706276
+מומלץ	:VERB-M,S,A,BEINONI:	הומלץ	O	O
+להימנע	:VERB-TOINFINITIVE:	נמנע	O	O
+מכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+תכשיר	:NOUN-M,S,ABS:	תכשיר	I-NP	Pharmaceutical Preparations-C0013227
+המכיל	DEF:PARTICIPLE-M,S,A,ABS:	הכיל	O	O
+הורמונים	:NOUN-M,P,ABS:	הורמון	B-NP	hormones-C0019932
+המגביר	DEF:PARTICIPLE-M,S,A,ABS:	הגביר	O	O
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ניכרת	:ADJECTIVE-F,S,ABS:	ניכר	I-NP	O
+נטייה	:NOUN-F,S,ABS:	נטייה	I-NP	O
+לקרישיות	PREPOSITION+DEF:NOUN-F,S,ABS:	הקרישיות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בהמשך	PREPOSITION:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+תזדקקי	:VERB-F,S,2,FUTURE:	הזדקק	O	O
+לברור	:VERB-TOINFINITIVE:	ברר	O	O
+קרישיות	:NOUN-F,S,ABS:	קרישיות	B-NP	O
+ואז	CONJ:CONJUNCTION:	אז	O	O
+יהיה	:COPULA-M,S,3,FUTURE,POSITIVE:	הוא	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+את	:AT_PREP:	את	I-NP	O
+נושא	:NOUN-M,S,CONST:	נושא	I-NP	Subject-C1706203
+אמצעי	:NOUN-M,P,CONST:	אמצע	I-NP	Middle-C0444598
+המניעה	DEF:NOUN-F,S,ABS:	מניעה	I-NP	prevention-C0199176
+.	:PUNCUATION:	.	O	O
+
+לא	:NEGATION:	לא	O	O
+ידוע	:ADJECTIVE-M,S,ABS:	ידוע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+על	:PREPOSITION:	על	O	O
+גלולות	:NOUN-F,P,ABS:	גלולה	B-NP	pills-C0994475
+לגבר	PREPOSITION+DEF:NOUN-M,S,ABS:	גבר	O	Male gender-C0024554
+.	:PUNCUATION:	.	O	O
+
+גם	:CONJUNCTION:	גם	O	O
+אם	:CONJUNCTION:	אם	O	O
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+באי	PREPOSITION:NOUN-M,S,CONST:	אי	B-NP	Islands-C0022130
+נוחות	:NOUN-F,S,ABS:	נוחות	I-NP	O
+הייתי	:COPULA-MF,S,1,PAST,POSITIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+בחודשים	PREPOSITION+DEF:NOUN-M,P,ABS:	חודש	B-NP	months-C0439231
+הקרובים	DEF:ADJECTIVE-M,P,ABS:	קרוב	I-NP	Near-C1706276
+שתשתמשו	REL-SUBCONJ:VERB-MF,P,2,FUTURE:	השתמש	O	O
+בקונדום	PREPOSITION+DEF:NOUN-M,S,ABS:	קונדום	B-NP	condom-C0009653
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

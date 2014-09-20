@@ -1,0 +1,28 @@
+הסימנים	DEF:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+הקליניים	DEF:ADJECTIVE-M,P,ABS:	קליני	I-NP	clinical-C0205210
+כעת	:ADVERB:	כעת	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+מתאימות	:ADJECTIVE-F,P,ABS:	מתאים	I-NP	O
+לקרישיות	PREPOSITION:NOUN-F,S,CONST:	קרישיות	B-NP	O
+יתר	:NOUN-M,S,ABS:	יתר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בנוגע	:ADVERB:	בנוגע	O	O
+לבדיקות	PREPOSITION:NOUN-F,P,CONST:	בדיקה	B-NP	examination-C0031809
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+שמכיר	REL-SUBCONJ:VERB-M,S,A,BEINONI:	הכיר	O	O
+את	:AT_PREP:	את	B-NP	O
+המיקרה	DEF:PARTICIPLE-M,S,A,ABS:	המיקרה	I-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+יוכל	:MODAL-M,S,2,FUTURE:	יכול	O	O
+בקלות	PREPOSITION+DEF:NOUN-F,S,ABS:	קלות	B-NP	Easy-C0332219
+לבקש	:VERB-TOINFINITIVE:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+כנדרש	PREPOSITION+DEF:ADJECTIVE-M,S,ABS:	נדרש	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

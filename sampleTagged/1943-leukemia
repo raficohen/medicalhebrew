@@ -1,0 +1,61 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+במדללי	PREPOSITION:NOUN-M,P,CONST:	מדלל	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+יעיל	:ADJECTIVE-M,S,ABS:	יעיל	O	O
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+של	:SHEL_PREP:	של	I-NP	O
+הפלות	:NOUN-F,P,ABS:	הפלה	I-NP	abortion-C0156543
+חוזרות	:ADJECTIVE-F,P,ABS:	חוזר	I-NP	O
+גם	:CONJUNCTION:	גם	O	O
+אם	:CONJUNCTION:	אם	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	B-NP	O
+נמצא	:VERB-M,S,3,PAST:	נמצא	O	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+.	:PUNCUATION:	.	O	O
+
+העובדה	DEF:NOUN-F,S,ABS:	עובדה	B-NP	Evidence-C0332120
+שקיבלת	REL-SUBCONJ:VERB-F,S,2,PAST:	קיבל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בפרוגסטרון	PREPOSITION:NOUN-M,S,ABS:	פרוגסטרון	B-NP	progesterone-C0033308
+רומזת	:VERB-F,S,A,BEINONI:	רמז	O	O
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+שהיתה	REL-SUBCONJ:COPULA-F,S,3,PAST,POSITIVE:	הוא	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+רמת	:NOUN-F,S,CONST:	רמה	I-NP	O
+פרוגסטרון	:NOUN-M,S,ABS:	פרוגסטרון	I-NP	progesterone-C0033308
+בתחילת	PREPOSITION:NOUN-F,S,CONST:	תחילה	B-NP	first-C0205435
+ההריון	DEF:NOUN-M,S,ABS:	הריון	I-NP	pregnancy-C0032961
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+ההפלות	DEF:NOUN-F,P,ABS:	הפלה	B-NP	abortion-C0156543
+לא	:NEGATION:	לא	O	O
+מוסברות	:VERB-F,P,A,BEINONI:	הוסבר	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+בעיה	:NOUN-F,S,ABS:	בעיה	I-NP	problem-C0033213
+זו	:PRONOUN-F,S,3:	זו	I-NP	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+מקום	:NOUN-M,S,ABS:	מקום	B-NP	place-C0442504
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+במדללי	PREPOSITION:NOUN-M,P,CONST:	מדלל	B-NP	O
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+לאחר	:PREPOSITION:	לאחר	O	O
+התיעצות	:NOUN-ABS:	התייעצות	B-NP	consultations-C0009818
+עם	:PREPOSITION:	עם	O	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	B-NP	O
+וגניקולוג	CONJ:NOUN-M,S,ABS:	גינקולוג	B-NP	gynecologist-C0237419
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

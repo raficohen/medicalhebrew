@@ -1,0 +1,23 @@
+קשה	:ADVERB:	קשה	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+בלי	:PREPOSITION:	בלי	O	O
+פרטים	:NOUN-M,P,ABS:	פרט	B-NP	details-C1522508-ambigous
+ובלי	CONJ:PREPOSITION:	בלי	O	O
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+נורמלים	:ADJECTIVE-M,P,ABS:	נורמלי	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+.	:PUNCUATION:	.	O	O
+
+יעוץ	:VERB-M,S,3,FUTURE:	עץ	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	B-NP	O
+חידה	:NOUN-F,S,ABS:	חידה	I-NP	O
+!	:PUNCUATION:	!	O	O
+
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION+DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+שביקש	REL-SUBCONJ:VERB-M,S,3,PAST:	ביקש	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+

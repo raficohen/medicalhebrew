@@ -1,0 +1,48 @@
+גם	:CONJUNCTION:	גם	B-NP	O
+פעילות	:NOUN-F,S,ABS:	פעילות	I-NP	activity-C0441655
+פיסית	:ADJECTIVE-F,S,ABS:	פיסי	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+ספיציפית	:ADJECTIVE-F,S,ABS:	ספיציפית	I-NP	O
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להביא	:VERB-TOINFINITIVE:	הביא	O	O
+לתוצאות	PREPOSITION:NOUN-F,P,CONST:	תוצאה	B-NP	result-C1274040
+הנ"ל	DEF:NOUN-M,S,ABS:	הנ"ל	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מלבד	:PREPOSITION:	מלבד	O	O
+זאת	:PRONOUN-F,S,3:	זאת	O	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בחלבונים	PREPOSITION:NOUN-M,P,ABS:	חלבון	B-NP	protein-C0033684
+המופרשים	DEF:PARTICIPLE-M,P,A,ABS:	הופרש	O	O
+מתאי	PREPOSITION:NOUN-M,P,CONST:	תא	B-NP	cell-C0007634
+כבד	:NOUN-M,S,ABS:	כבד	I-NP	liver-C0023884
+,	:PUNCUATION:	,	O	O
+לפני	:PREPOSITION:	לפני	O	O
+בירור	:NOUN-M,S,ABS:	בירור	B-NP	O
+כלשהו	:PRONOUN-M,S,3:	כלשהו	I-NP	O
+יש	:NOUN-M,S,ABS:	יש	O	O
+לחזור	:VERB-TOINFINITIVE:	חזר	O	O
+על	:PREPOSITION:	על	O	O
+הבדיקות	DEF:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+עוד	:ADVERB:	עוד	O	More-C0205172
+מספר	:NOUN-M,S,CONST:	מספר	B-NP	number-C0237753
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+ולפי	CONJ:PREPOSITION:	לפי	O	O
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+להחליט	:VERB-TOINFINITIVE:	החליט	O	O
+על	:PREPOSITION:	על	O	O
+המשך	:NOUN-M,S,CONST:	המשך	B-NP	continued-C0549178
+בירור	:NOUN-M,S,ABS:	בירור	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+למשל	:CONJUNCTION:	למשל	O	O
+US	:FOREIGN:	US	O	O
+כבד	:ADJECTIVE-M,S,ABS:	כבד	O	liver-C0023884
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+בברכה	PREPOSITION:PROPERNAME-F,S:	ברכה	B-NP	O
+

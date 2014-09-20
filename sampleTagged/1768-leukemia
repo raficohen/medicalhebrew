@@ -1,0 +1,50 @@
+האם	:INTERROGATIVE:	האם	O	O
+ספירת	:NOUN-F,S,CONST:	ספירה	B-NP	count-C0750480
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+כולל	:VERB-M,S,A,BEINONI:	כלל	O	Rule-C0870077-ambigous
+מס	:NOUN-M,S,ABS:	מס	B-NP	O
+טרומבוציטים	:VERB-MF,P,2,IMPERATIVE:	טרומבוציטים	O	O
+תקינה	:ADJECTIVE-F,S,ABS:	תקין	O	O
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+כן	:CONJUNCTION:	כן	O	O
+יתכן	:VERB-M,S,3,FUTURE:	תיכן	O	O
+ומדובר	CONJ:VERB-M,S,A,BEINONI:	דובר	O	O
+באריטמה	:PROPERNAME:	באריטמה	B-NP	O
+נודוזום	:NOUN-M,S,ABS:	נודוזום	I-NP	Erythema Nodosum-C0014743
+,	:PUNCUATION:	,	O	O
+דלקת	:NOUN-F,S,ABS:	דלקת	B-NP	inflammation-C0021368
+של	:SHEL_PREP:	של	I-NP	O
+השומן	DEF:NOUN-M,S,ABS:	שומן	I-NP	grease-C0301024
+התת	DEF:PREFIX:	תת	I-NP	O
+עורי	:VERB-F,S,2,IMPERATIVE:	עיוור	O	O
+.	:PUNCUATION:	.	O	O
+
+ממליצה	:VERB-F,S,A,BEINONI:	המליץ	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לראומטולוגיה	PREPOSITION:NOUN-F,S,ABS:	ראומטולוגיה	B-NP	rheumatology-C0035452
+.	:PUNCUATION:	.	O	O
+
+האריטמה	DEF:NOUN-F,P,ABS:	האריטמה	B-NP	O
+נודוזום	:NOUN-M,S,ABS:	נודוזום	B-NP	Erythema Nodosum-C0014743
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	O	O
+לממצא	PREPOSITION:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+של	:SHEL_PREP:	של	I-NP	O
+לופוס	:NOUN-M,S,ABS:	לופוס	I-NP	lupus-C0024131
+.	:PUNCUATION:	.	O	O
+
+בד"כ	:ADVERB:	בד"כ	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הוא	:PRONOUN-M,S,3:	הוא	O	O
+אנטי	:PREFIX:	אנטי	O	O
+דלקתי	:ADJECTIVE-M,S,ABS:	דלקתי	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+ד"ר	:TITULA-S:	ד"ר	O	O
+שבד	REL-SUBCONJ:NOUN-M,S,ABS:	בד	O	O
+

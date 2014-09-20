@@ -1,0 +1,27 @@
+בד"כ	:ADVERB:	בד"כ	O	O
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+לא	:NEGATION:	לא	O	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מניעתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	מניעה	I-NP	prevention-C0199176
+אולם	:CONJUNCTION:	אולם	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לידע	:VERB-TOINFINITIVE:	יידע	O	O
+את	:AT_PREP:	את	B-NP	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+במקרה	PREPOSITION:NOUN-M,S,ABS:	מקרה	O	case-C0868928
+של	:SHEL_PREP:	של	O	O
+הכנה	:NOUN-F,S,ABS:	הכנה	B-NP	O
+לניתוח	PREPOSITION+DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+,	:PUNCUATION:	,	O	O
+הריון	:NOUN-M,S,CONST:	הריון	B-NP	pregnancy-C0032961
+מתן	:NOUN-M,S,CONST:	מתן	I-NP	negotiations-C0680727
+גלולות	:NOUN-F,P,ABS:	גלולה	I-NP	pills-C0994475
+כדי	:CONJUNCTION:	כדי	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+מונע	:ADJECTIVE-M,S,ABS:	מונע	I-NP	O
+לזמן	PREPOSITION:NOUN-M,S,ABS:	זמן	O	O
+מוגבל	:ADJECTIVE-M,S,ABS:	מוגבל	O	O
+

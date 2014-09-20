@@ -1,0 +1,24 @@
+את	:AT_PREP:	את	B-NP	O
+משמעות	:NOUN-F,S,CONST:	משמעות	I-NP	significance-C0237881
+התוצאות	DEF:NOUN-F,P,ABS:	תוצאה	I-NP	result-C1274040
+,	:PUNCUATION:	,	O	O
+בהתחשב	:VERB-TOINFINITIVE:	התחשב	O	O
+בתלונות	PREPOSITION:NOUN-F,P,ABS:	תלונה	B-NP	complaint-C0277786
+שהיו	REL-SUBCONJ:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+,	:PUNCUATION:	,	O	O
+יתן	:VERB-M,S,3,FUTURE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+בפירוט	PREPOSITION:NOUN-M,S,CONST:	פירוט	B-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+או	:CONJUNCTION:	או	O	O
+אותו	:QUANTIFIER-CONST:	אותו	B-NP	O
+רופא	:NOUN-M,S,ABS:	רופא	I-NP	doctor-C0031831
+ששלח	REL-SUBCONJ:VERB-M,S,3,PAST:	שלח	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+צילום	:NOUN-M,S,ABS:	צילום	B-NP	O
+חזה	:PROPERNAME:	חזה	I-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+

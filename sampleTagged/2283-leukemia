@@ -1,0 +1,34 @@
+הבעייה	DEF:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+העיקרית	DEF:ADJECTIVE-F,S,ABS:	עיקרי	I-NP	O
+במחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+היא	:COPULA-F,S,3,BEINONI,POSITIVE:	הוא	O	O
+פגיעה	:NOUN-F,S,ABS:	פגיעה	B-NP	O
+במעי	PREPOSITION+DEF:NOUN-M,S,ABS:	מעי	B-NP	intestine-C0021853
+.	:PUNCUATION:	.	O	O
+
+ולכן	CONJ:CONJUNCTION:	לכן	O	O
+,	:PUNCUATION:	,	O	O
+רופאי	:NOUN-M,P,CONST:	רופא	B-NP	doctor-C0031831
+מעי	:NOUN-M,S,ABS:	מעי	I-NP	intestine-C0021853
+,	:PUNCUATION:	,	O	O
+כלומר	:CONJUNCTION:	כלומר	O	O
+,	:PUNCUATION:	,	O	O
+גסטרואנטרולוגים	:ADVERB:	גסטרואנטרולוגים	O	O
+,	:PUNCUATION:	,	O	O
+יודעים	:VERB-M,P,A,BEINONI:	ידע	O	O
+לטפל	:VERB-TOINFINITIVE:	טיפל	O	O
+הכי	:ADVERB:	הכי	O	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+במחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+ועל	CONJ:PREPOSITION:	על	O	O
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+מה	:INTERROGATIVE:	מה	I-NP	O
+שמשתמע	REL-SUBCONJ:VERB-M,S,A,BEINONI:	השתמע	O	O
+.	:PUNCUATION:	.	O	O
+
+כדאי	:MODAL:	כדאי	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לייעוץ	PREPOSITION:NOUN-M,S,ABS:	ייעוץ	B-NP	counselling-C0010210
+מתאים	:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+.	:PUNCUATION:	.	O	O
+

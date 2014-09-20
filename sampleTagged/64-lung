@@ -1,0 +1,32 @@
+בדכ	:NOUN-M,S,ABS:POSSESIVE-M,S,3	בד	B-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+על	:PREPOSITION:	על	O	O
+שילוב	:NOUN-M,S,ABS:	שילוב	B-NP	integration-C1158478
+כמו	:PREPOSITION:	כמו	O	O
+וטיפול	CONJ:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ביולוגי	:ADJECTIVE-M,S,ABS:	ביולוגי	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+נושא	:NOUN-M,S,ABS:	נושא	B-NP	Subject-C1706203
+הקשור	DEF:PARTICIPLE-M,S,A,ABS:	קשר	O	connection-C0449379
+לטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בסרטן	PREPOSITION:NOUN-M,S,CONST:	סרטן	B-NP	malignancy-C0006826
+מעי גס	:TERM:	מעי גס	O	large intestine-C0021851
+למרות	:CONJUNCTION:	למרות	O	O
+שכבר	REL-SUBCONJ:ADVERB:	כבר	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+גרורות	:NOUN-F,P,ABS:	גרורה	B-NP	metastasis-C0027627
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+זהו	:PRONOUN-M,S,3:	זהו	B-NP	O
+לא	:NEGATION:	לא	B-NP	O
+גידול	:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+ראתי	:VERB-F,S,2,IMPERATIVE:	ראתי	O	O
+כדאי	:ADVERB:	כדאי	O	O
+להתיעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+יותר	:ADVERB:	יותר	O	O
+עם	:PREPOSITION:	עם	O	O
+רופאים	:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+העוסקים	DEF:PARTICIPLE-M,P,A,ABS:	עסק	O	O
+בנושא	PREPOSITION:NOUN-M,S,CONST:	נושא	B-NP	Subject-C1706203
+חובב	:NOUN-M,S,ABS:	חובב	O	O
+

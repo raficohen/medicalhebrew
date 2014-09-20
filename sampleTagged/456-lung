@@ -1,0 +1,45 @@
+כנראה	:ADVERB:	כנראה	O	O
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מתכוון	:VERB-M,S,A,BEINONI:	התכוון	O	O
+לתרומת	PREPOSITION:NOUN-F,S,CONST:	תרומה	B-NP	contribution-C1880177
+אונה	:NOUN-F,S,ABS:	אונה	I-NP	lobe-C0796494
+מהחי	PREPOSITION+DEF:NOUN-M,S,ABS:	חי	B-NP	O
+לחולה	PREPOSITION:ADJECTIVE-M,S,ABS:	חולה	O	O
+?	:PUNCUATION:	?	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+כן	:CONJUNCTION:	כן	O	O
+האונה	DEF:NOUN-F,S,ABS:	אונה	B-NP	lobe-C0796494
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+לתפקד	:VERB-TOINFINITIVE:	תפקד	O	O
+תלוי	:ADVERB:	תלוי	O	O
+במי	PREPOSITION:INTERROGATIVE:	מי	B-NP	O
+משתילים	:VERB-M,P,A,BEINONI:	השתיל	O	O
+אןתה	:PROPERNAME:	אןתה	B-NP	O
+ובעיקר	CONJ:ADVERB:	בעיקר	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+גודלו	:NOUN-M,S,ABS:POSSESIVE-M,S,3	גודל	B-NP	size-C0456389
+ומה	CONJ:INTERROGATIVE:	מה	O	O
+מחלתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	מחלה	B-NP	disease-C0012634
+הבסיסית	DEF:ADJECTIVE-F,S,ABS:	בסיסי	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אונה	:NOUN-M,S,ABS:POSSESIVE-F,S,3	און	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+מבוגר	:NOUN-M,S,ABS:	מבוגר	I-NP	adults-C0001675
+יכולה	:MODAL-F,S,A,BEINONI:	יכול	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+בגודל	PREPOSITION:NOUN-M,S,ABS:	גודל	B-NP	size-C0456389
+של	:SHEL_PREP:	של	I-NP	O
+ריאה	:NOUN-F,S,ABS:	ריאה	I-NP	lung-C0024109
+שלמה	:ADJECTIVE-F,S,ABS:	שלם	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+ילד	:NOUN-M,S,ABS:	ילד	I-NP	children-C0008059
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+העולם	DEF:NOUN-M,S,ABS:	עולם	I-NP	world-C2700280
+בוצעו	:VERB-MF,P,3,PAST:	בוצע	O	O
+עשרות	:NUMERAL-F,P,CONST:	CARD10	B-NP	O
+חולים	:ADJECTIVE-M,P,ABS:	חולה	I-NP	O
+כאלה	PREPOSITION:NOUN-F,S,ABS:	אל	B-NP	deity-C0681169-ambigous
+בלבד	:ADVERB:	בלבד	O	O
+

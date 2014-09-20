@@ -1,0 +1,59 @@
+אור	:NOUN-M,S,CONST:	אור	B-NP	light-C0023693
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+,	:PUNCUATION:	,	O	O
+
+סה	:PROPERNAME:	סה	B-NP	O
+'	:PUNCUATION:	'	O	O
+'	:PUNCUATION:	'	O	O
+אתה	:PRONOUN-M,S,2:	הוא	B-NP	O
+נשמע	:VERB-M,S,A,BEINONI:	נשמע	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+בריא	:ADJECTIVE-M,S,ABS:	בריא	O	O
+.	:PUNCUATION:	.	O	O
+
+דקירות	:NOUN-F,P,ABS:	דקירה	B-NP	O
+בחזה	PREPOSITION:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+מהסוג	PREPOSITION+DEF:NOUN-M,S,ABS:	סוג	B-NP	kind-C0332307
+שאתה	REL-SUBCONJ:PRONOUN-M,S,2:	הוא	B-NP	O
+מתאר	:VERB-M,S,A,BEINONI:	תיאר	O	O
+יכולות	:MODAL-F,P,A,BEINONI:	יכול	O	O
+לנבוע	:VERB-TOINFINITIVE:	נבע	O	O
+מכיוון	PREPOSITION:NOUN-M,S,ABS:	כיוון	B-NP	direction-C0449738
+שרירי	:ADJECTIVE-M,S,ABS:	שרירי	I-NP	O
+,	:PUNCUATION:	,	O	O
+בוודאי	:ADVERB:	בוודאי	O	O
+בגילך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	גיל	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+נושא	:NOUN-M,S,CONST:	נושא	I-NP	Subject-C1706203
+השתיה	DEF:NOUN-F,S,ABS:	שתייה	I-NP	Drinking function-C0684271
+והמיצים	CONJ+DEF:NOUN-M,P,ABS:	מיץ	I-NP	juice-C1268568
+-	:PUNCUATION:	-	I-NP	O
+לא	:NEGATION:	לא	I-NP	O
+קשור	:ADJECTIVE-M,S,ABS:	קשור	I-NP	O
+לתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+הפורום	DEF:NOUN-M,S,ABS:	פורום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+קולה	:NOUN-F,S,ABS:	קולה	B-NP	O
+מים	:NOUN-M,P,ABS:	מים	I-NP	water-C0043047
+ומיץ	CONJ:NOUN-M,S,ABS:	מיץ	B-NP	juice-C1268568
+לא	:NEGATION:	לא	O	O
+גורמים	:VERB-M,P,A,BEINONI:	גרם	O	O
+בד'	PREPOSITION:NOUN-M,S,ABS:	ד'	B-NP	O
+'	:PUNCUATION:	'	O	O
+כ	:PREPOSITION:	כ	O	O
+לכאב	PREPOSITION+DEF:NOUN-M,S,ABS:	כאב	B-NP	pain-C0030193
+בחזה	PREPOSITION+DEF:NOUN-M,S,ABS:	חזה	B-NP	chest-C0817096
+.	:PUNCUATION:	.	O	O
+
+סוף	:NOUN-M,S,CONST:	סוף	B-NP	O
+שבוע	:NOUN-M,S,ABS:	שבוע	I-NP	week-C0439230
+נעים	:ADJECTIVE-M,S,ABS:	נעים	I-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME-M,S:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

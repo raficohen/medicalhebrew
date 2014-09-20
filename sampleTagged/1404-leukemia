@@ -1,0 +1,20 @@
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בפקקת	PREPOSITION:NOUN-F,S,ABS:	פקקת	B-NP	thrombosis-C0040053
+ורידית	:ADJECTIVE-F,S,ABS:	ורידית	I-NP	O
+נעשה	:VERB-M,S,3,PAST:	נעשה	O	O
+תחת	:PREPOSITION:	תחת	O	O
+השגחה	:NOUN-F,S,ABS:	השגחה	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+רופא	:NOUN-M,S,CONST:	רופא	I-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	I-NP	families-C0015576
+והמטולוג	CONJ:NOUN-M,S,ABS:	המטולוג	I-NP	O
+או	:CONJUNCTION:	או	O	O
+מומחה	:NOUN-M,S,ABS:	מומחה	B-NP	Specialist Physician-C2348234
+כלי דם	:TERM:	כלי דם	O	blood vessels-C0005847
+שיענו	REL-SUBCONJ:VERB-MF,P,3,FUTURE:	ענה	O	O
+לשאלותך	PREPOSITION:NOUN-F,P,ABS:POSSESIVE-M,S,3	שאלות	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

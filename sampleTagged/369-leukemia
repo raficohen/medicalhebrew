@@ -1,0 +1,25 @@
+תוצאות	:NOUN-F,P,ABS:	תוצאה	B-NP	result-C1274040
+אלא	:CONJUNCTION:	אלא	O	O
+לא	:NEGATION:	לא	O	O
+מספיקות	:VERB-F,P,A,BEINONI:	הספיק	O	O
+בכדי	:CONJUNCTION:	בכדי	O	O
+לענות	:VERB-TOINFINITIVE:	ענה	O	O
+.	:PUNCUATION:	.	O	O
+
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בזמנים	PREPOSITION:NOUN-M,P,ABS:	זמן	B-NP	O
+אך	:CONJUNCTION:	אך	O	O
+אין	:EXISTENTIAL-NEGATIVE:	יש	O	O
+סטנדרט	:NOUN-M,S,ABS:	סטנדרט	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+המעבדה	DEF:NOUN-F,S,ABS:	מעבדה	I-NP	Laboratory-C0022877
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+לא	:NEGATION:	לא	O	O
+רואה	:VERB-M,S,A,BEINONI:	ראה	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+עם	:PREPOSITION:	עם	O	O
+הכאבי	:PROPERNAME:	הכאבי	B-NP	O
+בטן	:NOUN-F,S,ABS:	בטן	O	abdomen-C0000726
+

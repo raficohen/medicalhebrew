@@ -1,0 +1,31 @@
+את	:AT_PREP:	את	B-NP	O
+האבחנה	DEF:NOUN-F,S,ABS:	אבחנה	I-NP	diagnosis-C0011900
+עושים	:VERB-M,P,A,BEINONI:	עשה	O	O
+לא	:NEGATION:	לא	O	O
+רק	:CONJUNCTION:	רק	O	O
+ע"פ	:CONJUNCTION:	ע"פ	O	O
+אולטראסאונד	:NOUN-M,S,ABS:	אולטראסאונד	B-NP	ultrasound-C0041618
+אלא	:CONJUNCTION:	אלא	O	O
+לפי	:PREPOSITION:	לפי	O	O
+הקליניקה	DEF:NOUN-F,S,ABS:	קליניקה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+והסימנים	CONJ+DEF:NOUN-M,P,ABS:	סימן	B-NP	sign-C0311392
+מחשידים	:VERB-M,P,A,BEINONI:	החשיד	O	O
+בנוכחות	PREPOSITION:NOUN-F,S,CONST:	נוכחות	B-NP	presence-C0392148
+ההסטוריה	DEF:NOUN-F,S,ABS:	היסטוריה	I-NP	history-C0019664
+המשפחתית	DEF:ADJECTIVE-F,S,ABS:	משפחתי	I-NP	familial-C0015576
+כדאי	:MODAL:	כדאי	O	O
+להתייעץ	:VERB-TOINFINITIVE:	התייעץ	O	O
+עם	:PREPOSITION:	עם	O	O
+המטולוג	DEF:NOUN-M,S,ABS:	המטולוג	B-NP	O
+העוסק	DEF:PARTICIPLE-M,S,A,ABS:	עסק	O	O
+בנושא	PREPOSITION:NOUN-M,S,CONST:	נושא	B-NP	Subject-C1706203
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+ובוודאי	CONJ:ADVERB:	בוודאי	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+האם	:INTERROGATIVE:	האם	O	O
+אמך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	אם	B-NP	Mother-C0026591-ambigous
+נשאית	:NOUN-F,S,ABS:	נשאית	O	O
+

@@ -1,0 +1,29 @@
+שלום	:NOUN-M,S,CONST:	שלום	B-NP	O
+תמר	:PROPERNAME-F,S:	תמר	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+איני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+על	:PREPOSITION:	על	O	O
+רופאים	:NOUN-M,P,ABS:	רופא	B-NP	doctor-C0031831
+באמצעות	:PREPOSITION:	באמצעות	O	O
+האינטרנט	DEF:NOUN-M,S,ABS:	אינטרנט	B-NP	internet-C0282111
+.	:PUNCUATION:	.	O	O
+
+כל	:QUANTIFIER-CONST:	כול	B-NP	O
+המטולוג	:NOUN-M,S,ABS:	המטולוג	I-NP	O
+שתפני	REL-SUBCONJ:VERB-F,S,2,FUTURE:	פנה	O	O
+אליו	:PREPOSITION:PRONOMIAL-M,S,3	אל	B-NP	O
+מתמצא	:VERB-M,S,A,BEINONI:	התמצא	O	O
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+ITP	:FOREIGN:	ITP	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

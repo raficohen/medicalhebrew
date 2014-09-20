@@ -1,0 +1,34 @@
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+צורך	:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+בדיקות	:NOUN-F,P,ABS:	בדיקה	B-NP	examination-C0031809
+גנטיות	:ADJECTIVE-F,P,ABS:	גנטי	I-NP	genetic-C0314603
+רק	:CONJUNCTION:	רק	O	O
+עם	:PREPOSITION:	עם	O	O
+יש	:NOUN-M,S,CONST:	יש	B-NP	O
+חשד	:NOUN-M,S,ABS:	חשד	I-NP	Suspicion-C0242114
+למחלה	PREPOSITION+DEF:NOUN-F,S,ABS:	מחלה	B-NP	disease-C0012634
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+ההמוגלובין	:ADVERB:	ההמוגלובין	O	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	B-NP	O
+תקין	:ADJECTIVE-M,S,ABS:	תקין	O	O
+,	:PUNCUATION:	,	O	O
+קרוב	:ADJECTIVE-M,S,ABS:	קרוב	O	Near-C1706276
+לוודאי	PREPOSITION:ADJECTIVE-M,S,ABS:	ודאי	O	O
+שאין	REL-SUBCONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+תלסמיה	:NOUN-F,S,ABS:	תלסמיה	B-NP	thalassemia-C0039730
+.	:PUNCUATION:	.	O	O
+
+ולמה	PREPOSITION+CONJ:INTERROGATIVE:	ל	O	O
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+חשד	:NOUN-M,S,ABS:	חשד	B-NP	Suspicion-C0242114
+לבעייה	PREPOSITION:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+של	:SHEL_PREP:	של	I-NP	O
+קרישיות	:NOUN-F,S,ABS:	קרישיות	I-NP	O
+?	:PUNCUATION:	?	O	O
+
+?	:PUNCUATION:	?	O	O
+

@@ -1,0 +1,46 @@
+רותי	:PROPERNAME:	רותי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+נגעים	:NOUN-M,P,ABS:	נגע	B-NP	Lesion-C0221198-ambigous
+חדשים	:ADJECTIVE-M,P,ABS:	חדש	I-NP	O
+בשלד	PREPOSITION+DEF:NOUN-M,S,ABS:	שלד	B-NP	skeleton-C0037253
+ומחלתך	CONJ:NOUN-F,S,ABS:POSSESIVE-F,S,2	מחלה	I-NP	disease-C0012634
+לא	:NEGATION:	לא	I-NP	O
+פעילה	:ADJECTIVE-F,S,ABS:	פעיל	I-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+לארדיה	PREPOSITION:NOUN-F,S,ABS:	ארדיה	O	pamidronate-C0043603
+פעם	:ADVERB:	פעם	O	once-C1948045
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+3	:NUMERAL:	###NUMBER###	B-NP	O
+חודשים	:NOUN-M,P,ABS:	חודש	I-NP	months-C0439231
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+בכלל	:ADVERB:	בכלל	O	O
+לא	:NEGATION:	לא	O	O
+היו	:COPULA-M,P,2,IMPERATIVE,POSITIVE:	הוא	O	O
+נגעים	:NOUN-M,P,ABS:	נגע	B-NP	Lesion-C0221198-ambigous
+באף	PREPOSITION:QUANTIFIER-CONST:	אף	B-NP	nose-C0028429
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+משלבי	PREPOSITION:NOUN-M,P,CONST:	שלב	I-NP	stage-C0205390
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+להפסיק	:VERB-TOINFINITIVE:	הפסיק	O	O
+ארדיה	:NOUN-F,S,ABS:	ארדיה	B-NP	pamidronate-C0043603
+לאחר	:PREPOSITION:	לאחר	O	O
+שנתיים	:ADJECTIVE-M,P,ABS:	שנתי	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+איתי	:PROPERNAME:	איתי	I-NP	O
+לוי	:PROPERNAME:	לוי	O	O
+

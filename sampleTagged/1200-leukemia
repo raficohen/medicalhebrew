@@ -1,0 +1,26 @@
+ערכים	:NOUN-M,P,ABS:	ערך	B-NP	values-C0042295
+אלה	:PRONOUN-MF,P,3:	אלה	I-NP	O
+(	:PUNCUATION:	(	O	O
+PT	:FOREIGN:	PT	O	specialistAcronym-E0635674-pt
+ו	:CONJUNCTION:	ו	O	O
+-	:PUNCUATION:	-	O	O
+INR	:FOREIGN:	INR	O	O
+)	:PUNCUATION:	)	O	O
+הם	:PRONOUN-M,P,3:	הוא	B-NP	O
+עדין	:ADJECTIVE-M,S,ABS:	עדין	O	O
+בתחום	PREPOSITION:NOUN-M,S,CONST:	תחום	B-NP	O
+הנורמה	DEF:NOUN-F,S,ABS:	נורמה	I-NP	Normal-C0205307
+ללא	:PREPOSITION:	ללא	O	O
+קשר	:NOUN-M,S,ABS:	קשר	B-NP	connection-C0449379
+לבלוטת	PREPOSITION:NOUN-F,S,CONST:	בלוטה	B-NP	gland-C1285092
+התריס	DEF:NOUN-M,S,ABS:	תריס	I-NP	shutter-C1710078
+ואין	CONJ:EXISTENTIAL-NEGATIVE:	יש	O	O
+בעיה	:NOUN-F,S,ABS:	בעיה	B-NP	problem-C0033213
+לעשות	:VERB-TOINFINITIVE:	עשה	O	O
+ניתוח קיסרי	:TERM:	ניתוח קיסרי	O	cesarean section-C0007876
+במידה	PREPOSITION:NOUN-F,S,ABS:	מידה	B-NP	O
+ויש	CONJ:EXISTENTIAL-POSITIVE:	יש	O	O
+הוראה	:NOUN-F,S,ABS:	הוראה	B-NP	Educational process of instructing-C0039401-ambigous
+לכך	PREPOSITION:PRONOUN:	כך	B-NP	O
+.	:PUNCUATION:	.	O	O
+

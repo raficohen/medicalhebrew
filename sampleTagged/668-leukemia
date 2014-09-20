@@ -1,0 +1,36 @@
+אינני	:COPULA-MF,S,1,BEINONI,NEGATIVE:	הוא	O	O
+יודע	:VERB-M,S,A,BEINONI:	ידע	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+הכוונה	DEF:NOUN-F,S,ABS:	כוונה	B-NP	intentions-C0162425
+ב	:PREPOSITION:	ב	O	O
+-	:PUNCUATION:	-	O	O
+FIBRINOG.CLAUSS	:FOREIGN:	FIBRINOG.CLAUSS	O	O
+בד"כ	:PROPERNAME:	בד"כ	B-NP	O
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+על	:PREPOSITION:	על	O	O
+בדיקת	:NOUN-F,S,CONST:	בדיקה	B-NP	examination-C0031809
+FIBRINOGER	:FOREIGN:	FIBRINOGER	O	O
+הערך	DEF:NOUN-M,S,ABS:	ערך	B-NP	values-C0042295
+מעל	:PREPOSITION:	מעל	O	O
+400	:NUMERAL:	###NUMBER###	B-NP	O
+הוא	:PRONOUN-M,S,3:	הוא	I-NP	O
+מעט	:ADVERB:	מעט	O	O
+גבוה	:ADJECTIVE-M,S,ABS:	גבוה	O	O
+.	:PUNCUATION:	.	O	O
+
+בשלב	PREPOSITION:NOUN-M,S,ABS:	שלב	B-NP	stage-C0205390
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+כדאי	:MODAL:	כדאי	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בדיקה	:NOUN-F,S,ABS:	בדיקה	B-NP	examination-C0031809
+של	:SHEL_PREP:	של	I-NP	O
+כל	:QUANTIFIER-CONST:	כול	I-NP	O
+תפקודי	:NOUN-M,P,CONST:	תפקוד	I-NP	Function-C0542341
+מנגנון	:NOUN-M,S,CONST:	מנגנון	I-NP	mechanism-C0441712
+הקרישה	DEF:NOUN-F,S,ABS:	קרישה	I-NP	O
+לפני	:PREPOSITION:	לפני	O	O
+שמסיקים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	הסיק	O	O
+מסקנות	:NOUN-F,P,ABS:	מסקנה	B-NP	O
+כלשהן	:PRONOUN-F,P:	כלשהו	I-NP	O
+.	:PUNCUATION:	.	O	O
+

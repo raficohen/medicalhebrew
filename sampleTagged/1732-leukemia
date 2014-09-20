@@ -1,0 +1,34 @@
+ממצא	:NOUN-M,S,ABS:	ממצא	B-NP	Finding-C0243095
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+נפוץ	:ADJECTIVE-M,S,ABS:	נפוץ	O	O
+מאוד	:ADVERB:	מאוד	O	O
+ובעצמו	PREPOSITION+CONJ:PRONOUN:PRONOMIAL-M,S,3	ב	O	O
+לא	:NEGATION:	לא	O	O
+מחייב	:VERB-M,S,A,BEINONI:	חייב	O	O
+שום	:QUANTIFIER-CONST:	שום	B-NP	O
+טיפול	:NOUN-M,S,ABS:	טיפול	I-NP	Therapeutic procedure-C0087111
+בנוגדי	PREPOSITION:PARTICIPLE-M,P,A,CONST:	נגד	B-NP	O
+קרישה	:NOUN-F,S,ABS:	קרישה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+במיקרה	PREPOSITION:PARTICIPLE-M,S,A:POSSESIVE-F,S,3	ייקר	B-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+או	:CONJUNCTION:	או	I-NP	O
+סיפור	:NOUN-M,S,ABS:	סיפור	I-NP	O
+של	:SHEL_PREP:	של	I-NP	O
+תרומבוזות	:PROPERNAME:	תרומבוזות	I-NP	O
+צריך	:MODAL-M,S,A:	צריך	O	O
+לדון	:VERB-TOINFINITIVE:	דן	O	O
+עם	:PREPOSITION:	עם	O	O
+הרופא	DEF:NOUN-M,S,ABS:	רופא	B-NP	doctor-C0031831
+משפחה	:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+והיועץ	CONJ+DEF:NOUN-M,S,ABS:	יועץ	B-NP	O
+לקרישה	PREPOSITION:NOUN-F,S,ABS:	קרישה	O	O
+על	:PREPOSITION:	על	O	O
+הצורך	DEF:NOUN-M,S,ABS:	צורך	B-NP	need-C0027552
+בטיפול	PREPOSITION:NOUN-M,S,ABS:	טיפול	O	Therapeutic procedure-C0087111
+פרופילקתי	:NOUN-MF,S,ABS:	פרופילקתי	B-NP	O
+פרופ	:NOUN-M,S,ABS:	פרוף	I-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

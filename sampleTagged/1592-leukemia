@@ -1,0 +1,38 @@
+אנטיגן	:PROPERNAME:	אנטיגן	B-NP	antigen-C0003320
+E	:FOREIGN:	E	O	O
+שייך	:VERB-M,S,3,PAST:	שייך	O	O
+לקבוצת	PREPOSITION:NOUN-F,S,CONST:	קבוצה	B-NP	groups-C0441833
+ה	DEF::	ה	I-NP	O
+RHESUS	:FOREIGN:	RHESUS	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+את	:AT_PREP:	את	B-NP	O
+RH	:FOREIGN:	RH	I-NP	O
++	:PUNCUATION:	+	O	O
+אבל	:CONJUNCTION:	אבל	O	O
+כנראה	:ADVERB:	כנראה	O	O
+פיתחת	:VERB-F,S,2,PAST:	פיתח	O	O
+נוגדנים	:NOUN-M,P,ABS:	נוגדן	B-NP	antibody-C0003241
+מעירוי	PREPOSITION:NOUN-M,S,CONST:	עירוי	B-NP	infusion-C0574032
+דם	:NOUN-M,S,ABS:	דם	I-NP	blood-C0005767
+או	:CONJUNCTION:	או	O	O
+הריון	:NOUN-M,S,ABS:	הריון	B-NP	pregnancy-C0032961
+קודמים	:ADJECTIVE-M,P,ABS:	קודם	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+ל	:PREPOSITION:	ל	O	O
+רופא	:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+נשים	:NOUN-F,P,ABS:	איש	I-NP	people-C0027361
+שעוקב	REL-SUBCONJ:VERB-M,S,A,BEINONI:	עקב	O	O
+אחריך	:PREPOSITION:PRONOMIAL-M,S,2	אחרי	B-NP	O
+למשמעות	PREPOSITION+DEF:NOUN-F,S,ABS:	משמעות	B-NP	significance-C0237881
+הממצאה	DEF:PARTICIPLE-F,S,A,ABS:	הממצאה	O	O
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

@@ -1,0 +1,28 @@
+צריכה	:MODAL-F,S,A:	צריך	O	O
+להיות	:COPULA-TOINFINITIVE,POSITIVE:	הוא	O	O
+סיבה	:NOUN-F,S,ABS:	סיבה	B-NP	Causations-C0085978
+לבירור	PREPOSITION:NOUN-M,S,ABS:	בירור	B-NP	O
+שנעשה	REL-SUBCONJ:VERB-M,S,3,PAST:	נעשה	O	O
+לבנך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	בן	O	Son (person)-C0037683-ambigous
+.	:PUNCUATION:	.	O	O
+
+אני	:PRONOUN-MF,S,1:	הוא	B-NP	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לרופה	PREPOSITION:PARTICIPLE-M,S,A,CONST:	רפה	O	O
+המשפחה	DEF:NOUN-F,S,ABS:	משפחה	B-NP	families-C0015576
+או	:CONJUNCTION:	או	O	O
+ליועץ	PREPOSITION+DEF:NOUN-M,S,ABS:	יועץ	B-NP	O
+שמכירים	REL-SUBCONJ:VERB-M,P,A,BEINONI:	הכיר	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+לקבלת	PREPOSITION:NOUN-F,S,CONST:	קבלה	B-NP	Acceptance-C0000899-ambigous
+הנחיות	:NOUN-F,P,ABS:	הנחיה	I-NP	O
+על	:PREPOSITION:	על	O	O
+גורמי	:NOUN-M,P,CONST:	גורם	B-NP	O
+סיכון	:NOUN-M,S,ABS:	סיכון	I-NP	risk-C0035647
+.	:PUNCUATION:	.	O	O
+
+פרופ	:NOUN-M,S,ABS:	פרוף	B-NP	O
+ברבי	PREPOSITION:NOUN-M,S,CONST:	רבי	B-NP	O
+

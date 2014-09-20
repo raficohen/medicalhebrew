@@ -1,0 +1,86 @@
+דני	:PROPERNAME:	דני	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+הפניה	DEF:NOUN-F,S,ABS:	פנייה	B-NP	O
+שלך	:SHEL_PREP:PRONOMIAL-M,S,2	של	I-NP	O
+קצת	:ADVERB:	קצת	O	O
+חורגת	:VERB-F,S,A,BEINONI:	חרג	O	O
+מהתחום	PREPOSITION+DEF:NOUN-M,S,ABS:	תחום	B-NP	O
+שבו	:VERB-MF,P,2,IMPERATIVE:	ישב	O	O
+עוסק	:VERB-M,S,A,BEINONI:	עסק	O	O
+פורום	:NOUN-M,S,CONST:	פורום	B-NP	O
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+מאוד	:ADVERB:	מאוד	O	O
+ממליץ	:VERB-M,S,A,BEINONI:	המליץ	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לאונקולוג	PREPOSITION+DEF:NOUN-M,S,ABS:	האונקולוג	B-NP	O
+שמטפל	REL-SUBCONJ:VERB-M,S,A,BEINONI:	טיפל	O	O
+באחיך	PREPOSITION:NOUN-M,P,ABS:POSSESIVE-F,S,2	אח	B-NP	Brothers-C0337527-ambigous
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+שיוכל	REL-SUBCONJ:MODAL-M,S,2,FUTURE:	יכול	O	O
+לתת	:VERB-TOINFINITIVE:	נתן	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+הסבר	:NOUN-M,S,ABS:	הסבר	B-NP	explanation-C0681841
+על	:PREPOSITION:	על	O	O
+מהות	:NOUN-F,S,CONST:	מהות	B-NP	O
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+,	:PUNCUATION:	,	O	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+וסיכויי	CONJ:NOUN-M,P,CONST:	סיכוי	B-NP	chance-C0237506
+ההחלמה	DEF:NOUN-F,S,ABS:	החלמה	I-NP	recovery-C0237820
+.	:PUNCUATION:	.	O	O
+
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	O	O
+בגידול	PREPOSITION:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+ממאיר	:ADJECTIVE-M,S,ABS:	ממאיר	I-NP	malignant-C0205282
+גרורתי	:NOUN-F,S,ABS:POSSESIVE-MF,S,1	גרורה	I-NP	metastasis-C0027627
+.	:PUNCUATION:	.	O	O
+
+בתשובה	PREPOSITION:NOUN-F,S,ABS:	תשובה	B-NP	answer-C1706817
+לעיל	:ADVERB:	לעיל	O	O
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+תיאור	:NOUN-M,S,ABS:	תיאור	B-NP	Description-C0678257
+היסטולוגי	:ADJECTIVE-M,S,ABS:	היסטולוגי	I-NP	histology-C0019638
+של	:SHEL_PREP:	של	I-NP	O
+תאי	:NOUN-M,P,CONST:	תא	I-NP	cell-C0007634
+הגידול	DEF:NOUN-M,S,ABS:	גידול	I-NP	tumor-C0027651
+ואין	CONJ:NEGATION:	אין	O	O
+באפשרותינו	:VERB-M,P,A,BEINONI:	באפשרותינו	O	O
+להסביר	:VERB-TOINFINITIVE:	הסביר	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+את	:AT_PREP:	את	B-NP	O
+משמעותם	:NOUN-F,S,ABS:POSSESIVE-M,P,3	משמעות	I-NP	significance-C0237881
+.	:PUNCUATION:	.	O	O
+
+במקרים	PREPOSITION:NOUN-M,P,ABS:	מקר	B-NP	cases-C0868928
+אלו	:PRONOUN-MF,P,3:	אלו	I-NP	O
+חשוב	:MODAL-M,S,A:	חשוב	O	O
+לדעת	:VERB-TOINFINITIVE:	ידע	O	O
+מהו	:INTERROGATIVE:PRONOMIAL-M,S,3	מה	B-NP	O
+היקף	:NOUN-M,S,CONST:	היקף	B-NP	scope-C1710028
+המחלה	DEF:NOUN-F,S,ABS:	מחלה	I-NP	disease-C0012634
+ומהו	CONJ:INTERROGATIVE:PRONOMIAL-M,S,3	מה	B-NP	O
+הטיפול	DEF:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+הנכון	DEF:ADJECTIVE-M,S,ABS:	נכון	I-NP	O
+לו	:CONJUNCTION:	לו	O	O
+מגיב	:VERB-M,S,A,BEINONI:	הגיב	O	O
+גידול	:NOUN-M,S,ABS:	גידול	B-NP	tumor-C0027651
+לא	:NEGATION:	לא	O	O
+שכיח	:ADJECTIVE-M,S,ABS:	שכיח	O	O
+זה	:PRONOUN-M,S,3:	זה	B-NP	O
+.	:PUNCUATION:	.	O	O
+
+מאחל	:VERB-M,S,A,BEINONI:	איחל	O	O
+לו	:CONJUNCTION:	לו	B-NP	O
+החלמה	:NOUN-F,S,ABS:	החלמה	B-NP	recovery-C0237820
+.	:PUNCUATION:	.	O	O
+
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

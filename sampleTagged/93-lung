@@ -1,0 +1,170 @@
+ינאי	:PROPERNAME:	ינאי	B-NP	O
+שלום	:NOUN-M,S,ABS:	שלום	O	O
+,	:PUNCUATION:	,	O	O
+
+חזה	:NOUN-M,S,CONST:	חזה	B-NP	chest-C0817096
+סנדלרים	:NOUN-M,P,ABS:	סנדלר	I-NP	O
+(	:PUNCUATION:	(	I-NP	O
+פקטוס	:NOUN-M,P,ABS:	פקטוסים	I-NP	O
+אקסקווטום	:ADJECTIVE-M,P,ABS:	אקסקווטום	I-NP	O
+)	:PUNCUATION:	)	O	O
+הינו	:COPULA-M,S,3,BEINONI,POSITIVE:	הוא	O	O
+פגם התפתחותי	:TERM:	פגם התפתחותי	O	developmental defect-C0000768
+במבנה	PREPOSITION+DEF:NOUN-M,S,ABS:	מבנה	B-NP	O
+השלדי	:VERB-F,S,2,PAST:	השלדי	O	O
+של	:SHEL_PREP:	של	O	O
+בית החזה	:TERM:	בית החזה	O	thorax-C0817096
+.	:PUNCUATION:	.	O	O
+
+קיימות	:NOUN-F,S,CONST:	קיימות	B-NP	O
+דרגות	:NOUN-F,P,ABS:	דרגה	I-NP	rank-C0699794
+חומרה	:NOUN-F,S,ABS:	חומרה	I-NP	O
+שונות	:ADJECTIVE-F,P,ABS:	שונה	I-NP	O
+,	:PUNCUATION:	,	O	O
+ובהתאם	CONJ:ADVERB:	בהתאם	O	O
+גם	:CONJUNCTION:	גם	O	O
+הסימפטומים	DEF:NOUN-M,P,ABS:	סימפטום	B-NP	symptom-C1457887
+.	:PUNCUATION:	.	O	O
+
+בחלק	PREPOSITION:NOUN-M,S,ABS:	חלק	B-NP	part-C0449719
+מהמקרים	PREPOSITION+DEF:NOUN-M,P,ABS:	מקר	I-NP	cases-C0868928
+מדובר	:VERB-M,S,A,BEINONI:	דובר	O	O
+בפגם	PREPOSITION:NOUN-M,S,ABS:	פגם	B-NP	Defect-C1457869
+אסטטי	:PROPERNAME:	אסטטי	I-NP	O
+בלבד	:ADVERB:	בלבד	I-NP	O
+ובחלק	PREPOSITION+CONJ:NOUN-M,S,ABS:	ב	I-NP	O
+מהמיקרים	PREPOSITION+DEF:PARTICIPLE-M,P,A,ABS:	ייקר	I-NP	O
+קיימות	:NOUN-F,S,CONST:	קיימות	I-NP	O
+תלונות	:NOUN-F,P,ABS:	תלונה	I-NP	complaint-C0277786
+הקשורות	DEF:PARTICIPLE-F,P,A,ABS:	קשר	O	connection-C0449379
+למערכת	PREPOSITION:NOUN-F,S,CONST:	מערכה	B-NP	Array-C1510941
+הנשימה	DEF:NOUN-F,S,ABS:	נשימה	I-NP	respiration-C0035203
+או	:CONJUNCTION:	או	O	O
+הלב	DEF:NOUN-M,S,ABS:	לב	B-NP	heart-C0018787
+.	:PUNCUATION:	.	O	O
+
+טיפול	:NOUN-M,S,ABS:	טיפול	B-NP	Therapeutic procedure-C0087111
+בחזה	PREPOSITION:NOUN-M,S,CONST:	חזה	B-NP	chest-C0817096
+סנדלרים	:NOUN-M,P,ABS:	סנדלר	I-NP	O
+יכול	:MODAL-M,S,A,BEINONI:	יכול	O	O
+להעשות	:VERB-TOINFINITIVE:	נעשה	O	O
+בגילים	PREPOSITION:NOUN-M,P,ABS:	גיל	B-NP	O
+שונים	:ADJECTIVE-M,P,ABS:	שונה	I-NP	O
+-	:PUNCUATION:	-	O	O
+תלוי	:ADVERB:	תלוי	O	O
+בסוג	PREPOSITION:NOUN-M,S,CONST:	סוג	B-NP	kind-C0332307
+התיקון	DEF:NOUN-M,S,ABS:	תיקון	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+בשנים	PREPOSITION+DEF:NOUN-F,P,ABS:	שנה	B-NP	year-C0439234
+האחרונות	DEF:ADJECTIVE-F,P,ABS:	אחרון	I-NP	O
+נפוץ	:VERB-M,S,3,PAST:	נפוץ	O	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+לתיקון	PREPOSITION:NOUN-M,S,CONST:	תיקון	B-NP	O
+הפגם	DEF:NOUN-M,S,ABS:	פגם	I-NP	Defect-C1457869
+בדרך	PREPOSITION:NOUN-F,S,ABS:	דרך	O	Through-C0332273-ambigous
+פחות	:ADVERB:	פחות	O	O
+פולשנית	:ADJECTIVE-F,S,ABS:	פולשנית	O	O
+.	:PUNCUATION:	.	O	O
+
+מדובר	:ADJECTIVE-M,S,CONST:	מדובר	B-NP	O
+בבר	PREPOSITION:PROPERNAME:	בר	B-NP	O
+ממתכת	PREPOSITION:NOUN-F,S,ABS:	מתכת	O	O
+המושחל	DEF:PARTICIPLE-M,S,A,ABS:	הושחל	O	O
+מתחת	:PREPOSITION:	מתחת	O	O
+לעצם	PREPOSITION+DEF:NOUN-F,S,ABS:	עצם	B-NP	bone-C0262950
+השקועה	DEF:ADJECTIVE-F,S,ABS:	שקוע	I-NP	O
+,	:PUNCUATION:	,	O	O
+הרמתה	:NOUN-F,S,ABS:POSSESIVE-F,S,3	הרמה	O	O
+על	:PREPOSITION:	על	O	O
+ידי	:NOUN-F,P,CONST:	יד	B-NP	hand-C0018563
+המוט	DEF:NOUN-M,S,ABS:	מוט	I-NP	O
+מתכת	:NOUN-F,S,ABS:	מתכת	B-NP	O
+,	:PUNCUATION:	,	O	O
+וקיבוע	CONJ:NOUN-M,S,CONST:	קיבוע	B-NP	fixation-C0185023
+המוט	DEF:NOUN-M,S,ABS:	מוט	I-NP	O
+לתקופה	PREPOSITION:NOUN-F,S,ABS:	תקופה	B-NP	Time periods-C0439582
+של	:SHEL_PREP:	של	I-NP	O
+שלוש	:NUMERAL-F,S,ABS:	CARD3	I-NP	O
+שנים	:NOUN-F,P,ABS:	שנה	I-NP	year-C0439234
+,	:PUNCUATION:	,	O	O
+ולאחר	CONJ:CONJUNCTION:	לאחר	O	O
+מכן	:VERB-M,S,2,IMPERATIVE:	מיכן	O	O
+הוצאתו	:NOUN-F,S,ABS:POSSESIVE-M,S,3	הוצאה	B-NP	Expenditures-C0015316
+.	:PUNCUATION:	.	O	O
+
+ניתוח	:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+זה	:PRONOUN-M,S,3:	זה	I-NP	O
+אידאלי	:ADJECTIVE-M,S,ABS:	אידאלי	O	O
+לביצוע	PREPOSITION:NOUN-M,S,CONST:	ביצוע	O	O
+בגילים	PREPOSITION+DEF:NOUN-M,P,ABS:	גיל	B-NP	O
+14	:NUMERAL:	###NUMBER###	I-NP	O
+-	:PUNCUATION:	-	I-NP	O
+16	:NUMERAL:	###NUMBER###	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+קיים	:VERB-M,S,3,PAST:	קיים	O	O
+גם	:CONJUNCTION:	גם	B-NP	O
+ניתוח	:NOUN-M,S,ABS:	ניתוח	I-NP	surgery-C0038894
+פתוח	:ADJECTIVE-M,S,ABS:	פתוח	I-NP	O
+,	:PUNCUATION:	,	I-NP	O
+גדול	:ADJECTIVE-M,S,ABS:	גדול	I-NP	O
+יותר	:ADVERB:	יותר	I-NP	O
+בהיקפו	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-M,S,3	היקף	B-NP	scope-C1710028
+,	:PUNCUATION:	,	O	O
+אותו	:AT_PREP:PRONOMIAL-M,S,3	את	B-NP	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לבצע	:VERB-TOINFINITIVE:	ביצע	O	O
+בכל	PREPOSITION:QUANTIFIER-CONST:	כול	B-NP	O
+גיל	:NOUN-M,S,ABS:	גיל	I-NP	O
+אבל	:CONJUNCTION:	אבל	O	O
+אולי	:ADVERB:	אולי	O	O
+עדיף	:ADJECTIVE-M,S,ABS:	עדיף	O	O
+בסוף	PREPOSITION:NOUN-M,S,CONST:	סוף	B-NP	O
+תהליך	:NOUN-M,S,CONST:	תהליך	I-NP	process-C1184743
+הגדילה	DEF:NOUN-F,S,ABS:	גדילה	I-NP	O
+.	:PUNCUATION:	.	O	O
+
+אם	:CONJUNCTION:	אם	O	O
+ברצונך	PREPOSITION:NOUN-M,S,ABS:POSSESIVE-F,S,2	רצון	B-NP	desire-C0871633
+לעבור	:VERB-TOINFINITIVE:	עבר	O	past-C1444637
+את	:AT_PREP:	את	B-NP	O
+אחד	:NUMERAL-M,S,ABS:	CARD1	I-NP	O
+הניתוחים	DEF:NOUN-M,P,ABS:	ניתוח	I-NP	surgery-C0038894
+,	:PUNCUATION:	,	O	O
+מציע	:VERB-M,S,A,BEINONI:	הציע	O	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+לפנות	:VERB-TOINFINITIVE:	פנה	O	O
+לאחד	PREPOSITION:NUMERAL-M,S,ABS:	CARD1	B-NP	O
+ממנתחי	PREPOSITION:NOUN-M,P,CONST:	מנתח	I-NP	surgeon-C0582175
+החזה	DEF:NOUN-M,S,ABS:	חזה	I-NP	chest-C0817096
+בארץ	PREPOSITION+DEF:NOUN-F,S,ABS:	ארץ	B-NP	Country-C0454664-ambigous
+.	:PUNCUATION:	.	O	O
+
+יש	:EXISTENTIAL-POSITIVE:	יש	O	O
+לבדוק	:VERB-TOINFINITIVE:	בדק	O	O
+אותך	:AT_PREP:PRONOMIAL-M,S,2	את	B-NP	O
+על	:PREPOSITION:	על	O	O
+מנת	:NOUN-F,S,CONST:	מנה	B-NP	dose-C0178602
+לקבוע	:VERB-TOINFINITIVE:	קבע	O	O
+אם	:CONJUNCTION:	אם	O	O
+קיימת	:ADJECTIVE-F,S,ABS:	קיים	O	O
+הוראה	:NOUN-F,S,ABS:	הוראה	B-NP	Educational process of instructing-C0039401-ambigous
+לניתוח	PREPOSITION+DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+,	:PUNCUATION:	,	O	O
+ואם	CONJ:CONJUNCTION:	אם	O	O
+כן	:CONJUNCTION:	כן	O	O
+לראות	:VERB-TOINFINITIVE:	ראה	O	O
+מהו	:INTERROGATIVE:PRONOMIAL-M,S,3	מה	B-NP	O
+הניתוח	DEF:NOUN-M,S,ABS:	ניתוח	B-NP	surgery-C0038894
+המתאים	DEF:ADJECTIVE-M,S,ABS:	מתאים	I-NP	O
+לך	:VERB-M,S,2,IMPERATIVE:	הלך	O	O
+.	:PUNCUATION:	.	O	O
+
+בברכה	PREPOSITION:PROPERNAME:	ברכה	B-NP	O
+,	:PUNCUATION:	,	O	O
+דר	:PROPERNAME:	דר	B-NP	O
+'	:PUNCUATION:	'	I-NP	O
+עוזי	:PROPERNAME:	עוזי	I-NP	O
+יזהר	:PROPERNAME:	יזהר	O	O
+

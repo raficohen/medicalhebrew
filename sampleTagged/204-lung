@@ -1,0 +1,25 @@
+גלית	:ADJECTIVE-F,S,ABS:	גלי	O	O
+מה	:INTERROGATIVE:	מה	B-NP	O
+בדיוק	:ADVERB:	בדיוק	O	O
+קורה	:VERB-M,S,A,BEINONI:	קרה	O	O
+לא	:NEGATION:	לא	O	O
+ברור	:ADJECTIVE-M,S,ABS:	ברור	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+נראה	:VERB-M,S,3,PAST:	נראה	O	O
+לי	:PREPOSITION:PRONOMIAL-MF,S,1	ל	B-NP	O
+שכדאי	REL-SUBCONJ:MODAL:	כדאי	O	O
+ללכת	:VERB-TOINFINITIVE:	הלך	O	O
+לרופא	PREPOSITION:NOUN-M,S,CONST:	רופא	B-NP	doctor-C0031831
+ראותך	:NOUN-F,S,ABS:POSSESIVE-F,S,2	ראות	I-NP	O
+טוב	:ADVERB:	טוב	O	good-C0205170
+כן	:CONJUNCTION:	כן	O	O
+ניתן	:MODAL-M,S,A:	ניתן	O	O
+לשקול	:VERB-TOINFINITIVE:	שקל	O	O
+סי	:PROPERNAME:	סי	B-NP	O
+טי	:PROPERNAME:	טי	I-NP	O
+לאחר	:CONJUNCTION:	לאחר	O	O
+שיבדוק	REL-SUBCONJ:VERB-M,S,3,FUTURE:	בדק	O	O
+את	:AT_PREP:	את	B-NP	O
+הממצאים	DEF:NOUN-M,P,ABS:	ממצא	I-NP	Finding-C0243095
+חובב	:NOUN-M,S,ABS:	חובב	B-NP	O
+
